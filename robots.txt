@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://seslitespih.github.io/sportsontv/sitemap.xml
