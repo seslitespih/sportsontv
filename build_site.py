@@ -205,6 +205,12 @@ L = {
    foot="مواعيد المباريات وقنوات التلفاز، بلغتك وبتوقيتك."),
 }
 
+# Only injected on the root (English) page: send visitors to their own language
+# unless they've explicitly chosen one (stored on language-select change).
+ROOT_REDIRECT = ("<script>(function(){try{var s=['tr','de','es','fr','it','pt','ar'],"
+  "p=localStorage.getItem('sot_lang'),l=(p||(navigator.language||'en').slice(0,2)).toLowerCase();"
+  "if(s.indexOf(l)>=0)location.replace(l+'/');}catch(e){}})();</script>")
+
 def hreflangs(current):
     out = []
     for lang in SEG:
@@ -216,7 +222,7 @@ def lang_options(current):
     opts = []
     for lang in SEG:
         sel = " selected" if lang == current else ""
-        opts.append('<option value="%s"%s>%s</option>' % (url_for(lang), sel, LANG_NATIVE[lang]))
+        opts.append('<option value="%s" data-lang="%s"%s>%s</option>' % (url_for(lang), lang, sel, LANG_NATIVE[lang]))
     return "".join(opts)
 
 def lang_links(current):
@@ -246,6 +252,7 @@ def page(lang):
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  {root_redirect}
   <title>{title}</title>
   <meta name="description" content="{desc}">
   <link rel="canonical" href="{canon}">
@@ -271,7 +278,7 @@ def page(lang):
     <span class="spacer"></span>
     <div class="selects">
       <select id="countrySel" class="ctl" aria-label="Country"></select>
-      <select class="ctl" aria-label="Language" onchange="location.href=this.value">{langopts}</select>
+      <select class="ctl" aria-label="Language" onchange="sotSetLang(this)">{langopts}</select>
       <button class="iconbtn" id="themeBtn" aria-label="Theme">{theme_svg}</button>
     </div>
   </div></header>
@@ -323,6 +330,7 @@ def page(lang):
         faqT=d["faqT"], faqs=faqs, langlinks=lang_links(lang), foot=d["foot"],
         apple_svg=APPLE_SVG, google_svg=GOOGLE_SVG, favicon=FAVICON,
         logo_svg=LOGO_SVG, theme_svg=THEME_SVG,
+        root_redirect=(ROOT_REDIRECT if lang == "en" else ""),
         site_ld=json.dumps(site_ld, ensure_ascii=False), faq_ld=json.dumps(faq_ld, ensure_ascii=False))
 
 # ── write pages ──

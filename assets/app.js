@@ -24,6 +24,15 @@
   };
   var t = RT[LANG] || RT.en;
 
+  // Remember an explicit language choice so the root page stops auto-redirecting.
+  window.sotSetLang = function (sel) {
+    try {
+      var opt = sel.options[sel.selectedIndex];
+      localStorage.setItem("sot_lang", opt.getAttribute("data-lang") || "en");
+    } catch (e) {}
+    location.href = sel.value;
+  };
+
   var IC = {
     tv:'<svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="2.5" y="7" width="19" height="13" rx="2.2"/><path d="M8 3.5l4 3.5 4-3.5"/></svg>',
     clock:'<svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="8.5"/><path d="M12 7.5V12l3.2 1.9"/></svg>',

@@ -3,6 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  
   <title>Foot à la TV aujourd'hui — Quelle chaîne et heure</title>
   <meta name="description" content="Trouvez sur quelle chaîne passe chaque match et à quelle heure dans votre fuseau horaire. Programme TV foot, basket et volley en direct, mis à jour chaque jour.">
   <link rel="canonical" href="https://seslitespih.github.io/sportsontv/fr/">
@@ -36,7 +37,7 @@
     <span class="spacer"></span>
     <div class="selects">
       <select id="countrySel" class="ctl" aria-label="Country"></select>
-      <select class="ctl" aria-label="Language" onchange="location.href=this.value"><option value="https://seslitespih.github.io/sportsontv/">English</option><option value="https://seslitespih.github.io/sportsontv/tr/">Türkçe</option><option value="https://seslitespih.github.io/sportsontv/de/">Deutsch</option><option value="https://seslitespih.github.io/sportsontv/es/">Español</option><option value="https://seslitespih.github.io/sportsontv/fr/" selected>Français</option><option value="https://seslitespih.github.io/sportsontv/it/">Italiano</option><option value="https://seslitespih.github.io/sportsontv/pt/">Português</option><option value="https://seslitespih.github.io/sportsontv/ar/">العربية</option></select>
+      <select class="ctl" aria-label="Language" onchange="sotSetLang(this)"><option value="https://seslitespih.github.io/sportsontv/" data-lang="en">English</option><option value="https://seslitespih.github.io/sportsontv/tr/" data-lang="tr">Türkçe</option><option value="https://seslitespih.github.io/sportsontv/de/" data-lang="de">Deutsch</option><option value="https://seslitespih.github.io/sportsontv/es/" data-lang="es">Español</option><option value="https://seslitespih.github.io/sportsontv/fr/" data-lang="fr" selected>Français</option><option value="https://seslitespih.github.io/sportsontv/it/" data-lang="it">Italiano</option><option value="https://seslitespih.github.io/sportsontv/pt/" data-lang="pt">Português</option><option value="https://seslitespih.github.io/sportsontv/ar/" data-lang="ar">العربية</option></select>
       <button class="iconbtn" id="themeBtn" aria-label="Theme"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M20 14.5A8 8 0 1 1 9.5 4 6.3 6.3 0 0 0 20 14.5z"/></svg></button>
     </div>
   </div></header>
