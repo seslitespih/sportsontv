@@ -1,39 +1,42 @@
-/* Sports on TV — runtime. Reads the live daily fixtures the app itself uses,
-   converts each kickoff to the visitor's own time zone, and shows the channel
-   for the visitor's country. Language comes from <html lang>. */
+/* Sports on TV — runtime. Reads the same live daily fixtures the mobile app
+   uses, converts each kickoff to the visitor's own time zone, shows the channel
+   for their country, and lets them set a real calendar reminder (no backend). */
 (function () {
   "use strict";
   var DATA_URL = "https://raw.githubusercontent.com/seslitespih/mac-hatirlatici/main/assets/matches-daily.json";
   var LANG = (document.documentElement.lang || "en").slice(0, 2);
 
-  // Broadcast countries the app curates (ISO 3166-1 alpha-2).
   var COUNTRIES = ["TR","GB","US","DE","ES","FR","IT","PT","NL","BE","CH","AT","BR",
     "AR","MX","CO","CL","PE","CA","SA","QA","AE","EG","MA","DZ","TN","JP","KR","AU",
     "NG","SN","ZA","GH","IN","ID"];
   var LANG_COUNTRY = { tr:"TR", en:"GB", de:"DE", es:"ES", fr:"FR", it:"IT", pt:"PT", ar:"SA" };
+  var SPORT_COLOR = { football:"#12a15f", basketball:"#e08a1e", volleyball:"#2f6bd6", motorsport:"#d23b4e" };
 
   var RT = {
-    en:{live:"Live",none:"No broadcast listed",loading:"Loading today's matches…",err:"Couldn't load matches. Please try again.",empty:"No matches scheduled today. Check back soon.",all:"All",football:"Football",basketball:"Basketball",volleyball:"Volleyball",motorsport:"Motorsport",tz:"Your time zone",country:"Channels for",vs:"vs",retry:"Retry",updated:"Updated"},
-    tr:{live:"Canlı",none:"Yayın bilgisi yok",loading:"Bugünün maçları yükleniyor…",err:"Maçlar yüklenemedi. Lütfen tekrar deneyin.",empty:"Bugün planlanmış maç yok. Yakında tekrar bak.",all:"Tümü",football:"Futbol",basketball:"Basketbol",volleyball:"Voleybol",motorsport:"Motor Sporları",tz:"Saat diliminiz",country:"Kanallar",vs:"-",retry:"Tekrar dene",updated:"Güncellendi"},
-    de:{live:"Live",none:"Kein Sender gelistet",loading:"Heutige Spiele werden geladen…",err:"Spiele konnten nicht geladen werden. Bitte erneut versuchen.",empty:"Heute keine Spiele geplant. Schau bald wieder vorbei.",all:"Alle",football:"Fußball",basketball:"Basketball",volleyball:"Volleyball",motorsport:"Motorsport",tz:"Deine Zeitzone",country:"Sender für",vs:"–",retry:"Erneut",updated:"Aktualisiert"},
-    es:{live:"En vivo",none:"Sin emisión confirmada",loading:"Cargando los partidos de hoy…",err:"No se pudieron cargar los partidos. Inténtalo de nuevo.",empty:"No hay partidos hoy. Vuelve pronto.",all:"Todos",football:"Fútbol",basketball:"Baloncesto",volleyball:"Voleibol",motorsport:"Motor",tz:"Tu zona horaria",country:"Canales para",vs:"vs",retry:"Reintentar",updated:"Actualizado"},
-    fr:{live:"En direct",none:"Aucune diffusion indiquée",loading:"Chargement des matchs du jour…",err:"Impossible de charger les matchs. Réessayez.",empty:"Aucun match aujourd'hui. Revenez bientôt.",all:"Tous",football:"Football",basketball:"Basket",volleyball:"Volley",motorsport:"Sport auto",tz:"Votre fuseau horaire",country:"Chaînes pour",vs:"vs",retry:"Réessayer",updated:"Mis à jour"},
-    it:{live:"Diretta",none:"Nessuna diretta indicata",loading:"Caricamento delle partite di oggi…",err:"Impossibile caricare le partite. Riprova.",empty:"Nessuna partita oggi. Torna presto.",all:"Tutti",football:"Calcio",basketball:"Basket",volleyball:"Pallavolo",motorsport:"Motori",tz:"Il tuo fuso orario",country:"Canali per",vs:"vs",retry:"Riprova",updated:"Aggiornato"},
-    pt:{live:"Ao vivo",none:"Sem transmissão indicada",loading:"Carregando os jogos de hoje…",err:"Não foi possível carregar os jogos. Tente novamente.",empty:"Nenhum jogo hoje. Volte em breve.",all:"Todos",football:"Futebol",basketball:"Basquete",volleyball:"Vôlei",motorsport:"Automobilismo",tz:"Seu fuso horário",country:"Canais para",vs:"vs",retry:"Tentar de novo",updated:"Atualizado"},
-    ar:{live:"مباشر",none:"لا يوجد بث مؤكد",loading:"جارٍ تحميل مباريات اليوم…",err:"تعذّر تحميل المباريات. حاول مرة أخرى.",empty:"لا توجد مباريات اليوم. عد قريبًا.",all:"الكل",football:"كرة القدم",basketball:"كرة السلة",volleyball:"الكرة الطائرة",motorsport:"رياضة السيارات",tz:"منطقتك الزمنية",country:"القنوات في",vs:"-",retry:"أعد المحاولة",updated:"تم التحديث"}
+    en:{live:"Live",none:"No broadcast listed",loading:"Loading today's matches…",err:"Couldn't load matches. Please try again.",empty:"No matches scheduled today. Check back soon.",all:"All",football:"Football",basketball:"Basketball",volleyball:"Volleyball",motorsport:"Motorsport",tz:"Your time zone",country:"Channels for",vs:"vs",retry:"Retry",updated:"Updated",remind:"Remind me",gcal:"Google Calendar",ics:"Apple / Outlook (.ics)"},
+    tr:{live:"Canlı",none:"Yayın bilgisi yok",loading:"Bugünün maçları yükleniyor…",err:"Maçlar yüklenemedi. Lütfen tekrar deneyin.",empty:"Bugün planlanmış maç yok. Yakında tekrar bak.",all:"Tümü",football:"Futbol",basketball:"Basketbol",volleyball:"Voleybol",motorsport:"Motor Sporları",tz:"Saat diliminiz",country:"Kanallar",vs:"-",retry:"Tekrar dene",updated:"Güncellendi",remind:"Hatırlat",gcal:"Google Takvim",ics:"Apple / Outlook (.ics)"},
+    de:{live:"Live",none:"Kein Sender gelistet",loading:"Heutige Spiele werden geladen…",err:"Spiele konnten nicht geladen werden. Bitte erneut versuchen.",empty:"Heute keine Spiele geplant. Schau bald wieder vorbei.",all:"Alle",football:"Fußball",basketball:"Basketball",volleyball:"Volleyball",motorsport:"Motorsport",tz:"Deine Zeitzone",country:"Sender für",vs:"–",retry:"Erneut",updated:"Aktualisiert",remind:"Erinnern",gcal:"Google Kalender",ics:"Apple / Outlook (.ics)"},
+    es:{live:"En vivo",none:"Sin emisión confirmada",loading:"Cargando los partidos de hoy…",err:"No se pudieron cargar los partidos. Inténtalo de nuevo.",empty:"No hay partidos hoy. Vuelve pronto.",all:"Todos",football:"Fútbol",basketball:"Baloncesto",volleyball:"Voleibol",motorsport:"Motor",tz:"Tu zona horaria",country:"Canales para",vs:"vs",retry:"Reintentar",updated:"Actualizado",remind:"Recordar",gcal:"Google Calendar",ics:"Apple / Outlook (.ics)"},
+    fr:{live:"En direct",none:"Aucune diffusion indiquée",loading:"Chargement des matchs du jour…",err:"Impossible de charger les matchs. Réessayez.",empty:"Aucun match aujourd'hui. Revenez bientôt.",all:"Tous",football:"Football",basketball:"Basket",volleyball:"Volley",motorsport:"Sport auto",tz:"Votre fuseau horaire",country:"Chaînes pour",vs:"vs",retry:"Réessayer",updated:"Mis à jour",remind:"Me rappeler",gcal:"Google Agenda",ics:"Apple / Outlook (.ics)"},
+    it:{live:"Diretta",none:"Nessuna diretta indicata",loading:"Caricamento delle partite di oggi…",err:"Impossibile caricare le partite. Riprova.",empty:"Nessuna partita oggi. Torna presto.",all:"Tutti",football:"Calcio",basketball:"Basket",volleyball:"Pallavolo",motorsport:"Motori",tz:"Il tuo fuso orario",country:"Canali per",vs:"vs",retry:"Riprova",updated:"Aggiornato",remind:"Ricordami",gcal:"Google Calendar",ics:"Apple / Outlook (.ics)"},
+    pt:{live:"Ao vivo",none:"Sem transmissão indicada",loading:"Carregando os jogos de hoje…",err:"Não foi possível carregar os jogos. Tente novamente.",empty:"Nenhum jogo hoje. Volte em breve.",all:"Todos",football:"Futebol",basketball:"Basquete",volleyball:"Vôlei",motorsport:"Automobilismo",tz:"Seu fuso horário",country:"Canais para",vs:"vs",retry:"Tentar de novo",updated:"Atualizado",remind:"Lembrar",gcal:"Google Agenda",ics:"Apple / Outlook (.ics)"},
+    ar:{live:"مباشر",none:"لا يوجد بث مؤكد",loading:"جارٍ تحميل مباريات اليوم…",err:"تعذّر تحميل المباريات. حاول مرة أخرى.",empty:"لا توجد مباريات اليوم. عد قريبًا.",all:"الكل",football:"كرة القدم",basketball:"كرة السلة",volleyball:"الكرة الطائرة",motorsport:"رياضة السيارات",tz:"منطقتك الزمنية",country:"القنوات في",vs:"-",retry:"أعد المحاولة",updated:"تم التحديث",remind:"ذكّرني",gcal:"تقويم Google",ics:"Apple / Outlook (.ics)"}
   };
   var t = RT[LANG] || RT.en;
-  var SPORT_ICON = { football:"⚽", basketball:"🏀", volleyball:"🏐", motorsport:"🏎️" };
+
+  var IC = {
+    tv:'<svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="2.5" y="7" width="19" height="13" rx="2.2"/><path d="M8 3.5l4 3.5 4-3.5"/></svg>',
+    clock:'<svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="8.5"/><path d="M12 7.5V12l3.2 1.9"/></svg>',
+    bell:'<svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9.5a6 6 0 0 1 12 0c0 4.5 1.8 5.5 2 6H4c.2-.5 2-1.5 2-6z"/><path d="M10.2 20a2 2 0 0 0 3.6 0"/></svg>'
+  };
 
   function flag(cc){ return cc.replace(/./g, function(c){ return String.fromCodePoint(127397 + c.charCodeAt(0)); }); }
-  function regionName(cc){
-    try { return new Intl.DisplayNames([LANG], { type:"region" }).of(cc) || cc; } catch(e){ return cc; }
-  }
+  function regionName(cc){ try { return new Intl.DisplayNames([LANG], { type:"region" }).of(cc) || cc; } catch(e){ return cc; } }
   function $(s, r){ return (r||document).querySelector(s); }
+  function esc(s){ return String(s==null?"":s).replace(/[&<>"]/g, function(c){ return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]; }); }
 
-  var state = { matches:[], filter:"all", country:null, tz:null };
+  var state = { matches:[], view:[], filter:"all", country:null, tz:null };
 
-  // ── country selection (persist) ──────────────────────────
   function detectCountry(){
     var saved = localStorage.getItem("sot_country");
     if (saved && COUNTRIES.indexOf(saved) >= 0) return saved;
@@ -54,27 +57,26 @@
     }).join("");
     sel.addEventListener("change", function(){
       state.country = sel.value; localStorage.setItem("sot_country", sel.value);
-      var lbl = $("#countryLbl"); if (lbl) lbl.textContent = t.country + " " + regionName(state.country);
-      render();
+      updateCountryLabel(); render();
     });
+    updateCountryLabel();
+  }
+  function updateCountryLabel(){
     var lbl = $("#countryLbl"); if (lbl) lbl.textContent = t.country + " " + regionName(state.country);
   }
 
-  // ── data ─────────────────────────────────────────────────
   function fetchData(){
     var url = DATA_URL + "?t=" + Math.floor(Date.now() / 300000);
     return fetch(url, { cache:"no-store" }).then(function(r){
       if (!r.ok) throw new Error("http " + r.status); return r.json();
     });
   }
-
   function pick(names, fallback){
     if (names && typeof names === "object"){ if (names[LANG]) return names[LANG]; if (names.en) return names.en; }
     return fallback;
   }
-
   function statusOf(m){
-    var k = new Date(m.kickoffUtc).getTime(); var now = Date.now();
+    var k = new Date(m.kickoffUtc).getTime(), now = Date.now();
     if (m.status === "finished") return "finished";
     if (m.status === "live") return "live";
     if (now >= k && now < k + 130*60000) return "live";
@@ -82,92 +84,128 @@
     return "scheduled";
   }
 
-  // ── render ───────────────────────────────────────────────
   var fmtTime = new Intl.DateTimeFormat(LANG, { hour:"2-digit", minute:"2-digit" });
   var fmtDay  = new Intl.DateTimeFormat(LANG, { weekday:"short" });
 
-  function matchCard(m){
-    var d = new Date(m.kickoffUtc);
-    var teams;
-    var home = pick(m.homeNames, m.home), away = pick(m.awayNames, m.away);
-    teams = '<span>'+esc(home)+'</span><span class="vs">'+t.vs+'</span><span>'+esc(away)+'</span>';
+  function names(m){ return { home:pick(m.homeNames, m.home), away:pick(m.awayNames, m.away) }; }
+
+  function matchCard(m, idx){
+    var d = new Date(m.kickoffUtc), n = names(m);
     var comp = esc(pick(m.competition, m.competitionId || ""));
-    var icon = SPORT_ICON[m.sport] || "🏆";
+    var color = SPORT_COLOR[m.sport] || "#8892a6";
     var st = statusOf(m);
     var chans = (m.broadcasts && m.broadcasts[state.country]) || null;
-    var right = st === "live"
-      ? '<span class="live"><span class="dot"></span>'+t.live+'</span>'
-      : '<div class="time"><div class="hm">'+fmtTime.format(d)+'</div><div class="day">'+fmtDay.format(d)+'</div></div>';
-    // time also on the left column always:
     var left = '<div class="time"><div class="hm">'+fmtTime.format(d)+'</div><div class="day">'+fmtDay.format(d)+'</div></div>';
+    var teams = '<span>'+esc(n.home)+'</span><span class="vs">'+t.vs+'</span><span>'+esc(n.away)+'</span>';
     var chanHtml = chans && chans.length
-      ? '<span class="chan"><span class="tv">📺</span>'+esc(chans.join(" · "))+'</span>'
+      ? '<span class="chan"><span class="cic">'+IC.tv+'</span>'+esc(chans.join(" · "))+'</span>'
       : '<span class="chan none">'+t.none+'</span>';
     var liveTag = st === "live" ? '<span class="live"><span class="dot"></span>'+t.live+'</span>' : '';
-    return '<article class="card">'
-      + left
+    var remind = st === "finished" ? '' :
+      '<div class="remind"><button class="rbtn" data-idx="'+idx+'" type="button">'+IC.bell+'<span>'+t.remind+'</span></button>'
+      + '<div class="rmenu" hidden><a class="ritem gcal" target="_blank" rel="noopener">'+t.gcal+'</a>'
+      + '<a class="ritem ics">'+t.ics+'</a></div></div>';
+    return '<article class="card">'+left
       + '<div class="mid"><div class="teams">'+teams+'</div>'
-      + '<div class="comp"><span class="sporticon">'+icon+'</span>'+comp+'</div></div>'
-      + '<div class="right">'+liveTag+chanHtml+'</div>'
-      + '</article>';
+      + '<div class="comp"><span class="sdot" style="background:'+color+'"></span>'+comp+'</div></div>'
+      + '<div class="right">'+liveTag+chanHtml+remind+'</div></article>';
   }
 
-  function esc(s){ return String(s==null?"":s).replace(/[&<>"]/g, function(c){ return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]; }); }
+  // ── calendar reminder (no backend) ───────────────────────
+  function icsStamp(d){ return new Date(d).toISOString().replace(/[-:]/g,"").replace(/\.\d{3}/,""); }
+  function icsEsc(s){ return String(s).replace(/([,;\\])/g,"\\$1").replace(/\n/g," "); }
+  function eventOf(m){
+    var n = names(m);
+    var title = n.home + " " + t.vs + " " + n.away;
+    var chans = (m.broadcasts && m.broadcasts[state.country]) || [];
+    var comp = pick(m.competition, m.competitionId || "");
+    var desc = comp + (chans.length ? " — " + chans.join(", ") : "") + " · Sports on TV";
+    var start = new Date(m.kickoffUtc), end = new Date(start.getTime() + 2*3600000);
+    return { title:title, desc:desc, start:start, end:end, uid:(m.id||title)+"@sportsontv" };
+  }
+  function icsBlobUrl(m){
+    var e = eventOf(m);
+    var body = ["BEGIN:VCALENDAR","VERSION:2.0","PRODID:-//Sports on TV//EN","CALSCALE:GREGORIAN",
+      "BEGIN:VEVENT","UID:"+e.uid,"DTSTAMP:"+icsStamp(new Date()),"DTSTART:"+icsStamp(e.start),
+      "DTEND:"+icsStamp(e.end),"SUMMARY:"+icsEsc(e.title),"DESCRIPTION:"+icsEsc(e.desc),
+      "BEGIN:VALARM","ACTION:DISPLAY","DESCRIPTION:"+icsEsc(e.title),"TRIGGER:-PT15M","END:VALARM",
+      "END:VEVENT","END:VCALENDAR"].join("\r\n");
+    return "data:text/calendar;charset=utf-8," + encodeURIComponent(body);
+  }
+  function gcalUrl(m){
+    var e = eventOf(m);
+    return "https://calendar.google.com/calendar/render?action=TEMPLATE"
+      + "&text=" + encodeURIComponent(e.title)
+      + "&dates=" + icsStamp(e.start) + "/" + icsStamp(e.end)
+      + "&details=" + encodeURIComponent(e.desc);
+  }
+
+  function wireReminders(){
+    var box = $("#matchlist");
+    box.querySelectorAll(".remind").forEach(function(wrap){
+      var btn = wrap.querySelector(".rbtn"), menu = wrap.querySelector(".rmenu");
+      var m = state.view[+btn.getAttribute("data-idx")];
+      wrap.querySelector(".gcal").href = gcalUrl(m);
+      var ics = wrap.querySelector(".ics");
+      ics.href = icsBlobUrl(m);
+      ics.setAttribute("download", (m.id||"match") + ".ics");
+      btn.addEventListener("click", function(ev){
+        ev.stopPropagation();
+        var open = !menu.hasAttribute("hidden");
+        closeMenus();
+        if (open) return;
+        menu.removeAttribute("hidden");
+      });
+    });
+  }
+  function closeMenus(){ document.querySelectorAll(".rmenu").forEach(function(mn){ mn.setAttribute("hidden",""); }); }
+  document.addEventListener("click", closeMenus);
 
   function render(){
     var box = $("#matchlist"); if (!box) return;
     var list = state.matches.slice();
     if (state.filter !== "all") list = list.filter(function(m){ return m.sport === state.filter; });
     list.sort(function(a,b){ return new Date(a.kickoffUtc)-new Date(b.kickoffUtc); });
-    if (!list.length){ box.innerHTML = '<div class="state"><div class="big">📅</div>'+t.empty+'</div>'; return; }
+    state.view = list;
+    if (!list.length){ box.innerHTML = '<div class="state">'+IC.clock+'<p>'+t.empty+'</p></div>'; return; }
     box.innerHTML = list.map(matchCard).join("");
+    wireReminders();
   }
 
   function buildFilters(){
     var wrap = $("#filters"); if (!wrap) return;
-    var sports = {}; state.matches.forEach(function(m){ sports[m.sport]=1; });
-    var order = ["football","basketball","volleyball","motorsport"];
-    var opts = [["all",t.all,"🏆"]];
-    order.forEach(function(s){ if (sports[s]) opts.push([s, t[s], SPORT_ICON[s]]); });
-    if (opts.length <= 2){ wrap.innerHTML=""; return; }
-    wrap.innerHTML = opts.map(function(o){
-      return '<button class="chip" data-f="'+o[0]+'" aria-pressed="'+(o[0]===state.filter)+'">'+o[2]+" "+esc(o[1])+"</button>";
+    var tabs = [["all",t.all],["football",t.football],["basketball",t.basketball],["volleyball",t.volleyball],["motorsport",t.motorsport]];
+    wrap.innerHTML = tabs.map(function(o){
+      return '<button class="tab" data-f="'+o[0]+'" aria-pressed="'+(o[0]===state.filter)+'">'+esc(o[1])+"</button>";
     }).join("");
-    wrap.querySelectorAll(".chip").forEach(function(b){
+    wrap.querySelectorAll(".tab").forEach(function(b){
       b.addEventListener("click", function(){
         state.filter = b.getAttribute("data-f");
-        wrap.querySelectorAll(".chip").forEach(function(x){ x.setAttribute("aria-pressed", x===b); });
+        wrap.querySelectorAll(".tab").forEach(function(x){ x.setAttribute("aria-pressed", x===b); });
         render();
       });
     });
   }
 
-  function injectJsonLd(payload){
+  function injectJsonLd(){
     try {
       var items = state.matches.slice(0, 30).map(function(m){
-        var home = pick(m.homeNames, m.home), away = pick(m.awayNames, m.away);
-        var o = {
-          "@type":"SportsEvent",
-          "name": home + " " + t.vs + " " + away,
-          "startDate": m.kickoffUtc,
-          "eventStatus":"https://schema.org/EventScheduled",
-          "eventAttendanceMode":"https://schema.org/OnlineEventAttendanceMode",
+        var n = names(m);
+        var o = { "@type":"SportsEvent", "name": n.home + " " + t.vs + " " + n.away,
+          "startDate": m.kickoffUtc, "eventStatus":"https://schema.org/EventScheduled",
           "sport": m.sport,
-          "competitor":[{"@type":"SportsTeam","name":home},{"@type":"SportsTeam","name":away}],
-          "location":{"@type":"VirtualLocation","url":location.href}
-        };
+          "competitor":[{"@type":"SportsTeam","name":n.home},{"@type":"SportsTeam","name":n.away}] };
         var chans = m.broadcasts && m.broadcasts[state.country];
-        if (chans && chans.length) o.broadcastOfEvent = undefined, o.publisher = chans.map(function(c){ return {"@type":"Organization","name":c}; });
+        if (chans && chans.length) o.publisher = chans.map(function(c){ return {"@type":"Organization","name":c}; });
         return o;
       });
-      var ld = { "@context":"https://schema.org", "@graph": items };
       var s = document.createElement("script"); s.type="application/ld+json"; s.id="ld-events";
-      s.textContent = JSON.stringify(ld); document.head.appendChild(s);
+      s.textContent = JSON.stringify({ "@context":"https://schema.org", "@graph": items });
+      document.head.appendChild(s);
     } catch(e){}
   }
-
   function showUpdated(payload){
-    var el = $("#updated"); if (!el || !payload.date) return;
+    var el = $("#updated"); if (!el || !(payload.generated_at || payload.date)) return;
     try {
       var d = new Date(payload.generated_at || payload.date);
       el.textContent = t.updated + ": " + new Intl.DateTimeFormat(LANG,{dateStyle:"medium"}).format(d);
@@ -177,22 +215,21 @@
   function boot(){
     state.country = detectCountry();
     state.tz = Intl.DateTimeFormat().resolvedOptions().timeZone || "";
-    var tzEl = $("#tzchip"); if (tzEl) tzEl.textContent = "🕒 " + (state.tz || t.tz);
+    var tzEl = $("#tzchip"); if (tzEl) tzEl.innerHTML = IC.clock + '<span>' + (state.tz || t.tz) + '</span>';
     buildCountrySelect();
+    buildFilters();
     var box = $("#matchlist");
-    if (box) box.innerHTML = '<div class="state"><div class="spinner"></div>'+t.loading+'</div>';
-
+    if (box) box.innerHTML = '<div class="state"><div class="spinner"></div><p>'+t.loading+'</p></div>';
     fetchData().then(function(payload){
       state.matches = Array.isArray(payload.matches) ? payload.matches : [];
-      buildFilters(); render(); showUpdated(payload); injectJsonLd(payload);
+      render(); showUpdated(payload); injectJsonLd();
     }).catch(function(){
-      if (box) box.innerHTML = '<div class="state"><div class="big">⚠️</div>'+t.err
-        +'<div style="margin-top:14px"><button class="chip" id="retry">'+t.retry+'</button></div></div>';
+      if (box) box.innerHTML = '<div class="state">'+IC.tv+'<p>'+t.err+'</p>'
+        +'<button class="tab" id="retry" style="margin-top:12px">'+t.retry+'</button></div>';
       var r = $("#retry"); if (r) r.addEventListener("click", boot);
     });
   }
 
-  // theme toggle (optional, remembers)
   function initTheme(){
     var btn = $("#themeBtn"); if (!btn) return;
     var saved = localStorage.getItem("sot_theme");

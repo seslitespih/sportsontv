@@ -12,6 +12,32 @@ APPLE = "https://apps.apple.com/app/id6779112504"
 GOOGLE = "https://play.google.com/store/apps/details?id=com.machatirlatici.app"
 BRAND = "Sports on TV"
 
+APPLE_SVG = ('<svg class="glyph" viewBox="0 0 384 512" width="20" height="24" fill="currentColor" aria-hidden="true">'
+  '<path d="M318.7 268.7c-.2-36.7 16.4-64.4 50-84.8-18.8-26.9-47.2-41.7-84.7-44.6-35.5-2.8-74.3 20.7-88.5 '
+  '20.7-15 0-49.4-19.7-76.4-19.7C63.3 141.2 4 184.8 4 273.5q0 39.3 14.4 81.2c12.8 36.7 59 126.7 107.2 '
+  '125.2 25.2-.6 43-17.9 75.8-17.9 31.8 0 48.3 17.9 76.4 17.9 48.6-.7 90.4-82.5 102.6-119.3-65.2-30.7-61.7-90-61.7-91.9zm-56.6-164.2c27.3-32.4 '
+  '24.8-61.9 24-72.5-24.1 1.4-52 16.4-67.9 34.9-17.5 19.8-27.8 44.3-25.6 71.9 26.1 2 49.9-11.4 69.5-34.3z"/></svg>')
+GOOGLE_SVG = ('<svg class="glyph" viewBox="0 0 24 24" width="21" height="23" aria-hidden="true">'
+  '<path fill="#00d3ff" d="M3.6 2.2C3.3 2.5 3.1 3 3.1 3.7v16.6c0 .7.2 1.2.5 1.5l.1.1 9.3-9.3v-.2L3.6 2.2z"/>'
+  '<path fill="#00f076" d="M16.5 15.1l-3.5-3.5v-.2l3.5-3.5.1.1 4.1 2.4c1.2.7 1.2 1.8 0 2.5l-4.2 2.2z"/>'
+  '<path fill="#ff3a44" d="M16.6 15L13 11.5 3.6 21c.4.4 1 .5 1.8.1L16.6 15z"/>'
+  '<path fill="#ffce00" d="M16.6 8L5.4 1.9c-.8-.5-1.4-.4-1.8 0L13 11.5 16.6 8z"/></svg>')
+
+# minimal line icons (stroke = currentColor), no emoji
+def _svg(body): return ('<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" '
+                        'stroke-linecap="round" stroke-linejoin="round">' + body + '</svg>')
+IC_TV     = _svg('<rect x="2.5" y="7" width="19" height="13" rx="2.2"/><path d="M8 3.5l4 3.5 4-3.5"/>')
+IC_CLOCK  = _svg('<circle cx="12" cy="12" r="8.5"/><path d="M12 7.5V12l3.2 1.9"/>')
+IC_TROPHY = _svg('<path d="M7 4h10v5a5 5 0 0 1-10 0V4z"/><path d="M7 6H4.5a2.5 2.5 0 0 0 2.7 2.9M17 6h2.5a2.5 2.5 0 0 1-2.7 2.9"/><path d="M12 14v3M9 20h6M9.7 20l.6-3M14.3 20l-.6-3"/>')
+IC_BELL   = _svg('<path d="M6 9.5a6 6 0 0 1 12 0c0 4.5 1.8 5.5 2 6H4c.2-.5 2-1.5 2-6z"/><path d="M10.2 20a2 2 0 0 0 3.6 0"/>')
+FEAT_ICONS = [IC_TV, IC_CLOCK, IC_TROPHY, IC_BELL]
+LOGO_SVG  = _svg('<rect x="2.5" y="7" width="19" height="13" rx="2.2"/><path d="M8 3.5l4 3.5 4-3.5"/>')
+THEME_SVG = _svg('<path d="M20 14.5A8 8 0 1 1 9.5 4 6.3 6.3 0 0 0 20 14.5z"/>')
+FAVICON = ("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'>"
+  "<rect width='100' height='100' rx='24' fill='%230b8f5a'/><g fill='none' stroke='white' "
+  "stroke-width='7' stroke-linecap='round' stroke-linejoin='round'><rect x='26' y='42' width='48' "
+  "height='34' rx='6'/><path d='M38 28l12 12 12-12'/></g></svg>")
+
 # lang -> path segment ('' = root / English / x-default)
 SEG = {"en":"", "tr":"tr", "de":"de", "es":"es", "fr":"fr", "it":"it", "pt":"pt", "ar":"ar"}
 OG_LOCALE = {"en":"en_US","tr":"tr_TR","de":"de_DE","es":"es_ES","fr":"fr_FR","it":"it_IT","pt":"pt_BR","ar":"ar_SA"}
@@ -200,8 +226,8 @@ def lang_links(current):
 def page(lang):
     d = L[lang]
     feats = "\n".join(
-        '<div class="feat"><div class="ic">%s</div><h3>%s</h3><p>%s</p></div>' % (i, h, p)
-        for (i, h, p) in d["feats"])
+        '<div class="feat"><div class="ic">%s</div><h3>%s</h3><p>%s</p></div>' % (FEAT_ICONS[idx], h, p)
+        for idx, (i, h, p) in enumerate(d["feats"]))
     faqs = "\n".join(
         '<details><summary>%s</summary><p>%s</p></details>' % (q, a) for (q, a) in d["faqs"])
     faq_ld = {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[
@@ -230,7 +256,7 @@ def page(lang):
   <meta name="twitter:card" content="summary_large_image">
   <meta name="theme-color" content="#0b8f5a" media="(prefers-color-scheme: light)">
   <meta name="theme-color" content="#0b0f17" media="(prefers-color-scheme: dark)">
-  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='22' fill='%230b8f5a'/><text y='72' x='50' font-size='60' text-anchor='middle'>📺</text></svg>">
+  <link rel="icon" href="{favicon}">
   <link rel="preconnect" href="https://raw.githubusercontent.com" crossorigin>
   <link rel="stylesheet" href="{base}/assets/styles.css">
   <script type="application/ld+json">{site_ld}</script>
@@ -238,12 +264,12 @@ def page(lang):
 </head>
 <body>
   <header class="site"><div class="wrap hrow">
-    <a class="brand" href="{selfurl}"><span class="logo">📺</span><span class="name">{brand}</span></a>
+    <a class="brand" href="{selfurl}"><span class="logo">{logo_svg}</span><span class="name">{brand}</span></a>
     <span class="spacer"></span>
     <div class="selects">
       <select id="countrySel" class="ctl" aria-label="Country"></select>
       <select class="ctl" aria-label="Language" onchange="location.href=this.value">{langopts}</select>
-      <button class="iconbtn" id="themeBtn" aria-label="Theme">◐</button>
+      <button class="iconbtn" id="themeBtn" aria-label="Theme">{theme_svg}</button>
     </div>
   </div></header>
 
@@ -251,8 +277,8 @@ def page(lang):
     <h1>{h1}</h1>
     <p class="sub">{sub}</p>
     <div class="badges">
-      <a class="store" href="{apple}" rel="nofollow"><span class="gl"></span><span><small>{store}</small><b>App Store</b></span></a>
-      <a class="store" href="{google}" rel="nofollow"><span class="gl">▶</span><span><small>{store}</small><b>Google Play</b></span></a>
+      <a class="store" href="{apple}" rel="nofollow" aria-label="App Store">{apple_svg}<span class="txt"><small>{store}</small><b>App&nbsp;Store</b></span></a>
+      <a class="store" href="{google}" rel="nofollow" aria-label="Google Play">{google_svg}<span class="txt"><small>{store}</small><b>Google&nbsp;Play</b></span></a>
     </div>
   </div></section>
 
@@ -292,6 +318,8 @@ def page(lang):
         h1=d["h1"], sub=d["sub"], apple=APPLE, google=GOOGLE, store=d["store"],
         today=d["today"], feats=feats, proseT=d["proseT"], prose=d["prose"],
         faqT=d["faqT"], faqs=faqs, langlinks=lang_links(lang), foot=d["foot"],
+        apple_svg=APPLE_SVG, google_svg=GOOGLE_SVG, favicon=FAVICON,
+        logo_svg=LOGO_SVG, theme_svg=THEME_SVG,
         site_ld=json.dumps(site_ld, ensure_ascii=False), faq_ld=json.dumps(faq_ld, ensure_ascii=False))
 
 # ── write pages ──
