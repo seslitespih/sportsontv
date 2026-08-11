@@ -84,7 +84,8 @@
     return "scheduled";
   }
 
-  var fmtTime = new Intl.DateTimeFormat(LANG, { hour:"2-digit", minute:"2-digit" });
+  // 24-hour clock everywhere (19:00, no AM/PM) — matches TR/EU convention.
+  var fmtTime = new Intl.DateTimeFormat(LANG, { hour:"2-digit", minute:"2-digit", hourCycle:"h23" });
   var fmtDay  = new Intl.DateTimeFormat(LANG, { weekday:"short" });
 
   function names(m){ return { home:pick(m.homeNames, m.home), away:pick(m.awayNames, m.away) }; }

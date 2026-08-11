@@ -42,6 +42,9 @@ FAVICON = ("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='
 SEG = {"en":"", "tr":"tr", "de":"de", "es":"es", "fr":"fr", "it":"it", "pt":"pt", "ar":"ar"}
 OG_LOCALE = {"en":"en_US","tr":"tr_TR","de":"de_DE","es":"es_ES","fr":"fr_FR","it":"it_IT","pt":"pt_BR","ar":"ar_SA"}
 LANG_NATIVE = {"en":"English","tr":"Türkçe","de":"Deutsch","es":"Español","fr":"Français","it":"Italiano","pt":"Português","ar":"العربية"}
+CTA = {"en":"Get the free app","tr":"Ücretsiz uygulamayı indir","de":"Hol dir die kostenlose App",
+       "es":"Descarga la app gratis","fr":"Téléchargez l'appli gratuite","it":"Scarica l'app gratuita",
+       "pt":"Baixe o app grátis","ar":"حمّل التطبيق المجاني"}
 
 def url_for(lang):
     s = SEG[lang]
@@ -273,18 +276,9 @@ def page(lang):
     </div>
   </div></header>
 
-  <section class="hero"><div class="wrap">
-    <h1>{h1}</h1>
-    <p class="sub">{sub}</p>
-    <div class="badges">
-      <a class="store" href="{apple}" rel="nofollow" aria-label="App Store">{apple_svg}<span class="txt"><small>{store}</small><b>App&nbsp;Store</b></span></a>
-      <a class="store" href="{google}" rel="nofollow" aria-label="Google Play">{google_svg}<span class="txt"><small>{store}</small><b>Google&nbsp;Play</b></span></a>
-    </div>
-  </div></section>
-
   <main class="wrap">
+    <h1 class="ptitle">{h1}</h1>
     <div class="section-head">
-      <h2>{today}</h2>
       <span class="tzchip" id="tzchip"></span>
       <span class="spacer"></span>
       <span class="tzchip" id="updated"></span>
@@ -298,6 +292,15 @@ def page(lang):
     <section class="prose"><h2>{proseT}</h2><p>{prose}</p></section>
 
     <section class="faq"><h2>{faqT}</h2>{faqs}</section>
+
+    <section class="cta">
+      <h2>{cta}</h2>
+      <p class="sub">{sub}</p>
+      <div class="badges">
+        <a class="store" href="{apple}" rel="nofollow" aria-label="App Store">{apple_svg}<b>App&nbsp;Store</b></a>
+        <a class="store" href="{google}" rel="nofollow" aria-label="Google Play">{google_svg}<b>Google&nbsp;Play</b></a>
+      </div>
+    </section>
   </main>
 
   <footer class="site"><div class="wrap">
@@ -315,7 +318,7 @@ def page(lang):
         lang=lang, dir=d["dir"], title=d["title"], desc=d["desc"], canon=canon,
         hreflangs=hreflangs(lang), brand=BRAND, oglocale=OG_LOCALE[lang],
         base=BASE, selfurl=url_for(lang), langopts=lang_options(lang),
-        h1=d["h1"], sub=d["sub"], apple=APPLE, google=GOOGLE, store=d["store"],
+        h1=d["h1"], sub=d["sub"], apple=APPLE, google=GOOGLE, store=d["store"], cta=CTA[lang],
         today=d["today"], feats=feats, proseT=d["proseT"], prose=d["prose"],
         faqT=d["faqT"], faqs=faqs, langlinks=lang_links(lang), foot=d["foot"],
         apple_svg=APPLE_SVG, google_svg=GOOGLE_SVG, favicon=FAVICON,
