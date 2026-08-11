@@ -6,7 +6,7 @@ assets/app.js from the same daily fixtures the mobile app uses."""
 import os, io, sys, json
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 
-BASE = "https://seslitespih.github.io/sportsontv"
+BASE = "https://sportstvtoday.com"
 OUT  = r"C:/Users/ESAT/Desktop/sportsontv-site"
 APPLE = "https://apps.apple.com/app/id6779112504"
 GOOGLE = "https://play.google.com/store/apps/details?id=com.machatirlatici.app"
