@@ -187,8 +187,19 @@ main { padding-bottom: 60px; }
 .card {
   background: var(--bg-elev); border: 1px solid var(--border); border-radius: var(--radius);
   box-shadow: var(--shadow); padding: 16px 18px;
-  display: grid; grid-template-columns: 78px 1fr auto; align-items: center; gap: 16px;
 }
+.ctop { display: grid; grid-template-columns: 78px 1fr auto; align-items: center; gap: 16px; }
+
+/* all-countries broadcast list (country by country) */
+.blist { margin-top: 12px; padding-top: 12px; border-top: 1px solid var(--border); display: flex; flex-direction: column; gap: 7px; }
+.brow { display: flex; align-items: center; gap: 10px; font-size: .9rem; flex-wrap: wrap; }
+.brow .bflag { font-size: 1.1rem; flex: none; }
+.brow .bcountry { color: var(--text-mut); font-weight: 600; min-width: 112px; flex: none; }
+.brow .bchan { color: var(--text); font-weight: 650; }
+.brow.me { background: var(--brand-soft); border: 1px solid color-mix(in srgb, var(--brand) 25%, transparent); border-radius: 9px; padding: 6px 10px; }
+.brow.me .bcountry, .brow.me .bchan { color: var(--brand-ink); }
+.brow.none { color: var(--text-mut); }
+.brow.none .ic { width: 15px; height: 15px; }
 .card .time { text-align: center; }
 .card .time .hm { font-size: 1.4rem; font-weight: 850; letter-spacing: -.02em; }
 .card .time .day { font-size: .72rem; color: var(--text-mut); font-weight: 700; text-transform: uppercase; }
@@ -241,8 +252,9 @@ footer.site .frow { display: flex; gap: 18px; flex-wrap: wrap; align-items: cent
 .langlinks a[aria-current="true"] { color: var(--brand); }
 
 @media (max-width: 620px) {
-  .card { grid-template-columns: 64px 1fr; }
-  .card .right { grid-column: 2; align-items: flex-start; text-align: start; margin-top: 2px; }
+  .ctop { grid-template-columns: 58px 1fr; }
+  .ctop .right { grid-column: 2; align-items: flex-start; text-align: start; margin-top: 2px; }
+  .brow .bcountry { min-width: 88px; }
   .brand span.name { display: none; }
   select.ctl { max-width: 38vw; }
 }

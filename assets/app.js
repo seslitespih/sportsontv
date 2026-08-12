@@ -6,9 +6,8 @@
   var DATA_URL = "https://raw.githubusercontent.com/seslitespih/mac-hatirlatici/main/assets/matches-daily.json";
   var LANG = (document.documentElement.lang || "en").slice(0, 2);
 
-  var COUNTRIES = ["TR","GB","US","DE","ES","FR","IT","PT","NL","BE","CH","AT","BR",
-    "AR","MX","CO","CL","PE","CA","SA","QA","AE","EG","MA","DZ","TN","JP","KR","AU",
-    "NG","SN","ZA","GH","IN","ID"];
+  // Yalnızca uygulama dillerinin karşılığı olan pazarlar (curated veri bu ülkeler için var)
+  var COUNTRIES = ["TR","GB","DE","ES","FR","IT","PT","BR","SA"];
   var LANG_COUNTRY = { tr:"TR", en:"GB", de:"DE", es:"ES", fr:"FR", it:"IT", pt:"PT", ar:"SA" };
   var SPORT_COLOR = { football:"#12a15f", basketball:"#e08a1e", volleyball:"#2f6bd6", motorsport:"#d23b4e" };
 
@@ -99,26 +98,42 @@
 
   function names(m){ return { home:pick(m.homeNames, m.home), away:pick(m.awayNames, m.away) }; }
 
+  // Tüm ülkelerin kanalını listeler (ülke ülke, eksiksiz); ziyaretçinin ülkesi
+  // en üstte ve vurgulu. Böylece hangi ülkeden bakılırsa bakılsın tam liste görünür.
+  function broadcastRows(m){
+    var bc = m.broadcasts || {};
+    var ccs = Object.keys(bc).filter(function(cc){ return COUNTRIES.indexOf(cc) >= 0; });
+    if (!ccs.length) return '<div class="brow none">'+IC.tv+'<span>'+t.none+'</span></div>';
+    ccs.sort(function(a,b){ return regionName(a).localeCompare(regionName(b), LANG); });
+    var mine = state.country;
+    ccs.sort(function(a,b){ return (b === mine ? 1 : 0) - (a === mine ? 1 : 0); });
+    return ccs.map(function(cc){
+      return '<div class="brow'+(cc === mine ? ' me' : '')+'">'
+        + '<span class="bflag">'+flag(cc)+'</span>'
+        + '<span class="bcountry">'+esc(regionName(cc))+'</span>'
+        + '<span class="bchan">'+esc(bc[cc].join(" · "))+'</span></div>';
+    }).join("");
+  }
+
   function matchCard(m, idx){
     var d = new Date(m.kickoffUtc), n = names(m);
     var comp = esc(pick(m.competition, m.competitionId || ""));
     var color = SPORT_COLOR[m.sport] || "#8892a6";
     var st = statusOf(m);
-    var chans = (m.broadcasts && m.broadcasts[state.country]) || null;
     var left = '<div class="time"><div class="hm">'+fmtTime.format(d)+'</div><div class="day">'+fmtDay.format(d)+'</div></div>';
     var teams = '<span>'+esc(n.home)+'</span><span class="vs">'+t.vs+'</span><span>'+esc(n.away)+'</span>';
-    var chanHtml = chans && chans.length
-      ? '<span class="chan"><span class="cic">'+IC.tv+'</span>'+esc(chans.join(" · "))+'</span>'
-      : '<span class="chan none">'+t.none+'</span>';
     var liveTag = st === "live" ? '<span class="live"><span class="dot"></span>'+t.live+'</span>' : '';
     var remind = st === "finished" ? '' :
       '<div class="remind"><button class="rbtn" data-idx="'+idx+'" type="button">'+IC.bell+'<span>'+t.remind+'</span></button>'
       + '<div class="rmenu" hidden><a class="ritem gcal" target="_blank" rel="noopener">'+t.gcal+'</a>'
       + '<a class="ritem ics">'+t.ics+'</a></div></div>';
-    return '<article class="card">'+left
+    return '<article class="card">'
+      + '<div class="ctop">'+left
       + '<div class="mid"><div class="teams">'+teams+'</div>'
       + '<div class="comp"><span class="sdot" style="background:'+color+'"></span>'+comp+'</div></div>'
-      + '<div class="right">'+liveTag+chanHtml+remind+'</div></article>';
+      + '<div class="right">'+liveTag+remind+'</div></div>'
+      + '<div class="blist">'+broadcastRows(m)+'</div>'
+      + '</article>';
   }
 
   // ── calendar reminder (no backend) ───────────────────────
