@@ -12,6 +12,24 @@ APPLE = "https://apps.apple.com/app/id6779112504"
 GOOGLE = "https://play.google.com/store/apps/details?id=com.machatirlatici.app"
 BRAND = "Sports on TV"
 
+# Google Analytics 4 ölçüm kimliği. Boşken hiçbir script basılmaz — siteye
+# analitik eklemek için buraya G-XXXXXXXXXX yaz, yeter. Etiket <head>'e her
+# dil sayfasında otomatik girer; tek tek HTML'leri elle düzenleme (üretilen
+# dosyalar her derlemede sıfırdan yazılır).
+GA_ID = ""
+
+
+def analytics_tag():
+    if not GA_ID:
+        return ""
+    return (
+        '\n  <script async src="https://www.googletagmanager.com/gtag/js?id=%s"></script>\n'
+        '  <script>window.dataLayer=window.dataLayer||[];'
+        'function gtag(){dataLayer.push(arguments);}'
+        "gtag('js',new Date());gtag('config','%s');</script>" % (GA_ID, GA_ID)
+    )
+
+
 APPLE_SVG = ('<svg class="glyph" viewBox="0 0 384 512" width="20" height="24" fill="currentColor" aria-hidden="true">'
   '<path d="M318.7 268.7c-.2-36.7 16.4-64.4 50-84.8-18.8-26.9-47.2-41.7-84.7-44.6-35.5-2.8-74.3 20.7-88.5 '
   '20.7-15 0-49.4-19.7-76.4-19.7C63.3 141.2 4 184.8 4 273.5q0 39.3 14.4 81.2c12.8 36.7 59 126.7 107.2 '
@@ -275,7 +293,7 @@ def page(lang):
   <link rel="preconnect" href="https://raw.githubusercontent.com" crossorigin>
   <link rel="stylesheet" href="/assets/styles.css">
   <script type="application/ld+json">{site_ld}</script>
-  <script type="application/ld+json">{faq_ld}</script>
+  <script type="application/ld+json">{faq_ld}</script>{analytics}
 </head>
 <body>
   <header class="site"><div class="wrap hrow">
@@ -335,7 +353,7 @@ def page(lang):
         faqT=d["faqT"], faqs=faqs, langlinks=lang_links(lang), foot=d["foot"],
         apple_svg=APPLE_SVG, google_svg=GOOGLE_SVG, favicon=FAVICON,
         logo_svg=LOGO_SVG, theme_svg=THEME_SVG,
-        root_redirect=(ROOT_REDIRECT if lang == "en" else ""),
+        root_redirect=(ROOT_REDIRECT if lang == "en" else ""), analytics=analytics_tag(),
         site_ld=json.dumps(site_ld, ensure_ascii=False), faq_ld=json.dumps(faq_ld, ensure_ascii=False))
 
 # ── write pages ──
