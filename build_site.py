@@ -50,6 +50,11 @@ def url_for(lang):
     s = SEG[lang]
     return BASE + "/" + (s + "/" if s else "")
 
+def path_for(lang):
+    # root-relative nav path — works over http and https, any host
+    s = SEG[lang]
+    return "/" + (s + "/" if s else "")
+
 L = {
  "en": dict(dir="ltr", store="Download",
    title="Sports on TV Today — What Channel & What Time",
@@ -222,14 +227,14 @@ def lang_options(current):
     opts = []
     for lang in SEG:
         sel = " selected" if lang == current else ""
-        opts.append('<option value="%s" data-lang="%s"%s>%s</option>' % (url_for(lang), lang, sel, LANG_NATIVE[lang]))
+        opts.append('<option value="%s" data-lang="%s"%s>%s</option>' % (path_for(lang), lang, sel, LANG_NATIVE[lang]))
     return "".join(opts)
 
 def lang_links(current):
     out = []
     for lang in SEG:
         cur = ' aria-current="true"' if lang == current else ""
-        out.append('<a href="%s"%s>%s</a>' % (url_for(lang), cur, LANG_NATIVE[lang]))
+        out.append('<a href="%s"%s>%s</a>' % (path_for(lang), cur, LANG_NATIVE[lang]))
     return "\n      ".join(out)
 
 def page(lang):
@@ -268,7 +273,7 @@ def page(lang):
   <meta name="theme-color" content="#0b0f17" media="(prefers-color-scheme: dark)">
   <link rel="icon" href="{favicon}">
   <link rel="preconnect" href="https://raw.githubusercontent.com" crossorigin>
-  <link rel="stylesheet" href="{base}/assets/styles.css">
+  <link rel="stylesheet" href="/assets/styles.css">
   <script type="application/ld+json">{site_ld}</script>
   <script type="application/ld+json">{faq_ld}</script>
 </head>
@@ -319,12 +324,12 @@ def page(lang):
     </div>
     <p style="margin:12px 0 0">{foot}</p>
   </div></footer>
-  <script src="{base}/assets/app.js"></script>
+  <script src="/assets/app.js"></script>
 </body>
 </html>""".format(
         lang=lang, dir=d["dir"], title=d["title"], desc=d["desc"], canon=canon,
         hreflangs=hreflangs(lang), brand=BRAND, oglocale=OG_LOCALE[lang],
-        base=BASE, selfurl=url_for(lang), langopts=lang_options(lang),
+        base=BASE, selfurl=path_for(lang), langopts=lang_options(lang),
         h1=d["h1"], sub=d["sub"], apple=APPLE, google=GOOGLE, store=d["store"], cta=CTA[lang],
         today=d["today"], feats=feats, proseT=d["proseT"], prose=d["prose"],
         faqT=d["faqT"], faqs=faqs, langlinks=lang_links(lang), foot=d["foot"],
