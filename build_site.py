@@ -6,7 +6,13 @@ assets/app.js from the same daily fixtures the mobile app uses."""
 import os, io, sys, json
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 
-BASE = "https://sportstvtoday.com"
+# ⚠️ GEÇİCİ: normalde https olmalı. GitHub Pages sertifikası 11 Ağu'dan beri
+# "new" durumunda takılı (DNS doğru, CAA engeli yok, alan adı iki kez kaldırılıp
+# eklendi) ve https hiç çalışmıyor. Canonical/sitemap https gösterdiği sürece
+# Google hiçbir sayfayı çekemiyordu — site "hiç taranmamış" durumdaydı.
+# SERTİFİKA GELİNCE: burayı https yap, derle, push'la, GitHub Pages'te
+# https_enforced'ı aç, sitemap'i Search Console'a yeniden gönder.
+BASE = "http://sportstvtoday.com"
 OUT  = r"C:/Users/ESAT/Desktop/sportsontv-site"
 APPLE = "https://apps.apple.com/app/id6779112504"
 GOOGLE = "https://play.google.com/store/apps/details?id=com.machatirlatici.app"
