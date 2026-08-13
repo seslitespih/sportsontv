@@ -16,7 +16,7 @@ BRAND = "Sports on TV"
 # analitik eklemek için buraya G-XXXXXXXXXX yaz, yeter. Etiket <head>'e her
 # dil sayfasında otomatik girer; tek tek HTML'leri elle düzenleme (üretilen
 # dosyalar her derlemede sıfırdan yazılır).
-GA_ID = ""
+GA_ID = "G-N8YY5V2WSS"
 
 
 def analytics_tag():
