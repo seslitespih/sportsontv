@@ -236,6 +236,10 @@ main { padding-bottom: 60px; }
 /* ── Footer ─────────────────────────────────────────────── */
 footer.site { border-top: 1px solid var(--border); padding: 28px 0 40px; color: var(--text-mut); font-size: .88rem; }
 footer.site .frow { display: flex; gap: 18px; flex-wrap: wrap; align-items: center; justify-content: space-between; }
+.sportnav { display: flex; gap: 6px 16px; flex-wrap: wrap; margin: 2px 0 10px; }
+.sportnav a { color: var(--text-soft); font-weight: 600; font-size: 14px; }
+.sportnav a[aria-current="true"] { color: var(--brand); }
+
 .langlinks { display: flex; gap: 6px 14px; flex-wrap: wrap; }
 .langlinks a { color: var(--text-soft); font-weight: 600; }
 .langlinks a[aria-current="true"] { color: var(--brand); }

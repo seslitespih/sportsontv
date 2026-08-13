@@ -64,14 +64,94 @@ CTA = {"en":"Get the free app","tr":"Ücretsiz uygulamayı indir","de":"Hol dir 
        "es":"Descarga la app gratis","fr":"Téléchargez l'appli gratuite","it":"Scarica l'app gratuita",
        "pt":"Baixe o app grátis","ar":"حمّل التطبيق المجاني"}
 
-def url_for(lang):
-    s = SEG[lang]
-    return BASE + "/" + (s + "/" if s else "")
+# ── spor sayfaları ──────────────────────────────────────────────────────────
+# Ana sayfa "bugün maçlar hangi kanalda" gibi genel aramayı hedefliyor. Asıl
+# arama hacmi spor bazlı sorularda ("bugün hangi futbol maçları var", "fussball
+# heute im tv"). Her dil × spor için ayrı sayfa üretilir; sayfa aynı canlı maç
+# listesini o spora filtrelenmiş hâlde gösterir (app.js window.__SPORT__ okur).
+SPORTS = ["football", "basketball", "volleyball", "motorsport"]
 
-def path_for(lang):
+# URL parçaları ASCII — Arapça'da da latin slug kullanıyoruz, okunabilir kalsın.
+SPORT_SLUG = {
+ "en": {"football":"football","basketball":"basketball","volleyball":"volleyball","motorsport":"motorsport"},
+ "tr": {"football":"futbol","basketball":"basketbol","volleyball":"voleybol","motorsport":"motor-sporlari"},
+ "de": {"football":"fussball","basketball":"basketball","volleyball":"volleyball","motorsport":"motorsport"},
+ "es": {"football":"futbol","basketball":"baloncesto","volleyball":"voleibol","motorsport":"motor"},
+ "fr": {"football":"football","basketball":"basket","volleyball":"volley","motorsport":"sport-auto"},
+ "it": {"football":"calcio","basketball":"basket","volleyball":"pallavolo","motorsport":"motori"},
+ "pt": {"football":"futebol","basketball":"basquete","volleyball":"volei","motorsport":"automobilismo"},
+ "ar": {"football":"football","basketball":"basketball","volleyball":"volleyball","motorsport":"motorsport"},
+}
+SPORT_LABEL = {
+ "en": {"football":"Football","basketball":"Basketball","volleyball":"Volleyball","motorsport":"Motorsport"},
+ "tr": {"football":"Futbol","basketball":"Basketbol","volleyball":"Voleybol","motorsport":"Motor Sporları"},
+ "de": {"football":"Fußball","basketball":"Basketball","volleyball":"Volleyball","motorsport":"Motorsport"},
+ "es": {"football":"Fútbol","basketball":"Baloncesto","volleyball":"Voleibol","motorsport":"Motor"},
+ "fr": {"football":"Football","basketball":"Basket","volleyball":"Volley","motorsport":"Sport auto"},
+ "it": {"football":"Calcio","basketball":"Basket","volleyball":"Pallavolo","motorsport":"Motori"},
+ "pt": {"football":"Futebol","basketball":"Basquete","volleyball":"Vôlei","motorsport":"Automobilismo"},
+ "ar": {"football":"كرة القدم","basketball":"كرة السلة","volleyball":"الكرة الطائرة","motorsport":"رياضة السيارات"},
+}
+# Başlıklar çeviri değil, o dilde gerçekten aranan ifadeye göre yazıldı.
+SPORT_COPY = {
+ "en": {
+  "football":   ("Football on TV Today — Channel & Kick-off Time", "Every football match on TV today with the channel showing it in your country and the kick-off time in your time zone.", "What channel is the football on today?", "Today's football fixtures with the broadcaster for your country and kick-off in your local time — Champions League, domestic leagues and internationals in one list."),
+  "basketball": ("Basketball on TV Today — Channel & Tip-off Time", "Today's basketball games on TV: which channel is showing each game where you live and what time it tips off.", "What channel is the basketball on today?", "Every basketball game on TV today, from EuroLeague and NBA to domestic leagues, with your local tip-off time and the channel carrying it."),
+  "volleyball": ("Volleyball on TV Today — Channel & Start Time", "Today's volleyball matches on TV with the channel for your country and the start time in your own time zone.", "What channel is the volleyball on today?", "Today's volleyball on television, national leagues and international competitions, each with its broadcaster and your local start time."),
+  "motorsport": ("Motorsport on TV Today — Channel & Race Time", "Today's races on TV: the channel showing each session in your country and the start time where you are.", "What channel is the race on today?", "Practice, qualifying and race sessions on TV today, with the broadcaster for your country and start times converted to your time zone."),
+ },
+ "tr": {
+  "football":   ("Bugün Hangi Futbol Maçları Var? Kanal ve Saat", "Bugünkü futbol maçları hangi kanalda, saat kaçta? Türkiye yayıncısı ve kendi saatinle başlama zamanı — her gün güncel.", "Futbol maçı bugün hangi kanalda?", "Bugünün futbol programı: Şampiyonlar Ligi'nden Süper Lig'e her maçın yayıncı kanalı ve kendi saat dilimindeki başlama saati tek listede."),
+  "basketball": ("Bugün Hangi Basketbol Maçları Var? Kanal ve Saat", "Bugünkü basketbol maçları hangi kanalda yayınlanıyor, saat kaçta başlıyor? EuroLeague, NBA ve yerel ligler.", "Basketbol maçı bugün hangi kanalda?", "EuroLeague, NBA ve Türkiye ligindeki bugünkü basketbol maçları; her biri için yayıncı kanal ve senin saatinle tip-off zamanı."),
+  "volleyball": ("Bugün Hangi Voleybol Maçları Var? Kanal ve Saat", "Bugünkü voleybol maçlarının yayın kanalı ve başlama saati. Sultanlar Ligi, Efeler Ligi ve uluslararası turnuvalar.", "Voleybol maçı bugün hangi kanalda?", "Sultanlar Ligi, Efeler Ligi ve milli takım maçları dahil bugünün voleybol yayın programı, kanal ve saat bilgisiyle."),
+  "motorsport": ("Bugün Yarış Var mı? Kanal ve Saat", "Bugünkü Formula 1 ve motor sporları seansları hangi kanalda, saat kaçta? Antrenman, sıralama ve yarış saatleri.", "Yarış bugün hangi kanalda?", "Formula 1 ve diğer motor sporlarında bugünkü antrenman, sıralama ve yarış seansları; yayıncı kanal ve kendi saatinle başlama zamanı."),
+ },
+ "de": {
+  "football":   ("Fußball heute im TV — Sender & Anstoßzeit", "Welcher Sender überträgt heute welches Fußballspiel? Alle Partien mit Anstoßzeit in deiner Zeitzone.", "Welcher Sender zeigt heute Fußball?", "Alle Fußballspiele von heute mit dem übertragenden Sender in deinem Land und der Anstoßzeit in deiner Zeitzone — Champions League, Bundesliga und Länderspiele."),
+  "basketball": ("Basketball heute im TV — Sender & Uhrzeit", "Basketball heute live im Fernsehen: welcher Sender überträgt und wann das Spiel beginnt.", "Welcher Sender zeigt heute Basketball?", "EuroLeague, NBA und Bundesliga — die heutigen Basketballspiele mit Sender und Anwurfzeit in deiner Zeitzone."),
+  "volleyball": ("Volleyball heute im TV — Sender & Uhrzeit", "Die heutigen Volleyballspiele im Fernsehen mit Sender und Startzeit in deiner Zeitzone.", "Welcher Sender zeigt heute Volleyball?", "Nationale Ligen und internationale Turniere: das heutige Volleyball-Fernsehprogramm mit Sender und lokaler Startzeit."),
+  "motorsport": ("Motorsport heute im TV — Sender & Startzeit", "Training, Qualifying und Rennen heute live: welcher Sender überträgt und wann es losgeht.", "Welcher Sender zeigt heute das Rennen?", "Die heutigen Motorsport-Sessions im Fernsehen — Training, Qualifying und Rennen mit Sender und Startzeit in deiner Zeitzone."),
+ },
+ "es": {
+  "football":   ("Fútbol Hoy en TV — Canal y Hora", "¿En qué canal es el partido de hoy y a qué hora empieza? Todos los partidos de fútbol con su emisora y tu hora local.", "¿En qué canal es el fútbol hoy?", "Los partidos de fútbol de hoy con el canal que los emite en tu país y la hora de inicio en tu zona horaria — Champions, LaLiga y selecciones."),
+  "basketball": ("Baloncesto Hoy en TV — Canal y Hora", "Los partidos de baloncesto de hoy en televisión: qué canal los emite y a qué hora empiezan.", "¿En qué canal es el baloncesto hoy?", "Euroliga, NBA y ligas nacionales: el baloncesto de hoy en televisión con su canal y la hora de inicio donde vives."),
+  "volleyball": ("Voleibol Hoy en TV — Canal y Hora", "Los partidos de voleibol de hoy con el canal de tu país y la hora de inicio en tu zona horaria.", "¿En qué canal es el voleibol hoy?", "Ligas nacionales y competiciones internacionales: la programación de voleibol de hoy con canal y hora local."),
+  "motorsport": ("Motor Hoy en TV — Canal y Hora", "Entrenamientos, clasificación y carrera de hoy: en qué canal se ven y a qué hora empiezan.", "¿En qué canal es la carrera hoy?", "Las sesiones de motor de hoy en televisión — libres, clasificación y carrera — con su canal y la hora en tu zona horaria."),
+ },
+ "fr": {
+  "football":   ("Football à la TV Aujourd'hui — Chaîne et Heure", "Quelle chaîne diffuse quel match aujourd'hui et à quelle heure ? Tous les matchs avec l'heure dans votre fuseau.", "Sur quelle chaîne est le match de foot aujourd'hui ?", "Les matchs de football du jour avec la chaîne qui les diffuse dans votre pays et l'heure du coup d'envoi dans votre fuseau horaire."),
+  "basketball": ("Basket à la TV Aujourd'hui — Chaîne et Heure", "Les matchs de basket du jour à la télévision : quelle chaîne les diffuse et à quelle heure.", "Sur quelle chaîne est le basket aujourd'hui ?", "EuroLigue, NBA et championnats nationaux : le basket du jour à la télé, avec la chaîne et l'heure chez vous."),
+  "volleyball": ("Volley à la TV Aujourd'hui — Chaîne et Heure", "Les matchs de volley du jour avec la chaîne de votre pays et l'heure de début dans votre fuseau.", "Sur quelle chaîne est le volley aujourd'hui ?", "Championnats nationaux et compétitions internationales : le programme volley du jour, chaîne et heure locale."),
+  "motorsport": ("Sport Auto à la TV Aujourd'hui — Chaîne et Heure", "Essais, qualifications et course du jour : sur quelle chaîne et à quelle heure.", "Sur quelle chaîne est la course aujourd'hui ?", "Les séances de sport auto du jour à la télévision — essais, qualifications, course — avec la chaîne et l'heure dans votre fuseau."),
+ },
+ "it": {
+  "football":   ("Calcio in TV Oggi — Canale e Orario", "Su che canale è la partita di oggi e a che ora inizia? Tutte le partite con l'orario nel tuo fuso.", "Su che canale è il calcio oggi?", "Le partite di calcio di oggi con il canale che le trasmette nel tuo paese e l'orario del fischio d'inizio nel tuo fuso orario."),
+  "basketball": ("Basket in TV Oggi — Canale e Orario", "Le partite di basket di oggi in televisione: quale canale le trasmette e a che ora iniziano.", "Su che canale è il basket oggi?", "EuroLega, NBA e campionati nazionali: il basket di oggi in TV con canale e orario di inizio dove vivi."),
+  "volleyball": ("Pallavolo in TV Oggi — Canale e Orario", "Le partite di pallavolo di oggi con il canale del tuo paese e l'orario di inizio nel tuo fuso.", "Su che canale è la pallavolo oggi?", "Campionati nazionali e competizioni internazionali: il programma pallavolo di oggi, con canale e orario locale."),
+  "motorsport": ("Motori in TV Oggi — Canale e Orario", "Prove, qualifiche e gara di oggi: su quale canale e a che ora.", "Su che canale è la gara oggi?", "Le sessioni di motori di oggi in televisione — prove, qualifiche e gara — con il canale e l'orario nel tuo fuso."),
+ },
+ "pt": {
+  "football":   ("Futebol na TV Hoje — Canal e Horário", "Qual canal transmite o jogo de hoje e a que horas começa? Todos os jogos com o horário no seu fuso.", "Que canal passa o futebol hoje?", "Os jogos de futebol de hoje com o canal que transmite no seu país e o horário de início no seu fuso horário — Libertadores, Brasileirão e seleções."),
+  "basketball": ("Basquete na TV Hoje — Canal e Horário", "Os jogos de basquete de hoje na TV: qual canal transmite e a que horas começam.", "Que canal passa o basquete hoje?", "NBA, EuroLeague e ligas nacionais: o basquete de hoje na televisão com canal e horário de início onde você está."),
+  "volleyball": ("Vôlei na TV Hoje — Canal e Horário", "Os jogos de vôlei de hoje com o canal do seu país e o horário de início no seu fuso.", "Que canal passa o vôlei hoje?", "Superliga e competições internacionais: a programação de vôlei de hoje, com canal e horário local."),
+  "motorsport": ("Automobilismo na TV Hoje — Canal e Horário", "Treinos, classificação e corrida de hoje: em qual canal e a que horas.", "Que canal passa a corrida hoje?", "As sessões de automobilismo de hoje na TV — treinos, classificação e corrida — com o canal e o horário no seu fuso."),
+ },
+ "ar": {
+  "football":   ("مباريات كرة القدم اليوم — القناة والتوقيت", "ما هي القناة الناقلة لمباريات اليوم وموعد انطلاقها بتوقيت بلدك؟ جدول يومي محدّث.", "ما القناة الناقلة لمباراة اليوم؟", "مباريات كرة القدم اليوم مع القناة الناقلة في بلدك وموعد البداية بتوقيتك المحلي — دوري أبطال أوروبا والدوريات المحلية والمباريات الدولية."),
+  "basketball": ("مباريات كرة السلة اليوم — القناة والتوقيت", "مباريات كرة السلة اليوم على التلفزيون: القناة الناقلة وموعد البداية بتوقيتك.", "ما القناة الناقلة لمباراة كرة السلة اليوم؟", "الدوري الأوروبي والدوري الأمريكي والدوريات المحلية: مباريات كرة السلة اليوم مع القناة الناقلة وموعد البداية بتوقيتك."),
+  "volleyball": ("مباريات الكرة الطائرة اليوم — القناة والتوقيت", "مباريات الكرة الطائرة اليوم مع القناة الناقلة في بلدك وموعد البداية بتوقيتك.", "ما القناة الناقلة لمباراة الكرة الطائرة اليوم؟", "الدوريات المحلية والبطولات الدولية: جدول الكرة الطائرة اليوم مع القناة الناقلة والتوقيت المحلي."),
+  "motorsport": ("سباقات اليوم على التلفزيون — القناة والتوقيت", "التجارب والتصفيات والسباق اليوم: القناة الناقلة وموعد الانطلاق بتوقيتك.", "ما القناة الناقلة للسباق اليوم؟", "جلسات رياضة السيارات اليوم — التجارب والتصفيات والسباق — مع القناة الناقلة وموعد الانطلاق بتوقيتك المحلي."),
+ },
+}
+
+def url_for(lang, sport=None):
+    return BASE + path_for(lang, sport)
+
+def path_for(lang, sport=None):
     # root-relative nav path — works over http and https, any host
     s = SEG[lang]
-    return "/" + (s + "/" if s else "")
+    p = "/" + (s + "/" if s else "")
+    return p + (SPORT_SLUG[lang][sport] + "/" if sport else "")
 
 L = {
  "en": dict(dir="ltr", store="Download",
@@ -234,42 +314,67 @@ ROOT_REDIRECT = ("<script>(function(){try{var s=['tr','de','es','fr','it','pt','
   "p=localStorage.getItem('sot_lang'),l=(p||(navigator.language||'en').slice(0,2)).toLowerCase();"
   "if(s.indexOf(l)>=0)location.replace(l+'/');}catch(e){}})();</script>")
 
-def hreflangs(current):
+def hreflangs(current, sport=None):
+    # Alternatifler AYNI sporun diğer dillerine gider — futbol sayfası başka
+    # dilin ana sayfasına işaret ederse Google eşleşmeyi yok sayar.
     out = []
     for lang in SEG:
-        out.append('<link rel="alternate" hreflang="%s" href="%s">' % (lang, url_for(lang)))
-    out.append('<link rel="alternate" hreflang="x-default" href="%s">' % url_for("en"))
+        out.append('<link rel="alternate" hreflang="%s" href="%s">' % (lang, url_for(lang, sport)))
+    out.append('<link rel="alternate" hreflang="x-default" href="%s">' % url_for("en", sport))
     return "\n  ".join(out)
 
-def lang_options(current):
+def lang_options(current, sport=None):
     opts = []
     for lang in SEG:
         sel = " selected" if lang == current else ""
-        opts.append('<option value="%s" data-lang="%s"%s>%s</option>' % (path_for(lang), lang, sel, LANG_NATIVE[lang]))
+        opts.append('<option value="%s" data-lang="%s"%s>%s</option>' % (path_for(lang, sport), lang, sel, LANG_NATIVE[lang]))
     return "".join(opts)
 
-def lang_links(current):
+def lang_links(current, sport=None):
     out = []
     for lang in SEG:
         cur = ' aria-current="true"' if lang == current else ""
-        out.append('<a href="%s"%s>%s</a>' % (path_for(lang), cur, LANG_NATIVE[lang]))
+        out.append('<a href="%s"%s>%s</a>' % (path_for(lang, sport), cur, LANG_NATIVE[lang]))
     return "\n      ".join(out)
 
-def page(lang):
-    d = L[lang]
+def sport_links(lang, current_sport):
+    # Ana sayfa ↔ spor sayfaları arası iç bağlantı. Tarayıcının sayfaları
+    # bulmasını sağlar ve her spor sayfasına konu bağlamı verir.
+    out = ['<a href="%s"%s>%s</a>' % (path_for(lang), '' if current_sport else ' aria-current="true"', L[lang]["today"])]
+    for s in SPORTS:
+        cur = ' aria-current="true"' if s == current_sport else ''
+        out.append('<a href="%s"%s>%s</a>' % (path_for(lang, s), cur, SPORT_LABEL[lang][s]))
+    return "\n      ".join(out)
+
+def page(lang, sport=None):
+    d = dict(L[lang])
+    if sport:
+        t, desc, h1, prose = SPORT_COPY[lang][sport]
+        d.update(title=t, desc=desc, h1=h1, prose=prose,
+                 proseT=SPORT_LABEL[lang][sport] + " — " + L[lang]["today"])
     feats = "\n".join(
         '<div class="feat"><div class="ic">%s</div><h3>%s</h3><p>%s</p></div>' % (FEAT_ICONS[idx], h, p)
         for idx, (i, h, p) in enumerate(d["feats"]))
-    faqs = "\n".join(
-        '<details><summary>%s</summary><p>%s</p></details>' % (q, a) for (q, a) in d["faqs"])
-    faq_ld = {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[
-        {"@type":"Question","name":q,"acceptedAnswer":{"@type":"Answer","text":a}} for (q,a) in d["faqs"]]}
+    # SSS yalnız ana sayfada. Aynı SSS işaretlemesini 40 sayfaya kopyalamak
+    # Google'ın "yinelenen içerik" saydığı şeydir; spor sayfaları bunun yerine
+    # breadcrumb işaretlemesi alır.
+    if sport:
+        faq_section = ""
+        extra_ld = {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+            {"@type":"ListItem","position":1,"name":BRAND,"item":url_for(lang)},
+            {"@type":"ListItem","position":2,"name":SPORT_LABEL[lang][sport],"item":url_for(lang, sport)}]}
+    else:
+        faqs = "\n".join(
+            '<details><summary>%s</summary><p>%s</p></details>' % (q, a) for (q, a) in d["faqs"])
+        faq_section = '<section class="faq"><h2>%s</h2>%s</section>' % (d["faqT"], faqs)
+        extra_ld = {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[
+            {"@type":"Question","name":q,"acceptedAnswer":{"@type":"Answer","text":a}} for (q,a) in d["faqs"]]}
     site_ld = {"@context":"https://schema.org","@graph":[
         {"@type":"WebSite","name":BRAND,"url":url_for(lang),"inLanguage":lang},
         {"@type":"SoftwareApplication","name":BRAND,"operatingSystem":"iOS, Android",
          "applicationCategory":"SportsApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"},
          "url":url_for(lang)}]}
-    canon = url_for(lang)
+    canon = url_for(lang, sport)
     return """<!doctype html>
 <html lang="{lang}" dir="{dir}">
 <head>
@@ -314,6 +419,9 @@ def page(lang):
       <span class="tzchip" id="updated"></span>
     </div>
     <div class="tzchip" id="countryLbl" style="margin-bottom:6px;display:inline-block"></div>
+    <nav class="sportnav">
+      {sportlinks}
+    </nav>
     <div class="filters" id="filters"></div>
     <div class="matchlist" id="matchlist"></div>
 
@@ -321,7 +429,7 @@ def page(lang):
 
     <section class="prose"><h2>{proseT}</h2><p>{prose}</p></section>
 
-    <section class="faq"><h2>{faqT}</h2>{faqs}</section>
+    {faq_section}
 
     <section class="cta">
       <h2>{cta}</h2>
@@ -342,37 +450,51 @@ def page(lang):
     </div>
     <p style="margin:12px 0 0">{foot}</p>
   </div></footer>
+  <script>window.__SPORT__={sportjs};</script>
   <script src="/assets/app.js"></script>
 </body>
 </html>""".format(
         lang=lang, dir=d["dir"], title=d["title"], desc=d["desc"], canon=canon,
-        hreflangs=hreflangs(lang), brand=BRAND, oglocale=OG_LOCALE[lang],
-        base=BASE, selfurl=path_for(lang), langopts=lang_options(lang),
+        hreflangs=hreflangs(lang, sport), brand=BRAND, oglocale=OG_LOCALE[lang],
+        base=BASE, selfurl=path_for(lang), langopts=lang_options(lang, sport),
         h1=d["h1"], sub=d["sub"], apple=APPLE, google=GOOGLE, store=d["store"], cta=CTA[lang],
         today=d["today"], feats=feats, proseT=d["proseT"], prose=d["prose"],
-        faqT=d["faqT"], faqs=faqs, langlinks=lang_links(lang), foot=d["foot"],
+        faq_section=faq_section, langlinks=lang_links(lang, sport), foot=d["foot"],
+        sportlinks=sport_links(lang, sport), sportjs=json.dumps(sport),
         apple_svg=APPLE_SVG, google_svg=GOOGLE_SVG, favicon=FAVICON,
         logo_svg=LOGO_SVG, theme_svg=THEME_SVG,
-        root_redirect=(ROOT_REDIRECT if lang == "en" else ""), analytics=analytics_tag(),
-        site_ld=json.dumps(site_ld, ensure_ascii=False), faq_ld=json.dumps(faq_ld, ensure_ascii=False))
+        # Dil yönlendirmesi yalnız kök sayfada; spor sayfasında olursa
+        # ziyaretçiyi konudan koparıp ana sayfaya atar.
+        root_redirect=(ROOT_REDIRECT if (lang == "en" and not sport) else ""), analytics=analytics_tag(),
+        site_ld=json.dumps(site_ld, ensure_ascii=False), faq_ld=json.dumps(extra_ld, ensure_ascii=False))
 
 # ── write pages ──
+count = 0
 for lang, seg in SEG.items():
     d = os.path.join(OUT, seg) if seg else OUT
     os.makedirs(d, exist_ok=True)
     with open(os.path.join(d, "index.html"), "w", encoding="utf-8") as f:
         f.write(page(lang))
+    count += 1
     print("yazildi:", (seg or ".") + "/index.html")
+    for sp in SPORTS:
+        sd = os.path.join(d, SPORT_SLUG[lang][sp])
+        os.makedirs(sd, exist_ok=True)
+        with open(os.path.join(sd, "index.html"), "w", encoding="utf-8") as f:
+            f.write(page(lang, sp))
+        count += 1
+        print("yazildi:", path_for(lang, sp) + "index.html")
 
 # sitemap + robots + nojekyll + 404
 sm = ['<?xml version="1.0" encoding="UTF-8"?>',
       '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">']
-for lang in SEG:
-    sm.append("  <url><loc>%s</loc>" % url_for(lang))
-    for alt in SEG:
-        sm.append('    <xhtml:link rel="alternate" hreflang="%s" href="%s"/>' % (alt, url_for(alt)))
-    sm.append('    <xhtml:link rel="alternate" hreflang="x-default" href="%s"/>' % url_for("en"))
-    sm.append("  </url>")
+for sp in [None] + SPORTS:
+    for lang in SEG:
+        sm.append("  <url><loc>%s</loc>" % url_for(lang, sp))
+        for alt in SEG:
+            sm.append('    <xhtml:link rel="alternate" hreflang="%s" href="%s"/>' % (alt, url_for(alt, sp)))
+        sm.append('    <xhtml:link rel="alternate" hreflang="x-default" href="%s"/>' % url_for("en", sp))
+        sm.append("  </url>")
 sm.append("</urlset>")
 open(os.path.join(OUT, "sitemap.xml"), "w", encoding="utf-8").write("\n".join(sm))
 open(os.path.join(OUT, "robots.txt"), "w", encoding="utf-8").write(
@@ -384,4 +506,4 @@ open(os.path.join(OUT, "404.html"), "w", encoding="utf-8").write(
     "var s=" + json.dumps(list(SEG.keys())) + ",l=(navigator.language||'en').slice(0,2);"
     "location.replace('%s/'+(s.indexOf(l)>0?l+'/':''));</script>" % BASE)
 print("sitemap.xml, robots.txt, .nojekyll, 404.html yazildi")
-print("BITTI —", len(SEG), "dil")
+print("BITTI —", len(SEG), "dil,", len(SPORTS), "spor,", count, "sayfa")

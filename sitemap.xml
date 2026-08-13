@@ -88,4 +88,356 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://sportstvtoday.com/ar/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://sportstvtoday.com/"/>
   </url>
+  <url><loc>https://sportstvtoday.com/football/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sportstvtoday.com/football/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://sportstvtoday.com/tr/futbol/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sportstvtoday.com/de/fussball/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/futbol/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/football/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sportstvtoday.com/it/calcio/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://sportstvtoday.com/pt/futebol/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://sportstvtoday.com/ar/football/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sportstvtoday.com/football/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/tr/futbol/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sportstvtoday.com/football/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://sportstvtoday.com/tr/futbol/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sportstvtoday.com/de/fussball/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/futbol/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/football/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sportstvtoday.com/it/calcio/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://sportstvtoday.com/pt/futebol/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://sportstvtoday.com/ar/football/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sportstvtoday.com/football/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/de/fussball/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sportstvtoday.com/football/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://sportstvtoday.com/tr/futbol/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sportstvtoday.com/de/fussball/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/futbol/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/football/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sportstvtoday.com/it/calcio/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://sportstvtoday.com/pt/futebol/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://sportstvtoday.com/ar/football/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sportstvtoday.com/football/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/es/futbol/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sportstvtoday.com/football/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://sportstvtoday.com/tr/futbol/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sportstvtoday.com/de/fussball/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/futbol/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/football/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sportstvtoday.com/it/calcio/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://sportstvtoday.com/pt/futebol/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://sportstvtoday.com/ar/football/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sportstvtoday.com/football/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/fr/football/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sportstvtoday.com/football/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://sportstvtoday.com/tr/futbol/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sportstvtoday.com/de/fussball/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/futbol/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/football/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sportstvtoday.com/it/calcio/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://sportstvtoday.com/pt/futebol/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://sportstvtoday.com/ar/football/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sportstvtoday.com/football/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/it/calcio/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sportstvtoday.com/football/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://sportstvtoday.com/tr/futbol/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sportstvtoday.com/de/fussball/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/futbol/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/football/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sportstvtoday.com/it/calcio/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://sportstvtoday.com/pt/futebol/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://sportstvtoday.com/ar/football/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sportstvtoday.com/football/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/pt/futebol/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sportstvtoday.com/football/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://sportstvtoday.com/tr/futbol/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sportstvtoday.com/de/fussball/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/futbol/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/football/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sportstvtoday.com/it/calcio/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://sportstvtoday.com/pt/futebol/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://sportstvtoday.com/ar/football/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sportstvtoday.com/football/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/ar/football/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sportstvtoday.com/football/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://sportstvtoday.com/tr/futbol/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sportstvtoday.com/de/fussball/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/futbol/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/football/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sportstvtoday.com/it/calcio/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://sportstvtoday.com/pt/futebol/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://sportstvtoday.com/ar/football/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sportstvtoday.com/football/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/basketball/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sportstvtoday.com/basketball/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://sportstvtoday.com/tr/basketbol/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sportstvtoday.com/de/basketball/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/baloncesto/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/basket/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sportstvtoday.com/it/basket/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://sportstvtoday.com/pt/basquete/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://sportstvtoday.com/ar/basketball/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sportstvtoday.com/basketball/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/tr/basketbol/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sportstvtoday.com/basketball/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://sportstvtoday.com/tr/basketbol/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sportstvtoday.com/de/basketball/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/baloncesto/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/basket/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sportstvtoday.com/it/basket/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://sportstvtoday.com/pt/basquete/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://sportstvtoday.com/ar/basketball/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sportstvtoday.com/basketball/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/de/basketball/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sportstvtoday.com/basketball/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://sportstvtoday.com/tr/basketbol/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sportstvtoday.com/de/basketball/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/baloncesto/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/basket/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sportstvtoday.com/it/basket/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://sportstvtoday.com/pt/basquete/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://sportstvtoday.com/ar/basketball/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sportstvtoday.com/basketball/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/es/baloncesto/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sportstvtoday.com/basketball/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://sportstvtoday.com/tr/basketbol/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sportstvtoday.com/de/basketball/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/baloncesto/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/basket/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sportstvtoday.com/it/basket/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://sportstvtoday.com/pt/basquete/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://sportstvtoday.com/ar/basketball/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sportstvtoday.com/basketball/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/fr/basket/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sportstvtoday.com/basketball/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://sportstvtoday.com/tr/basketbol/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sportstvtoday.com/de/basketball/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/baloncesto/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/basket/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sportstvtoday.com/it/basket/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://sportstvtoday.com/pt/basquete/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://sportstvtoday.com/ar/basketball/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sportstvtoday.com/basketball/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/it/basket/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sportstvtoday.com/basketball/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://sportstvtoday.com/tr/basketbol/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sportstvtoday.com/de/basketball/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/baloncesto/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/basket/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sportstvtoday.com/it/basket/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://sportstvtoday.com/pt/basquete/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://sportstvtoday.com/ar/basketball/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sportstvtoday.com/basketball/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/pt/basquete/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sportstvtoday.com/basketball/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://sportstvtoday.com/tr/basketbol/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sportstvtoday.com/de/basketball/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/baloncesto/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/basket/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sportstvtoday.com/it/basket/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://sportstvtoday.com/pt/basquete/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://sportstvtoday.com/ar/basketball/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sportstvtoday.com/basketball/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/ar/basketball/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sportstvtoday.com/basketball/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://sportstvtoday.com/tr/basketbol/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sportstvtoday.com/de/basketball/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/baloncesto/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/basket/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sportstvtoday.com/it/basket/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://sportstvtoday.com/pt/basquete/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://sportstvtoday.com/ar/basketball/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sportstvtoday.com/basketball/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/volleyball/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sportstvtoday.com/volleyball/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://sportstvtoday.com/tr/voleybol/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sportstvtoday.com/de/volleyball/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/voleibol/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/volley/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sportstvtoday.com/it/pallavolo/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://sportstvtoday.com/pt/volei/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://sportstvtoday.com/ar/volleyball/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sportstvtoday.com/volleyball/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/tr/voleybol/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sportstvtoday.com/volleyball/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://sportstvtoday.com/tr/voleybol/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sportstvtoday.com/de/volleyball/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/voleibol/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/volley/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sportstvtoday.com/it/pallavolo/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://sportstvtoday.com/pt/volei/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://sportstvtoday.com/ar/volleyball/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sportstvtoday.com/volleyball/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/de/volleyball/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sportstvtoday.com/volleyball/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://sportstvtoday.com/tr/voleybol/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sportstvtoday.com/de/volleyball/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/voleibol/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/volley/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sportstvtoday.com/it/pallavolo/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://sportstvtoday.com/pt/volei/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://sportstvtoday.com/ar/volleyball/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sportstvtoday.com/volleyball/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/es/voleibol/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sportstvtoday.com/volleyball/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://sportstvtoday.com/tr/voleybol/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sportstvtoday.com/de/volleyball/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/voleibol/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/volley/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sportstvtoday.com/it/pallavolo/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://sportstvtoday.com/pt/volei/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://sportstvtoday.com/ar/volleyball/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sportstvtoday.com/volleyball/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/fr/volley/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sportstvtoday.com/volleyball/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://sportstvtoday.com/tr/voleybol/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sportstvtoday.com/de/volleyball/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/voleibol/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/volley/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sportstvtoday.com/it/pallavolo/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://sportstvtoday.com/pt/volei/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://sportstvtoday.com/ar/volleyball/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sportstvtoday.com/volleyball/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/it/pallavolo/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sportstvtoday.com/volleyball/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://sportstvtoday.com/tr/voleybol/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sportstvtoday.com/de/volleyball/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/voleibol/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/volley/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sportstvtoday.com/it/pallavolo/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://sportstvtoday.com/pt/volei/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://sportstvtoday.com/ar/volleyball/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sportstvtoday.com/volleyball/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/pt/volei/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sportstvtoday.com/volleyball/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://sportstvtoday.com/tr/voleybol/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sportstvtoday.com/de/volleyball/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/voleibol/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/volley/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sportstvtoday.com/it/pallavolo/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://sportstvtoday.com/pt/volei/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://sportstvtoday.com/ar/volleyball/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sportstvtoday.com/volleyball/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/ar/volleyball/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sportstvtoday.com/volleyball/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://sportstvtoday.com/tr/voleybol/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sportstvtoday.com/de/volleyball/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/voleibol/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/volley/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sportstvtoday.com/it/pallavolo/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://sportstvtoday.com/pt/volei/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://sportstvtoday.com/ar/volleyball/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sportstvtoday.com/volleyball/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/motorsport/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sportstvtoday.com/motorsport/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://sportstvtoday.com/tr/motor-sporlari/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sportstvtoday.com/de/motorsport/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/motor/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/sport-auto/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sportstvtoday.com/it/motori/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://sportstvtoday.com/pt/automobilismo/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://sportstvtoday.com/ar/motorsport/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sportstvtoday.com/motorsport/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/tr/motor-sporlari/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sportstvtoday.com/motorsport/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://sportstvtoday.com/tr/motor-sporlari/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sportstvtoday.com/de/motorsport/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/motor/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/sport-auto/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sportstvtoday.com/it/motori/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://sportstvtoday.com/pt/automobilismo/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://sportstvtoday.com/ar/motorsport/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sportstvtoday.com/motorsport/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/de/motorsport/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sportstvtoday.com/motorsport/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://sportstvtoday.com/tr/motor-sporlari/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sportstvtoday.com/de/motorsport/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/motor/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/sport-auto/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sportstvtoday.com/it/motori/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://sportstvtoday.com/pt/automobilismo/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://sportstvtoday.com/ar/motorsport/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sportstvtoday.com/motorsport/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/es/motor/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sportstvtoday.com/motorsport/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://sportstvtoday.com/tr/motor-sporlari/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sportstvtoday.com/de/motorsport/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/motor/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/sport-auto/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sportstvtoday.com/it/motori/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://sportstvtoday.com/pt/automobilismo/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://sportstvtoday.com/ar/motorsport/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sportstvtoday.com/motorsport/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/fr/sport-auto/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sportstvtoday.com/motorsport/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://sportstvtoday.com/tr/motor-sporlari/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sportstvtoday.com/de/motorsport/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/motor/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/sport-auto/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sportstvtoday.com/it/motori/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://sportstvtoday.com/pt/automobilismo/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://sportstvtoday.com/ar/motorsport/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sportstvtoday.com/motorsport/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/it/motori/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sportstvtoday.com/motorsport/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://sportstvtoday.com/tr/motor-sporlari/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sportstvtoday.com/de/motorsport/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/motor/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/sport-auto/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sportstvtoday.com/it/motori/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://sportstvtoday.com/pt/automobilismo/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://sportstvtoday.com/ar/motorsport/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sportstvtoday.com/motorsport/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/pt/automobilismo/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sportstvtoday.com/motorsport/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://sportstvtoday.com/tr/motor-sporlari/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sportstvtoday.com/de/motorsport/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/motor/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/sport-auto/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sportstvtoday.com/it/motori/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://sportstvtoday.com/pt/automobilismo/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://sportstvtoday.com/ar/motorsport/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sportstvtoday.com/motorsport/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/ar/motorsport/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sportstvtoday.com/motorsport/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://sportstvtoday.com/tr/motor-sporlari/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sportstvtoday.com/de/motorsport/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/motor/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/sport-auto/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sportstvtoday.com/it/motori/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://sportstvtoday.com/pt/automobilismo/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://sportstvtoday.com/ar/motorsport/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sportstvtoday.com/motorsport/"/>
+  </url>
 </urlset>

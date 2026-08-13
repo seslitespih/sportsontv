@@ -43,7 +43,9 @@
   function $(s, r){ return (r||document).querySelector(s); }
   function esc(s){ return String(s==null?"":s).replace(/[&<>"]/g, function(c){ return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]; }); }
 
-  var state = { matches:[], view:[], filter:"all", country:null, tz:null };
+  // Spor sayfaları (/tr/futbol/ gibi) filtreyi window.__SPORT__ ile önceden
+  // seçtirir; ana sayfada bu değer null olduğu için "all" kalır.
+  var state = { matches:[], view:[], filter:(window.__SPORT__ || "all"), country:null, tz:null };
 
   function detectCountry(){
     // Açık seçim varsa onu kullan; yoksa sayfa dilinin ülkesi (TR sayfası → Türkiye).
