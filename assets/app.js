@@ -6,8 +6,8 @@
   var DATA_URL = "https://raw.githubusercontent.com/seslitespih/mac-hatirlatici/main/assets/matches-daily.json";
   var LANG = (document.documentElement.lang || "en").slice(0, 2);
 
-  // Yalnızca uygulama dillerinin karşılığı olan pazarlar (curated veri bu ülkeler için var)
-  var COUNTRIES = ["TR","GB","DE","ES","FR","IT","PT","BR","SA"];
+  // Desteklenen pazarlar (curated veri bu ülkeler için var)
+  var COUNTRIES = ["TR","US","GB","DE","ES","FR","IT","PT","BR","SA"];
   var LANG_COUNTRY = { tr:"TR", en:"GB", de:"DE", es:"ES", fr:"FR", it:"IT", pt:"PT", ar:"SA" };
   var SPORT_COLOR = { football:"#12a15f", basketball:"#e08a1e", volleyball:"#2f6bd6", motorsport:"#d23b4e" };
 
@@ -48,9 +48,15 @@
   var state = { matches:[], view:[], filter:(window.__SPORT__ || "all"), country:null, tz:null };
 
   function detectCountry(){
-    // Açık seçim varsa onu kullan; yoksa sayfa dilinin ülkesi (TR sayfası → Türkiye).
+    // 1) Açık seçim. 2) Tarayıcı bölgesi (yalnız desteklenen pazarlar → en-US=US,
+    //    pt-BR=BR; desteklenmeyen ör. it-CH elenir). 3) Sayfa dilinin ülkesi.
     var saved = localStorage.getItem("sot_country");
     if (saved && COUNTRIES.indexOf(saved) >= 0) return saved;
+    try {
+      var loc = (Intl.DateTimeFormat().resolvedOptions().locale || navigator.language || "");
+      var mm = loc.toUpperCase().match(/[-_]([A-Z]{2})\b/);
+      if (mm && COUNTRIES.indexOf(mm[1]) >= 0) return mm[1];
+    } catch (e) {}
     return LANG_COUNTRY[LANG] || "GB";
   }
 
