@@ -7,8 +7,17 @@
   var LANG = (document.documentElement.lang || "en").slice(0, 2);
 
   // Desteklenen pazarlar (curated veri bu ülkeler için var)
-  var COUNTRIES = ["TR","US","GB","DE","ES","FR","IT","PT","BR","SA"];
+  var COUNTRIES = ["TR","US","GB","DE","ES","FR","IT","PT","BR","AR","MX","CO","CL","UY","GT","CA","SA","DZ"];
   var LANG_COUNTRY = { tr:"TR", en:"GB", de:"DE", es:"ES", fr:"FR", it:"IT", pt:"PT", ar:"SA" };
+  // Saatler seçilen ÜLKENİN saat diliminde gösterilir — cihazınkinde değil.
+  // Ülke değiştirince yalnız kanal değil saat de değişmeli.
+  var COUNTRY_TZ = {
+    TR:"Europe/Istanbul", US:"America/New_York", GB:"Europe/London", DE:"Europe/Berlin",
+    ES:"Europe/Madrid", FR:"Europe/Paris", IT:"Europe/Rome", PT:"Europe/Lisbon",
+    BR:"America/Sao_Paulo", AR:"America/Argentina/Buenos_Aires", MX:"America/Mexico_City",
+    CO:"America/Bogota", CL:"America/Santiago", UY:"America/Montevideo",
+    GT:"America/Guatemala", CA:"America/Toronto", SA:"Asia/Riyadh", DZ:"Africa/Algiers"
+  };
   var SPORT_COLOR = { football:"#12a15f", basketball:"#e08a1e", volleyball:"#2f6bd6", motorsport:"#d23b4e" };
 
   var RT = {
@@ -69,6 +78,9 @@
     }).join("");
     sel.addEventListener("change", function(){
       state.country = sel.value; localStorage.setItem("sot_country", sel.value);
+      buildFormatters();   // saat de ülkeye göre değişsin
+      state.tz = COUNTRY_TZ[state.country] || state.tz;
+      var tzEl = $("#tzchip"); if (tzEl) tzEl.innerHTML = IC.clock + '<span>' + state.tz + '</span>';
       updateCountryLabel(); render();
     });
     updateCountryLabel();
@@ -97,8 +109,17 @@
   }
 
   // 24-hour clock everywhere (19:00, no AM/PM) — matches TR/EU convention.
-  var fmtTime = new Intl.DateTimeFormat(LANG, { hour:"2-digit", minute:"2-digit", hourCycle:"h23" });
-  var fmtDay  = new Intl.DateTimeFormat(LANG, { weekday:"short" });
+  // Seçilen ülkenin saat dilimine göre kurulur; ülke değişince yeniden kurulur.
+  var fmtTime, fmtDay;
+  function buildFormatters(){
+    var tz = COUNTRY_TZ[state.country] || undefined;
+    var o = { hour:"2-digit", minute:"2-digit", hourCycle:"h23" };
+    var d = { weekday:"short" };
+    if (tz){ o.timeZone = tz; d.timeZone = tz; }
+    fmtTime = new Intl.DateTimeFormat(LANG, o);
+    fmtDay  = new Intl.DateTimeFormat(LANG, d);
+  }
+  buildFormatters();
 
   function names(m){ return { home:pick(m.homeNames, m.home), away:pick(m.awayNames, m.away) }; }
 
@@ -178,6 +199,18 @@
   function render(){
     var box = $("#matchlist"); if (!box) return;
     var list = state.matches.slice();
+
+    // Ülke filtresi: maç yalnızca seçilen ülkede yayınlanıyorsa gösterilir.
+    // Yayıncısı yoksa yalnız dünya çapında ilgi gören turnuvalar (tier "global")
+    // kalır — aksi hâlde Türk ziyaretçi ABD'nin USL maçlarıyla dolu liste görüyordu.
+    list = list.filter(function(m){
+      var ch = (m.broadcasts && m.broadcasts[state.country]) || [];
+      return ch.length > 0 || m.tier === "global";
+    });
+
+    // Biten maçlar listeden düşer; kimse dünkü sonucu aramıyor.
+    list = list.filter(function(m){ return statusOf(m) !== "finished"; });
+
     if (state.filter !== "all") list = list.filter(function(m){ return m.sport === state.filter; });
     list.sort(function(a,b){ return new Date(a.kickoffUtc)-new Date(b.kickoffUtc); });
     state.view = list;
@@ -228,7 +261,8 @@
 
   function boot(){
     state.country = detectCountry();
-    state.tz = Intl.DateTimeFormat().resolvedOptions().timeZone || "";
+    buildFormatters();   // ülke belli olduktan SONRA kur, yoksa cihaz saati kalır
+    state.tz = COUNTRY_TZ[state.country] || Intl.DateTimeFormat().resolvedOptions().timeZone || "";
     var tzEl = $("#tzchip"); if (tzEl) tzEl.innerHTML = IC.clock + '<span>' + (state.tz || t.tz) + '</span>';
     buildCountrySelect();
     buildFilters();
