@@ -7,8 +7,33 @@
   var LANG = (document.documentElement.lang || "en").slice(0, 2);
 
   // Desteklenen pazarlar (curated veri bu ülkeler için var)
-  var COUNTRIES = ["TR","US","GB","DE","ES","FR","IT","PT","BR","AR","MX","CO","CL","UY","GT","CA","SA","DZ"];
+  var COUNTRIES = ["TR","US","GB","DE","ES","FR","IT","PT","BR","AR","MX","CO","CL","UY","GT","CA","SA","DZ","IQ","JO","EG","OM"];
   var LANG_COUNTRY = { tr:"TR", en:"GB", de:"DE", es:"ES", fr:"FR", it:"IT", pt:"PT", ar:"SA" };
+  // ABD/Kanada/Brezilya/Meksika birden çok saat dilimine yayılır. Ziyaretçinin
+  // cihazı o ülkenin dilimlerinden birindeyse ONU kullanırız (Kaliforniyalı
+  // Pasifik saatini görür), değilse aşağıdaki varsayılana düşeriz.
+  var COUNTRY_ZONES = {
+    US:["America/New_York","America/Detroit","America/Chicago","America/Denver","America/Phoenix",
+        "America/Los_Angeles","America/Anchorage","Pacific/Honolulu","America/Boise",
+        "America/Indiana/Indianapolis","America/Kentucky/Louisville"],
+    CA:["America/Toronto","America/Winnipeg","America/Edmonton","America/Vancouver",
+        "America/Halifax","America/St_Johns","America/Regina"],
+    BR:["America/Sao_Paulo","America/Manaus","America/Fortaleza","America/Recife",
+        "America/Bahia","America/Belem","America/Cuiaba","America/Porto_Velho"],
+    MX:["America/Mexico_City","America/Tijuana","America/Monterrey","America/Chihuahua",
+        "America/Hermosillo","America/Cancun","America/Mazatlan"]
+  };
+  function tzFor(cc){
+    var varsayilan = COUNTRY_TZ[cc];
+    var liste = COUNTRY_ZONES[cc];
+    if (!liste) return varsayilan;
+    try {
+      var cihaz = Intl.DateTimeFormat().resolvedOptions().timeZone;
+      if (cihaz && liste.indexOf(cihaz) >= 0) return cihaz;
+    } catch (e) {}
+    return varsayilan;
+  }
+
   // Saatler seçilen ÜLKENİN saat diliminde gösterilir — cihazınkinde değil.
   // Ülke değiştirince yalnız kanal değil saat de değişmeli.
   var COUNTRY_TZ = {
@@ -16,7 +41,9 @@
     ES:"Europe/Madrid", FR:"Europe/Paris", IT:"Europe/Rome", PT:"Europe/Lisbon",
     BR:"America/Sao_Paulo", AR:"America/Argentina/Buenos_Aires", MX:"America/Mexico_City",
     CO:"America/Bogota", CL:"America/Santiago", UY:"America/Montevideo",
-    GT:"America/Guatemala", CA:"America/Toronto", SA:"Asia/Riyadh", DZ:"Africa/Algiers"
+    GT:"America/Guatemala", CA:"America/Toronto", SA:"Asia/Riyadh", DZ:"Africa/Algiers",
+    // Gerçek indirme gelen Arap pazarları — Irak, Ürdün, Mısır, Umman
+    IQ:"Asia/Baghdad", JO:"Asia/Amman", EG:"Africa/Cairo", OM:"Asia/Muscat"
   };
   var SPORT_COLOR = { football:"#12a15f", basketball:"#e08a1e", volleyball:"#2f6bd6", motorsport:"#d23b4e" };
 
@@ -79,7 +106,7 @@
     sel.addEventListener("change", function(){
       state.country = sel.value; localStorage.setItem("sot_country", sel.value);
       buildFormatters();   // saat de ülkeye göre değişsin
-      state.tz = COUNTRY_TZ[state.country] || state.tz;
+      state.tz = tzFor(state.country) || state.tz;
       var tzEl = $("#tzchip"); if (tzEl) tzEl.innerHTML = IC.clock + '<span>' + state.tz + '</span>';
       updateCountryLabel(); render();
     });
@@ -112,7 +139,7 @@
   // Seçilen ülkenin saat dilimine göre kurulur; ülke değişince yeniden kurulur.
   var fmtTime, fmtDay;
   function buildFormatters(){
-    var tz = COUNTRY_TZ[state.country] || undefined;
+    var tz = tzFor(state.country) || undefined;
     var o = { hour:"2-digit", minute:"2-digit", hourCycle:"h23" };
     var d = { weekday:"short" };
     if (tz){ o.timeZone = tz; d.timeZone = tz; }
@@ -262,7 +289,7 @@
   function boot(){
     state.country = detectCountry();
     buildFormatters();   // ülke belli olduktan SONRA kur, yoksa cihaz saati kalır
-    state.tz = COUNTRY_TZ[state.country] || Intl.DateTimeFormat().resolvedOptions().timeZone || "";
+    state.tz = tzFor(state.country) || Intl.DateTimeFormat().resolvedOptions().timeZone || "";
     var tzEl = $("#tzchip"); if (tzEl) tzEl.innerHTML = IC.clock + '<span>' + (state.tz || t.tz) + '</span>';
     buildCountrySelect();
     buildFilters();
