@@ -7,7 +7,7 @@
   var LANG = (document.documentElement.lang || "en").slice(0, 2);
 
   // Desteklenen pazarlar (curated veri bu ülkeler için var)
-  var COUNTRIES = ["TR","US","GB","DE","ES","FR","IT","PT","BR","AR","MX","CO","CL","UY","GT","CA","SA","DZ","IQ","JO","EG","OM"];
+  var COUNTRIES = ["TR","US","GB","DE","ES","FR","IT","PT","BR","AR","MX","CO","CL","UY","PY","GT","CA","SA","DZ","IQ","JO","EG","OM"];
   var LANG_COUNTRY = { tr:"TR", en:"GB", de:"DE", es:"ES", fr:"FR", it:"IT", pt:"PT", ar:"SA" };
   // ABD/Kanada/Brezilya/Meksika birden çok saat dilimine yayılır. Ziyaretçinin
   // cihazı o ülkenin dilimlerinden birindeyse ONU kullanırız (Kaliforniyalı
@@ -40,7 +40,7 @@
     TR:"Europe/Istanbul", US:"America/New_York", GB:"Europe/London", DE:"Europe/Berlin",
     ES:"Europe/Madrid", FR:"Europe/Paris", IT:"Europe/Rome", PT:"Europe/Lisbon",
     BR:"America/Sao_Paulo", AR:"America/Argentina/Buenos_Aires", MX:"America/Mexico_City",
-    CO:"America/Bogota", CL:"America/Santiago", UY:"America/Montevideo",
+    CO:"America/Bogota", CL:"America/Santiago", UY:"America/Montevideo", PY:"America/Asuncion",
     GT:"America/Guatemala", CA:"America/Toronto", SA:"Asia/Riyadh", DZ:"Africa/Algiers",
     // Gerçek indirme gelen Arap pazarları — Irak, Ürdün, Mısır, Umman
     IQ:"Asia/Baghdad", JO:"Asia/Amman", EG:"Africa/Cairo", OM:"Asia/Muscat"
