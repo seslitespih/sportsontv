@@ -7,7 +7,7 @@
   var LANG = (document.documentElement.lang || "en").slice(0, 2);
 
   // Desteklenen pazarlar (curated veri bu ülkeler için var)
-  var COUNTRIES = ["TR","US","GB","DE","ES","FR","IT","PT","BR","AR","MX","CO","CL","UY","PY","GT","CA","SA","DZ","IQ","JO","EG","OM"];
+  var COUNTRIES = ["TR","US","GB","DE","ES","FR","IT","PT","BR","AR","MX","CO","CL","UY","PY","GT","CA","SA","DZ","IQ","JO","EG","OM","NL","CZ","HR","NO","IR","JP","KR"];
   var LANG_COUNTRY = { tr:"TR", en:"GB", de:"DE", es:"ES", fr:"FR", it:"IT", pt:"PT", ar:"SA" };
   // ABD/Kanada/Brezilya/Meksika birden çok saat dilimine yayılır. Ziyaretçinin
   // cihazı o ülkenin dilimlerinden birindeyse ONU kullanırız (Kaliforniyalı
@@ -43,7 +43,9 @@
     CO:"America/Bogota", CL:"America/Santiago", UY:"America/Montevideo", PY:"America/Asuncion",
     GT:"America/Guatemala", CA:"America/Toronto", SA:"Asia/Riyadh", DZ:"Africa/Algiers",
     // Gerçek indirme gelen Arap pazarları — Irak, Ürdün, Mısır, Umman
-    IQ:"Asia/Baghdad", JO:"Asia/Amman", EG:"Africa/Cairo", OM:"Asia/Muscat"
+    IQ:"Asia/Baghdad", JO:"Asia/Amman", EG:"Africa/Cairo", OM:"Asia/Muscat",
+    NL:"Europe/Amsterdam", CZ:"Europe/Prague", HR:"Europe/Zagreb", NO:"Europe/Oslo",
+    IR:"Asia/Tehran", JP:"Asia/Tokyo", KR:"Asia/Seoul"
   };
   var SPORT_COLOR = { football:"#12a15f", basketball:"#e08a1e", volleyball:"#2f6bd6", motorsport:"#d23b4e" };
 
