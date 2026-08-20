@@ -7,7 +7,7 @@
   var LANG = (document.documentElement.lang || "en").slice(0, 2);
 
   // Desteklenen pazarlar (curated veri bu ülkeler için var)
-  var COUNTRIES = ["TR","US","GB","DE","ES","FR","IT","PT","BR","AR","MX","CO","CL","UY","PY","GT","CA","SA","DZ","IQ","JO","EG","OM","NL","CZ","HR","NO","IR","JP","KR"];
+  var COUNTRIES = ["TR","US","GB","DE","ES","FR","IT","PT","BR","AR","MX","CO","CL","UY","PY","GT","CA","SA","DZ","IQ","JO","EG","OM","NL","CZ","HR","NO","IR","JP","KR","AE","AT","AU","BE","CH","CI","EC","GH","GR","LY","MA","ML","NG","NZ","PE","QA","SN","TN","ZA"];
   var LANG_COUNTRY = { tr:"TR", en:"GB", de:"DE", es:"ES", fr:"FR", it:"IT", pt:"PT", ar:"SA" };
   // ABD/Kanada/Brezilya/Meksika birden çok saat dilimine yayılır. Ziyaretçinin
   // cihazı o ülkenin dilimlerinden birindeyse ONU kullanırız (Kaliforniyalı
@@ -21,7 +21,9 @@
     BR:["America/Sao_Paulo","America/Manaus","America/Fortaleza","America/Recife",
         "America/Bahia","America/Belem","America/Cuiaba","America/Porto_Velho"],
     MX:["America/Mexico_City","America/Tijuana","America/Monterrey","America/Chihuahua",
-        "America/Hermosillo","America/Cancun","America/Mazatlan"]
+        "America/Hermosillo","America/Cancun","America/Mazatlan"],
+    AU:["Australia/Sydney","Australia/Melbourne","Australia/Brisbane",
+        "Australia/Perth","Australia/Adelaide","Australia/Hobart","Australia/Darwin"]
   };
   function tzFor(cc){
     var varsayilan = COUNTRY_TZ[cc];
@@ -45,7 +47,13 @@
     // Gerçek indirme gelen Arap pazarları — Irak, Ürdün, Mısır, Umman
     IQ:"Asia/Baghdad", JO:"Asia/Amman", EG:"Africa/Cairo", OM:"Asia/Muscat",
     NL:"Europe/Amsterdam", CZ:"Europe/Prague", HR:"Europe/Zagreb", NO:"Europe/Oslo",
-    IR:"Asia/Tehran", JP:"Asia/Tokyo", KR:"Asia/Seoul"
+    IR:"Asia/Tehran", JP:"Asia/Tokyo", KR:"Asia/Seoul",
+    // Uygulamadaki 49 ulkeyle hizalandi (20 Agu 2026) — site 30 ulkede kalmisti
+    AE:"Asia/Dubai", AT:"Europe/Vienna", AU:"Australia/Sydney", BE:"Europe/Brussels",
+    CH:"Europe/Zurich", CI:"Africa/Abidjan", EC:"America/Guayaquil", GH:"Africa/Accra",
+    GR:"Europe/Athens", LY:"Africa/Tripoli", MA:"Africa/Casablanca", ML:"Africa/Bamako",
+    NG:"Africa/Lagos", NZ:"Pacific/Auckland", PE:"America/Lima", QA:"Asia/Qatar",
+    SN:"Africa/Dakar", TN:"Africa/Tunis", ZA:"Africa/Johannesburg"
   };
   var SPORT_COLOR = { football:"#12a15f", basketball:"#e08a1e", volleyball:"#2f6bd6", motorsport:"#d23b4e" };
 
