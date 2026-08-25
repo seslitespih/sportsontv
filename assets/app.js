@@ -233,6 +233,25 @@
   function closeMenus(){ document.querySelectorAll(".rmenu").forEach(function(mn){ mn.setAttribute("hidden",""); }); }
   document.addEventListener("click", closeMenus);
 
+  // Bir tarihin ZIYARETCININ diliminde hangi gune dustugu ("YYYY-MM-DD").
+  function localDay(d, tz){
+    try {
+      return new Intl.DateTimeFormat("en-CA", {
+        timeZone: tz, year:"numeric", month:"2-digit", day:"2-digit"
+      }).format(d);
+    } catch (e) {
+      return d.toISOString().slice(0, 10);
+    }
+  }
+  // Ziyaretcinin dilimindeki saat (0-23).
+  function localHour(d, tz){
+    try {
+      return parseInt(new Intl.DateTimeFormat("en-GB", {
+        timeZone: tz, hour:"2-digit", hour12:false
+      }).format(d), 10);
+    } catch (e) { return d.getUTCHours(); }
+  }
+
   function render(){
     var box = $("#matchlist"); if (!box) return;
     var list = state.matches.slice();
@@ -247,6 +266,22 @@
 
     // Biten maçlar listeden düşer; kimse dünkü sonucu aramıyor.
     list = list.filter(function(m){ return statusOf(m) !== "finished"; });
+
+    // Gün filtresi: kaynak dosya BUGÜN + YARIN maçlarını birlikte taşır (uygulama
+    // 48 saatlik pencere gösteriyor). Site ise "bugün" sitesi — yarının programını
+    // göstermemeli. Tek istisna: gece yarısını aşan maçlar (Arjantin/Brezilya 00:30
+    // gibi) takvimde yarına düşse de izleyici için BU GECEdir, onları tutuyoruz.
+    (function(){
+      var tz = tzFor(state.country) || state.tz || undefined;
+      var now = new Date();
+      var bugun = localDay(now, tz);
+      list = list.filter(function(m){
+        var d = new Date(m.kickoffUtc);
+        var gun = localDay(d, tz);
+        if (gun === bugun) return true;
+        return gun > bugun && localHour(d, tz) < 6;   // bu gecenin geç maçları
+      });
+    })();
 
     if (state.filter !== "all") list = list.filter(function(m){ return m.sport === state.filter; });
     list.sort(function(a,b){ return new Date(a.kickoffUtc)-new Date(b.kickoffUtc); });
