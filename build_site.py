@@ -4,6 +4,7 @@ language (localized <title>/description/H1/FAQ + hreflang alternates + JSON-LD),
 plus sitemap.xml and robots.txt. The live match list is filled client-side by
 assets/app.js from the same daily fixtures the mobile app uses."""
 import os, io, sys, json
+import prerender   # mac listesini HTML e gomer (SEO)
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 
 # ⚠️ GEÇİCİ: normalde https olmalı. GitHub Pages sertifikası 11 Ağu'dan beri
@@ -352,6 +353,14 @@ def sport_links(lang, current_sport):
         out.append('<a href="%s"%s>%s</a>' % (path_for(lang, s), cur, SPORT_LABEL[lang][s]))
     return "\n      ".join(out)
 
+def _match_ld_tag(lang, sport=None):
+    """JSON-LD SportsEvent script etiketi — mac yoksa hic basma."""
+    ld = prerender.sports_ld(lang, sport)
+    if not ld:
+        return ""
+    return chr(10) + '  <script type="application/ld+json">' + ld + '</script>'
+
+
 def page(lang, sport=None):
     d = dict(L[lang])
     if sport:
@@ -404,7 +413,7 @@ def page(lang, sport=None):
   <link rel="preconnect" href="https://raw.githubusercontent.com" crossorigin>
   <link rel="stylesheet" href="/assets/styles.css">
   <script type="application/ld+json">{site_ld}</script>
-  <script type="application/ld+json">{faq_ld}</script>{analytics}
+  <script type="application/ld+json">{faq_ld}</script>{match_ld}{analytics}
 </head>
 <body>
   <header class="site"><div class="wrap hrow">
@@ -429,7 +438,8 @@ def page(lang, sport=None):
       {sportlinks}
     </nav>
     <div class="filters" id="filters"></div>
-    <div class="matchlist" id="matchlist"></div>
+    <p class="daysum">{daysum}</p>
+    <div class="matchlist" id="matchlist">{prematches}</div>
 
     <section class="features">{feats}</section>
 
@@ -467,6 +477,9 @@ def page(lang, sport=None):
         today=d["today"], feats=feats, proseT=d["proseT"], prose=d["prose"],
         faq_section=faq_section, langlinks=lang_links(lang, sport), foot=d["foot"],
         sportlinks=sport_links(lang, sport), sportjs=json.dumps(sport),
+        prematches=prerender.kartlar(lang, sport),
+        daysum=prerender.ozet(lang, sport),
+        match_ld=_match_ld_tag(lang, sport),
         apple_svg=APPLE_SVG, google_svg=GOOGLE_SVG, favicon=FAVICON,
         logo_svg=LOGO_SVG, theme_svg=THEME_SVG,
         # Dil yönlendirmesi yalnız kök sayfada; spor sayfasında olursa
