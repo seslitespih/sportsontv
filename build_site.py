@@ -4,6 +4,18 @@ language (localized <title>/description/H1/FAQ + hreflang alternates + JSON-LD),
 plus sitemap.xml and robots.txt. The live match list is filled client-side by
 assets/app.js from the same daily fixtures the mobile app uses."""
 import os, io, sys, json
+
+# ─── Varlik surumu ───────────────────────────────────────────────────────────
+# app.js GitHub Pages'te 10 dakika onbellekleniyor; tarayicilar daha uzun tutabiliyor.
+# Icerige gore hash ekleyince dosya degistigi anda URL de degisir ve eski surum
+# takilip kalmaz. Degismediginde hash ayni kalir, gereksiz indirme olmaz.
+import hashlib as _hashlib
+try:
+    with open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "assets", "app.js"), "rb") as _f:
+        ASSET_VER = _hashlib.sha1(_f.read()).hexdigest()[:8]
+except OSError:
+    ASSET_VER = "0"
+
 import prerender   # mac listesini HTML e gomer (SEO)
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 
@@ -467,9 +479,10 @@ def page(lang, sport=None):
     <p style="margin:12px 0 0">{foot}</p>
   </div></footer>
   <script>window.__SPORT__={sportjs};</script>
-  <script src="/assets/app.js"></script>
+  <script src="/assets/app.js?v={ASSET_VER}"></script>
 </body>
 </html>""".format(
+        ASSET_VER=ASSET_VER,
         lang=lang, dir=d["dir"], title=d["title"], desc=d["desc"], canon=canon,
         hreflangs=hreflangs(lang, sport), brand=BRAND, oglocale=OG_LOCALE[lang],
         base=BASE, selfurl=path_for(lang), langopts=lang_options(lang, sport),
