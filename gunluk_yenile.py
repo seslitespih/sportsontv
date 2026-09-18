@@ -19,8 +19,23 @@ def kos(*a, **kw):
                           encoding='utf-8', errors='replace', **kw)
 
 
+# Zamanlanmis gorev (SiteMacIcerigi) ciktiyi hicbir yere yazmiyordu; bir adim
+# sessizce bozulsa fark edilmezdi. Her satir ayrica gunluk_yenile.log'a eklenir.
+# Dosya .gitignore ve .assetsignore'da, depoya ve siteye girmez.
+LOG = os.path.join(KOK, 'gunluk_yenile.log')
+
+
 def log(m):
-    print('[%s] %s' % (datetime.datetime.now().strftime('%H:%M:%S'), m))
+    satir = '[%s] %s' % (datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S'), m)
+    try:
+        print(satir)
+    except UnicodeEncodeError:
+        print(satir.encode('ascii', 'replace').decode())
+    try:
+        with open(LOG, 'a', encoding='utf-8') as f:
+            f.write(satir + '\n')
+    except OSError:
+        pass
 
 
 # 1) Uzaktaki değişiklikleri al (başka oturum push'lamış olabilir)
@@ -36,24 +51,28 @@ log(r.stdout.strip().split('\n')[-1] if r.stdout.strip() else 'build bitti')
 
 # 3) Değişiklik var mı?
 d = kos('git', 'status', '--porcelain')
-if not d.stdout.strip():
-    log('degisiklik yok — push atlandi')
-    sys.exit(0)
+# Degisiklik yoksa git adimi atlanir ama Cloudflare'e YINE yuklenir: onceki
+# yukleme basarisiz olduysa git temiz kalir ve eskiden script burada ciktigi
+# icin Cloudflare bir daha hic guncellenmezdi. Yukleme ~12 sn, yalniz degisen
+# dosyalari gonderir; gereksiz tekrar zararsiz.
+degisti = bool(d.stdout.strip())
+if not degisti:
+    log('degisiklik yok — git push atlandi')
+else:
+    dosya = len([x for x in d.stdout.strip().split('\n') if x.strip()])
+    log('%d dosya degisti' % dosya)
 
-dosya = len([x for x in d.stdout.strip().split('\n') if x.strip()])
-log('%d dosya degisti' % dosya)
-
-# 4) Commit + push
-kos('git', 'add', '-A')
-mesaj = 'auto: gunluk mac icerigi %s [skip ci]' % datetime.date.today().isoformat()
-c = kos('git', 'commit', '-q', '-m', mesaj)
-p = kos('git', 'push', '-q', 'origin', 'main')
-if p.returncode != 0:
-    # Uzakta yeni bir sey varsa rebase edip tekrar dene
-    kos('git', 'fetch', '-q', 'origin')
-    kos('git', 'rebase', 'origin/main')
+    # 4) Commit + push
+    kos('git', 'add', '-A')
+    mesaj = 'auto: gunluk mac icerigi %s [skip ci]' % datetime.date.today().isoformat()
+    c = kos('git', 'commit', '-q', '-m', mesaj)
     p = kos('git', 'push', '-q', 'origin', 'main')
-log('push ' + ('TAMAM' if p.returncode == 0 else 'BASARISIZ: ' + p.stderr[-300:]))
+    if p.returncode != 0:
+        # Uzakta yeni bir sey varsa rebase edip tekrar dene
+        kos('git', 'fetch', '-q', 'origin')
+        kos('git', 'rebase', 'origin/main')
+        p = kos('git', 'push', '-q', 'origin', 'main')
+    log('push ' + ('TAMAM' if p.returncode == 0 else 'BASARISIZ: ' + p.stderr[-300:]))
 
 # 5) Cloudflare Pages'e yayinla
 #

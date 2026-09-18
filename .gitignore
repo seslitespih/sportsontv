@@ -8,3 +8,6 @@ __pycache__/
 !.dev.vars.example
 .env*
 !.env.example
+
+# zamanlanmis gorev gunlugu
+gunluk_yenile.log
