@@ -29,7 +29,7 @@ sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 # SEMA'yı "https" yapmak — ya da geçici denemek için ortamdan geçmek:
 #     SITE_SEMA=https python build_site.py
 # Sonra: derle, push'la, sitemap'i Search Console'a yeniden gönder.
-SEMA = os.environ.get("SITE_SEMA", "http")
+SEMA = os.environ.get("SITE_SEMA", "https")   # 18 Eyl 2026: Cloudflare Pages, sertifika aktif
 BASE = SEMA + "://sportstvtoday.com"
 OUT  = r"C:/Users/ESAT/Desktop/sportsontv-site"
 APPLE = "https://apps.apple.com/app/id6779112504"
