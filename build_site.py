@@ -23,9 +23,14 @@ sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 # "new" durumunda takılı (DNS doğru, CAA engeli yok, alan adı iki kez kaldırılıp
 # eklendi) ve https hiç çalışmıyor. Canonical/sitemap https gösterdiği sürece
 # Google hiçbir sayfayı çekemiyordu — site "hiç taranmamış" durumdaydı.
-# SERTİFİKA GELİNCE: burayı https yap, derle, push'la, GitHub Pages'te
-# https_enforced'ı aç, sitemap'i Search Console'a yeniden gönder.
-BASE = "http://sportstvtoday.com"
+#
+# 18 Eyl 2026: Cloudflare Pages'e taşınıyoruz (GitHub'ın sertifika kuyruğu 38
+# gündür kımıldamıyor). HTTPS çalışır çalışmaz tek yapılacak şey aşağıdaki
+# SEMA'yı "https" yapmak — ya da geçici denemek için ortamdan geçmek:
+#     SITE_SEMA=https python build_site.py
+# Sonra: derle, push'la, sitemap'i Search Console'a yeniden gönder.
+SEMA = os.environ.get("SITE_SEMA", "http")
+BASE = SEMA + "://sportstvtoday.com"
 OUT  = r"C:/Users/ESAT/Desktop/sportsontv-site"
 APPLE = "https://apps.apple.com/app/id6779112504"
 GOOGLE = "https://play.google.com/store/apps/details?id=com.machatirlatici.app"
