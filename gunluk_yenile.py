@@ -78,8 +78,11 @@ if os.path.exists(KIMLIK):
          '--branch=main', '--commit-dirty=true'],
         cwd=KOK, capture_output=True, text=True, encoding='utf-8',
         errors='replace', env=ortam, shell=(os.name == 'nt'))
-    son = [x for x in (d.stdout or '').strip().split('\n') if x.strip()]
-    log('cloudflare ' + ('TAMAM — ' + son[-1] if d.returncode == 0 and son
-                         else 'BASARISIZ: ' + (d.stderr or '')[-300:]))
+    # wrangler ciktisinda emoji var; Windows konsolu (cp1254) basamayip
+    # UnicodeEncodeError atiyor. Log'a yazmadan once ASCII disini at.
+    temiz = lambda s: (s or '').encode('ascii', 'ignore').decode().strip()
+    son = [x for x in temiz(d.stdout).split('\n') if x.strip()]
+    log('cloudflare ' + ('TAMAM - ' + son[-1].strip() if d.returncode == 0 and son
+                         else 'BASARISIZ: ' + temiz(d.stderr)[-300:]))
 else:
     log('cloudflare atlandi — kimlik dosyasi yok (%s)' % KIMLIK)
