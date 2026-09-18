@@ -54,3 +54,32 @@ if p.returncode != 0:
     kos('git', 'rebase', 'origin/main')
     p = kos('git', 'push', '-q', 'origin', 'main')
 log('push ' + ('TAMAM' if p.returncode == 0 else 'BASARISIZ: ' + p.stderr[-300:]))
+
+# 5) Cloudflare Pages'e yayinla
+#
+# 18 Eyl 2026: site GitHub Pages'ten Cloudflare Pages'e tasindi — GitHub'in
+# sertifikasi 38 gun "new" durumunda takili kaldi, https hic calismadi ve
+# Google 28 gun boyunca tek gosterim vermedi.
+#
+# Pages projesi DOGRUDAN YUKLEME (direct upload) tipinde, yani git push'u
+# kendisi izlemiyor; her derlemeden sonra buradan yuklenmesi gerekiyor.
+# Kimlik bilgileri depo DISINDA: Downloads/cloudflare_sportstv.env
+# (.gitignore zaten .env* kapsiyor ama dosya repoda hic durmasin diye disarida).
+KIMLIK = 'C:/Users/ESAT/Downloads/cloudflare_sportstv.env'
+if os.path.exists(KIMLIK):
+    ortam = dict(os.environ)
+    for satir in open(KIMLIK, encoding='utf-8'):
+        if '=' in satir and not satir.lstrip().startswith('#'):
+            k, _, v = satir.partition('=')
+            ortam[k.strip()] = v.strip()
+    d = subprocess.run(
+        ['npx', '--yes', 'wrangler@4', 'pages', 'deploy', '.',
+         '--project-name=' + ortam.get('PAGES_PROJECT', 'sportsontv'),
+         '--branch=main', '--commit-dirty=true'],
+        cwd=KOK, capture_output=True, text=True, encoding='utf-8',
+        errors='replace', env=ortam, shell=(os.name == 'nt'))
+    son = [x for x in (d.stdout or '').strip().split('\n') if x.strip()]
+    log('cloudflare ' + ('TAMAM — ' + son[-1] if d.returncode == 0 and son
+                         else 'BASARISIZ: ' + (d.stderr or '')[-300:]))
+else:
+    log('cloudflare atlandi — kimlik dosyasi yok (%s)' % KIMLIK)
