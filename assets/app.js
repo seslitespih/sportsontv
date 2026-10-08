@@ -7,7 +7,7 @@
   var LANG = (document.documentElement.lang || "en").slice(0, 2);
 
   // Desteklenen pazarlar (curated veri bu ülkeler için var)
-  var COUNTRIES = ["TR","US","GB","DE","ES","FR","IT","PT","BR","AR","MX","CO","CL","UY","PY","GT","CA","SA","DZ","IQ","JO","EG","OM","NL","CZ","HR","NO","IR","JP","KR","AE","AT","AU","BE","CH","CI","EC","GH","GR","LY","MA","ML","NG","NZ","PE","QA","SN","TN","ZA"];
+  var COUNTRIES = ["TR","US","GB","DE","ES","FR","IT","PT","BR","AR","MX","CO","CL","UY","PY","GT","CA","SA","DZ","IQ","JO","EG","OM","NL","CZ","HR","NO","JP","KR","AE","AT","AU","BE","CH","CI","EC","GH","GR","LY","MA","ML","NG","NZ","PE","QA","SN","TN","ZA"];
   var LANG_COUNTRY = { tr:"TR", en:"GB", de:"DE", es:"ES", fr:"FR", it:"IT", pt:"PT", ar:"SA" };
   // ABD/Kanada/Brezilya/Meksika birden çok saat dilimine yayılır. Ziyaretçinin
   // cihazı o ülkenin dilimlerinden birindeyse ONU kullanırız (Kaliforniyalı
@@ -47,7 +47,7 @@
     // Gerçek indirme gelen Arap pazarları — Irak, Ürdün, Mısır, Umman
     IQ:"Asia/Baghdad", JO:"Asia/Amman", EG:"Africa/Cairo", OM:"Asia/Muscat",
     NL:"Europe/Amsterdam", CZ:"Europe/Prague", HR:"Europe/Zagreb", NO:"Europe/Oslo",
-    IR:"Asia/Tehran", JP:"Asia/Tokyo", KR:"Asia/Seoul",
+    JP:"Asia/Tokyo", KR:"Asia/Seoul",
     // Uygulamadaki 49 ulkeyle hizalandi (20 Agu 2026) — site 30 ulkede kalmisti
     AE:"Asia/Dubai", AT:"Europe/Vienna", AU:"Australia/Sydney", BE:"Europe/Brussels",
     CH:"Europe/Zurich", CI:"Africa/Abidjan", EC:"America/Guayaquil", GH:"Africa/Accra",
