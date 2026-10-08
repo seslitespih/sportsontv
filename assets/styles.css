@@ -232,6 +232,7 @@ main { padding-bottom: 60px; }
 
 .prose h2 { font-size: 1.5rem; letter-spacing: -.02em; margin: 34px 0 10px; }
 .prose p { color: var(--text-soft); max-width: 68ch; }
+.prose a { color: var(--brand); text-decoration: underline; text-underline-offset: 2px; }
 
 /* ── Footer ─────────────────────────────────────────────── */
 footer.site { border-top: 1px solid var(--border); padding: 28px 0 40px; color: var(--text-mut); font-size: .88rem; }

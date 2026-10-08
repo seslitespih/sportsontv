@@ -440,4 +440,92 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://sportstvtoday.com/ar/motorsport/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://sportstvtoday.com/motorsport/"/>
   </url>
+  <url><loc>https://sportstvtoday.com/about/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sportstvtoday.com/about/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://sportstvtoday.com/tr/hakkinda/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sportstvtoday.com/de/ueber-uns/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/sobre-nosotros/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/a-propos/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sportstvtoday.com/it/chi-siamo/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://sportstvtoday.com/pt/sobre/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://sportstvtoday.com/ar/about/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sportstvtoday.com/about/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/tr/hakkinda/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sportstvtoday.com/about/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://sportstvtoday.com/tr/hakkinda/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sportstvtoday.com/de/ueber-uns/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/sobre-nosotros/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/a-propos/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sportstvtoday.com/it/chi-siamo/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://sportstvtoday.com/pt/sobre/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://sportstvtoday.com/ar/about/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sportstvtoday.com/about/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/de/ueber-uns/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sportstvtoday.com/about/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://sportstvtoday.com/tr/hakkinda/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sportstvtoday.com/de/ueber-uns/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/sobre-nosotros/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/a-propos/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sportstvtoday.com/it/chi-siamo/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://sportstvtoday.com/pt/sobre/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://sportstvtoday.com/ar/about/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sportstvtoday.com/about/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/es/sobre-nosotros/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sportstvtoday.com/about/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://sportstvtoday.com/tr/hakkinda/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sportstvtoday.com/de/ueber-uns/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/sobre-nosotros/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/a-propos/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sportstvtoday.com/it/chi-siamo/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://sportstvtoday.com/pt/sobre/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://sportstvtoday.com/ar/about/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sportstvtoday.com/about/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/fr/a-propos/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sportstvtoday.com/about/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://sportstvtoday.com/tr/hakkinda/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sportstvtoday.com/de/ueber-uns/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/sobre-nosotros/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/a-propos/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sportstvtoday.com/it/chi-siamo/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://sportstvtoday.com/pt/sobre/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://sportstvtoday.com/ar/about/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sportstvtoday.com/about/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/it/chi-siamo/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sportstvtoday.com/about/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://sportstvtoday.com/tr/hakkinda/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sportstvtoday.com/de/ueber-uns/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/sobre-nosotros/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/a-propos/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sportstvtoday.com/it/chi-siamo/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://sportstvtoday.com/pt/sobre/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://sportstvtoday.com/ar/about/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sportstvtoday.com/about/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/pt/sobre/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sportstvtoday.com/about/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://sportstvtoday.com/tr/hakkinda/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sportstvtoday.com/de/ueber-uns/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/sobre-nosotros/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/a-propos/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sportstvtoday.com/it/chi-siamo/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://sportstvtoday.com/pt/sobre/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://sportstvtoday.com/ar/about/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sportstvtoday.com/about/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/ar/about/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sportstvtoday.com/about/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://sportstvtoday.com/tr/hakkinda/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sportstvtoday.com/de/ueber-uns/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/sobre-nosotros/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/a-propos/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://sportstvtoday.com/it/chi-siamo/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://sportstvtoday.com/pt/sobre/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://sportstvtoday.com/ar/about/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sportstvtoday.com/about/"/>
+  </url>
 </urlset>

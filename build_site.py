@@ -479,7 +479,7 @@ def page(lang, sport=None):
       <div class="langlinks">
       {langlinks}
       </div>
-      <div>© {brand}</div>
+      <div>{footlinks} · © {brand}</div>
     </div>
     <p style="margin:12px 0 0">{foot}</p>
   </div></footer>
@@ -494,6 +494,7 @@ def page(lang, sport=None):
         h1=d["h1"], sub=d["sub"], apple=APPLE, google=GOOGLE, store=d["store"], cta=CTA[lang],
         today=d["today"], feats=feats, proseT=d["proseT"], prose=d["prose"],
         faq_section=faq_section, langlinks=lang_links(lang, sport), foot=d["foot"],
+        footlinks=foot_links(lang),
         sportlinks=sport_links(lang, sport), sportjs=json.dumps(sport),
         prematches=prerender.kartlar(lang, sport),
         daysum=prerender.ozet(lang, sport),
@@ -504,6 +505,194 @@ def page(lang, sport=None):
         # ziyaretçiyi konudan koparıp ana sayfaya atar.
         root_redirect=(ROOT_REDIRECT if (lang == "en" and not sport) else ""), analytics=analytics_tag(),
         site_ld=json.dumps(site_ld, ensure_ascii=False), faq_ld=json.dumps(extra_ld, ensure_ascii=False))
+
+# ── Hakkında sayfası (8 dil) ──
+# Claude for Startups başvurusu (Eki 2026): değerlendiren kişi sitede kim
+# olduğumuzu, ne yaptığımızı ve nasıl ulaşılacağını arıyor. Her sayfanın
+# altbilgisinden bağlanır. Paragraflardaki {email} {privacy} {founder}
+# yer tutucuları about_page() içinde doldurulur.
+CONTACT = "esat@sportstvtoday.com"   # Cloudflare Email Routing -> ssaglamess@gmail.com
+FOUNDER = "Muhammet Esat Sağlam"
+PRIVACY_URL = "https://seslitespih.github.io/mac-hatirlatici/privacy.html"   # uygulamanın paywall'daki linki
+ABOUT_SLUG = {"en":"about", "tr":"hakkinda", "de":"ueber-uns", "es":"sobre-nosotros",
+              "fr":"a-propos", "it":"chi-siamo", "pt":"sobre", "ar":"about"}
+ABOUT_LBL = {"en":"About", "tr":"Hakkında", "de":"Über uns", "es":"Sobre nosotros",
+             "fr":"À propos", "it":"Chi siamo", "pt":"Sobre", "ar":"من نحن"}
+CONTACT_LBL = {"en":"Contact", "tr":"İletişim", "de":"Kontakt", "es":"Contacto",
+               "fr":"Contact", "it":"Contatti", "pt":"Contato", "ar":"تواصل معنا"}
+ABOUT = {
+ "en": dict(
+   title="About Sports on TV — Who We Are & How It Works",
+   desc="Sports on TV is an independent sports TV guide that shows which channel carries each match in your country, at your local time. Who we are, how our schedule is researched and how to reach us.",
+   h1="About Sports on TV", privacy="privacy policy",
+   secs=[("What we do", "Sports on TV tells you which TV channel or streaming service shows today's matches in your country, with kickoff times in your own time zone. We cover football, basketball, volleyball and motorsport for more than 40 countries, in 8 languages. The website is free, and so is our Match Reminder app for iPhone and Android."),
+         ("How our schedule is made", "Broadcast rights differ from country to country, and often from match to match. Every day, an AI research agent built on Claude, the AI model made by Anthropic, reads broadcaster schedules and official league sources and records the channel for each match in each country. Automated checks reject uncertain channels and wrong dates before anything is published. Kickoff times are stored in UTC and converted to your time zone on your device. Channels can still change at short notice, so check with your broadcaster before a big game."),
+         ("Who we are", "Sports on TV is an independent, self-funded project founded in 2026 by {founder} in Türkiye. We are not affiliated with any broadcaster, league or club; team, competition and channel names belong to their owners."),
+         ("Contact", "Questions, corrections or partnership ideas: {email}. If you spot a wrong channel, tell us the match and your country and we will fix it."),
+         ("Privacy", "You don't need an account to use this site. We use Google Analytics to count visits, and your country, language and theme choices are stored only in your browser. The Match Reminder app has its own {privacy}.")]),
+ "tr": dict(
+   title="Sports on TV Hakkında — Biz Kimiz, Nasıl Çalışıyoruz",
+   desc="Sports on TV, her maçın senin ülkende hangi kanalda ve senin saatinle kaçta olduğunu gösteren bağımsız bir spor yayın rehberi. Biz kimiz, programı nasıl hazırlıyoruz, bize nasıl ulaşırsın.",
+   h1="Sports on TV Hakkında", privacy="gizlilik politikası",
+   secs=[("Ne yapıyoruz", "Sports on TV, bugünkü maçların senin ülkende hangi TV kanalında ya da dijital platformda yayınlanacağını, başlama saatiyle birlikte kendi saat diliminde gösterir. Futbol, basketbol, voleybol ve motor sporlarını 40'tan fazla ülke için 8 dilde sunuyoruz. Site ücretsiz; iPhone ve Android uygulamamız da öyle."),
+         ("Yayın programı nasıl hazırlanıyor", "Yayın hakları ülkeden ülkeye, çoğu zaman da maçtan maça değişir. Her gün, Anthropic'in yapay zekâ modeli Claude üzerine kurulu bir araştırma ajanı yayıncıların programlarını ve liglerin resmî kaynaklarını okuyup her maçın her ülkedeki kanalını kaydeder. Otomatik kontroller, emin olunamayan kanalları ve hatalı tarihleri yayına girmeden eler. Başlama saatleri UTC olarak saklanır ve cihazında senin saat dilimine çevrilir. Kanallar son anda değişebilir; büyük maçlardan önce yayıncını da kontrol et."),
+         ("Biz kimiz", "Sports on TV, 2026'da {founder} tarafından Türkiye'de kurulan, bağımsız ve kendi kaynaklarıyla yürüyen bir projedir. Hiçbir yayıncı, lig ya da kulüple bağlantımız yoktur; takım, turnuva ve kanal adları sahiplerine aittir."),
+         ("İletişim", "Soru, düzeltme ya da iş birliği önerileri için: {email}. Yanlış bir kanal görürsen maçı ve ülkeni yaz, düzeltelim."),
+         ("Gizlilik", "Siteyi kullanmak için hesap gerekmez. Ziyaretleri saymak için Google Analytics kullanıyoruz; ülke, dil ve tema seçimlerin yalnızca tarayıcında saklanır. Uygulamamızın ayrı bir {privacy} var.")]),
+ "de": dict(
+   title="Über Sports on TV — Wer wir sind & wie es funktioniert",
+   desc="Sports on TV ist ein unabhängiger Sport-TV-Guide: welcher Sender jedes Spiel in deinem Land zeigt, zu deiner Ortszeit. Wer wir sind, wie wir das Programm recherchieren und wie du uns erreichst.",
+   h1="Über Sports on TV", privacy="Datenschutzerklärung",
+   secs=[("Was wir machen", "Sports on TV zeigt dir, welcher TV-Sender oder Streamingdienst die heutigen Spiele in deinem Land überträgt – mit Anstoßzeiten in deiner Zeitzone. Wir decken Fußball, Basketball, Volleyball und Motorsport in mehr als 40 Ländern und 8 Sprachen ab. Die Website ist kostenlos, ebenso unsere App für iPhone und Android."),
+         ("So entsteht unser Programm", "Übertragungsrechte unterscheiden sich von Land zu Land und oft von Spiel zu Spiel. Jeden Tag liest ein KI-Recherche-Agent auf Basis von Claude, dem KI-Modell von Anthropic, die Programme der Sender und offizielle Quellen der Ligen und erfasst für jedes Spiel den Sender in jedem Land. Automatische Prüfungen sortieren unsichere Sender und falsche Termine aus, bevor etwas veröffentlicht wird. Anstoßzeiten werden in UTC gespeichert und auf deinem Gerät in deine Zeitzone umgerechnet. Sender können sich kurzfristig ändern – prüfe vor einem großen Spiel am besten auch beim Sender."),
+         ("Wer wir sind", "Sports on TV ist ein unabhängiges, selbstfinanziertes Projekt, das 2026 von {founder} in der Türkei gegründet wurde. Wir sind mit keinem Sender, keiner Liga und keinem Verein verbunden; Team-, Wettbewerbs- und Sendernamen gehören ihren Inhabern."),
+         ("Kontakt", "Fragen, Korrekturen oder Ideen für eine Zusammenarbeit: {email}. Wenn dir ein falscher Sender auffällt, nenne uns das Spiel und dein Land – wir korrigieren es."),
+         ("Datenschutz", "Für diese Website brauchst du kein Konto. Wir nutzen Google Analytics, um Besuche zu zählen; deine Auswahl von Land, Sprache und Design wird nur in deinem Browser gespeichert. Für unsere App gilt eine eigene {privacy}.")]),
+ "es": dict(
+   title="Sobre Sports on TV — Quiénes somos y cómo funciona",
+   desc="Sports on TV es una guía independiente de deportes en TV: qué canal emite cada partido en tu país y a tu hora local. Quiénes somos, cómo preparamos la programación y cómo contactarnos.",
+   h1="Sobre Sports on TV", privacy="política de privacidad",
+   secs=[("Qué hacemos", "Sports on TV te dice qué canal de televisión o plataforma de streaming emite los partidos de hoy en tu país, con la hora de inicio en tu propia zona horaria. Cubrimos fútbol, baloncesto, voleibol y motor en más de 40 países y en 8 idiomas. La web es gratuita, igual que nuestra app para iPhone y Android."),
+         ("Cómo se prepara la programación", "Los derechos de emisión cambian de un país a otro y, a menudo, de un partido a otro. Cada día, un agente de investigación con IA basado en Claude, el modelo de IA de Anthropic, lee la programación de las cadenas y las fuentes oficiales de las ligas y registra el canal de cada partido en cada país. Unos controles automáticos descartan los canales dudosos y las fechas erróneas antes de publicar nada. Las horas de inicio se guardan en UTC y se convierten a tu zona horaria en tu dispositivo. Los canales pueden cambiar a última hora, así que consulta también a tu operador antes de un partido importante."),
+         ("Quiénes somos", "Sports on TV es un proyecto independiente y autofinanciado, fundado en 2026 por {founder} en Turquía. No tenemos relación con ninguna cadena, liga ni club; los nombres de equipos, competiciones y canales pertenecen a sus propietarios."),
+         ("Contacto", "Preguntas, correcciones o propuestas de colaboración: {email}. Si ves un canal incorrecto, dinos el partido y tu país y lo corregimos."),
+         ("Privacidad", "No necesitas una cuenta para usar esta web. Usamos Google Analytics para contar las visitas, y tus preferencias de país, idioma y tema se guardan solo en tu navegador. Nuestra app tiene su propia {privacy}.")]),
+ "fr": dict(
+   title="À propos de Sports on TV — Qui sommes-nous et comment ça marche",
+   desc="Sports on TV est un guide TV sportif indépendant : quelle chaîne diffuse chaque match dans votre pays, à votre heure locale. Qui nous sommes, comment nous établissons le programme et comment nous joindre.",
+   h1="À propos de Sports on TV", privacy="politique de confidentialité",
+   secs=[("Ce que nous faisons", "Sports on TV vous indique quelle chaîne de télévision ou quelle plateforme de streaming diffuse les matchs du jour dans votre pays, avec l'heure du coup d'envoi dans votre fuseau horaire. Nous couvrons le football, le basket-ball, le volley-ball et le sport automobile dans plus de 40 pays, en 8 langues. Le site est gratuit, tout comme notre application pour iPhone et Android."),
+         ("Comment le programme est établi", "Les droits de diffusion varient d'un pays à l'autre, et souvent d'un match à l'autre. Chaque jour, un agent de recherche IA construit sur Claude, le modèle d'IA d'Anthropic, lit les programmes des diffuseurs et les sources officielles des ligues, puis enregistre la chaîne de chaque match dans chaque pays. Des contrôles automatiques écartent les chaînes incertaines et les dates erronées avant toute publication. Les heures de coup d'envoi sont stockées en UTC et converties dans votre fuseau horaire sur votre appareil. Les chaînes peuvent changer au dernier moment : avant un grand match, vérifiez aussi auprès de votre diffuseur."),
+         ("Qui sommes-nous", "Sports on TV est un projet indépendant et autofinancé, fondé en 2026 par {founder} en Turquie. Nous ne sommes liés à aucun diffuseur, aucune ligue ni aucun club ; les noms d'équipes, de compétitions et de chaînes appartiennent à leurs propriétaires."),
+         ("Contact", "Questions, corrections ou idées de partenariat : {email}. Si vous repérez une chaîne erronée, indiquez-nous le match et votre pays : nous la corrigerons."),
+         ("Confidentialité", "Aucun compte n'est nécessaire pour utiliser ce site. Nous utilisons Google Analytics pour compter les visites ; vos choix de pays, de langue et de thème sont enregistrés uniquement dans votre navigateur. Notre application dispose de sa propre {privacy}.")]),
+ "it": dict(
+   title="Chi siamo — Sports on TV e come funziona",
+   desc="Sports on TV è una guida TV sportiva indipendente: quale canale trasmette ogni partita nel tuo paese, all'ora locale. Chi siamo, come prepariamo il palinsesto e come contattarci.",
+   h1="Sports on TV: chi siamo", privacy="informativa sulla privacy",
+   secs=[("Cosa facciamo", "Sports on TV ti dice quale canale TV o servizio di streaming trasmette le partite di oggi nel tuo paese, con l'orario d'inizio nel tuo fuso orario. Copriamo calcio, basket, pallavolo e motori in oltre 40 paesi e in 8 lingue. Il sito è gratuito, così come la nostra app per iPhone e Android."),
+         ("Come nasce il palinsesto", "I diritti TV cambiano da paese a paese e spesso da partita a partita. Ogni giorno un agente di ricerca basato su Claude, il modello di IA di Anthropic, legge i palinsesti delle emittenti e le fonti ufficiali delle leghe e registra il canale di ogni partita in ogni paese. Controlli automatici scartano i canali incerti e le date errate prima di pubblicare qualsiasi cosa. Gli orari d'inizio sono salvati in UTC e convertiti nel tuo fuso orario sul tuo dispositivo. I canali possono cambiare all'ultimo momento: prima di una partita importante, verifica anche con la tua emittente."),
+         ("Chi siamo", "Sports on TV è un progetto indipendente e autofinanziato, fondato nel 2026 da {founder} in Turchia. Non siamo affiliati ad alcuna emittente, lega o club; i nomi di squadre, competizioni e canali appartengono ai rispettivi proprietari."),
+         ("Contatti", "Domande, correzioni o proposte di collaborazione: {email}. Se trovi un canale sbagliato, indicaci la partita e il tuo paese e lo correggeremo."),
+         ("Privacy", "Per usare questo sito non serve un account. Usiamo Google Analytics per contare le visite; le tue scelte di paese, lingua e tema restano salvate solo nel tuo browser. La nostra app ha una propria {privacy}.")]),
+ "pt": dict(
+   title="Sobre o Sports on TV — Quem somos e como funciona",
+   desc="O Sports on TV é um guia independente de esportes na TV: qual canal transmite cada jogo no seu país, no seu horário local. Quem somos, como montamos a programação e como falar com a gente.",
+   h1="Sobre o Sports on TV", privacy="política de privacidade",
+   secs=[("O que fazemos", "O Sports on TV mostra qual canal de TV ou serviço de streaming transmite os jogos de hoje no seu país, com o horário de início no seu fuso horário. Cobrimos futebol, basquete, vôlei e automobilismo em mais de 40 países, em 8 idiomas. O site é gratuito, assim como o nosso app para iPhone e Android."),
+         ("Como a programação é feita", "Os direitos de transmissão mudam de um país para outro e, muitas vezes, de um jogo para outro. Todos os dias, um agente de pesquisa com IA baseado no Claude, o modelo de IA da Anthropic, lê as grades das emissoras e as fontes oficiais das ligas e registra o canal de cada jogo em cada país. Verificações automáticas descartam canais incertos e datas erradas antes de qualquer publicação. Os horários de início são armazenados em UTC e convertidos para o seu fuso horário no seu aparelho. Os canais podem mudar de última hora, então confira também com a sua emissora antes de um jogo importante."),
+         ("Quem somos", "O Sports on TV é um projeto independente e autofinanciado, fundado em 2026 por {founder}, na Turquia. Não temos vínculo com nenhuma emissora, liga ou clube; os nomes de times, competições e canais pertencem aos seus donos."),
+         ("Contato", "Dúvidas, correções ou ideias de parceria: {email}. Se você encontrar um canal errado, diga o jogo e o seu país que a gente corrige."),
+         ("Privacidade", "Você não precisa de conta para usar este site. Usamos o Google Analytics para contar as visitas, e suas escolhas de país, idioma e tema ficam salvas só no seu navegador. O nosso app tem a sua própria {privacy}.")]),
+ "ar": dict(
+   title="عن Sports on TV — من نحن وكيف نعمل",
+   desc="Sports on TV دليل مستقل للرياضة على التلفزيون: أي قناة تنقل كل مباراة في بلدك وبتوقيتك المحلي. تعرّف على من نحن، وكيف نعدّ جدول البث، وكيف تتواصل معنا.",
+   h1="عن Sports on TV", privacy="سياسة خصوصية",
+   secs=[("ماذا نقدّم", "يخبرك Sports on TV بالقناة التلفزيونية أو خدمة البث التي تنقل مباريات اليوم في بلدك، مع موعد الانطلاق بحسب منطقتك الزمنية. نغطي كرة القدم وكرة السلة والكرة الطائرة ورياضة السيارات في أكثر من 40 دولة وبثماني لغات. الموقع مجاني، وكذلك تطبيقنا على iPhone وAndroid."),
+         ("كيف نعدّ جدول البث", "تختلف حقوق البث من بلد إلى آخر، وكثيرًا من مباراة إلى أخرى. كل يوم، يقرأ وكيل بحث بالذكاء الاصطناعي مبني على Claude، نموذج الذكاء الاصطناعي من Anthropic، جداول القنوات والمصادر الرسمية للدوريات، ويسجّل قناة كل مباراة في كل بلد. وتستبعد فحوص تلقائية القنوات غير المؤكدة والتواريخ الخاطئة قبل نشر أي شيء. تُحفظ مواعيد الانطلاق بتوقيت UTC وتُحوَّل إلى منطقتك الزمنية على جهازك. قد تتغير القنوات في اللحظة الأخيرة، لذا تحقّق أيضًا من القناة الناقلة قبل المباريات الكبرى."),
+         ("من نحن", "Sports on TV مشروع مستقل وممول ذاتيًا، أسسه {founder} في تركيا عام 2026. لا نرتبط بأي قناة أو دوري أو نادٍ، وأسماء الفرق والبطولات والقنوات ملك لأصحابها."),
+         ("تواصل معنا", "للأسئلة أو التصحيحات أو أفكار الشراكة: {email}. إذا لاحظت قناة خاطئة، أخبرنا بالمباراة وببلدك وسنصححها."),
+         ("الخصوصية", "لا تحتاج إلى حساب لاستخدام هذا الموقع. نستخدم Google Analytics لإحصاء الزيارات، وتُحفظ اختياراتك للبلد واللغة والمظهر في متصفحك فقط. ولتطبيقنا {privacy} خاصة به.")]),
+}
+
+def about_path(lang):
+    s = SEG[lang]
+    return "/" + (s + "/" if s else "") + ABOUT_SLUG[lang] + "/"
+
+def foot_links(lang):
+    return '<a href="%s">%s</a> · <a href="mailto:%s">%s</a>' % (
+        about_path(lang), ABOUT_LBL[lang], CONTACT, CONTACT_LBL[lang])
+
+# Hakkında sayfası app.js yüklemez (maç listesi yok); tema ve dil seçici
+# için app.js'teki initTheme/sotSetLang'in küçük kopyası.
+ABOUT_JS = ('<script>(function(){var d=document.documentElement;'
+            'try{var s=localStorage.getItem("sot_theme");if(s)d.setAttribute("data-theme",s)}catch(e){}'
+            'window.sotSetLang=function(sel){try{localStorage.setItem("sot_lang",'
+            'sel.options[sel.selectedIndex].getAttribute("data-lang")||"en")}catch(e){}location.href=sel.value};'
+            'document.addEventListener("DOMContentLoaded",function(){var b=document.getElementById("themeBtn");'
+            'if(b)b.addEventListener("click",function(){var c=d.getAttribute("data-theme");'
+            'var n=c==="dark"?"light":(c==="light"?"dark":(matchMedia("(prefers-color-scheme: dark)").matches?"light":"dark"));'
+            'd.setAttribute("data-theme",n);try{localStorage.setItem("sot_theme",n)}catch(e){}})})})();</script>')
+
+def about_page(lang):
+    a = ABOUT[lang]
+    fill = dict(email='<a href="mailto:%s">%s</a>' % (CONTACT, CONTACT),
+                privacy='<a href="%s" rel="nofollow">%s</a>' % (PRIVACY_URL, a["privacy"]),
+                founder=FOUNDER)
+    secs = "\n    ".join('<section class="prose"><h2>%s</h2><p>%s</p></section>' % (h, p.format(**fill))
+                         for h, p in a["secs"])
+    alts = "\n  ".join(['<link rel="alternate" hreflang="%s" href="%s">' % (l, BASE + about_path(l)) for l in SEG]
+                       + ['<link rel="alternate" hreflang="x-default" href="%s">' % (BASE + about_path("en"))])
+    opts = "".join('<option value="%s" data-lang="%s"%s>%s</option>' % (
+        about_path(l), l, " selected" if l == lang else "", LANG_NATIVE[l]) for l in SEG)
+    langlinks = "\n      ".join('<a href="%s"%s>%s</a>' % (
+        about_path(l), ' aria-current="true"' if l == lang else "", LANG_NATIVE[l]) for l in SEG)
+    canon = BASE + about_path(lang)
+    ld = {"@context":"https://schema.org","@type":"AboutPage","name":a["title"],"url":canon,"inLanguage":lang,
+          "mainEntity":{"@type":"Organization","name":BRAND,"url":BASE + "/","email":CONTACT,
+                        "foundingDate":"2026","founder":{"@type":"Person","name":FOUNDER},
+                        "sameAs":[APPLE, GOOGLE]}}
+    return """<!doctype html>
+<html lang="{lang}" dir="{dir}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>{title}</title>
+  <meta name="description" content="{desc}">
+  <link rel="canonical" href="{canon}">
+  {alts}
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="{brand}">
+  <meta property="og:locale" content="{oglocale}">
+  <meta property="og:title" content="{title}">
+  <meta property="og:description" content="{desc}">
+  <meta property="og:url" content="{canon}">
+  <meta name="theme-color" content="#0b8f5a" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#0b0f17" media="(prefers-color-scheme: dark)">
+  <link rel="icon" href="{favicon}">
+  <link rel="stylesheet" href="/assets/styles.css">
+  <script type="application/ld+json">{ld}</script>
+  {about_js}{analytics}
+</head>
+<body>
+  <header class="site"><div class="wrap hrow">
+    <a class="brand" href="{home}"><span class="logo">{logo_svg}</span><span class="name">{brand}</span></a>
+    <span class="spacer"></span>
+    <div class="selects">
+      <select class="ctl" aria-label="Language" onchange="sotSetLang(this)">{opts}</select>
+      <button class="iconbtn" id="themeBtn" aria-label="Theme">{theme_svg}</button>
+    </div>
+  </div></header>
+
+  <main class="wrap">
+    <h1 class="ptitle">{h1}</h1>
+    {secs}
+
+    <section class="cta">
+      <h2>{cta}</h2>
+      <div class="badges">
+        <a class="store" href="{apple}" rel="nofollow" aria-label="App Store">{apple_svg}<b>App&nbsp;Store</b></a>
+        <a class="store" href="{google}" rel="nofollow" aria-label="Google Play">{google_svg}<b>Google&nbsp;Play</b></a>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site"><div class="wrap">
+    <div class="frow">
+      <div class="langlinks">
+      {langlinks}
+      </div>
+      <div>{footlinks} · © {brand}</div>
+    </div>
+  </div></footer>
+</body>
+</html>""".format(
+        lang=lang, dir=L[lang]["dir"], title=a["title"], desc=a["desc"], canon=canon, alts=alts,
+        brand=BRAND, oglocale=OG_LOCALE[lang], favicon=FAVICON,
+        ld=json.dumps(ld, ensure_ascii=False), about_js=ABOUT_JS, analytics=analytics_tag(),
+        home=path_for(lang), logo_svg=LOGO_SVG, opts=opts, theme_svg=THEME_SVG,
+        h1=a["h1"], secs=secs, cta=CTA[lang], apple=APPLE, google=GOOGLE,
+        apple_svg=APPLE_SVG, google_svg=GOOGLE_SVG, langlinks=langlinks, footlinks=foot_links(lang))
 
 # ── write pages ──
 count = 0
@@ -521,6 +710,12 @@ for lang, seg in SEG.items():
             f.write(page(lang, sp))
         count += 1
         print("yazildi:", path_for(lang, sp) + "index.html")
+    ad = os.path.join(d, ABOUT_SLUG[lang])
+    os.makedirs(ad, exist_ok=True)
+    with open(os.path.join(ad, "index.html"), "w", encoding="utf-8") as f:
+        f.write(about_page(lang))
+    count += 1
+    print("yazildi:", about_path(lang) + "index.html")
 
 # sitemap + robots + nojekyll + 404
 sm = ['<?xml version="1.0" encoding="UTF-8"?>',
@@ -532,6 +727,12 @@ for sp in [None] + SPORTS:
             sm.append('    <xhtml:link rel="alternate" hreflang="%s" href="%s"/>' % (alt, url_for(alt, sp)))
         sm.append('    <xhtml:link rel="alternate" hreflang="x-default" href="%s"/>' % url_for("en", sp))
         sm.append("  </url>")
+for lang in SEG:
+    sm.append("  <url><loc>%s</loc>" % (BASE + about_path(lang)))
+    for alt in SEG:
+        sm.append('    <xhtml:link rel="alternate" hreflang="%s" href="%s"/>' % (alt, BASE + about_path(alt)))
+    sm.append('    <xhtml:link rel="alternate" hreflang="x-default" href="%s"/>' % (BASE + about_path("en")))
+    sm.append("  </url>")
 sm.append("</urlset>")
 open(os.path.join(OUT, "sitemap.xml"), "w", encoding="utf-8").write("\n".join(sm))
 open(os.path.join(OUT, "robots.txt"), "w", encoding="utf-8").write(
