@@ -61,8 +61,8 @@ def _gun_penceresi(m, tz):
     return d.date() > bugun and d.hour < 6
 
 
-def maclar(lang, sport=None):
-    """Bu dil/spor sayfasında gösterilecek maçlar — app.js'in filtresiyle birebir."""
+def maclar(lang, sport=None, comp=None):
+    """Bu dil/spor/turnuva sayfasında gösterilecek maçlar — app.js'in filtresiyle birebir."""
     ulke = LANG_COUNTRY.get(lang, "GB")
     tz = ZoneInfo(COUNTRY_TZ.get(ulke, "UTC"))
     out = []
@@ -71,6 +71,8 @@ def maclar(lang, sport=None):
         if not kanal and m.get("tier") != "global":
             continue
         if sport and m.get("sport") != sport:
+            continue
+        if comp and m.get("competitionId") != comp:
             continue
         if not _gun_penceresi(m, tz):
             continue
@@ -84,9 +86,9 @@ def _ad(m, alan, yedek, lang):
     return d.get(lang) or d.get("en") or yedek
 
 
-def kartlar(lang, sport=None):
+def kartlar(lang, sport=None, comp=None):
     """app.js'teki matchCard ile AYNI markup — yüklenince fark edilmeden değişsin."""
-    liste, ulke, tz = maclar(lang, sport)
+    liste, ulke, tz = maclar(lang, sport, comp)
     if not liste:
         return ""
     vs, yok = VS.get(lang, "vs"), YOK.get(lang, YOK["en"])
@@ -111,9 +113,9 @@ def kartlar(lang, sport=None):
     return "".join(parca)
 
 
-def sports_ld(lang, sport=None):
+def sports_ld(lang, sport=None, comp=None):
     """JSON-LD SportsEvent — Google'ın maç zengin sonucu için."""
-    liste, ulke, _ = maclar(lang, sport)
+    liste, ulke, _ = maclar(lang, sport, comp)
     if not liste:
         return ""
     olay = []
@@ -141,9 +143,9 @@ def sports_ld(lang, sport=None):
     return json.dumps({"@context": "https://schema.org", "@graph": olay}, ensure_ascii=False)
 
 
-def ozet(lang, sport=None):
+def ozet(lang, sport=None, comp=None):
     """Sayfanın başına giren tek cümlelik özet — özgün metin, her gün değişir."""
-    liste, ulke, tz = maclar(lang, sport)
+    liste, ulke, tz = maclar(lang, sport, comp)
     if not liste:
         return ""
     n = len(liste)

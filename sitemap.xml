@@ -528,4 +528,34 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://sportstvtoday.com/ar/about/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://sportstvtoday.com/about/"/>
   </url>
+  <url><loc>https://sportstvtoday.com/es/laliga/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/laliga/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/liga/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/es/champions-league/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/champions-league/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/ligue-des-champions/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/es/europa-league/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/europa-league/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/ligue-europa/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/fr/ligue-1/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/ligue-1/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/fr/ligue-des-champions/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/champions-league/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/ligue-des-champions/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/fr/ligue-europa/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/europa-league/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/ligue-europa/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/fr/ligue-conference/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/ligue-conference/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/fr/liga/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/laliga/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/liga/"/>
+  </url>
 </urlset>

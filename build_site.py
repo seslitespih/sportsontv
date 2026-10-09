@@ -3,7 +3,7 @@
 language (localized <title>/description/H1/FAQ + hreflang alternates + JSON-LD),
 plus sitemap.xml and robots.txt. The live match list is filled client-side by
 assets/app.js from the same daily fixtures the mobile app uses."""
-import os, io, sys, json
+import os, io, sys, json, urllib.parse
 
 # ─── Varlik surumu ───────────────────────────────────────────────────────────
 # app.js GitHub Pages'te 10 dakika onbellekleniyor; tarayicilar daha uzun tutabiliyor.
@@ -167,6 +167,130 @@ SPORT_COPY = {
   "motorsport": ("سباقات اليوم على التلفزيون — القناة والتوقيت", "التجارب والتصفيات والسباق اليوم: القناة الناقلة وموعد الانطلاق بتوقيتك.", "ما القناة الناقلة للسباق اليوم؟", "جلسات رياضة السيارات اليوم — التجارب والتصفيات والسباق — مع القناة الناقلة وموعد الانطلاق بتوقيتك المحلي."),
  },
 }
+
+# ── turnuva sayfaları (Eki 2026) ─────────────────────────────────────────────
+# Genel "bugün maçlar" aramasında Marca/AS/L'Équipe ile yarışamıyoruz (Search
+# Console: ES/FR'de sıra 35-80). Turnuva bazlı "LaLiga hangi kanalda" soruları
+# daha dar ve kalıcı. Sayfa o turnuvanın bugünkü maçlarını + sezonun yayıncı
+# bilgisini verir. Yayıncılar maç-hatırlatıcı/scripts/broadcast-rights.json'daki
+# "dogrulandi" kayıtlarla aynı ve 9 Eki 2026'da web aramasıyla yeniden teyit
+# edildi (Ligue 1+ tek yayıncı; ES LaLiga Movistar 5 + DAZN 5; FR LaLiga
+# DAZN + Disney+). Sezon değişince metinler de güncellenmeli.
+# Anahtar = matches-daily.json'daki competitionId.
+COMP_PAGES = {
+ "es": {
+  "laliga": dict(slug="laliga", name="LaLiga",
+    title="Dónde ver LaLiga hoy: canal y horario de cada partido",
+    desc="Partidos de LaLiga EA Sports de hoy con su hora y el canal que los emite en España: Movistar Plus+ o DAZN. Se actualiza cada día.",
+    h1="¿Dónde ver LaLiga hoy?",
+    rightsT="¿Qué canal emite LaLiga en la temporada 2026-27?",
+    rights="En España, LaLiga EA Sports se reparte entre Movistar Plus+ y DAZN. Movistar Plus+ tiene cinco partidos de cada jornada y tres jornadas completas en exclusiva; DAZN emite los otros cinco partidos en 35 de las 38 jornadas. El canal DAZN LaLiga también está disponible en Movistar Plus+, en el dial 55. En la lista de arriba ves los partidos de hoy con el canal exacto de cada uno.",
+    faqs=[("¿Se pueden ver todos los partidos de LaLiga con DAZN?", "No. DAZN tiene cinco de los diez partidos de cada jornada y no emite tres jornadas completas, que son exclusivas de Movistar Plus+."),
+          ("¿A qué hora son los partidos de LaLiga hoy?", "La lista de esta página muestra la hora de inicio de cada partido de hoy en hora peninsular. Si estás en otro país, cámbialo arriba y verás tu hora y tus canales."),
+          ("¿Cómo sé en qué canal echan el partido de mi equipo?", "Mira la lista de esta página el día del partido, o usa la app de Sports on TV: te avisa 15 minutos antes del inicio con el canal que lo emite.")],
+    cta_sub="Un aviso 15 minutos antes de cada partido de LaLiga, con el canal que lo emite. Prueba 10 días gratis."),
+  "champions": dict(slug="champions-league", name="la Champions League",
+    title="Dónde ver la Champions League hoy: canal y horario",
+    desc="Partidos de la Champions League de hoy con su hora en España y el canal: en la temporada 2026-27 la Champions se ve en Movistar Plus+.",
+    h1="¿Dónde ver la Champions hoy?",
+    rightsT="¿Qué canal emite la Champions League en 2026-27?",
+    rights="En España, Movistar Plus+ tiene los derechos de la UEFA Champions League en la temporada 2026-27 y emite los partidos desde la fase liga hasta la final. Los días de Champions, la lista de arriba muestra cada partido con su hora y su canal.",
+    faqs=[("¿Qué días se juega la Champions League?", "Normalmente los martes y miércoles por la noche. Cuando hay partidos, aparecen aquí ese mismo día con su hora y su canal."),
+          ("¿A qué hora empiezan los partidos de Champions?", "Los horarios habituales son las 18:45 y las 21:00, hora peninsular. La hora exacta de cada partido de hoy está en la lista.")],
+    cta_sub="Un aviso 15 minutos antes de cada partido de Champions, con el canal. Prueba 10 días gratis."),
+  "europa": dict(slug="europa-league", name="la Europa League",
+    title="Dónde ver la Europa League hoy: canal y horario",
+    desc="Partidos de la UEFA Europa League de hoy con su hora en España y el canal que los emite: Movistar Plus+ en la temporada 2026-27.",
+    h1="¿Dónde ver la Europa League hoy?",
+    rightsT="¿Qué canal emite la Europa League en 2026-27?",
+    rights="En España, la UEFA Europa League se ve en Movistar Plus+ en la temporada 2026-27. Los partidos se juegan los jueves; ese día la lista de arriba muestra cada encuentro con su hora y su canal.",
+    faqs=[("¿Qué día se juega la Europa League?", "Los jueves, normalmente a las 18:45 y a las 21:00, hora peninsular."),
+          ("¿Dónde veo a los equipos españoles en la Europa League?", "En Movistar Plus+. La lista de esta página indica el canal exacto de cada partido el mismo día.")],
+    cta_sub="Un aviso 15 minutos antes de cada partido de Europa League, con el canal. Prueba 10 días gratis."),
+ },
+ "fr": {
+  "ligue1": dict(slug="ligue-1", name="Ligue 1",
+    title="Ligue 1 : sur quelle chaîne voir les matchs aujourd'hui ?",
+    desc="Les matchs de Ligue 1 du jour avec l'heure et la chaîne : en 2026-27, Ligue 1+ diffuse les neuf matchs de chaque journée. Mis à jour chaque jour.",
+    h1="Sur quelle chaîne voir la Ligue 1 aujourd'hui ?",
+    rightsT="Qui diffuse la Ligue 1 en 2026-27 ?",
+    rights="Depuis la saison 2026-27, Ligue 1+ est le seul diffuseur de la Ligue 1 : les neuf matchs de chaque journée sont en direct sur la plateforme de la LFP, y compris le match du samedi 17 h qui était auparavant sur beIN SPORTS. Ligue 1+ est aussi distribuée par DAZN. La liste ci-dessus affiche les matchs du jour avec leur heure.",
+    faqs=[("Peut-on voir la Ligue 1 sur beIN SPORTS en 2026-27 ?", "Non. À partir de 2026-27, beIN SPORTS ne diffuse plus de match de Ligue 1 : les neuf rencontres de chaque journée sont sur Ligue 1+."),
+          ("À quelle heure sont les matchs de Ligue 1 aujourd'hui ?", "La liste de cette page indique l'heure du coup d'envoi de chaque match du jour, à l'heure de Paris. Hors de France, changez de pays en haut de la page pour voir votre heure et vos chaînes.")],
+    cta_sub="Une alerte 15 minutes avant chaque match de Ligue 1, avec la chaîne. 10 jours d'essai gratuit."),
+  "champions": dict(slug="ligue-des-champions", name="Ligue des champions",
+    title="Ligue des champions : sur quelle chaîne voir les matchs aujourd'hui ?",
+    desc="Les matchs de Ligue des champions du jour avec l'heure et la chaîne en France : CANAL+ diffuse la compétition en 2026-27.",
+    h1="Sur quelle chaîne voir la Ligue des champions aujourd'hui ?",
+    rightsT="Qui diffuse la Ligue des champions en 2026-27 ?",
+    rights="En France, CANAL+ détient les droits de la Ligue des champions pour la saison 2026-27 et diffuse les matchs de la phase de ligue jusqu'à la finale. Les soirs de Ligue des champions, la liste ci-dessus indique chaque match avec son heure et sa chaîne.",
+    faqs=[("Quels jours se joue la Ligue des champions ?", "En général le mardi et le mercredi soir. Les jours de match, les rencontres apparaissent ici avec l'heure et la chaîne."),
+          ("À quelle heure commencent les matchs ?", "Les horaires habituels sont 18 h 45 et 21 h, heure de Paris. L'heure exacte de chaque match du jour est dans la liste.")],
+    cta_sub="Une alerte 15 minutes avant chaque match de Ligue des champions, avec la chaîne. 10 jours d'essai gratuit."),
+  "europa": dict(slug="ligue-europa", name="Ligue Europa",
+    title="Ligue Europa : sur quelle chaîne voir les matchs aujourd'hui ?",
+    desc="Les matchs de Ligue Europa du jour avec l'heure et la chaîne en France : CANAL+ en 2026-27.",
+    h1="Sur quelle chaîne voir la Ligue Europa aujourd'hui ?",
+    rightsT="Qui diffuse la Ligue Europa en 2026-27 ?",
+    rights="En France, la Ligue Europa est diffusée par CANAL+ en 2026-27. Les matchs ont lieu le jeudi ; ce jour-là, la liste ci-dessus montre chaque rencontre avec son heure et sa chaîne.",
+    faqs=[("Quel jour se joue la Ligue Europa ?", "Le jeudi, avec des coups d'envoi habituels à 18 h 45 et 21 h, heure de Paris.")],
+    cta_sub="Une alerte 15 minutes avant chaque match de Ligue Europa, avec la chaîne. 10 jours d'essai gratuit."),
+  "conference": dict(slug="ligue-conference", name="Ligue Conférence",
+    title="Ligue Conférence : sur quelle chaîne voir les matchs aujourd'hui ?",
+    desc="Les matchs de Ligue Conférence du jour avec l'heure et la chaîne en France : CANAL+ en 2026-27.",
+    h1="Sur quelle chaîne voir la Ligue Conférence aujourd'hui ?",
+    rightsT="Qui diffuse la Ligue Conférence en 2026-27 ?",
+    rights="En France, la Ligue Conférence est diffusée par CANAL+ en 2026-27. Comme la Ligue Europa, elle se joue le jeudi ; ce jour-là, la liste ci-dessus affiche chaque match avec son heure et sa chaîne.",
+    faqs=[("Quel jour se joue la Ligue Conférence ?", "Le jeudi, avec des coups d'envoi habituels à 18 h 45 et 21 h, heure de Paris.")],
+    cta_sub="Une alerte 15 minutes avant chaque match de Ligue Conférence, avec la chaîne. 10 jours d'essai gratuit."),
+  "laliga": dict(slug="liga", name="Liga",
+    title="Liga espagnole : sur quelle chaîne voir les matchs aujourd'hui ?",
+    desc="Les matchs de Liga du jour avec l'heure et la chaîne en France : en 2026-27, DAZN et Disney+ diffusent chacun les 380 matchs.",
+    h1="Sur quelle chaîne voir la Liga aujourd'hui ?",
+    rightsT="Qui diffuse la Liga en France en 2026-27 ?",
+    rights="Après 14 saisons sur beIN SPORTS, la Liga est diffusée en France par DAZN et Disney+ à partir de 2026-27. Les deux plateformes proposent chacune les dix matchs de chaque journée : un seul des deux abonnements suffit pour suivre tout le championnat.",
+    faqs=[("Faut-il DAZN et Disney+ pour voir toute la Liga ?", "Non. DAZN comme Disney+ diffusent les 380 matchs de la saison, un seul abonnement suffit."),
+          ("La Liga est-elle encore sur beIN SPORTS ?", "Non, plus à partir de la saison 2026-27.")],
+    cta_sub="Une alerte 15 minutes avant chaque match de Liga, avec la chaîne. 10 jours d'essai gratuit."),
+ },
+}
+COMP_NAV = {"es": "Competiciones:", "fr": "Compétitions :"}
+COMP_EMPTY = {
+ "es": '<div class="state"><p>Hoy no hay partidos de %s. <a href="%s">Ver todos los partidos de fútbol de hoy</a></p></div>',
+ "fr": '<div class="state"><p>Pas de match de %s aujourd\'hui. <a href="%s">Voir tous les matchs de foot du jour</a></p></div>',
+}
+APPLINE = {"es": "Recibe un aviso con el canal antes de cada partido:",
+           "fr": "Recevez une alerte avec la chaîne avant chaque match :"}
+
+def comp_path(lang, comp):
+    return "/%s/%s/" % (SEG[lang], COMP_PAGES[lang][comp]["slug"])
+
+def comp_alt_path(lang, comp):
+    # Dil seçicide: o dilde aynı turnuva sayfası varsa ona, yoksa futbol sayfasına.
+    return comp_path(lang, comp) if comp in COMP_PAGES.get(lang, {}) else path_for(lang, "football")
+
+def comp_hreflangs(comp):
+    return "\n  ".join('<link rel="alternate" hreflang="%s" href="%s">' % (l, BASE + comp_path(l, comp))
+                       for l in COMP_PAGES if comp in COMP_PAGES[l])
+
+def comp_links(lang, current=None):
+    if lang not in COMP_PAGES:
+        return ""
+    out = ['<span>%s</span>' % COMP_NAV[lang]]
+    for k in COMP_PAGES[lang]:
+        cur = ' aria-current="true"' if k == current else ''
+        out.append('<a href="%s"%s>%s</a>' % (comp_path(lang, k), cur, _comp_label(lang, k)))
+    return '<nav class="sportnav compnav">' + "\n      ".join(out) + '</nav>'
+
+def _comp_label(lang, k):
+    # Kısa bağlantı adı: "la Champions League" -> "Champions League"
+    n = COMP_PAGES[lang][k]["name"]
+    return n[3:] if n.startswith("la ") else n
+
+def play_link(lang, key):
+    # Play kurulum yönlendiricisi: Play Console > Edinme raporunda kampanya ayrı görünür.
+    ref = "utm_source=sportstvtoday&utm_medium=web&utm_campaign=web_%s_%s" % (lang, key)
+    return GOOGLE + "&amp;referrer=" + urllib.parse.quote(ref, safe="")
 
 def url_for(lang, sport=None):
     return BASE + path_for(lang, sport)
@@ -370,27 +494,41 @@ def sport_links(lang, current_sport):
         out.append('<a href="%s"%s>%s</a>' % (path_for(lang, s), cur, SPORT_LABEL[lang][s]))
     return "\n      ".join(out)
 
-def _match_ld_tag(lang, sport=None):
+def _match_ld_tag(lang, sport=None, comp=None):
     """JSON-LD SportsEvent script etiketi — mac yoksa hic basma."""
-    ld = prerender.sports_ld(lang, sport)
+    ld = prerender.sports_ld(lang, sport, comp)
     if not ld:
         return ""
     return chr(10) + '  <script type="application/ld+json">' + ld + '</script>'
 
 
-def page(lang, sport=None):
+def page(lang, sport=None, comp=None):
     d = dict(L[lang])
+    c = COMP_PAGES[lang][comp] if comp else None
     if sport:
         t, desc, h1, prose = SPORT_COPY[lang][sport]
         d.update(title=t, desc=desc, h1=h1, prose=prose,
                  proseT=SPORT_LABEL[lang][sport] + " — " + L[lang]["today"])
+    if c:
+        d.update(title=c["title"], desc=c["desc"], h1=c["h1"], prose=c["rights"],
+                 proseT=c["rightsT"], sub=c["cta_sub"])
     feats = "\n".join(
         '<div class="feat"><div class="ic">%s</div><h3>%s</h3><p>%s</p></div>' % (FEAT_ICONS[idx], h, p)
         for idx, (i, h, p) in enumerate(d["feats"]))
     # SSS yalnız ana sayfada. Aynı SSS işaretlemesini 40 sayfaya kopyalamak
     # Google'ın "yinelenen içerik" saydığı şeydir; spor sayfaları bunun yerine
-    # breadcrumb işaretlemesi alır.
-    if sport:
+    # breadcrumb işaretlemesi alır. Turnuva sayfalarının SSS'i kendine özgü.
+    if c:
+        faq_section = '<section class="faq"><h2>%s</h2>%s</section>' % (d["faqT"], "\n".join(
+            '<details><summary>%s</summary><p>%s</p></details>' % (q, a) for (q, a) in c["faqs"]))
+        extra_ld = {"@context":"https://schema.org","@graph":[
+            {"@type":"FAQPage","mainEntity":[
+                {"@type":"Question","name":q,"acceptedAnswer":{"@type":"Answer","text":a}} for (q,a) in c["faqs"]]},
+            {"@type":"BreadcrumbList","itemListElement":[
+                {"@type":"ListItem","position":1,"name":BRAND,"item":url_for(lang)},
+                {"@type":"ListItem","position":2,"name":SPORT_LABEL[lang]["football"],"item":url_for(lang, "football")},
+                {"@type":"ListItem","position":3,"name":_comp_label(lang, comp),"item":BASE + comp_path(lang, comp)}]}]}
+    elif sport:
         faq_section = ""
         extra_ld = {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
             {"@type":"ListItem","position":1,"name":BRAND,"item":url_for(lang)},
@@ -406,7 +544,31 @@ def page(lang, sport=None):
         {"@type":"SoftwareApplication","name":BRAND,"operatingSystem":"iOS, Android",
          "applicationCategory":"SportsApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"},
          "url":url_for(lang)}]}
-    canon = url_for(lang, sport)
+    canon = (BASE + comp_path(lang, comp)) if comp else url_for(lang, sport)
+    key = comp or sport or "home"
+    if comp:
+        prematches = prerender.kartlar(lang, None, comp) or \
+            COMP_EMPTY[lang] % (_comp_label(lang, comp), path_for(lang, "football"))
+        alt_links = "\n  ".join([comp_hreflangs(comp)])
+        langopts = "".join('<option value="%s" data-lang="%s"%s>%s</option>' % (
+            comp_alt_path(l, comp), l, " selected" if l == lang else "", LANG_NATIVE[l]) for l in SEG)
+        langlinks = "\n      ".join('<a href="%s"%s>%s</a>' % (
+            comp_alt_path(l, comp), ' aria-current="true"' if l == lang else "", LANG_NATIVE[l]) for l in SEG)
+        appline = '<p class="appline">%s <a href="%s" rel="nofollow">App Store</a> · <a href="%s" rel="nofollow">Google Play</a></p>' % (
+            APPLINE[lang], APPLE, play_link(lang, key))
+        pagejs = "window.__SPORT__=null;window.__COMP__=%s;window.__EMPTY__=%s;" % (
+            json.dumps(comp), json.dumps(COMP_EMPTY[lang] % (_comp_label(lang, comp), path_for(lang, "football")), ensure_ascii=False))
+        filters = ""
+    else:
+        prematches = prerender.kartlar(lang, sport)
+        alt_links = hreflangs(lang, sport)
+        langopts = lang_options(lang, sport)
+        langlinks = lang_links(lang, sport)
+        appline = ""
+        pagejs = "window.__SPORT__=%s;" % json.dumps(sport)
+        filters = '<div class="filters" id="filters"></div>'
+    # Turnuva bağlantıları yalnız ana sayfada, futbol sayfasında ve turnuva sayfalarında.
+    complinks = comp_links(lang, comp) if (comp or sport in (None, "football")) else ""
     return """<!doctype html>
 <html lang="{lang}" dir="{dir}">
 <head>
@@ -445,6 +607,7 @@ def page(lang, sport=None):
 
   <main class="wrap">
     <h1 class="ptitle">{h1}</h1>
+    {appline}
     <div class="section-head">
       <span class="tzchip" id="tzchip"></span>
       <span class="spacer"></span>
@@ -454,7 +617,8 @@ def page(lang, sport=None):
     <nav class="sportnav">
       {sportlinks}
     </nav>
-    <div class="filters" id="filters"></div>
+    {complinks}
+    {filters}
     <p class="daysum">{daysum}</p>
     <div class="matchlist" id="matchlist">{prematches}</div>
 
@@ -483,22 +647,23 @@ def page(lang, sport=None):
     </div>
     <p style="margin:12px 0 0">{foot}</p>
   </div></footer>
-  <script>window.__SPORT__={sportjs};</script>
+  <script>{pagejs}</script>
   <script src="/assets/app.js?v={ASSET_VER}"></script>
 </body>
 </html>""".format(
         ASSET_VER=ASSET_VER,
         lang=lang, dir=d["dir"], title=d["title"], desc=d["desc"], canon=canon,
-        hreflangs=hreflangs(lang, sport), brand=BRAND, oglocale=OG_LOCALE[lang],
-        base=BASE, selfurl=path_for(lang), langopts=lang_options(lang, sport),
-        h1=d["h1"], sub=d["sub"], apple=APPLE, google=GOOGLE, store=d["store"], cta=CTA[lang],
+        hreflangs=alt_links, brand=BRAND, oglocale=OG_LOCALE[lang],
+        base=BASE, selfurl=path_for(lang), langopts=langopts,
+        h1=d["h1"], sub=d["sub"], apple=APPLE, google=play_link(lang, key), store=d["store"], cta=CTA[lang],
         today=d["today"], feats=feats, proseT=d["proseT"], prose=d["prose"],
-        faq_section=faq_section, langlinks=lang_links(lang, sport), foot=d["foot"],
+        faq_section=faq_section, langlinks=langlinks, foot=d["foot"],
         footlinks=foot_links(lang),
-        sportlinks=sport_links(lang, sport), sportjs=json.dumps(sport),
-        prematches=prerender.kartlar(lang, sport),
-        daysum=prerender.ozet(lang, sport),
-        match_ld=_match_ld_tag(lang, sport),
+        sportlinks=sport_links(lang, "football" if comp else sport), pagejs=pagejs,
+        complinks=complinks, filters=filters, appline=appline,
+        prematches=prematches,
+        daysum=prerender.ozet(lang, sport, comp),
+        match_ld=_match_ld_tag(lang, sport, comp),
         apple_svg=APPLE_SVG, google_svg=GOOGLE_SVG, favicon=FAVICON,
         logo_svg=LOGO_SVG, theme_svg=THEME_SVG,
         # Dil yönlendirmesi yalnız kök sayfada; spor sayfasında olursa
@@ -710,6 +875,13 @@ for lang, seg in SEG.items():
             f.write(page(lang, sp))
         count += 1
         print("yazildi:", path_for(lang, sp) + "index.html")
+    for comp in COMP_PAGES.get(lang, {}):
+        cd = os.path.join(d, COMP_PAGES[lang][comp]["slug"])
+        os.makedirs(cd, exist_ok=True)
+        with open(os.path.join(cd, "index.html"), "w", encoding="utf-8") as f:
+            f.write(page(lang, comp=comp))
+        count += 1
+        print("yazildi:", comp_path(lang, comp) + "index.html")
     ad = os.path.join(d, ABOUT_SLUG[lang])
     os.makedirs(ad, exist_ok=True)
     with open(os.path.join(ad, "index.html"), "w", encoding="utf-8") as f:
@@ -733,6 +905,13 @@ for lang in SEG:
         sm.append('    <xhtml:link rel="alternate" hreflang="%s" href="%s"/>' % (alt, BASE + about_path(alt)))
     sm.append('    <xhtml:link rel="alternate" hreflang="x-default" href="%s"/>' % (BASE + about_path("en")))
     sm.append("  </url>")
+for lang in COMP_PAGES:
+    for comp in COMP_PAGES[lang]:
+        sm.append("  <url><loc>%s</loc>" % (BASE + comp_path(lang, comp)))
+        for alt in COMP_PAGES:
+            if comp in COMP_PAGES[alt]:
+                sm.append('    <xhtml:link rel="alternate" hreflang="%s" href="%s"/>' % (alt, BASE + comp_path(alt, comp)))
+        sm.append("  </url>")
 sm.append("</urlset>")
 open(os.path.join(OUT, "sitemap.xml"), "w", encoding="utf-8").write("\n".join(sm))
 open(os.path.join(OUT, "robots.txt"), "w", encoding="utf-8").write(

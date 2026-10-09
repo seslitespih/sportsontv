@@ -30,6 +30,7 @@
   <link rel="stylesheet" href="/assets/styles.css">
   <script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "WebSite", "name": "Sports on TV", "url": "https://sportstvtoday.com/fr/", "inLanguage": "fr"}, {"@type": "SoftwareApplication", "name": "Sports on TV", "operatingSystem": "iOS, Android", "applicationCategory": "SportsApplication", "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"}, "url": "https://sportstvtoday.com/fr/"}]}</script>
   <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Sports on TV", "item": "https://sportstvtoday.com/fr/"}, {"@type": "ListItem", "position": 2, "name": "Sport auto", "item": "https://sportstvtoday.com/fr/sport-auto/"}]}</script>
+  <script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "SportsEvent", "name": "MotoGP GP d'Indonésie vs Essais libres 1", "startDate": "2026-10-09T02:45:00Z", "eventStatus": "https://schema.org/EventScheduled", "eventAttendanceMode": "https://schema.org/OnlineEventAttendanceMode", "location": {"@type": "VirtualLocation", "url": "https://sportstvtoday.com/"}, "superEvent": {"@type": "SportsOrganization", "name": "MotoGP"}, "competitor": [{"@type": "SportsTeam", "name": "MotoGP GP d'Indonésie"}, {"@type": "SportsTeam", "name": "Essais libres 1"}]}, {"@type": "SportsEvent", "name": "MotoGP GP d'Indonésie vs Essais", "startDate": "2026-10-09T07:00:00Z", "eventStatus": "https://schema.org/EventScheduled", "eventAttendanceMode": "https://schema.org/OnlineEventAttendanceMode", "location": {"@type": "VirtualLocation", "url": "https://sportstvtoday.com/"}, "superEvent": {"@type": "SportsOrganization", "name": "MotoGP"}, "competitor": [{"@type": "SportsTeam", "name": "MotoGP GP d'Indonésie"}, {"@type": "SportsTeam", "name": "Essais"}]}, {"@type": "SportsEvent", "name": "Formule 1 GP de Singapour vs Essais libres 1", "startDate": "2026-10-09T08:30:00Z", "eventStatus": "https://schema.org/EventScheduled", "eventAttendanceMode": "https://schema.org/OnlineEventAttendanceMode", "location": {"@type": "VirtualLocation", "url": "https://sportstvtoday.com/"}, "superEvent": {"@type": "SportsOrganization", "name": "Formule 1"}, "competitor": [{"@type": "SportsTeam", "name": "Formule 1 GP de Singapour"}, {"@type": "SportsTeam", "name": "Essais libres 1"}]}, {"@type": "SportsEvent", "name": "Formule 1 GP de Singapour vs Qualifications Sprint", "startDate": "2026-10-09T12:30:00Z", "eventStatus": "https://schema.org/EventScheduled", "eventAttendanceMode": "https://schema.org/OnlineEventAttendanceMode", "location": {"@type": "VirtualLocation", "url": "https://sportstvtoday.com/"}, "superEvent": {"@type": "SportsOrganization", "name": "Formule 1"}, "competitor": [{"@type": "SportsTeam", "name": "Formule 1 GP de Singapour"}, {"@type": "SportsTeam", "name": "Qualifications Sprint"}]}]}</script>
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-N8YY5V2WSS"></script>
   <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-N8YY5V2WSS');</script>
 </head>
@@ -46,6 +47,7 @@
 
   <main class="wrap">
     <h1 class="ptitle">Sur quelle chaîne est la course aujourd'hui ?</h1>
+    
     <div class="section-head">
       <span class="tzchip" id="tzchip"></span>
       <span class="spacer"></span>
@@ -59,9 +61,10 @@
       <a href="/fr/volley/">Volley</a>
       <a href="/fr/sport-auto/" aria-current="true">Sport auto</a>
     </nav>
+    
     <div class="filters" id="filters"></div>
-    <p class="daysum"></p>
-    <div class="matchlist" id="matchlist"></div>
+    <p class="daysum">4 matchs aujourd'hui, 0 avec une chaîne confirmée. Premier coup d'envoi 04:45, dernier 14:30.</p>
+    <div class="matchlist" id="matchlist"><article class="card"><div class="time"><div class="hm">04:45</div><div class="day">Fri</div></div><div class="mid"><div class="teams"><span>MotoGP GP d'Indonésie</span><span class="vs">vs</span><span>Essais libres 1</span></div><div class="comp"><span class="sdot" style="background:#d23b4e"></span>MotoGP</div></div><div class="right"><span class="chan none">Aucune diffusion indiquée</span></div></article><article class="card"><div class="time"><div class="hm">09:00</div><div class="day">Fri</div></div><div class="mid"><div class="teams"><span>MotoGP GP d'Indonésie</span><span class="vs">vs</span><span>Essais</span></div><div class="comp"><span class="sdot" style="background:#d23b4e"></span>MotoGP</div></div><div class="right"><span class="chan none">Aucune diffusion indiquée</span></div></article><article class="card"><div class="time"><div class="hm">10:30</div><div class="day">Fri</div></div><div class="mid"><div class="teams"><span>Formule 1 GP de Singapour</span><span class="vs">vs</span><span>Essais libres 1</span></div><div class="comp"><span class="sdot" style="background:#d23b4e"></span>Formule 1</div></div><div class="right"><span class="chan none">Aucune diffusion indiquée</span></div></article><article class="card"><div class="time"><div class="hm">14:30</div><div class="day">Fri</div></div><div class="mid"><div class="teams"><span>Formule 1 GP de Singapour</span><span class="vs">vs</span><span>Qualifications Sprint</span></div><div class="comp"><span class="sdot" style="background:#d23b4e"></span>Formule 1</div></div><div class="right"><span class="chan none">Aucune diffusion indiquée</span></div></article></div>
 
     <section class="features"><div class="feat"><div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="2.5" y="7" width="19" height="13" rx="2.2"/><path d="M8 3.5l4 3.5 4-3.5"/></svg></div><h3>La chaîne de votre pays</h3><p>Voyez exactement quelle chaîne ou plateforme diffuse chaque match chez vous.</p></div>
 <div class="feat"><div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="8.5"/><path d="M12 7.5V12l3.2 1.9"/></svg></div><h3>Votre heure locale</h3><p>Les horaires sont convertis automatiquement dans le fuseau de votre appareil.</p></div>
@@ -77,7 +80,7 @@
       <p class="sub">Chaque match, l'heure exacte du coup d'envoi dans votre fuseau et la chaîne qui le diffuse — au même endroit.</p>
       <div class="badges">
         <a class="store" href="https://apps.apple.com/app/id6779112504" rel="nofollow" aria-label="App Store"><svg class="glyph" viewBox="0 0 384 512" width="20" height="24" fill="currentColor" aria-hidden="true"><path d="M318.7 268.7c-.2-36.7 16.4-64.4 50-84.8-18.8-26.9-47.2-41.7-84.7-44.6-35.5-2.8-74.3 20.7-88.5 20.7-15 0-49.4-19.7-76.4-19.7C63.3 141.2 4 184.8 4 273.5q0 39.3 14.4 81.2c12.8 36.7 59 126.7 107.2 125.2 25.2-.6 43-17.9 75.8-17.9 31.8 0 48.3 17.9 76.4 17.9 48.6-.7 90.4-82.5 102.6-119.3-65.2-30.7-61.7-90-61.7-91.9zm-56.6-164.2c27.3-32.4 24.8-61.9 24-72.5-24.1 1.4-52 16.4-67.9 34.9-17.5 19.8-27.8 44.3-25.6 71.9 26.1 2 49.9-11.4 69.5-34.3z"/></svg><b>App&nbsp;Store</b></a>
-        <a class="store" href="https://play.google.com/store/apps/details?id=com.machatirlatici.app" rel="nofollow" aria-label="Google Play"><svg class="glyph" viewBox="0 0 24 24" width="21" height="23" aria-hidden="true"><path fill="#00d3ff" d="M3.6 2.2C3.3 2.5 3.1 3 3.1 3.7v16.6c0 .7.2 1.2.5 1.5l.1.1 9.3-9.3v-.2L3.6 2.2z"/><path fill="#00f076" d="M16.5 15.1l-3.5-3.5v-.2l3.5-3.5.1.1 4.1 2.4c1.2.7 1.2 1.8 0 2.5l-4.2 2.2z"/><path fill="#ff3a44" d="M16.6 15L13 11.5 3.6 21c.4.4 1 .5 1.8.1L16.6 15z"/><path fill="#ffce00" d="M16.6 8L5.4 1.9c-.8-.5-1.4-.4-1.8 0L13 11.5 16.6 8z"/></svg><b>Google&nbsp;Play</b></a>
+        <a class="store" href="https://play.google.com/store/apps/details?id=com.machatirlatici.app&amp;referrer=utm_source%3Dsportstvtoday%26utm_medium%3Dweb%26utm_campaign%3Dweb_fr_motorsport" rel="nofollow" aria-label="Google Play"><svg class="glyph" viewBox="0 0 24 24" width="21" height="23" aria-hidden="true"><path fill="#00d3ff" d="M3.6 2.2C3.3 2.5 3.1 3 3.1 3.7v16.6c0 .7.2 1.2.5 1.5l.1.1 9.3-9.3v-.2L3.6 2.2z"/><path fill="#00f076" d="M16.5 15.1l-3.5-3.5v-.2l3.5-3.5.1.1 4.1 2.4c1.2.7 1.2 1.8 0 2.5l-4.2 2.2z"/><path fill="#ff3a44" d="M16.6 15L13 11.5 3.6 21c.4.4 1 .5 1.8.1L16.6 15z"/><path fill="#ffce00" d="M16.6 8L5.4 1.9c-.8-.5-1.4-.4-1.8 0L13 11.5 16.6 8z"/></svg><b>Google&nbsp;Play</b></a>
       </div>
     </section>
   </main>
@@ -99,6 +102,6 @@
     <p style="margin:12px 0 0">Horaires et chaînes TV, dans votre langue et votre fuseau.</p>
   </div></footer>
   <script>window.__SPORT__="motorsport";</script>
-  <script src="/assets/app.js?v=c8f6cc26"></script>
+  <script src="/assets/app.js?v=e1abe6eb"></script>
 </body>
 </html>

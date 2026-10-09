@@ -91,7 +91,7 @@
 
   // Spor sayfaları (/tr/futbol/ gibi) filtreyi window.__SPORT__ ile önceden
   // seçtirir; ana sayfada bu değer null olduğu için "all" kalır.
-  var state = { matches:[], view:[], filter:(window.__SPORT__ || "all"), country:null, tz:null };
+  var state = { matches:[], view:[], filter:(window.__SPORT__ || "all"), comp:(window.__COMP__ || null), country:null, tz:null };
 
   function detectCountry(){
     // 1) Açık seçim. 2) Tarayıcı bölgesi (yalnız desteklenen pazarlar → en-US=US,
@@ -284,9 +284,11 @@
     })();
 
     if (state.filter !== "all") list = list.filter(function(m){ return m.sport === state.filter; });
+    // Turnuva sayfaları (/es/laliga/ gibi) yalnız o turnuvanın maçlarını gösterir.
+    if (state.comp) list = list.filter(function(m){ return m.competitionId === state.comp; });
     list.sort(function(a,b){ return new Date(a.kickoffUtc)-new Date(b.kickoffUtc); });
     state.view = list;
-    if (!list.length){ box.innerHTML = '<div class="state">'+IC.clock+'<p>'+t.empty+'</p></div>'; return; }
+    if (!list.length){ box.innerHTML = window.__EMPTY__ || ('<div class="state">'+IC.clock+'<p>'+t.empty+'</p></div>'); return; }
     box.innerHTML = list.map(matchCard).join("");
     wireReminders();
   }
@@ -307,8 +309,10 @@
   }
 
   function injectJsonLd(){
+    if (!state.view.length) return;
     try {
-      var items = state.matches.slice(0, 30).map(function(m){
+      // Yalnız sayfada gösterilen maçlar — turnuva sayfasına alakasız etkinlik basılmasın.
+      var items = state.view.slice(0, 30).map(function(m){
         var n = names(m);
         var o = { "@type":"SportsEvent", "name": n.home + " " + t.vs + " " + n.away,
           "startDate": m.kickoffUtc, "eventStatus":"https://schema.org/EventScheduled",
