@@ -256,3 +256,4 @@ footer.site .frow { display: flex; gap: 18px; flex-wrap: wrap; align-items: cent
 .appline a { font-weight: 600; }
 .compnav { margin-top: -4px; }
 .compnav span { color: var(--text-mut); font-size: 14px; }
+.state a { color: var(--brand); font-weight: 600; }

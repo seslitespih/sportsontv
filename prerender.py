@@ -162,4 +162,17 @@ def ozet(lang, sport=None, comp=None):
         "pt": "Hoje há %d jogos, %d com canal confirmado. Primeiro às %s, último às %s.",
         "ar": "اليوم %d مباراة، %d منها بقناة مؤكدة. الأولى %s والأخيرة %s.",
     }
+    if n == 1:
+        # Turnuva sayfalarında tek maç sık görülür — "1 partidos" yazmasın.
+        tekil = {
+            "tr": "Bugün 1 karşılaşma var, saat %s.",
+            "en": "1 match today, kick-off at %s.",
+            "de": "Heute 1 Spiel, Anstoß um %s.",
+            "es": "Hoy hay 1 partido, a las %s.",
+            "fr": "1 match aujourd'hui, coup d'envoi à %s.",
+            "it": "Oggi 1 partita, fischio d'inizio alle %s.",
+            "pt": "Hoje há 1 jogo, às %s.",
+            "ar": "اليوم مباراة واحدة، تبدأ %s.",
+        }
+        return tekil.get(lang, tekil["en"]) % ilk.strftime("%H:%M")
     return kalip.get(lang, kalip["en"]) % (n, kanalli, ilk.strftime("%H:%M"), son.strftime("%H:%M"))
