@@ -17,6 +17,8 @@ except OSError:
     ASSET_VER = "0"
 
 import prerender   # mac listesini HTML e gomer (SEO)
+import mac_sayfalari   # her maca ayri sayfa (es/fr)
+MAC_BAG = {}          # dil -> yaklasan mac sayfasi baglantilari; yazma dongusunden once dolar
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 
 # ⚠️ GEÇİCİ: normalde https olmalı. GitHub Pages sertifikası 11 Ağu'dan beri
@@ -621,6 +623,7 @@ def page(lang, sport=None, comp=None):
     {filters}
     <p class="daysum">{daysum}</p>
     <div class="matchlist" id="matchlist">{prematches}</div>
+    {matchlinks}
 
     <section class="features">{feats}</section>
 
@@ -661,6 +664,7 @@ def page(lang, sport=None, comp=None):
         footlinks=foot_links(lang),
         sportlinks=sport_links(lang, "football" if comp else sport), pagejs=pagejs,
         complinks=complinks, filters=filters, appline=appline,
+        matchlinks=mac_sayfalari.baglanti_html(lang, MAC_BAG, comp=comp, sport=None if comp else sport),
         prematches=prematches,
         daysum=prerender.ozet(lang, sport, comp),
         match_ld=_match_ld_tag(lang, sport, comp),
@@ -859,6 +863,15 @@ def about_page(lang):
         h1=a["h1"], secs=secs, cta=CTA[lang], apple=APPLE, google=GOOGLE,
         apple_svg=APPLE_SVG, google_svg=GOOGLE_SVG, langlinks=langlinks, footlinks=foot_links(lang))
 
+# ── maç sayfaları (es/fr) — diğer sayfalardan ÖNCE, çünkü onlar bu listeye bağlantı verir ──
+MAC_SITEMAP, MAC_BAG = mac_sayfalari.yaz(OUT, dict(
+    BASE=BASE, SEG=SEG, LANG_NATIVE=LANG_NATIVE, OG_LOCALE=OG_LOCALE, BRAND=BRAND, FAVICON=FAVICON,
+    ASSET_VER=ASSET_VER, PAGE_JS=ABOUT_JS, analytics_tag=analytics_tag, LOGO_SVG=LOGO_SVG,
+    THEME_SVG=THEME_SVG, APPLE=APPLE, APPLE_SVG=APPLE_SVG, GOOGLE_SVG=GOOGLE_SVG, play_link=play_link,
+    foot_links=foot_links, path_for=path_for, url_for=url_for, SPORT_LABEL=SPORT_LABEL,
+    COMP_PAGES=COMP_PAGES, comp_path=comp_path, comp_label=_comp_label))
+print("mac sayfalari:", len(MAC_SITEMAP))
+
 # ── write pages ──
 count = 0
 for lang, seg in SEG.items():
@@ -904,6 +917,12 @@ for lang in SEG:
     for alt in SEG:
         sm.append('    <xhtml:link rel="alternate" hreflang="%s" href="%s"/>' % (alt, BASE + about_path(alt)))
     sm.append('    <xhtml:link rel="alternate" hreflang="x-default" href="%s"/>' % (BASE + about_path("en")))
+    sm.append("  </url>")
+for loc, alts in MAC_SITEMAP:
+    sm.append("  <url><loc>%s</loc>" % loc)
+    if len(alts) > 1:
+        for alt, href in sorted(alts.items()):
+            sm.append('    <xhtml:link rel="alternate" hreflang="%s" href="%s"/>' % (alt, href))
     sm.append("  </url>")
 for lang in COMP_PAGES:
     for comp in COMP_PAGES[lang]:

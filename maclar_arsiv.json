@@ -1,0 +1,4018 @@
+{
+"es:basketball-20261009-dallas-mavericks-houston-rockets": {
+"lang": "es",
+"m": {
+"away": "Rockets",
+"awayNames": {
+"ar": "هيوستن روكتس",
+"de": "Houston Rockets",
+"en": "Houston Rockets",
+"es": "Houston Rockets",
+"fr": "Houston Rockets",
+"it": "Houston Rockets",
+"pt": "Houston Rockets",
+"tr": "Houston Rockets"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"AR": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"AT": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"AU": [
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+],
+"BE": [
+"DAZN",
+"Prime Video",
+"NBA League Pass"
+],
+"BR": [
+"ESPN",
+"Disney+",
+"Prime Video",
+"NBA League Pass"
+],
+"CA": [
+"TSN",
+"Sportsnet",
+"Prime Video",
+"NBA League Pass"
+],
+"CH": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"CL": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"CO": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"CZ": [
+"Nova Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"DE": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"DZ": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"EC": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"EG": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"ES": [
+"DAZN",
+"Prime Video",
+"NBA League Pass"
+],
+"FR": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"GB": [
+"Sky Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"GH": [
+"ESPN",
+"Sporty TV",
+"NBA League Pass"
+],
+"HR": [
+"Sport Klub",
+"Prime Video",
+"NBA League Pass"
+],
+"IT": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"JP": [
+"Lemino",
+"Prime Video",
+"WOWOW"
+],
+"KR": [
+"Coupang Play",
+"Prime Video",
+"NBA League Pass"
+],
+"MA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"MX": [
+"ESPN",
+"Disney+",
+"Prime Video",
+"NBA League Pass"
+],
+"NG": [
+"ESPN",
+"Sporty TV",
+"NBA League Pass"
+],
+"NL": [
+"ESPN",
+"NBA League Pass"
+],
+"NO": [
+"HBO Max",
+"NBA League Pass"
+],
+"NZ": [
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+],
+"PE": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"PT": [
+"Sport TV",
+"Prime Video",
+"NBA League Pass"
+],
+"PY": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"QA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"SA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"SN": [
+"Canal+ Sport",
+"NBA League Pass"
+],
+"TN": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"TR": [
+"Prime Video"
+],
+"US": [
+"NBA TV"
+],
+"UY": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"ZA": [
+"SuperSport",
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+]
+},
+"competition": {
+"ar": "مباريات NBA التحضيرية",
+"de": "NBA Preseason",
+"en": "NBA Preseason",
+"es": "Pretemporada NBA",
+"fr": "Présaison NBA",
+"it": "Preseason NBA",
+"pt": "Pré-temporada da NBA",
+"tr": "NBA Hazırlık Maçları"
+},
+"competitionId": "nba",
+"home": "Mavericks",
+"homeNames": {
+"ar": "دالاس مافريكس",
+"de": "Dallas Mavericks",
+"en": "Dallas Mavericks",
+"es": "Dallas Mavericks",
+"fr": "Dallas Mavericks",
+"it": "Dallas Mavericks",
+"pt": "Dallas Mavericks",
+"tr": "Dallas Mavericks"
+},
+"id": "basketball-20261009-dallas-mavericks-houston-rockets",
+"kickoffUtc": "2026-10-09T12:00:00Z",
+"sources": [
+"espn"
+],
+"sport": "basketball",
+"tier": "global"
+},
+"slug": "dallas-mavericks-houston-rockets-2026-10-09"
+},
+"es:basketball-20261010-bulls-grizzlies": {
+"lang": "es",
+"m": {
+"away": "Grizzlies",
+"awayNames": {
+"ar": "ممفيس غريزليز",
+"de": "Memphis Grizzlies",
+"en": "Memphis Grizzlies",
+"es": "Memphis Grizzlies",
+"fr": "Memphis Grizzlies",
+"it": "Memphis Grizzlies",
+"pt": "Memphis Grizzlies",
+"tr": "Memphis Grizzlies"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"AR": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"AT": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"AU": [
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+],
+"BE": [
+"DAZN",
+"Prime Video",
+"NBA League Pass"
+],
+"BR": [
+"ESPN",
+"Disney+",
+"Prime Video",
+"NBA League Pass"
+],
+"CA": [
+"TSN",
+"Sportsnet",
+"Prime Video",
+"NBA League Pass"
+],
+"CH": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"CL": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"CO": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"CZ": [
+"Nova Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"DE": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"DZ": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"EC": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"EG": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"ES": [
+"DAZN",
+"Prime Video",
+"NBA League Pass"
+],
+"FR": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"GB": [
+"Sky Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"GH": [
+"ESPN",
+"Sporty TV",
+"NBA League Pass"
+],
+"HR": [
+"Sport Klub",
+"Prime Video",
+"NBA League Pass"
+],
+"IT": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"JP": [
+"Lemino",
+"Prime Video",
+"WOWOW"
+],
+"KR": [
+"Coupang Play",
+"Prime Video",
+"NBA League Pass"
+],
+"MA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"MX": [
+"ESPN",
+"Disney+",
+"Prime Video",
+"NBA League Pass"
+],
+"NG": [
+"ESPN",
+"Sporty TV",
+"NBA League Pass"
+],
+"NL": [
+"ESPN",
+"NBA League Pass"
+],
+"NO": [
+"HBO Max",
+"NBA League Pass"
+],
+"NZ": [
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+],
+"PE": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"PT": [
+"Sport TV",
+"Prime Video",
+"NBA League Pass"
+],
+"PY": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"QA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"SA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"SN": [
+"Canal+ Sport",
+"NBA League Pass"
+],
+"TN": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"TR": [
+"S Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"US": [
+"NBA TV"
+],
+"UY": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"ZA": [
+"SuperSport",
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+]
+},
+"competition": {
+"ar": "مباريات NBA التحضيرية",
+"de": "NBA Preseason",
+"en": "NBA Preseason",
+"es": "Pretemporada NBA",
+"fr": "Présaison NBA",
+"it": "Preseason NBA",
+"pt": "Pré-temporada da NBA",
+"tr": "NBA Hazırlık Maçları"
+},
+"competitionId": "nba",
+"home": "Bulls",
+"homeNames": {
+"ar": "شيكاغو بولز",
+"de": "Chicago Bulls",
+"en": "Chicago Bulls",
+"es": "Chicago Bulls",
+"fr": "Chicago Bulls",
+"it": "Chicago Bulls",
+"pt": "Chicago Bulls",
+"tr": "Chicago Bulls"
+},
+"id": "basketball-20261010-bulls-grizzlies",
+"kickoffUtc": "2026-10-10T00:00:00Z",
+"sources": [
+"espn"
+],
+"sport": "basketball",
+"tier": "global"
+},
+"slug": "chicago-bulls-memphis-grizzlies-2026-10-10"
+},
+"es:football-20261009-al-fateh-al-ahli": {
+"lang": "es",
+"m": {
+"away": "Al Ahli",
+"awayNames": {
+"ar": "الأهلي",
+"de": "Al Ahli",
+"en": "Al Ahli",
+"es": "Al Ahli",
+"fr": "Al Ahli",
+"it": "Al Ahli",
+"pt": "Al Ahli",
+"tr": "Al Ahli"
+},
+"broadcasts": {
+"BR": [
+"Canal GOAT",
+"OneFootball"
+],
+"CL": [
+"OneFootball"
+],
+"CO": [
+"OneFootball"
+],
+"DE": [
+"DAZN",
+"Sportdigital FUSSBALL2",
+"Sportdigital+"
+],
+"EC": [
+"OneFootball"
+],
+"ES": [
+"OneFootball"
+],
+"FR": [
+"DAZN"
+],
+"GB": [
+"Saudi Pro League YouTube"
+],
+"MX": [
+"OneFootball"
+],
+"PE": [
+"OneFootball"
+],
+"PT": [
+"OneFootball",
+"Sport TV 1"
+],
+"PY": [
+"OneFootball"
+],
+"SA": [
+"Thmanyah"
+],
+"US": [
+"FS2",
+"Fubo"
+],
+"UY": [
+"OneFootball"
+]
+},
+"competition": {
+"ar": "دوري روشن السعودي",
+"de": "Saudi Pro League",
+"en": "Saudi Pro League",
+"es": "Liga Profesional Saudí",
+"fr": "Saudi Pro League",
+"it": "Saudi Pro League",
+"pt": "Liga Saudita",
+"tr": "Suudi Pro Lig"
+},
+"competitionId": "saudi_pl",
+"home": "Al Fateh",
+"homeNames": {
+"ar": "الفتح",
+"de": "Al Fateh",
+"en": "Al Fateh",
+"es": "Al Fateh",
+"fr": "Al Fateh",
+"it": "Al Fateh",
+"pt": "Al Fateh",
+"tr": "Al Fateh"
+},
+"id": "football-20261009-al-fateh-al-ahli",
+"kickoffUtc": "2026-10-09T14:55:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "al-fateh-al-ahli-2026-10-09"
+},
+"es:football-20261009-al-kholood-al-qadsiah": {
+"lang": "es",
+"m": {
+"away": "Al Qadsiah",
+"awayNames": {
+"ar": "القادسية",
+"de": "Al Qadsiah",
+"en": "Al Qadsiah",
+"es": "Al Qadsiah",
+"fr": "Al Qadsiah",
+"it": "Al Qadsiah",
+"pt": "Al Qadsiah",
+"tr": "Al Qadsiah"
+},
+"broadcasts": {
+"BR": [
+"XSports",
+"Canal GOAT"
+],
+"CL": [
+"Somos FOX YouTube"
+],
+"CO": [
+"Somos FOX YouTube"
+],
+"DE": [
+"DAZN"
+],
+"EC": [
+"Somos FOX YouTube"
+],
+"ES": [
+"M+ Vamos 2",
+"M+ Liga de Campeones"
+],
+"FR": [
+"DAZN"
+],
+"MX": [
+"FOX One",
+"FOX"
+],
+"PE": [
+"Somos FOX YouTube"
+],
+"PY": [
+"Somos FOX YouTube"
+],
+"SA": [
+"Thmanyah"
+],
+"US": [
+"FOX Deportes",
+"Fubo Latino"
+],
+"UY": [
+"Somos FOX YouTube"
+]
+},
+"competition": {
+"ar": "دوري روشن السعودي",
+"de": "Saudi Pro League",
+"en": "Saudi Pro League",
+"es": "Liga Profesional Saudí",
+"fr": "Saudi Pro League",
+"it": "Saudi Pro League",
+"pt": "Liga Saudita",
+"tr": "Suudi Pro Lig"
+},
+"competitionId": "saudi_pl",
+"home": "Al Kholood",
+"homeNames": {
+"ar": "الخلود",
+"de": "Al Kholood",
+"en": "Al Kholood",
+"es": "Al Kholood",
+"fr": "Al Kholood",
+"it": "Al Kholood",
+"pt": "Al Kholood",
+"tr": "Al Kholood"
+},
+"id": "football-20261009-al-kholood-al-qadsiah",
+"kickoffUtc": "2026-10-09T13:50:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "al-kholood-al-qadsiah-2026-10-09"
+},
+"es:football-20261009-al-nassr-al-diriyah": {
+"lang": "es",
+"m": {
+"away": "Al Diriyah",
+"awayNames": {
+"ar": "الدرعية",
+"de": "Al Diriyah",
+"en": "Al Diriyah",
+"es": "Al Diriyah",
+"fr": "Al Diriyah",
+"it": "Al Diriyah",
+"pt": "Al Diriyah",
+"tr": "Al Diriyah"
+},
+"broadcasts": {
+"BR": [
+"XSports",
+"Canal GOAT"
+],
+"CL": [
+"Somos FOX YouTube"
+],
+"CO": [
+"Somos FOX YouTube"
+],
+"DE": [
+"DAZN"
+],
+"EC": [
+"Somos FOX YouTube"
+],
+"ES": [
+"M+ Vamos",
+"M+ Liga de Campeones"
+],
+"FR": [
+"DAZN"
+],
+"IT": [
+"Sportitalia"
+],
+"MX": [
+"FOX One",
+"FOX"
+],
+"PE": [
+"Somos FOX YouTube"
+],
+"PT": [
+"Sport TV 2"
+],
+"PY": [
+"Somos FOX YouTube"
+],
+"SA": [
+"Thmanyah"
+],
+"TR": [
+"S Sport Plus"
+],
+"US": [
+"FOX Soccer Plus",
+"FOX Deportes",
+"Fubo"
+],
+"UY": [
+"Somos FOX YouTube"
+]
+},
+"competition": {
+"ar": "دوري روشن السعودي",
+"de": "Saudi Pro League",
+"en": "Saudi Pro League",
+"es": "Liga Profesional Saudí",
+"fr": "Saudi Pro League",
+"it": "Saudi Pro League",
+"pt": "Liga Saudita",
+"tr": "Suudi Pro Lig"
+},
+"competitionId": "saudi_pl",
+"home": "Al Nassr",
+"homeNames": {
+"ar": "النصر",
+"de": "Al-Nassr",
+"en": "Al Nassr",
+"es": "Al Nassr",
+"fr": "Al-Nassr",
+"it": "Al Nassr",
+"pt": "Al-Nassr",
+"tr": "Al Nassr"
+},
+"id": "football-20261009-al-nassr-al-diriyah",
+"kickoffUtc": "2026-10-09T18:00:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "al-nassr-al-diriyah-2026-10-09"
+},
+"es:football-20261009-aldosivi-sarmiento": {
+"lang": "es",
+"m": {
+"away": "Sarmiento",
+"awayNames": {
+"ar": "سارمينتو",
+"de": "Sarmiento",
+"en": "Sarmiento",
+"es": "Sarmiento",
+"fr": "Sarmiento",
+"it": "Sarmiento",
+"pt": "Sarmiento",
+"tr": "Sarmiento"
+},
+"broadcasts": {
+"AR": [
+"ESPN Premium"
+],
+"CL": [
+"Fanatiz",
+"TyC Sports Internacional"
+],
+"CO": [
+"Fanatiz",
+"TyC Sports Internacional"
+],
+"EC": [
+"Fanatiz",
+"TyC Sports Internacional"
+],
+"ES": [
+"Fanatiz"
+],
+"MX": [
+"Fanatiz",
+"TyC Sports Internacional"
+],
+"PE": [
+"Fanatiz",
+"TyC Sports Internacional"
+],
+"PT": [
+"Fanatiz"
+],
+"PY": [
+"Fanatiz",
+"TyC Sports Internacional"
+],
+"UY": [
+"TyC Sports Internacional",
+"Fanatiz"
+]
+},
+"competition": {
+"ar": "الدوري الأرجنتيني",
+"de": "Primera División",
+"en": "Argentine Primera División",
+"es": "Liga Profesional Argentina",
+"fr": "Primera División argentine",
+"it": "Primera División argentina",
+"pt": "Primera División Argentina",
+"tr": "Arjantin Primera División"
+},
+"competitionId": "arg_primera",
+"home": "Aldosivi",
+"homeNames": {
+"ar": "الدوسيفي",
+"de": "Aldosivi",
+"en": "Aldosivi",
+"es": "Aldosivi",
+"fr": "Aldosivi",
+"it": "Aldosivi",
+"pt": "Aldosivi",
+"tr": "Aldosivi"
+},
+"id": "football-20261009-aldosivi-sarmiento",
+"kickoffUtc": "2026-10-09T17:30:00Z",
+"sources": [],
+"sport": "football",
+"tier": "regional"
+},
+"slug": "aldosivi-sarmiento-2026-10-09"
+},
+"es:football-20261009-avellino-sampdoria": {
+"lang": "es",
+"m": {
+"away": "Sampdoria",
+"awayNames": {
+"ar": "سامبدوريا",
+"de": "Sampdoria",
+"en": "Sampdoria",
+"es": "Sampdoria",
+"fr": "Sampdoria",
+"it": "Sampdoria",
+"pt": "Sampdoria",
+"tr": "Sampdoria"
+},
+"broadcasts": {
+"CL": [
+"OneFootball PPV"
+],
+"CO": [
+"OneFootball PPV"
+],
+"EC": [
+"OneFootball PPV"
+],
+"ES": [
+"OneFootball PPV"
+],
+"GB": [
+"Destination Calcio"
+],
+"IT": [
+"DAZN"
+],
+"MX": [
+"OneFootball PPV"
+],
+"PE": [
+"OneFootball PPV"
+],
+"PT": [
+"OneFootball PPV"
+],
+"PY": [
+"OneFootball PPV"
+],
+"UY": [
+"OneFootball PPV"
+]
+},
+"competition": {
+"ar": "الدوري الإيطالي الدرجة الثانية",
+"de": "Serie B (Italien)",
+"en": "Serie B",
+"es": "Serie B (Italia)",
+"fr": "Serie B (Italie)",
+"it": "Serie B",
+"pt": "Serie B (Itália)",
+"tr": "İtalya Serie B"
+},
+"competitionId": "seriebit",
+"home": "Avellino",
+"homeNames": {
+"ar": "أفيلينو",
+"de": "Avellino",
+"en": "Avellino",
+"es": "Avellino",
+"fr": "Avellino",
+"it": "Avellino",
+"pt": "Avellino",
+"tr": "Avellino"
+},
+"id": "football-20261009-avellino-sampdoria",
+"kickoffUtc": "2026-10-09T18:30:00Z",
+"sources": [],
+"sport": "football",
+"tier": "regional"
+},
+"slug": "avellino-sampdoria-2026-10-09"
+},
+"es:football-20261009-borussia-dortmund-werder-bremen": {
+"lang": "es",
+"m": {
+"away": "Werder Bremen",
+"awayNames": {
+"ar": "فيردر بريمن",
+"de": "Werder Bremen",
+"en": "Werder Bremen",
+"es": "Werder Bremen",
+"fr": "Werder Brême",
+"it": "Werder Brema",
+"pt": "Werder Bremen",
+"tr": "Werder Bremen"
+},
+"broadcasts": {
+"AE": [
+"MBC Shahid"
+],
+"BR": [
+"SportyNet",
+"CazéTV",
+"OneFootball PPV"
+],
+"CA": [
+"Fubo",
+"DAZN",
+"OneSoccer"
+],
+"CL": [
+"Disney+ Premium",
+"ESPN Premium"
+],
+"CO": [
+"Disney+ Premium",
+"ESPN 5"
+],
+"DE": [
+"Sky Bundesliga 1",
+"Sky Top Event",
+"Sky Showcase",
+"WOW"
+],
+"DZ": [
+"MBC Shahid"
+],
+"EC": [
+"Disney+ Premium",
+"ESPN 5"
+],
+"EG": [
+"MBC Shahid"
+],
+"ES": [
+"DAZN",
+"M+ Vamos 2",
+"M+ Liga de Campeones 2"
+],
+"FR": [
+"beIN Sports 2"
+],
+"GB": [
+"BBC iPlayer",
+"BBC Sport Website",
+"Bundesliga YouTube"
+],
+"IT": [
+"Sky Sport Calcio"
+],
+"MA": [
+"MBC Shahid"
+],
+"MX": [
+"FOX One",
+"FOX+"
+],
+"PE": [
+"Disney+ Premium",
+"ESPN 5"
+],
+"PT": [
+"DAZN 1"
+],
+"PY": [
+"Disney+ Premium",
+"ESPN 5"
+],
+"QA": [
+"MBC Shahid"
+],
+"SA": [
+"MBC Shahid"
+],
+"TN": [
+"MBC Shahid"
+],
+"TR": [
+"S Sport Plus",
+"Idman TV"
+],
+"US": [
+"Universo",
+"Peacock Premium",
+"Fubo Latino"
+],
+"UY": [
+"Disney+ Premium",
+"ESPN 5"
+]
+},
+"competition": {
+"ar": "الدوري الألماني",
+"de": "Bundesliga",
+"en": "Bundesliga",
+"es": "Bundesliga",
+"fr": "Bundesliga",
+"it": "Bundesliga",
+"pt": "Bundesliga",
+"tr": "Almanya Bundesliga"
+},
+"competitionId": "bundesliga",
+"home": "Borussia Dortmund",
+"homeNames": {
+"ar": "بوروسيا دورتموند",
+"de": "Borussia Dortmund",
+"en": "Borussia Dortmund",
+"es": "Borussia Dortmund",
+"fr": "Borussia Dortmund",
+"it": "Borussia Dortmund",
+"pt": "Borussia Dortmund",
+"tr": "Borussia Dortmund"
+},
+"id": "football-20261009-borussia-dortmund-werder-bremen",
+"kickoffUtc": "2026-10-09T18:30:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "borussia-dortmund-werder-bremen-2026-10-09"
+},
+"es:football-20261009-braga-sporting-cp": {
+"lang": "es",
+"m": {
+"away": "Sporting CP",
+"awayNames": {
+"ar": "سبورتينغ لشبونة",
+"de": "Sporting Lissabon",
+"en": "Sporting CP",
+"es": "Sporting de Portugal",
+"fr": "Sporting CP",
+"it": "Sporting Lisbona",
+"pt": "Sporting",
+"tr": "Sporting Lizbon"
+},
+"broadcasts": {
+"BR": [
+"ESPN 4",
+"Disney+"
+],
+"CL": [
+"DGO",
+"Amazon Prime Video",
+"Paramount+",
+"DAZN",
+"DSports 2"
+],
+"CO": [
+"DGO",
+"Amazon Prime Video",
+"Paramount+",
+"DAZN",
+"DSports 2",
+"Win Play"
+],
+"DE": [
+"Sportdigital+",
+"Sportdigital FUSSBALL2"
+],
+"EC": [
+"DGO",
+"Paramount+",
+"DAZN",
+"DSports 2"
+],
+"ES": [
+"DAZN"
+],
+"FR": [
+"beIN Sports Max 9"
+],
+"MX": [
+"Claro Sports",
+"Claro Sports Premium YouTube"
+],
+"PE": [
+"DGO",
+"Paramount+",
+"DAZN",
+"DSports 2"
+],
+"PT": [
+"Sport TV 1",
+"Sporting TV",
+"Fanatiz"
+],
+"TR": [
+"beIN Sports 3"
+],
+"US": [
+"beIN Sports",
+"beIN Sports Connect",
+"Fubo",
+"Fanatiz"
+],
+"UY": [
+"DGO",
+"Paramount+",
+"DAZN",
+"DSports 2"
+]
+},
+"competition": {
+"ar": "الدوري البرتغالي",
+"de": "Primeira Liga",
+"en": "Primeira Liga",
+"es": "Liga Portuguesa",
+"fr": "Liga Portugal",
+"it": "Campionato portoghese",
+"pt": "Liga Portugal",
+"tr": "Portekiz Ligi"
+},
+"competitionId": "primeira",
+"home": "Braga",
+"homeNames": {
+"ar": "براغا",
+"de": "SC Braga",
+"en": "SC Braga",
+"es": "Braga",
+"fr": "SC Braga",
+"it": "Braga",
+"pt": "Sporting Braga",
+"tr": "Braga"
+},
+"id": "football-20261009-braga-sporting-cp",
+"kickoffUtc": "2026-10-09T19:15:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "braga-sporting-de-portugal-2026-10-09"
+},
+"es:football-20261009-delfin-mushuc-runa": {
+"lang": "es",
+"m": {
+"away": "Mushuc Runa",
+"awayNames": {
+"ar": "موشوك رونا",
+"de": "Mushuc Runa",
+"en": "Mushuc Runa",
+"es": "Mushuc Runa",
+"fr": "Mushuc Runa",
+"it": "Mushuc Runa",
+"pt": "Mushuc Runa",
+"tr": "Mushuc Runa"
+},
+"broadcasts": {
+"CO": [
+"Zapping Internacional"
+],
+"EC": [
+"Zapping Sports + Plus"
+],
+"ES": [
+"Zapping Internacional"
+],
+"PE": [
+"Zapping Internacional"
+],
+"UY": [
+"Zapping Internacional"
+]
+},
+"competition": {
+"ar": "الدوري الإكوادوري",
+"de": "Ecuadorianische Serie A",
+"en": "Ecuadorian Serie A (LigaPro)",
+"es": "LigaPro Serie A",
+"fr": "Serie A équatorienne",
+"it": "Serie A ecuadoriana",
+"pt": "Série A Equatoriana",
+"tr": "Ekvador Serie A"
+},
+"competitionId": "liga_pro_ec",
+"home": "Delfin",
+"homeNames": {
+"ar": "Delfín",
+"de": "Delfín",
+"en": "Delfín",
+"es": "Delfín",
+"fr": "Delfín",
+"it": "Delfín",
+"pt": "Delfín",
+"tr": "Delfín"
+},
+"id": "football-20261009-delfin-mushuc-runa",
+"kickoffUtc": "2026-10-09T20:30:00Z",
+"sources": [],
+"sport": "football",
+"tier": "regional"
+},
+"slug": "delfin-mushuc-runa-2026-10-09"
+},
+"es:football-20261009-gimnasia-lp-atletico-tucuman": {
+"lang": "es",
+"m": {
+"away": "Atletico Tucuman",
+"awayNames": {
+"ar": "أتلتيكو توكومان",
+"de": "Atlético Tucumán",
+"en": "Atlético Tucumán",
+"es": "Atlético Tucumán",
+"fr": "Atlético Tucumán",
+"it": "Atlético Tucumán",
+"pt": "Atlético Tucumán",
+"tr": "Atlético Tucumán"
+},
+"broadcasts": {
+"AR": [
+"ESPN Premium"
+],
+"BR": [
+"Disney+"
+],
+"CL": [
+"Disney+ Premium",
+"Fanatiz"
+],
+"CO": [
+"Disney+ Premium",
+"Fanatiz"
+],
+"EC": [
+"Disney+ Premium",
+"Fanatiz"
+],
+"ES": [
+"Fanatiz"
+],
+"MX": [
+"Disney+ Premium",
+"Fanatiz"
+],
+"PE": [
+"Disney+ Premium",
+"Fanatiz"
+],
+"PT": [
+"Fanatiz"
+],
+"PY": [
+"Disney+ Premium",
+"Fanatiz"
+],
+"UY": [
+"Disney+ Premium",
+"Fanatiz"
+]
+},
+"competition": {
+"ar": "الدوري الأرجنتيني",
+"de": "Primera División",
+"en": "Argentine Primera División",
+"es": "Liga Profesional Argentina",
+"fr": "Primera División argentine",
+"it": "Primera División argentina",
+"pt": "Primera División Argentina",
+"tr": "Arjantin Primera División"
+},
+"competitionId": "arg_primera",
+"home": "Gimnasia LP",
+"homeNames": {
+"ar": "خيمناسيا لا بلاتا",
+"de": "Gimnasia La Plata",
+"en": "Gimnasia La Plata",
+"es": "Gimnasia La Plata",
+"fr": "Gimnasia La Plata",
+"it": "Gimnasia La Plata",
+"pt": "Gimnasia La Plata",
+"tr": "Gimnasia La Plata"
+},
+"id": "football-20261009-gimnasia-lp-atletico-tucuman",
+"kickoffUtc": "2026-10-09T21:00:00Z",
+"sources": [],
+"sport": "football",
+"tier": "regional"
+},
+"slug": "gimnasia-la-plata-atletico-tucuman-2026-10-09"
+},
+"es:football-20261009-lens-lyon": {
+"lang": "es",
+"m": {
+"away": "Lyon",
+"awayNames": {
+"ar": "ليون",
+"de": "Olympique Lyon",
+"en": "Lyon",
+"es": "Olympique de Lyon",
+"fr": "Olympique Lyonnais",
+"it": "Lione",
+"pt": "Lyon",
+"tr": "Lyon"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports MENA 4",
+"TOD TV"
+],
+"BR": [
+"CazéTV"
+],
+"CA": [
+"Fubo"
+],
+"CL": [
+"Disney+ Premium",
+"ESPN 4"
+],
+"CO": [
+"Disney+ Premium",
+"ESPN 4"
+],
+"DE": [
+"DAZN"
+],
+"DZ": [
+"beIN Sports MENA 4",
+"TOD TV"
+],
+"EC": [
+"Disney+ Premium",
+"ESPN 4"
+],
+"EG": [
+"beIN Sports MENA 4",
+"TOD TV"
+],
+"ES": [
+"DAZN"
+],
+"FR": [
+"Ligue 1+"
+],
+"GB": [
+"Amazon Prime PPV",
+"Ligue1+"
+],
+"MA": [
+"beIN Sports MENA 4",
+"TOD TV"
+],
+"MX": [
+"FOX One",
+"Tubi"
+],
+"PE": [
+"Disney+ Premium",
+"ESPN 4"
+],
+"PT": [
+"Fanatiz",
+"Sport TV 6"
+],
+"PY": [
+"Disney+ Premium",
+"ESPN 4"
+],
+"QA": [
+"beIN Sports MENA 4",
+"TOD TV"
+],
+"SA": [
+"beIN Sports MENA 4",
+"TOD TV"
+],
+"TN": [
+"beIN Sports MENA 4",
+"TOD TV"
+],
+"TR": [
+"beIN Sports 4"
+],
+"US": [
+"beIN Sports Connect",
+"beIN Sports en Español",
+"Fubo",
+"Fanatiz"
+],
+"UY": [
+"Disney+ Premium",
+"ESPN 4"
+]
+},
+"competition": {
+"ar": "الدوري الفرنسي",
+"de": "Ligue 1",
+"en": "French Ligue 1",
+"es": "Ligue 1",
+"fr": "Ligue 1",
+"it": "Ligue 1",
+"pt": "Ligue 1",
+"tr": "Fransa Ligue 1"
+},
+"competitionId": "ligue1",
+"home": "Lens",
+"homeNames": {
+"ar": "لانس",
+"de": "RC Lens",
+"en": "RC Lens",
+"es": "Lens",
+"fr": "RC Lens",
+"it": "Lens",
+"pt": "Lens",
+"tr": "Lens"
+},
+"id": "football-20261009-lens-lyon",
+"kickoffUtc": "2026-10-09T18:45:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "lens-olympique-de-lyon-2026-10-09"
+},
+"es:football-20261009-libertad-fc-leones-del-norte": {
+"lang": "es",
+"m": {
+"away": "Leones del Norte",
+"awayNames": {
+"ar": "Leones del Norte",
+"de": "Leones del Norte",
+"en": "Leones del Norte",
+"es": "Leones del Norte",
+"fr": "Leones del Norte",
+"it": "Leones del Norte",
+"pt": "Leones del Norte",
+"tr": "Leones del Norte"
+},
+"broadcasts": {
+"CO": [
+"Zapping Internacional"
+],
+"EC": [
+"Zapping Sports + Plus"
+],
+"ES": [
+"Zapping Internacional"
+],
+"PE": [
+"Zapping Internacional"
+],
+"UY": [
+"Zapping Internacional"
+]
+},
+"competition": {
+"ar": "الدوري الإكوادوري",
+"de": "Ecuadorianische Serie A",
+"en": "Ecuadorian Serie A (LigaPro)",
+"es": "LigaPro Serie A",
+"fr": "Serie A équatorienne",
+"it": "Serie A ecuadoriana",
+"pt": "Série A Equatoriana",
+"tr": "Ekvador Serie A"
+},
+"competitionId": "liga_pro_ec",
+"home": "Libertad FC",
+"homeNames": {
+"ar": "ليبرتاد",
+"de": "Libertad FC",
+"en": "Libertad FC",
+"es": "Libertad FC",
+"fr": "Libertad FC",
+"it": "Libertad FC",
+"pt": "Libertad FC",
+"tr": "Libertad FC"
+},
+"id": "football-20261009-libertad-fc-leones-del-norte",
+"kickoffUtc": "2026-10-09T18:00:00Z",
+"sources": [],
+"sport": "football",
+"tier": "regional"
+},
+"slug": "libertad-fc-leones-del-norte-2026-10-09"
+},
+"es:football-20261009-malaga-espanyol": {
+"lang": "es",
+"m": {
+"away": "Espanyol",
+"awayNames": {
+"ar": "إسبانيول",
+"de": "Espanyol",
+"en": "Espanyol",
+"es": "Espanyol",
+"fr": "Espanyol",
+"it": "Espanyol",
+"pt": "Espanyol",
+"tr": "Espanyol"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports MENA 2",
+"TOD TV"
+],
+"BR": [
+"CazéTV"
+],
+"CA": [
+"TSN+"
+],
+"CL": [
+"Disney+ Premium",
+"ESPN"
+],
+"CO": [
+"Disney+ Premium",
+"ESPN 2"
+],
+"DE": [
+"DAZN"
+],
+"DZ": [
+"beIN Sports MENA 2",
+"TOD TV"
+],
+"EC": [
+"ESPN 2",
+"Disney+ Premium"
+],
+"EG": [
+"beIN Sports MENA 2",
+"TOD TV"
+],
+"ES": [
+"DAZN LaLiga",
+"DAZN"
+],
+"FR": [
+"DAZN",
+"Disney+"
+],
+"GB": [
+"LALIGATV"
+],
+"MA": [
+"beIN Sports MENA 2",
+"TOD TV"
+],
+"MX": [
+"Sky Sports"
+],
+"PE": [
+"Disney+ Premium",
+"ESPN 2"
+],
+"PT": [
+"DAZN 2"
+],
+"PY": [
+"ESPN 2",
+"Disney+ Premium"
+],
+"QA": [
+"beIN Sports MENA 2",
+"TOD TV"
+],
+"SA": [
+"beIN Sports MENA 2",
+"TOD TV"
+],
+"TN": [
+"beIN Sports MENA 2",
+"TOD TV"
+],
+"TR": [
+"S Sport Plus",
+"AzTV"
+],
+"US": [
+"ESPN+",
+"ESPN Deportes",
+"Fubo"
+],
+"UY": [
+"ESPN 2",
+"Disney+ Premium"
+]
+},
+"competition": {
+"ar": "الدوري الإسباني",
+"de": "LaLiga",
+"en": "LaLiga",
+"es": "LaLiga",
+"fr": "LaLiga",
+"it": "LaLiga",
+"pt": "LaLiga",
+"tr": "İspanya La Liga"
+},
+"competitionId": "laliga",
+"home": "Malaga",
+"homeNames": {
+"ar": "ملقا",
+"de": "Málaga",
+"en": "Málaga",
+"es": "Málaga",
+"fr": "Málaga",
+"it": "Málaga",
+"pt": "Málaga",
+"tr": "Málaga"
+},
+"id": "football-20261009-malaga-espanyol",
+"kickoffUtc": "2026-10-09T19:00:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "malaga-espanyol-2026-10-09"
+},
+"es:football-20261009-montevideo-city-torque-danubio": {
+"lang": "es",
+"m": {
+"away": "Danubio",
+"awayNames": {
+"ar": "Danubio",
+"de": "Danubio",
+"en": "Danubio",
+"es": "Danubio",
+"fr": "Danubio",
+"it": "Danubio",
+"pt": "Danubio",
+"tr": "Danubio"
+},
+"broadcasts": {
+"BR": [
+"Disney+"
+],
+"CL": [
+"Antel TV Internacional",
+"Disney+ Premium"
+],
+"CO": [
+"Antel TV Internacional",
+"Disney+ Premium"
+],
+"EC": [
+"Antel TV Internacional",
+"Disney+ Premium"
+],
+"ES": [
+"Antel TV Internacional"
+],
+"MX": [
+"Antel TV Internacional",
+"Disney+ Premium"
+],
+"PE": [
+"Antel TV Internacional",
+"Disney+ Premium"
+],
+"PT": [
+"Antel TV Internacional"
+],
+"PY": [
+"Antel TV Internacional",
+"Disney+ Premium"
+],
+"UY": [
+"DSports Uruguay Premium",
+"Antel TV",
+"Disney+ Premium"
+]
+},
+"competition": {
+"ar": "الدوري الأوروغوياني",
+"de": "Uruguayische Liga AUF",
+"en": "Uruguayan Liga AUF",
+"es": "Liga AUF Uruguaya",
+"fr": "Liga AUF uruguayenne",
+"it": "Liga AUF uruguaiana",
+"pt": "Liga AUF Uruguaia",
+"tr": "Uruguay Liga AUF"
+},
+"competitionId": "liga_auf",
+"home": "Montevideo City Torque",
+"homeNames": {
+"ar": "مونتيفيديو سيتي توركي",
+"de": "Montevideo City Torque",
+"en": "Montevideo City Torque",
+"es": "Montevideo City Torque",
+"fr": "Montevideo City Torque",
+"it": "Montevideo City Torque",
+"pt": "Montevideo City Torque",
+"tr": "Montevideo City Torque"
+},
+"id": "football-20261009-montevideo-city-torque-danubio",
+"kickoffUtc": "2026-10-09T20:00:00Z",
+"sources": [],
+"sport": "football",
+"tier": "regional"
+},
+"slug": "montevideo-city-torque-danubio-2026-10-09"
+},
+"es:football-20261009-preussen-munster-rot-weiss-essen": {
+"lang": "es",
+"m": {
+"away": "Rot-Weiss Essen",
+"awayNames": {
+"ar": "روت فايس إيسن",
+"de": "Rot-Weiss Essen",
+"en": "Rot-Weiss Essen",
+"es": "Rot-Weiss Essen",
+"fr": "Rot-Weiss Essen",
+"it": "Rot-Weiss Essen",
+"pt": "Rot-Weiss Essen",
+"tr": "Rot-Weiss Essen"
+},
+"broadcasts": {
+"BR": [
+"OneFootball PPV"
+],
+"CL": [
+"OneFootball PPV"
+],
+"CO": [
+"OneFootball PPV"
+],
+"DE": [
+"Magenta Sport"
+],
+"EC": [
+"OneFootball PPV"
+],
+"ES": [
+"OneFootball PPV"
+],
+"GB": [
+"DFB Play"
+],
+"MX": [
+"OneFootball PPV"
+],
+"PE": [
+"OneFootball PPV"
+],
+"PT": [
+"OneFootball PPV"
+],
+"PY": [
+"OneFootball PPV"
+],
+"US": [
+"ESPN+"
+],
+"UY": [
+"OneFootball PPV"
+]
+},
+"competition": {
+"ar": "الدوري الألماني الدرجة الثالثة",
+"de": "3. Liga",
+"en": "3. Liga",
+"es": "3. Liga (Alemania)",
+"fr": "3. Liga (Allemagne)",
+"it": "3. Liga (Germania)",
+"pt": "3. Liga (Alemanha)",
+"tr": "Almanya 3. Lig"
+},
+"competitionId": "3_liga",
+"home": "Preussen Munster",
+"homeNames": {
+"ar": "بروسن مونستر",
+"de": "Preußen Münster",
+"en": "Preußen Münster",
+"es": "Preußen Münster",
+"fr": "Preußen Münster",
+"it": "Preußen Münster",
+"pt": "Preußen Münster",
+"tr": "Preußen Münster"
+},
+"id": "football-20261009-preussen-munster-rot-weiss-essen",
+"kickoffUtc": "2026-10-09T17:00:00Z",
+"sources": [],
+"sport": "football",
+"tier": "regional"
+},
+"slug": "preussen-munster-rot-weiss-essen-2026-10-09"
+},
+"es:football-20261009-psv-heerenveen": {
+"lang": "es",
+"m": {
+"away": "Heerenveen",
+"awayNames": {
+"ar": "هيرنفين",
+"de": "Heerenveen",
+"en": "Heerenveen",
+"es": "Heerenveen",
+"fr": "Heerenveen",
+"it": "Heerenveen",
+"pt": "Heerenveen",
+"tr": "Heerenveen"
+},
+"broadcasts": {
+"AE": [
+"Dubai Sports 1"
+],
+"BR": [
+"Disney+"
+],
+"CA": [
+"Sportsnet"
+],
+"CL": [
+"Disney+ Premium"
+],
+"CO": [
+"Disney+ Premium"
+],
+"DE": [
+"Sportdigital+",
+"Sportdigital FUSSBALL"
+],
+"EC": [
+"Disney+ Premium"
+],
+"ES": [
+"DAZN"
+],
+"FR": [
+"DAZN"
+],
+"MX": [
+"Disney+ Premium",
+"ESPN 3"
+],
+"PE": [
+"Disney+ Premium"
+],
+"PT": [
+"DAZN 3"
+],
+"PY": [
+"Disney+ Premium"
+],
+"TR": [
+"S Sport Plus"
+],
+"US": [
+"ESPN+"
+],
+"UY": [
+"Disney+ Premium"
+]
+},
+"competition": {
+"ar": "الدوري الهولندي",
+"de": "Eredivisie",
+"en": "Eredivisie",
+"es": "Eredivisie",
+"fr": "Eredivisie",
+"it": "Eredivisie",
+"pt": "Eredivisie",
+"tr": "Hollanda Eredivisie"
+},
+"competitionId": "eredivisie",
+"home": "PSV",
+"homeNames": {
+"ar": "آيندهوفن",
+"de": "PSV Eindhoven",
+"en": "PSV Eindhoven",
+"es": "PSV Eindhoven",
+"fr": "PSV Eindhoven",
+"it": "PSV Eindhoven",
+"pt": "PSV Eindhoven",
+"tr": "PSV Eindhoven"
+},
+"id": "football-20261009-psv-heerenveen",
+"kickoffUtc": "2026-10-09T18:00:00Z",
+"sources": [],
+"sport": "football",
+"tier": "regional"
+},
+"slug": "psv-eindhoven-heerenveen-2026-10-09"
+},
+"es:football-20261009-veres-rivne-shakhtar-donetsk": {
+"lang": "es",
+"m": {
+"away": "Shakhtar Donetsk",
+"awayNames": {
+"ar": "شاختار دونيتسك",
+"de": "Schachtar Donezk",
+"en": "Shakhtar Donetsk",
+"es": "Shakhtar Donetsk",
+"fr": "Chakhtar Donetsk",
+"it": "Shakhtar Donetsk",
+"pt": "Shakhtar Donetsk",
+"tr": "Şahtar Donetsk"
+},
+"broadcasts": {
+"CL": [
+"OneFootball PPV"
+],
+"CO": [
+"OneFootball PPV"
+],
+"EC": [
+"OneFootball PPV"
+],
+"ES": [
+"OneFootball PPV"
+],
+"MX": [
+"OneFootball PPV"
+],
+"PE": [
+"OneFootball PPV"
+],
+"PT": [
+"OneFootball PPV"
+],
+"PY": [
+"OneFootball PPV"
+],
+"TR": [
+"Tivibu Spor 1"
+],
+"UY": [
+"OneFootball PPV"
+]
+},
+"competition": {
+"ar": "الدوري الأوكراني",
+"de": "Ukrainische Premier League",
+"en": "Ukrainian Premier League",
+"es": "Liga Premier de Ucrania",
+"fr": "Premier League ukrainienne",
+"it": "Premier League ucraina",
+"pt": "Liga Premier da Ucrânia",
+"tr": "Ukrayna Premier Ligi"
+},
+"competitionId": "ukr_pl",
+"home": "Veres Rivne",
+"homeNames": {
+"ar": "فيريس ريفني",
+"de": "Veres Rivne",
+"en": "Veres Rivne",
+"es": "Veres Rivne",
+"fr": "Veres Rivne",
+"it": "Veres Rivne",
+"pt": "Veres Rivne",
+"tr": "Veres Rivne"
+},
+"id": "football-20261009-veres-rivne-shakhtar-donetsk",
+"kickoffUtc": "2026-10-09T12:30:00Z",
+"sources": [],
+"sport": "football",
+"tier": "regional"
+},
+"slug": "veres-rivne-shakhtar-donetsk-2026-10-09"
+},
+"fr:basketball-20261009-dallas-mavericks-houston-rockets": {
+"lang": "fr",
+"m": {
+"away": "Rockets",
+"awayNames": {
+"ar": "هيوستن روكتس",
+"de": "Houston Rockets",
+"en": "Houston Rockets",
+"es": "Houston Rockets",
+"fr": "Houston Rockets",
+"it": "Houston Rockets",
+"pt": "Houston Rockets",
+"tr": "Houston Rockets"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"AR": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"AT": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"AU": [
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+],
+"BE": [
+"DAZN",
+"Prime Video",
+"NBA League Pass"
+],
+"BR": [
+"ESPN",
+"Disney+",
+"Prime Video",
+"NBA League Pass"
+],
+"CA": [
+"TSN",
+"Sportsnet",
+"Prime Video",
+"NBA League Pass"
+],
+"CH": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"CL": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"CO": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"CZ": [
+"Nova Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"DE": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"DZ": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"EC": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"EG": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"ES": [
+"DAZN",
+"Prime Video",
+"NBA League Pass"
+],
+"FR": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"GB": [
+"Sky Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"GH": [
+"ESPN",
+"Sporty TV",
+"NBA League Pass"
+],
+"HR": [
+"Sport Klub",
+"Prime Video",
+"NBA League Pass"
+],
+"IT": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"JP": [
+"Lemino",
+"Prime Video",
+"WOWOW"
+],
+"KR": [
+"Coupang Play",
+"Prime Video",
+"NBA League Pass"
+],
+"MA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"MX": [
+"ESPN",
+"Disney+",
+"Prime Video",
+"NBA League Pass"
+],
+"NG": [
+"ESPN",
+"Sporty TV",
+"NBA League Pass"
+],
+"NL": [
+"ESPN",
+"NBA League Pass"
+],
+"NO": [
+"HBO Max",
+"NBA League Pass"
+],
+"NZ": [
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+],
+"PE": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"PT": [
+"Sport TV",
+"Prime Video",
+"NBA League Pass"
+],
+"PY": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"QA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"SA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"SN": [
+"Canal+ Sport",
+"NBA League Pass"
+],
+"TN": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"TR": [
+"Prime Video"
+],
+"US": [
+"NBA TV"
+],
+"UY": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"ZA": [
+"SuperSport",
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+]
+},
+"competition": {
+"ar": "مباريات NBA التحضيرية",
+"de": "NBA Preseason",
+"en": "NBA Preseason",
+"es": "Pretemporada NBA",
+"fr": "Présaison NBA",
+"it": "Preseason NBA",
+"pt": "Pré-temporada da NBA",
+"tr": "NBA Hazırlık Maçları"
+},
+"competitionId": "nba",
+"home": "Mavericks",
+"homeNames": {
+"ar": "دالاس مافريكس",
+"de": "Dallas Mavericks",
+"en": "Dallas Mavericks",
+"es": "Dallas Mavericks",
+"fr": "Dallas Mavericks",
+"it": "Dallas Mavericks",
+"pt": "Dallas Mavericks",
+"tr": "Dallas Mavericks"
+},
+"id": "basketball-20261009-dallas-mavericks-houston-rockets",
+"kickoffUtc": "2026-10-09T12:00:00Z",
+"sources": [
+"espn"
+],
+"sport": "basketball",
+"tier": "global"
+},
+"slug": "dallas-mavericks-houston-rockets-2026-10-09"
+},
+"fr:basketball-20261010-bulls-grizzlies": {
+"lang": "fr",
+"m": {
+"away": "Grizzlies",
+"awayNames": {
+"ar": "ممفيس غريزليز",
+"de": "Memphis Grizzlies",
+"en": "Memphis Grizzlies",
+"es": "Memphis Grizzlies",
+"fr": "Memphis Grizzlies",
+"it": "Memphis Grizzlies",
+"pt": "Memphis Grizzlies",
+"tr": "Memphis Grizzlies"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"AR": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"AT": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"AU": [
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+],
+"BE": [
+"DAZN",
+"Prime Video",
+"NBA League Pass"
+],
+"BR": [
+"ESPN",
+"Disney+",
+"Prime Video",
+"NBA League Pass"
+],
+"CA": [
+"TSN",
+"Sportsnet",
+"Prime Video",
+"NBA League Pass"
+],
+"CH": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"CL": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"CO": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"CZ": [
+"Nova Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"DE": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"DZ": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"EC": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"EG": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"ES": [
+"DAZN",
+"Prime Video",
+"NBA League Pass"
+],
+"FR": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"GB": [
+"Sky Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"GH": [
+"ESPN",
+"Sporty TV",
+"NBA League Pass"
+],
+"HR": [
+"Sport Klub",
+"Prime Video",
+"NBA League Pass"
+],
+"IT": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"JP": [
+"Lemino",
+"Prime Video",
+"WOWOW"
+],
+"KR": [
+"Coupang Play",
+"Prime Video",
+"NBA League Pass"
+],
+"MA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"MX": [
+"ESPN",
+"Disney+",
+"Prime Video",
+"NBA League Pass"
+],
+"NG": [
+"ESPN",
+"Sporty TV",
+"NBA League Pass"
+],
+"NL": [
+"ESPN",
+"NBA League Pass"
+],
+"NO": [
+"HBO Max",
+"NBA League Pass"
+],
+"NZ": [
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+],
+"PE": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"PT": [
+"Sport TV",
+"Prime Video",
+"NBA League Pass"
+],
+"PY": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"QA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"SA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"SN": [
+"Canal+ Sport",
+"NBA League Pass"
+],
+"TN": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"TR": [
+"S Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"US": [
+"NBA TV"
+],
+"UY": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"ZA": [
+"SuperSport",
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+]
+},
+"competition": {
+"ar": "مباريات NBA التحضيرية",
+"de": "NBA Preseason",
+"en": "NBA Preseason",
+"es": "Pretemporada NBA",
+"fr": "Présaison NBA",
+"it": "Preseason NBA",
+"pt": "Pré-temporada da NBA",
+"tr": "NBA Hazırlık Maçları"
+},
+"competitionId": "nba",
+"home": "Bulls",
+"homeNames": {
+"ar": "شيكاغو بولز",
+"de": "Chicago Bulls",
+"en": "Chicago Bulls",
+"es": "Chicago Bulls",
+"fr": "Chicago Bulls",
+"it": "Chicago Bulls",
+"pt": "Chicago Bulls",
+"tr": "Chicago Bulls"
+},
+"id": "basketball-20261010-bulls-grizzlies",
+"kickoffUtc": "2026-10-10T00:00:00Z",
+"sources": [
+"espn"
+],
+"sport": "basketball",
+"tier": "global"
+},
+"slug": "chicago-bulls-memphis-grizzlies-2026-10-10"
+},
+"fr:football-20261009-al-fateh-al-ahli": {
+"lang": "fr",
+"m": {
+"away": "Al Ahli",
+"awayNames": {
+"ar": "الأهلي",
+"de": "Al Ahli",
+"en": "Al Ahli",
+"es": "Al Ahli",
+"fr": "Al Ahli",
+"it": "Al Ahli",
+"pt": "Al Ahli",
+"tr": "Al Ahli"
+},
+"broadcasts": {
+"BR": [
+"Canal GOAT",
+"OneFootball"
+],
+"CL": [
+"OneFootball"
+],
+"CO": [
+"OneFootball"
+],
+"DE": [
+"DAZN",
+"Sportdigital FUSSBALL2",
+"Sportdigital+"
+],
+"EC": [
+"OneFootball"
+],
+"ES": [
+"OneFootball"
+],
+"FR": [
+"DAZN"
+],
+"GB": [
+"Saudi Pro League YouTube"
+],
+"MX": [
+"OneFootball"
+],
+"PE": [
+"OneFootball"
+],
+"PT": [
+"OneFootball",
+"Sport TV 1"
+],
+"PY": [
+"OneFootball"
+],
+"SA": [
+"Thmanyah"
+],
+"US": [
+"FS2",
+"Fubo"
+],
+"UY": [
+"OneFootball"
+]
+},
+"competition": {
+"ar": "دوري روشن السعودي",
+"de": "Saudi Pro League",
+"en": "Saudi Pro League",
+"es": "Liga Profesional Saudí",
+"fr": "Saudi Pro League",
+"it": "Saudi Pro League",
+"pt": "Liga Saudita",
+"tr": "Suudi Pro Lig"
+},
+"competitionId": "saudi_pl",
+"home": "Al Fateh",
+"homeNames": {
+"ar": "الفتح",
+"de": "Al Fateh",
+"en": "Al Fateh",
+"es": "Al Fateh",
+"fr": "Al Fateh",
+"it": "Al Fateh",
+"pt": "Al Fateh",
+"tr": "Al Fateh"
+},
+"id": "football-20261009-al-fateh-al-ahli",
+"kickoffUtc": "2026-10-09T14:55:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "al-fateh-al-ahli-2026-10-09"
+},
+"fr:football-20261009-al-kholood-al-qadsiah": {
+"lang": "fr",
+"m": {
+"away": "Al Qadsiah",
+"awayNames": {
+"ar": "القادسية",
+"de": "Al Qadsiah",
+"en": "Al Qadsiah",
+"es": "Al Qadsiah",
+"fr": "Al Qadsiah",
+"it": "Al Qadsiah",
+"pt": "Al Qadsiah",
+"tr": "Al Qadsiah"
+},
+"broadcasts": {
+"BR": [
+"XSports",
+"Canal GOAT"
+],
+"CL": [
+"Somos FOX YouTube"
+],
+"CO": [
+"Somos FOX YouTube"
+],
+"DE": [
+"DAZN"
+],
+"EC": [
+"Somos FOX YouTube"
+],
+"ES": [
+"M+ Vamos 2",
+"M+ Liga de Campeones"
+],
+"FR": [
+"DAZN"
+],
+"MX": [
+"FOX One",
+"FOX"
+],
+"PE": [
+"Somos FOX YouTube"
+],
+"PY": [
+"Somos FOX YouTube"
+],
+"SA": [
+"Thmanyah"
+],
+"US": [
+"FOX Deportes",
+"Fubo Latino"
+],
+"UY": [
+"Somos FOX YouTube"
+]
+},
+"competition": {
+"ar": "دوري روشن السعودي",
+"de": "Saudi Pro League",
+"en": "Saudi Pro League",
+"es": "Liga Profesional Saudí",
+"fr": "Saudi Pro League",
+"it": "Saudi Pro League",
+"pt": "Liga Saudita",
+"tr": "Suudi Pro Lig"
+},
+"competitionId": "saudi_pl",
+"home": "Al Kholood",
+"homeNames": {
+"ar": "الخلود",
+"de": "Al Kholood",
+"en": "Al Kholood",
+"es": "Al Kholood",
+"fr": "Al Kholood",
+"it": "Al Kholood",
+"pt": "Al Kholood",
+"tr": "Al Kholood"
+},
+"id": "football-20261009-al-kholood-al-qadsiah",
+"kickoffUtc": "2026-10-09T13:50:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "al-kholood-al-qadsiah-2026-10-09"
+},
+"fr:football-20261009-al-nassr-al-diriyah": {
+"lang": "fr",
+"m": {
+"away": "Al Diriyah",
+"awayNames": {
+"ar": "الدرعية",
+"de": "Al Diriyah",
+"en": "Al Diriyah",
+"es": "Al Diriyah",
+"fr": "Al Diriyah",
+"it": "Al Diriyah",
+"pt": "Al Diriyah",
+"tr": "Al Diriyah"
+},
+"broadcasts": {
+"BR": [
+"XSports",
+"Canal GOAT"
+],
+"CL": [
+"Somos FOX YouTube"
+],
+"CO": [
+"Somos FOX YouTube"
+],
+"DE": [
+"DAZN"
+],
+"EC": [
+"Somos FOX YouTube"
+],
+"ES": [
+"M+ Vamos",
+"M+ Liga de Campeones"
+],
+"FR": [
+"DAZN"
+],
+"IT": [
+"Sportitalia"
+],
+"MX": [
+"FOX One",
+"FOX"
+],
+"PE": [
+"Somos FOX YouTube"
+],
+"PT": [
+"Sport TV 2"
+],
+"PY": [
+"Somos FOX YouTube"
+],
+"SA": [
+"Thmanyah"
+],
+"TR": [
+"S Sport Plus"
+],
+"US": [
+"FOX Soccer Plus",
+"FOX Deportes",
+"Fubo"
+],
+"UY": [
+"Somos FOX YouTube"
+]
+},
+"competition": {
+"ar": "دوري روشن السعودي",
+"de": "Saudi Pro League",
+"en": "Saudi Pro League",
+"es": "Liga Profesional Saudí",
+"fr": "Saudi Pro League",
+"it": "Saudi Pro League",
+"pt": "Liga Saudita",
+"tr": "Suudi Pro Lig"
+},
+"competitionId": "saudi_pl",
+"home": "Al Nassr",
+"homeNames": {
+"ar": "النصر",
+"de": "Al-Nassr",
+"en": "Al Nassr",
+"es": "Al Nassr",
+"fr": "Al-Nassr",
+"it": "Al Nassr",
+"pt": "Al-Nassr",
+"tr": "Al Nassr"
+},
+"id": "football-20261009-al-nassr-al-diriyah",
+"kickoffUtc": "2026-10-09T18:00:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "al-nassr-al-diriyah-2026-10-09"
+},
+"fr:football-20261009-borussia-dortmund-werder-bremen": {
+"lang": "fr",
+"m": {
+"away": "Werder Bremen",
+"awayNames": {
+"ar": "فيردر بريمن",
+"de": "Werder Bremen",
+"en": "Werder Bremen",
+"es": "Werder Bremen",
+"fr": "Werder Brême",
+"it": "Werder Brema",
+"pt": "Werder Bremen",
+"tr": "Werder Bremen"
+},
+"broadcasts": {
+"AE": [
+"MBC Shahid"
+],
+"BR": [
+"SportyNet",
+"CazéTV",
+"OneFootball PPV"
+],
+"CA": [
+"Fubo",
+"DAZN",
+"OneSoccer"
+],
+"CL": [
+"Disney+ Premium",
+"ESPN Premium"
+],
+"CO": [
+"Disney+ Premium",
+"ESPN 5"
+],
+"DE": [
+"Sky Bundesliga 1",
+"Sky Top Event",
+"Sky Showcase",
+"WOW"
+],
+"DZ": [
+"MBC Shahid"
+],
+"EC": [
+"Disney+ Premium",
+"ESPN 5"
+],
+"EG": [
+"MBC Shahid"
+],
+"ES": [
+"DAZN",
+"M+ Vamos 2",
+"M+ Liga de Campeones 2"
+],
+"FR": [
+"beIN Sports 2"
+],
+"GB": [
+"BBC iPlayer",
+"BBC Sport Website",
+"Bundesliga YouTube"
+],
+"IT": [
+"Sky Sport Calcio"
+],
+"MA": [
+"MBC Shahid"
+],
+"MX": [
+"FOX One",
+"FOX+"
+],
+"PE": [
+"Disney+ Premium",
+"ESPN 5"
+],
+"PT": [
+"DAZN 1"
+],
+"PY": [
+"Disney+ Premium",
+"ESPN 5"
+],
+"QA": [
+"MBC Shahid"
+],
+"SA": [
+"MBC Shahid"
+],
+"TN": [
+"MBC Shahid"
+],
+"TR": [
+"S Sport Plus",
+"Idman TV"
+],
+"US": [
+"Universo",
+"Peacock Premium",
+"Fubo Latino"
+],
+"UY": [
+"Disney+ Premium",
+"ESPN 5"
+]
+},
+"competition": {
+"ar": "الدوري الألماني",
+"de": "Bundesliga",
+"en": "Bundesliga",
+"es": "Bundesliga",
+"fr": "Bundesliga",
+"it": "Bundesliga",
+"pt": "Bundesliga",
+"tr": "Almanya Bundesliga"
+},
+"competitionId": "bundesliga",
+"home": "Borussia Dortmund",
+"homeNames": {
+"ar": "بوروسيا دورتموند",
+"de": "Borussia Dortmund",
+"en": "Borussia Dortmund",
+"es": "Borussia Dortmund",
+"fr": "Borussia Dortmund",
+"it": "Borussia Dortmund",
+"pt": "Borussia Dortmund",
+"tr": "Borussia Dortmund"
+},
+"id": "football-20261009-borussia-dortmund-werder-bremen",
+"kickoffUtc": "2026-10-09T18:30:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "borussia-dortmund-werder-breme-2026-10-09"
+},
+"fr:football-20261009-braga-sporting-cp": {
+"lang": "fr",
+"m": {
+"away": "Sporting CP",
+"awayNames": {
+"ar": "سبورتينغ لشبونة",
+"de": "Sporting Lissabon",
+"en": "Sporting CP",
+"es": "Sporting de Portugal",
+"fr": "Sporting CP",
+"it": "Sporting Lisbona",
+"pt": "Sporting",
+"tr": "Sporting Lizbon"
+},
+"broadcasts": {
+"BR": [
+"ESPN 4",
+"Disney+"
+],
+"CL": [
+"DGO",
+"Amazon Prime Video",
+"Paramount+",
+"DAZN",
+"DSports 2"
+],
+"CO": [
+"DGO",
+"Amazon Prime Video",
+"Paramount+",
+"DAZN",
+"DSports 2",
+"Win Play"
+],
+"DE": [
+"Sportdigital+",
+"Sportdigital FUSSBALL2"
+],
+"EC": [
+"DGO",
+"Paramount+",
+"DAZN",
+"DSports 2"
+],
+"ES": [
+"DAZN"
+],
+"FR": [
+"beIN Sports Max 9"
+],
+"MX": [
+"Claro Sports",
+"Claro Sports Premium YouTube"
+],
+"PE": [
+"DGO",
+"Paramount+",
+"DAZN",
+"DSports 2"
+],
+"PT": [
+"Sport TV 1",
+"Sporting TV",
+"Fanatiz"
+],
+"TR": [
+"beIN Sports 3"
+],
+"US": [
+"beIN Sports",
+"beIN Sports Connect",
+"Fubo",
+"Fanatiz"
+],
+"UY": [
+"DGO",
+"Paramount+",
+"DAZN",
+"DSports 2"
+]
+},
+"competition": {
+"ar": "الدوري البرتغالي",
+"de": "Primeira Liga",
+"en": "Primeira Liga",
+"es": "Liga Portuguesa",
+"fr": "Liga Portugal",
+"it": "Campionato portoghese",
+"pt": "Liga Portugal",
+"tr": "Portekiz Ligi"
+},
+"competitionId": "primeira",
+"home": "Braga",
+"homeNames": {
+"ar": "براغا",
+"de": "SC Braga",
+"en": "SC Braga",
+"es": "Braga",
+"fr": "SC Braga",
+"it": "Braga",
+"pt": "Sporting Braga",
+"tr": "Braga"
+},
+"id": "football-20261009-braga-sporting-cp",
+"kickoffUtc": "2026-10-09T19:15:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "sc-braga-sporting-cp-2026-10-09"
+},
+"fr:football-20261009-dunkerque-annecy": {
+"lang": "fr",
+"m": {
+"away": "Annecy",
+"awayNames": {
+"ar": "أنسي",
+"de": "Annecy",
+"en": "Annecy",
+"es": "Annecy",
+"fr": "Annecy",
+"it": "Annecy",
+"pt": "Annecy",
+"tr": "Annecy"
+},
+"broadcasts": {
+"FR": [
+"beIN Sports Max 7"
+]
+},
+"competition": {
+"ar": "الدوري الفرنسي الدرجة الثانية",
+"de": "Ligue 2",
+"en": "French Ligue 2",
+"es": "Ligue 2",
+"fr": "Ligue 2 BKT",
+"it": "Ligue 2",
+"pt": "Ligue 2",
+"tr": "Fransa Ligue 2"
+},
+"competitionId": "ligue2",
+"home": "Dunkerque",
+"homeNames": {
+"ar": "دونكيرك",
+"de": "Dunkerque",
+"en": "Dunkerque",
+"es": "Dunkerque",
+"fr": "Dunkerque",
+"it": "Dunkerque",
+"pt": "Dunkerque",
+"tr": "Dunkerque"
+},
+"id": "football-20261009-dunkerque-annecy",
+"kickoffUtc": "2026-10-09T18:00:00Z",
+"sources": [],
+"sport": "football",
+"tier": "regional"
+},
+"slug": "dunkerque-annecy-2026-10-09"
+},
+"fr:football-20261009-galatasaray-kasimpasa": {
+"lang": "fr",
+"m": {
+"away": "Kasimpasa",
+"awayNames": {
+"ar": "قاسم باشا",
+"de": "Kasımpaşa",
+"en": "Kasımpaşa",
+"es": "Kasımpaşa",
+"fr": "Kasımpaşa",
+"it": "Kasımpaşa",
+"pt": "Kasımpaşa",
+"tr": "Kasımpaşa"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports MENA 1"
+],
+"BR": [
+"ESPN 4",
+"Disney+"
+],
+"CL": [
+"Disney+ Premium"
+],
+"CO": [
+"Disney+ Premium"
+],
+"DZ": [
+"beIN Sports MENA 1"
+],
+"EC": [
+"Disney+ Premium"
+],
+"EG": [
+"beIN Sports MENA 1"
+],
+"FR": [
+"beIN Sports Max 9"
+],
+"MA": [
+"beIN Sports MENA 1"
+],
+"MX": [
+"Disney+ Premium"
+],
+"PE": [
+"Disney+ Premium"
+],
+"PT": [
+"Sport TV 4",
+"Fanatiz"
+],
+"PY": [
+"Disney+ Premium"
+],
+"QA": [
+"beIN Sports MENA 1"
+],
+"SA": [
+"beIN Sports MENA 1"
+],
+"TN": [
+"beIN Sports MENA 1"
+],
+"TR": [
+"beIN Sports 1"
+],
+"US": [
+"beIN Sports",
+"beIN Sports Connect",
+"Fubo",
+"Fanatiz"
+],
+"UY": [
+"Disney+ Premium"
+]
+},
+"competition": {
+"ar": "الدوري التركي الممتاز",
+"de": "Süper Lig",
+"en": "Turkish Süper Lig",
+"es": "Süper Lig turca",
+"fr": "Süper Lig",
+"it": "Süper Lig",
+"pt": "Süper Lig",
+"tr": "Trendyol Süper Lig"
+},
+"competitionId": "superlig",
+"home": "Galatasaray",
+"homeNames": {
+"ar": "غلطة سراي",
+"de": "Galatasaray",
+"en": "Galatasaray",
+"es": "Galatasaray",
+"fr": "Galatasaray",
+"it": "Galatasaray",
+"pt": "Galatasaray",
+"tr": "Galatasaray"
+},
+"id": "football-20261009-galatasaray-kasimpasa",
+"kickoffUtc": "2026-10-09T17:00:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "galatasaray-kasimpasa-2026-10-09"
+},
+"fr:football-20261009-heidenheim-kaiserslautern": {
+"lang": "fr",
+"m": {
+"away": "Kaiserslautern",
+"awayNames": {
+"ar": "كايزرسلاوترن",
+"de": "1. FC Kaiserslautern",
+"en": "Kaiserslautern",
+"es": "Kaiserslautern",
+"fr": "Kaiserslautern",
+"it": "Kaiserslautern",
+"pt": "Kaiserslautern",
+"tr": "Kaiserslautern"
+},
+"broadcasts": {
+"AE": [
+"MBC Shahid"
+],
+"BR": [
+"OneFootball PPV"
+],
+"CL": [
+"Disney+ Premium"
+],
+"CO": [
+"Disney+ Premium"
+],
+"DE": [
+"Sky Bundesliga 3",
+"WOW"
+],
+"DZ": [
+"MBC Shahid"
+],
+"EC": [
+"Disney+ Premium"
+],
+"EG": [
+"MBC Shahid"
+],
+"FR": [
+"beIN Sports Max 10"
+],
+"GB": [
+"Bundesliga App",
+"Bundesliga YouTube"
+],
+"IT": [
+"Sky Sport 1"
+],
+"MA": [
+"MBC Shahid"
+],
+"MX": [
+"Bundesliga YouTube"
+],
+"PE": [
+"Disney+ Premium"
+],
+"PT": [
+"DAZN 2"
+],
+"PY": [
+"Disney+ Premium"
+],
+"QA": [
+"MBC Shahid"
+],
+"SA": [
+"MBC Shahid"
+],
+"TN": [
+"MBC Shahid"
+],
+"TR": [
+"S Sport Plus"
+],
+"UY": [
+"Disney+ Premium"
+]
+},
+"competition": {
+"ar": "دوري الدرجة الثانية الألماني",
+"de": "2. Bundesliga",
+"en": "2. Bundesliga",
+"es": "2. Bundesliga",
+"fr": "2. Bundesliga",
+"it": "2. Bundesliga",
+"pt": "2. Bundesliga",
+"tr": "Almanya 2. Bundesliga"
+},
+"competitionId": "bundesliga2",
+"home": "Heidenheim",
+"homeNames": {
+"ar": "هايدنهايم",
+"de": "1. FC Heidenheim",
+"en": "1. FC Heidenheim",
+"es": "Heidenheim",
+"fr": "Heidenheim",
+"it": "Heidenheim",
+"pt": "Heidenheim",
+"tr": "Heidenheim"
+},
+"id": "football-20261009-heidenheim-kaiserslautern",
+"kickoffUtc": "2026-10-09T16:30:00Z",
+"sources": [],
+"sport": "football",
+"tier": "regional"
+},
+"slug": "heidenheim-kaiserslautern-2026-10-09"
+},
+"fr:football-20261009-lens-lyon": {
+"lang": "fr",
+"m": {
+"away": "Lyon",
+"awayNames": {
+"ar": "ليون",
+"de": "Olympique Lyon",
+"en": "Lyon",
+"es": "Olympique de Lyon",
+"fr": "Olympique Lyonnais",
+"it": "Lione",
+"pt": "Lyon",
+"tr": "Lyon"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports MENA 4",
+"TOD TV"
+],
+"BR": [
+"CazéTV"
+],
+"CA": [
+"Fubo"
+],
+"CL": [
+"Disney+ Premium",
+"ESPN 4"
+],
+"CO": [
+"Disney+ Premium",
+"ESPN 4"
+],
+"DE": [
+"DAZN"
+],
+"DZ": [
+"beIN Sports MENA 4",
+"TOD TV"
+],
+"EC": [
+"Disney+ Premium",
+"ESPN 4"
+],
+"EG": [
+"beIN Sports MENA 4",
+"TOD TV"
+],
+"ES": [
+"DAZN"
+],
+"FR": [
+"Ligue 1+"
+],
+"GB": [
+"Amazon Prime PPV",
+"Ligue1+"
+],
+"MA": [
+"beIN Sports MENA 4",
+"TOD TV"
+],
+"MX": [
+"FOX One",
+"Tubi"
+],
+"PE": [
+"Disney+ Premium",
+"ESPN 4"
+],
+"PT": [
+"Fanatiz",
+"Sport TV 6"
+],
+"PY": [
+"Disney+ Premium",
+"ESPN 4"
+],
+"QA": [
+"beIN Sports MENA 4",
+"TOD TV"
+],
+"SA": [
+"beIN Sports MENA 4",
+"TOD TV"
+],
+"TN": [
+"beIN Sports MENA 4",
+"TOD TV"
+],
+"TR": [
+"beIN Sports 4"
+],
+"US": [
+"beIN Sports Connect",
+"beIN Sports en Español",
+"Fubo",
+"Fanatiz"
+],
+"UY": [
+"Disney+ Premium",
+"ESPN 4"
+]
+},
+"competition": {
+"ar": "الدوري الفرنسي",
+"de": "Ligue 1",
+"en": "French Ligue 1",
+"es": "Ligue 1",
+"fr": "Ligue 1",
+"it": "Ligue 1",
+"pt": "Ligue 1",
+"tr": "Fransa Ligue 1"
+},
+"competitionId": "ligue1",
+"home": "Lens",
+"homeNames": {
+"ar": "لانس",
+"de": "RC Lens",
+"en": "RC Lens",
+"es": "Lens",
+"fr": "RC Lens",
+"it": "Lens",
+"pt": "Lens",
+"tr": "Lens"
+},
+"id": "football-20261009-lens-lyon",
+"kickoffUtc": "2026-10-09T18:45:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "rc-lens-olympique-lyonnais-2026-10-09"
+},
+"fr:football-20261009-malaga-espanyol": {
+"lang": "fr",
+"m": {
+"away": "Espanyol",
+"awayNames": {
+"ar": "إسبانيول",
+"de": "Espanyol",
+"en": "Espanyol",
+"es": "Espanyol",
+"fr": "Espanyol",
+"it": "Espanyol",
+"pt": "Espanyol",
+"tr": "Espanyol"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports MENA 2",
+"TOD TV"
+],
+"BR": [
+"CazéTV"
+],
+"CA": [
+"TSN+"
+],
+"CL": [
+"Disney+ Premium",
+"ESPN"
+],
+"CO": [
+"Disney+ Premium",
+"ESPN 2"
+],
+"DE": [
+"DAZN"
+],
+"DZ": [
+"beIN Sports MENA 2",
+"TOD TV"
+],
+"EC": [
+"ESPN 2",
+"Disney+ Premium"
+],
+"EG": [
+"beIN Sports MENA 2",
+"TOD TV"
+],
+"ES": [
+"DAZN LaLiga",
+"DAZN"
+],
+"FR": [
+"DAZN",
+"Disney+"
+],
+"GB": [
+"LALIGATV"
+],
+"MA": [
+"beIN Sports MENA 2",
+"TOD TV"
+],
+"MX": [
+"Sky Sports"
+],
+"PE": [
+"Disney+ Premium",
+"ESPN 2"
+],
+"PT": [
+"DAZN 2"
+],
+"PY": [
+"ESPN 2",
+"Disney+ Premium"
+],
+"QA": [
+"beIN Sports MENA 2",
+"TOD TV"
+],
+"SA": [
+"beIN Sports MENA 2",
+"TOD TV"
+],
+"TN": [
+"beIN Sports MENA 2",
+"TOD TV"
+],
+"TR": [
+"S Sport Plus",
+"AzTV"
+],
+"US": [
+"ESPN+",
+"ESPN Deportes",
+"Fubo"
+],
+"UY": [
+"ESPN 2",
+"Disney+ Premium"
+]
+},
+"competition": {
+"ar": "الدوري الإسباني",
+"de": "LaLiga",
+"en": "LaLiga",
+"es": "LaLiga",
+"fr": "LaLiga",
+"it": "LaLiga",
+"pt": "LaLiga",
+"tr": "İspanya La Liga"
+},
+"competitionId": "laliga",
+"home": "Malaga",
+"homeNames": {
+"ar": "ملقا",
+"de": "Málaga",
+"en": "Málaga",
+"es": "Málaga",
+"fr": "Málaga",
+"it": "Málaga",
+"pt": "Málaga",
+"tr": "Málaga"
+},
+"id": "football-20261009-malaga-espanyol",
+"kickoffUtc": "2026-10-09T19:00:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "malaga-espanyol-2026-10-09"
+},
+"fr:football-20261009-montpellier-grenoble": {
+"lang": "fr",
+"m": {
+"away": "Grenoble",
+"awayNames": {
+"ar": "غرونوبل",
+"de": "Grenoble",
+"en": "Grenoble",
+"es": "Grenoble",
+"fr": "Grenoble",
+"it": "Grenoble",
+"pt": "Grenoble",
+"tr": "Grenoble"
+},
+"broadcasts": {
+"FR": [
+"beIN Sports Max 8"
+]
+},
+"competition": {
+"ar": "الدوري الفرنسي الدرجة الثانية",
+"de": "Ligue 2",
+"en": "French Ligue 2",
+"es": "Ligue 2",
+"fr": "Ligue 2 BKT",
+"it": "Ligue 2",
+"pt": "Ligue 2",
+"tr": "Fransa Ligue 2"
+},
+"competitionId": "ligue2",
+"home": "Montpellier",
+"homeNames": {
+"ar": "مونبلييه",
+"de": "Montpellier",
+"en": "Montpellier",
+"es": "Montpellier",
+"fr": "Montpellier",
+"it": "Montpellier",
+"pt": "Montpellier",
+"tr": "Montpellier"
+},
+"id": "football-20261009-montpellier-grenoble",
+"kickoffUtc": "2026-10-09T18:00:00Z",
+"sources": [],
+"sport": "football",
+"tier": "regional"
+},
+"slug": "montpellier-grenoble-2026-10-09"
+},
+"fr:football-20261009-nancy-guingamp": {
+"lang": "fr",
+"m": {
+"away": "Guingamp",
+"awayNames": {
+"ar": "غانغان",
+"de": "Guingamp",
+"en": "Guingamp",
+"es": "Guingamp",
+"fr": "Guingamp",
+"it": "Guingamp",
+"pt": "Guingamp",
+"tr": "Guingamp"
+},
+"broadcasts": {
+"FR": [
+"beIN Sports Max 6"
+]
+},
+"competition": {
+"ar": "الدوري الفرنسي الدرجة الثانية",
+"de": "Ligue 2",
+"en": "French Ligue 2",
+"es": "Ligue 2",
+"fr": "Ligue 2 BKT",
+"it": "Ligue 2",
+"pt": "Ligue 2",
+"tr": "Fransa Ligue 2"
+},
+"competitionId": "ligue2",
+"home": "Nancy",
+"homeNames": {
+"ar": "نانسي",
+"de": "Nancy",
+"en": "Nancy",
+"es": "Nancy",
+"fr": "Nancy",
+"it": "Nancy",
+"pt": "Nancy",
+"tr": "Nancy"
+},
+"id": "football-20261009-nancy-guingamp",
+"kickoffUtc": "2026-10-09T18:00:00Z",
+"sources": [],
+"sport": "football",
+"tier": "regional"
+},
+"slug": "nancy-guingamp-2026-10-09"
+},
+"fr:football-20261009-pau-laval": {
+"lang": "fr",
+"m": {
+"away": "Laval",
+"awayNames": {
+"ar": "لافال",
+"de": "Laval",
+"en": "Laval",
+"es": "Laval",
+"fr": "Laval",
+"it": "Laval",
+"pt": "Laval",
+"tr": "Laval"
+},
+"broadcasts": {
+"FR": [
+"beIN Sports Max 5"
+]
+},
+"competition": {
+"ar": "الدوري الفرنسي الدرجة الثانية",
+"de": "Ligue 2",
+"en": "French Ligue 2",
+"es": "Ligue 2",
+"fr": "Ligue 2 BKT",
+"it": "Ligue 2",
+"pt": "Ligue 2",
+"tr": "Fransa Ligue 2"
+},
+"competitionId": "ligue2",
+"home": "Pau",
+"homeNames": {
+"ar": "بو",
+"de": "Pau",
+"en": "Pau",
+"es": "Pau",
+"fr": "Pau",
+"it": "Pau",
+"pt": "Pau",
+"tr": "Pau"
+},
+"id": "football-20261009-pau-laval",
+"kickoffUtc": "2026-10-09T18:00:00Z",
+"sources": [],
+"sport": "football",
+"tier": "regional"
+},
+"slug": "pau-laval-2026-10-09"
+},
+"fr:football-20261009-psv-heerenveen": {
+"lang": "fr",
+"m": {
+"away": "Heerenveen",
+"awayNames": {
+"ar": "هيرنفين",
+"de": "Heerenveen",
+"en": "Heerenveen",
+"es": "Heerenveen",
+"fr": "Heerenveen",
+"it": "Heerenveen",
+"pt": "Heerenveen",
+"tr": "Heerenveen"
+},
+"broadcasts": {
+"AE": [
+"Dubai Sports 1"
+],
+"BR": [
+"Disney+"
+],
+"CA": [
+"Sportsnet"
+],
+"CL": [
+"Disney+ Premium"
+],
+"CO": [
+"Disney+ Premium"
+],
+"DE": [
+"Sportdigital+",
+"Sportdigital FUSSBALL"
+],
+"EC": [
+"Disney+ Premium"
+],
+"ES": [
+"DAZN"
+],
+"FR": [
+"DAZN"
+],
+"MX": [
+"Disney+ Premium",
+"ESPN 3"
+],
+"PE": [
+"Disney+ Premium"
+],
+"PT": [
+"DAZN 3"
+],
+"PY": [
+"Disney+ Premium"
+],
+"TR": [
+"S Sport Plus"
+],
+"US": [
+"ESPN+"
+],
+"UY": [
+"Disney+ Premium"
+]
+},
+"competition": {
+"ar": "الدوري الهولندي",
+"de": "Eredivisie",
+"en": "Eredivisie",
+"es": "Eredivisie",
+"fr": "Eredivisie",
+"it": "Eredivisie",
+"pt": "Eredivisie",
+"tr": "Hollanda Eredivisie"
+},
+"competitionId": "eredivisie",
+"home": "PSV",
+"homeNames": {
+"ar": "آيندهوفن",
+"de": "PSV Eindhoven",
+"en": "PSV Eindhoven",
+"es": "PSV Eindhoven",
+"fr": "PSV Eindhoven",
+"it": "PSV Eindhoven",
+"pt": "PSV Eindhoven",
+"tr": "PSV Eindhoven"
+},
+"id": "football-20261009-psv-heerenveen",
+"kickoffUtc": "2026-10-09T18:00:00Z",
+"sources": [],
+"sport": "football",
+"tier": "regional"
+},
+"slug": "psv-eindhoven-heerenveen-2026-10-09"
+},
+"fr:football-20261009-sochaux-boulogne": {
+"lang": "fr",
+"m": {
+"away": "Boulogne",
+"awayNames": {
+"ar": "بولوني",
+"de": "Boulogne",
+"en": "Boulogne",
+"es": "Boulogne",
+"fr": "Boulogne",
+"it": "Boulogne",
+"pt": "Boulogne",
+"tr": "Boulogne"
+},
+"broadcasts": {
+"FR": [
+"beIN Sports Max 4"
+]
+},
+"competition": {
+"ar": "الدوري الفرنسي الدرجة الثانية",
+"de": "Ligue 2",
+"en": "French Ligue 2",
+"es": "Ligue 2",
+"fr": "Ligue 2 BKT",
+"it": "Ligue 2",
+"pt": "Ligue 2",
+"tr": "Fransa Ligue 2"
+},
+"competitionId": "ligue2",
+"home": "Sochaux",
+"homeNames": {
+"ar": "سوشو",
+"de": "Sochaux",
+"en": "Sochaux",
+"es": "Sochaux",
+"fr": "Sochaux",
+"it": "Sochaux",
+"pt": "Sochaux",
+"tr": "Sochaux"
+},
+"id": "football-20261009-sochaux-boulogne",
+"kickoffUtc": "2026-10-09T18:00:00Z",
+"sources": [],
+"sport": "football",
+"tier": "regional"
+},
+"slug": "sochaux-boulogne-2026-10-09"
+},
+"fr:football-20261009-west-ham-united-qpr": {
+"lang": "fr",
+"m": {
+"away": "QPR",
+"awayNames": {
+"ar": "كوينز بارك رينجرز",
+"de": "Queens Park Rangers",
+"en": "Queens Park Rangers",
+"es": "Queens Park Rangers",
+"fr": "Queens Park Rangers",
+"it": "Queens Park Rangers",
+"pt": "Queens Park Rangers",
+"tr": "QPR"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports MENA 3",
+"beIN Sports English 1",
+"TOD TV"
+],
+"CL": [
+"Disney+ Premium",
+"ESPN 7"
+],
+"CO": [
+"ESPN 7",
+"Disney+ Premium"
+],
+"DE": [
+"WOW",
+"Sky Sport Premier League"
+],
+"DZ": [
+"beIN Sports MENA 3",
+"beIN Sports English 1",
+"TOD TV"
+],
+"EC": [
+"ESPN 7",
+"Disney+ Premium"
+],
+"EG": [
+"beIN Sports MENA 3",
+"beIN Sports English 1",
+"TOD TV"
+],
+"FR": [
+"beIN Sports Max 10"
+],
+"GB": [
+"Sky Sports Main Event",
+"Sky Sports Football"
+],
+"MA": [
+"beIN Sports MENA 3",
+"beIN Sports English 1",
+"TOD TV"
+],
+"MX": [
+"Disney+ Premium",
+"ESPN 2"
+],
+"PE": [
+"ESPN 7",
+"Disney+ Premium"
+],
+"PT": [
+"Sport TV 4"
+],
+"PY": [
+"ESPN 7",
+"Disney+ Premium"
+],
+"QA": [
+"beIN Sports MENA 3",
+"beIN Sports English 1",
+"TOD TV"
+],
+"SA": [
+"beIN Sports MENA 3",
+"beIN Sports English 1",
+"TOD TV"
+],
+"TN": [
+"beIN Sports MENA 3",
+"beIN Sports English 1",
+"TOD TV"
+],
+"TR": [
+"S Sport Plus"
+],
+"US": [
+"CBS Sports Network",
+"Paramount+",
+"Fubo"
+],
+"UY": [
+"ESPN 7",
+"Disney+ Premium"
+]
+},
+"competition": {
+"ar": "دوري البطولة الإنجليزية",
+"de": "EFL Championship",
+"en": "EFL Championship",
+"es": "EFL Championship",
+"fr": "EFL Championship",
+"it": "EFL Championship",
+"pt": "EFL Championship",
+"tr": "İngiltere Championship"
+},
+"competitionId": "championship",
+"home": "West Ham United",
+"homeNames": {
+"ar": "وست هام يونايتد",
+"de": "West Ham United",
+"en": "West Ham United",
+"es": "West Ham United",
+"fr": "West Ham United",
+"it": "West Ham United",
+"pt": "West Ham United",
+"tr": "West Ham United"
+},
+"id": "football-20261009-west-ham-united-qpr",
+"kickoffUtc": "2026-10-09T19:00:00Z",
+"sources": [],
+"sport": "football",
+"tier": "regional"
+},
+"slug": "west-ham-united-queens-park-rangers-2026-10-09"
+}
+}

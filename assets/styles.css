@@ -257,3 +257,7 @@ footer.site .frow { display: flex; gap: 18px; flex-wrap: wrap; align-items: cent
 .compnav { margin-top: -4px; }
 .compnav span { color: var(--text-mut); font-size: 14px; }
 .state a { color: var(--brand); font-weight: 600; }
+/* Maç sayfaları + maç bağlantı listesi (Eki 2026) */
+.ulkeler, .matchlinks ul { columns: 2; column-gap: 28px; padding-left: 18px; color: var(--text-soft); }
+.ulkeler li, .matchlinks li { break-inside: avoid; margin: 0 0 6px; }
+@media (max-width: 640px) { .ulkeler, .matchlinks ul { columns: 1; } }

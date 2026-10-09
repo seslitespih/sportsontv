@@ -9,6 +9,7 @@
 const GIZLI = new Set([
   "/build_site.py", "/prerender.py", "/gunluk_yenile.py",
   "/gunluk_yenile.log", "/wrangler.jsonc", "/.gitignore",
+  "/mac_sayfalari.py", "/maclar_arsiv.json", "/ulke_adlari.json",
 ]);
 
 export async function onRequest({ request, next }) {
