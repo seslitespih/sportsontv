@@ -15,7 +15,7 @@
 },
 "broadcasts": {
 "BR": [
-"Sportv 2",
+"SporTV 2",
 "SporTV",
 "OneFootball",
 "Canal GOAT"
@@ -228,7 +228,8 @@
 },
 "broadcasts": {
 "AE": [
-"beIN Sports"
+"beIN Sports MENA 3",
+"TOD TV"
 ],
 "BR": [
 "CazéTV"
@@ -255,7 +256,8 @@
 "DAZN"
 ],
 "DZ": [
-"beIN Sports"
+"beIN Sports MENA 3",
+"TOD TV"
 ],
 "EC": [
 "DGO",
@@ -264,7 +266,8 @@
 "DAZN"
 ],
 "EG": [
-"beIN Sports"
+"beIN Sports MENA 3",
+"TOD TV"
 ],
 "ES": [
 "DAZN LaLiga",
@@ -279,22 +282,27 @@
 "Premier Sports 1"
 ],
 "IQ": [
-"beIN Sports"
+"beIN Sports MENA 3",
+"TOD TV"
 ],
 "JO": [
-"beIN Sports"
+"beIN Sports MENA 3",
+"TOD TV"
 ],
 "LY": [
-"beIN Sports"
+"beIN Sports MENA 3",
+"TOD TV"
 ],
 "MA": [
-"beIN Sports"
+"beIN Sports MENA 3",
+"TOD TV"
 ],
 "MX": [
 "Sky Sports"
 ],
 "OM": [
-"beIN Sports"
+"beIN Sports MENA 3",
+"TOD TV"
 ],
 "PE": [
 "DGO",
@@ -303,13 +311,16 @@
 "DAZN"
 ],
 "QA": [
-"beIN Sports"
+"beIN Sports MENA 3",
+"TOD TV"
 ],
 "SA": [
-"beIN Sports"
+"beIN Sports MENA 3",
+"TOD TV"
 ],
 "TN": [
-"beIN Sports"
+"beIN Sports MENA 3",
+"TOD TV"
 ],
 "TR": [
 "S Sport Plus",
@@ -588,7 +599,7 @@
 "Zapping Internacional"
 ],
 "EC": [
-"Zapping Sports + Plus (canal 16)"
+"Zapping Sports + Plus"
 ],
 "ES": [
 "Zapping Internacional"
@@ -790,7 +801,9 @@
 },
 "broadcasts": {
 "AE": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"beIN Sports English 1",
+"TOD TV"
 ],
 "BR": [
 "ESPN",
@@ -814,14 +827,18 @@
 "Sky Top Event"
 ],
 "DZ": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"beIN Sports English 1",
+"TOD TV"
 ],
 "EC": [
 "Disney+ Premium",
 "ESPN"
 ],
 "EG": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"beIN Sports English 1",
+"TOD TV"
 ],
 "ES": [
 "DAZN",
@@ -836,26 +853,36 @@
 "Sky Sports Ultra HDR"
 ],
 "IQ": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"beIN Sports English 1",
+"TOD TV"
 ],
 "IT": [
 "Sky Sport Arena"
 ],
 "JO": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"beIN Sports English 1",
+"TOD TV"
 ],
 "LY": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"beIN Sports English 1",
+"TOD TV"
 ],
 "MA": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"beIN Sports English 1",
+"TOD TV"
 ],
 "MX": [
 "FOX One",
 "FOX+"
 ],
 "OM": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"beIN Sports English 1",
+"TOD TV"
 ],
 "PE": [
 "Disney+ Premium",
@@ -869,13 +896,19 @@
 "ESPN"
 ],
 "QA": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"beIN Sports English 1",
+"TOD TV"
 ],
 "SA": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"beIN Sports English 1",
+"TOD TV"
 ],
 "TN": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"beIN Sports English 1",
+"TOD TV"
 ],
 "TR": [
 "beIN Sports 3"
@@ -935,7 +968,8 @@
 },
 "broadcasts": {
 "AE": [
-"beIN Sports"
+"beIN Sports MENA 3",
+"TOD TV"
 ],
 "BR": [
 "CazéTV"
@@ -962,7 +996,8 @@
 "DAZN"
 ],
 "DZ": [
-"beIN Sports"
+"beIN Sports MENA 3",
+"TOD TV"
 ],
 "EC": [
 "DGO",
@@ -971,7 +1006,8 @@
 "DAZN"
 ],
 "EG": [
-"beIN Sports"
+"beIN Sports MENA 3",
+"TOD TV"
 ],
 "ES": [
 "DAZN LaLiga",
@@ -986,22 +1022,27 @@
 "Premier Sports 1"
 ],
 "IQ": [
-"beIN Sports"
+"beIN Sports MENA 3",
+"TOD TV"
 ],
 "JO": [
-"beIN Sports"
+"beIN Sports MENA 3",
+"TOD TV"
 ],
 "LY": [
-"beIN Sports"
+"beIN Sports MENA 3",
+"TOD TV"
 ],
 "MA": [
-"beIN Sports"
+"beIN Sports MENA 3",
+"TOD TV"
 ],
 "MX": [
 "Sky Sports"
 ],
 "OM": [
-"beIN Sports"
+"beIN Sports MENA 3",
+"TOD TV"
 ],
 "PE": [
 "DGO",
@@ -1010,13 +1051,16 @@
 "DAZN"
 ],
 "QA": [
-"beIN Sports"
+"beIN Sports MENA 3",
+"TOD TV"
 ],
 "SA": [
-"beIN Sports"
+"beIN Sports MENA 3",
+"TOD TV"
 ],
 "TN": [
-"beIN Sports"
+"beIN Sports MENA 3",
+"TOD TV"
 ],
 "TR": [
 "S Sport Plus",
@@ -1218,14 +1262,58 @@
 "tr": "Montpellier"
 },
 "broadcasts": {
+"AE": [
+"beIN Sports MENA 4",
+"TOD TV"
+],
 "DE": [
 "DAZN"
+],
+"DZ": [
+"beIN Sports MENA 4",
+"TOD TV"
+],
+"EG": [
+"beIN Sports MENA 4",
+"TOD TV"
 ],
 "FR": [
 "beIN Sports 1"
 ],
+"IQ": [
+"beIN Sports MENA 4",
+"TOD TV"
+],
+"JO": [
+"beIN Sports MENA 4",
+"TOD TV"
+],
+"LY": [
+"beIN Sports MENA 4",
+"TOD TV"
+],
+"MA": [
+"beIN Sports MENA 4",
+"TOD TV"
+],
+"OM": [
+"beIN Sports MENA 4",
+"TOD TV"
+],
 "PT": [
 "Fanatiz"
+],
+"QA": [
+"beIN Sports MENA 4",
+"TOD TV"
+],
+"SA": [
+"beIN Sports MENA 4",
+"TOD TV"
+],
+"TN": [
+"beIN Sports MENA 4",
+"TOD TV"
 ],
 "TR": [
 "beIN Sports 4"
@@ -1282,7 +1370,9 @@
 },
 "broadcasts": {
 "AE": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"beIN Sports English 1",
+"TOD TV"
 ],
 "BR": [
 "ESPN",
@@ -1306,14 +1396,18 @@
 "Sky Top Event"
 ],
 "DZ": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"beIN Sports English 1",
+"TOD TV"
 ],
 "EC": [
 "Disney+ Premium",
 "ESPN"
 ],
 "EG": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"beIN Sports English 1",
+"TOD TV"
 ],
 "ES": [
 "DAZN",
@@ -1328,26 +1422,36 @@
 "Sky Sports Ultra HDR"
 ],
 "IQ": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"beIN Sports English 1",
+"TOD TV"
 ],
 "IT": [
 "Sky Sport Arena"
 ],
 "JO": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"beIN Sports English 1",
+"TOD TV"
 ],
 "LY": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"beIN Sports English 1",
+"TOD TV"
 ],
 "MA": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"beIN Sports English 1",
+"TOD TV"
 ],
 "MX": [
 "FOX One",
 "FOX+"
 ],
 "OM": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"beIN Sports English 1",
+"TOD TV"
 ],
 "PE": [
 "Disney+ Premium",
@@ -1361,13 +1465,19 @@
 "ESPN"
 ],
 "QA": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"beIN Sports English 1",
+"TOD TV"
 ],
 "SA": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"beIN Sports English 1",
+"TOD TV"
 ],
 "TN": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"beIN Sports English 1",
+"TOD TV"
 ],
 "TR": [
 "beIN Sports 3"
