@@ -507,6 +507,1022 @@
 },
 "slug": "new-york-knicks-philadelphia-76ers-2026-10-21"
 },
+"es:basketball-20261021-heat-timberwolves": {
+"lang": "es",
+"m": {
+"away": "Timberwolves",
+"awayNames": {
+"ar": "مينيسوتا تمبروولفز",
+"de": "Minnesota Timberwolves",
+"en": "Minnesota Timberwolves",
+"es": "Minnesota Timberwolves",
+"fr": "Minnesota Timberwolves",
+"it": "Minnesota Timberwolves",
+"pt": "Minnesota Timberwolves",
+"tr": "Minnesota Timberwolves"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"AR": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"AT": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"AU": [
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+],
+"BE": [
+"DAZN",
+"Prime Video",
+"NBA League Pass"
+],
+"BR": [
+"ESPN",
+"Disney+",
+"Prime Video",
+"NBA League Pass"
+],
+"CA": [
+"TSN",
+"Sportsnet",
+"Prime Video",
+"NBA League Pass"
+],
+"CH": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"CL": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"CO": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"CZ": [
+"Nova Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"DE": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"DZ": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"EC": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"EG": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"ES": [
+"DAZN",
+"Prime Video",
+"NBA League Pass"
+],
+"FR": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"GB": [
+"Sky Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"GH": [
+"ESPN",
+"Sporty TV",
+"NBA League Pass"
+],
+"HR": [
+"Sport Klub",
+"Prime Video",
+"NBA League Pass"
+],
+"IT": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"JP": [
+"Lemino",
+"Prime Video",
+"WOWOW"
+],
+"KR": [
+"Coupang Play",
+"Prime Video",
+"NBA League Pass"
+],
+"MA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"MX": [
+"ESPN",
+"Disney+",
+"Prime Video",
+"NBA League Pass"
+],
+"NG": [
+"ESPN",
+"Sporty TV",
+"NBA League Pass"
+],
+"NL": [
+"ESPN",
+"NBA League Pass"
+],
+"NO": [
+"HBO Max",
+"NBA League Pass"
+],
+"NZ": [
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+],
+"PE": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"PT": [
+"Sport TV",
+"Prime Video",
+"NBA League Pass"
+],
+"PY": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"QA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"SA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"SN": [
+"Canal+ Sport",
+"NBA League Pass"
+],
+"TN": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"TR": [
+"S Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"US": [
+"ESPN"
+],
+"UY": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"ZA": [
+"SuperSport",
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+]
+},
+"competition": {
+"ar": "دوري NBA",
+"de": "NBA",
+"en": "NBA",
+"es": "NBA",
+"fr": "NBA",
+"it": "NBA",
+"pt": "NBA",
+"tr": "NBA"
+},
+"competitionId": "nba",
+"home": "Heat",
+"homeNames": {
+"ar": "ميامي هيت",
+"de": "Miami Heat",
+"en": "Miami Heat",
+"es": "Miami Heat",
+"fr": "Miami Heat",
+"it": "Miami Heat",
+"pt": "Miami Heat",
+"tr": "Miami Heat"
+},
+"id": "basketball-20261021-heat-timberwolves",
+"kickoffUtc": "2026-10-21T23:30:00Z",
+"sources": [
+"espn"
+],
+"sport": "basketball",
+"tier": "global"
+},
+"slug": "miami-heat-minnesota-timberwolves-2026-10-22"
+},
+"es:basketball-20261021-magic-hawks": {
+"lang": "es",
+"m": {
+"away": "Hawks",
+"awayNames": {
+"ar": "أتلانتا هوكس",
+"de": "Atlanta Hawks",
+"en": "Atlanta Hawks",
+"es": "Atlanta Hawks",
+"fr": "Atlanta Hawks",
+"it": "Atlanta Hawks",
+"pt": "Atlanta Hawks",
+"tr": "Atlanta Hawks"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"AR": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"AT": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"AU": [
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+],
+"BE": [
+"DAZN",
+"Prime Video",
+"NBA League Pass"
+],
+"BR": [
+"ESPN",
+"Disney+",
+"Prime Video",
+"NBA League Pass"
+],
+"CA": [
+"TSN",
+"Sportsnet",
+"Prime Video",
+"NBA League Pass"
+],
+"CH": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"CL": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"CO": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"CZ": [
+"Nova Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"DE": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"DZ": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"EC": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"EG": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"ES": [
+"DAZN",
+"Prime Video",
+"NBA League Pass"
+],
+"FR": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"GB": [
+"Sky Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"GH": [
+"ESPN",
+"Sporty TV",
+"NBA League Pass"
+],
+"HR": [
+"Sport Klub",
+"Prime Video",
+"NBA League Pass"
+],
+"IT": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"JP": [
+"Lemino",
+"Prime Video",
+"WOWOW"
+],
+"KR": [
+"Coupang Play",
+"Prime Video",
+"NBA League Pass"
+],
+"MA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"MX": [
+"ESPN",
+"Disney+",
+"Prime Video",
+"NBA League Pass"
+],
+"NG": [
+"ESPN",
+"Sporty TV",
+"NBA League Pass"
+],
+"NL": [
+"ESPN",
+"NBA League Pass"
+],
+"NO": [
+"HBO Max",
+"NBA League Pass"
+],
+"NZ": [
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+],
+"PE": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"PT": [
+"Sport TV",
+"Prime Video",
+"NBA League Pass"
+],
+"PY": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"QA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"SA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"SN": [
+"Canal+ Sport",
+"NBA League Pass"
+],
+"TN": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"TR": [
+"S Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"US": [
+"NBA League Pass"
+],
+"UY": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"ZA": [
+"SuperSport",
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+]
+},
+"competition": {
+"ar": "دوري NBA",
+"de": "NBA",
+"en": "NBA",
+"es": "NBA",
+"fr": "NBA",
+"it": "NBA",
+"pt": "NBA",
+"tr": "NBA"
+},
+"competitionId": "nba",
+"home": "Magic",
+"homeNames": {
+"ar": "أورلاندو ماجيك",
+"de": "Orlando Magic",
+"en": "Orlando Magic",
+"es": "Orlando Magic",
+"fr": "Orlando Magic",
+"it": "Orlando Magic",
+"pt": "Orlando Magic",
+"tr": "Orlando Magic"
+},
+"id": "basketball-20261021-magic-hawks",
+"kickoffUtc": "2026-10-21T23:00:00Z",
+"sources": [
+"espn"
+],
+"sport": "basketball",
+"tier": "global"
+},
+"slug": "orlando-magic-atlanta-hawks-2026-10-22"
+},
+"es:basketball-20261021-nets-hornets": {
+"lang": "es",
+"m": {
+"away": "Hornets",
+"awayNames": {
+"ar": "شارلوت هورنتس",
+"de": "Charlotte Hornets",
+"en": "Charlotte Hornets",
+"es": "Charlotte Hornets",
+"fr": "Charlotte Hornets",
+"it": "Charlotte Hornets",
+"pt": "Charlotte Hornets",
+"tr": "Charlotte Hornets"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"AR": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"AT": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"AU": [
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+],
+"BE": [
+"DAZN",
+"Prime Video",
+"NBA League Pass"
+],
+"BR": [
+"ESPN",
+"Disney+",
+"Prime Video",
+"NBA League Pass"
+],
+"CA": [
+"TSN",
+"Sportsnet",
+"Prime Video",
+"NBA League Pass"
+],
+"CH": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"CL": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"CO": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"CZ": [
+"Nova Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"DE": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"DZ": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"EC": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"EG": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"ES": [
+"DAZN",
+"Prime Video",
+"NBA League Pass"
+],
+"FR": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"GB": [
+"Sky Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"GH": [
+"ESPN",
+"Sporty TV",
+"NBA League Pass"
+],
+"HR": [
+"Sport Klub",
+"Prime Video",
+"NBA League Pass"
+],
+"IT": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"JP": [
+"Lemino",
+"Prime Video",
+"WOWOW"
+],
+"KR": [
+"Coupang Play",
+"Prime Video",
+"NBA League Pass"
+],
+"MA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"MX": [
+"ESPN",
+"Disney+",
+"Prime Video",
+"NBA League Pass"
+],
+"NG": [
+"ESPN",
+"Sporty TV",
+"NBA League Pass"
+],
+"NL": [
+"ESPN",
+"NBA League Pass"
+],
+"NO": [
+"HBO Max",
+"NBA League Pass"
+],
+"NZ": [
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+],
+"PE": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"PT": [
+"Sport TV",
+"Prime Video",
+"NBA League Pass"
+],
+"PY": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"QA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"SA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"SN": [
+"Canal+ Sport",
+"NBA League Pass"
+],
+"TN": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"TR": [
+"S Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"US": [
+"NBA League Pass"
+],
+"UY": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"ZA": [
+"SuperSport",
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+]
+},
+"competition": {
+"ar": "دوري NBA",
+"de": "NBA",
+"en": "NBA",
+"es": "NBA",
+"fr": "NBA",
+"it": "NBA",
+"pt": "NBA",
+"tr": "NBA"
+},
+"competitionId": "nba",
+"home": "Nets",
+"homeNames": {
+"ar": "بروكلين نتس",
+"de": "Brooklyn Nets",
+"en": "Brooklyn Nets",
+"es": "Brooklyn Nets",
+"fr": "Brooklyn Nets",
+"it": "Brooklyn Nets",
+"pt": "Brooklyn Nets",
+"tr": "Brooklyn Nets"
+},
+"id": "basketball-20261021-nets-hornets",
+"kickoffUtc": "2026-10-21T23:30:00Z",
+"sources": [
+"espn"
+],
+"sport": "basketball",
+"tier": "global"
+},
+"slug": "brooklyn-nets-charlotte-hornets-2026-10-22"
+},
+"es:basketball-20261021-raptors-bulls": {
+"lang": "es",
+"m": {
+"away": "Bulls",
+"awayNames": {
+"ar": "شيكاغو بولز",
+"de": "Chicago Bulls",
+"en": "Chicago Bulls",
+"es": "Chicago Bulls",
+"fr": "Chicago Bulls",
+"it": "Chicago Bulls",
+"pt": "Chicago Bulls",
+"tr": "Chicago Bulls"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"AR": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"AT": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"AU": [
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+],
+"BE": [
+"DAZN",
+"Prime Video",
+"NBA League Pass"
+],
+"BR": [
+"ESPN",
+"Disney+",
+"Prime Video",
+"NBA League Pass"
+],
+"CA": [
+"TSN",
+"Sportsnet",
+"Prime Video",
+"NBA League Pass"
+],
+"CH": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"CL": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"CO": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"CZ": [
+"Nova Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"DE": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"DZ": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"EC": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"EG": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"ES": [
+"DAZN",
+"Prime Video",
+"NBA League Pass"
+],
+"FR": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"GB": [
+"Sky Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"GH": [
+"ESPN",
+"Sporty TV",
+"NBA League Pass"
+],
+"HR": [
+"Sport Klub",
+"Prime Video",
+"NBA League Pass"
+],
+"IT": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"JP": [
+"Lemino",
+"Prime Video",
+"WOWOW"
+],
+"KR": [
+"Coupang Play",
+"Prime Video",
+"NBA League Pass"
+],
+"MA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"MX": [
+"ESPN",
+"Disney+",
+"Prime Video",
+"NBA League Pass"
+],
+"NG": [
+"ESPN",
+"Sporty TV",
+"NBA League Pass"
+],
+"NL": [
+"ESPN",
+"NBA League Pass"
+],
+"NO": [
+"HBO Max",
+"NBA League Pass"
+],
+"NZ": [
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+],
+"PE": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"PT": [
+"Sport TV",
+"Prime Video",
+"NBA League Pass"
+],
+"PY": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"QA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"SA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"SN": [
+"Canal+ Sport",
+"NBA League Pass"
+],
+"TN": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"TR": [
+"S Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"US": [
+"NBA League Pass"
+],
+"UY": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"ZA": [
+"SuperSport",
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+]
+},
+"competition": {
+"ar": "دوري NBA",
+"de": "NBA",
+"en": "NBA",
+"es": "NBA",
+"fr": "NBA",
+"it": "NBA",
+"pt": "NBA",
+"tr": "NBA"
+},
+"competitionId": "nba",
+"home": "Raptors",
+"homeNames": {
+"ar": "تورونتو رابتورز",
+"de": "Toronto Raptors",
+"en": "Toronto Raptors",
+"es": "Toronto Raptors",
+"fr": "Toronto Raptors",
+"it": "Toronto Raptors",
+"pt": "Toronto Raptors",
+"tr": "Toronto Raptors"
+},
+"id": "basketball-20261021-raptors-bulls",
+"kickoffUtc": "2026-10-21T23:30:00Z",
+"sources": [
+"espn"
+],
+"sport": "basketball",
+"tier": "global"
+},
+"slug": "toronto-raptors-chicago-bulls-2026-10-22"
+},
 "es:basketball-20261021-spurs-thunder": {
 "lang": "es",
 "m": {
@@ -760,6 +1776,1785 @@
 "tier": "global"
 },
 "slug": "san-antonio-spurs-oklahoma-city-thunder-2026-10-21"
+},
+"es:basketball-20261021-wizards-bucks": {
+"lang": "es",
+"m": {
+"away": "Bucks",
+"awayNames": {
+"ar": "ميلووكي باكس",
+"de": "Milwaukee Bucks",
+"en": "Milwaukee Bucks",
+"es": "Milwaukee Bucks",
+"fr": "Milwaukee Bucks",
+"it": "Milwaukee Bucks",
+"pt": "Milwaukee Bucks",
+"tr": "Milwaukee Bucks"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"AR": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"AT": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"AU": [
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+],
+"BE": [
+"DAZN",
+"Prime Video",
+"NBA League Pass"
+],
+"BR": [
+"ESPN",
+"Disney+",
+"Prime Video",
+"NBA League Pass"
+],
+"CA": [
+"TSN",
+"Sportsnet",
+"Prime Video",
+"NBA League Pass"
+],
+"CH": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"CL": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"CO": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"CZ": [
+"Nova Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"DE": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"DZ": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"EC": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"EG": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"ES": [
+"DAZN",
+"Prime Video",
+"NBA League Pass"
+],
+"FR": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"GB": [
+"Sky Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"GH": [
+"ESPN",
+"Sporty TV",
+"NBA League Pass"
+],
+"HR": [
+"Sport Klub",
+"Prime Video",
+"NBA League Pass"
+],
+"IT": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"JP": [
+"Lemino",
+"Prime Video",
+"WOWOW"
+],
+"KR": [
+"Coupang Play",
+"Prime Video",
+"NBA League Pass"
+],
+"MA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"MX": [
+"ESPN",
+"Disney+",
+"Prime Video",
+"NBA League Pass"
+],
+"NG": [
+"ESPN",
+"Sporty TV",
+"NBA League Pass"
+],
+"NL": [
+"ESPN",
+"NBA League Pass"
+],
+"NO": [
+"HBO Max",
+"NBA League Pass"
+],
+"NZ": [
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+],
+"PE": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"PT": [
+"Sport TV",
+"Prime Video",
+"NBA League Pass"
+],
+"PY": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"QA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"SA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"SN": [
+"Canal+ Sport",
+"NBA League Pass"
+],
+"TN": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"TR": [
+"S Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"US": [
+"MNMT",
+"NBA League Pass"
+],
+"UY": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"ZA": [
+"SuperSport",
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+]
+},
+"competition": {
+"ar": "دوري NBA",
+"de": "NBA",
+"en": "NBA",
+"es": "NBA",
+"fr": "NBA",
+"it": "NBA",
+"pt": "NBA",
+"tr": "NBA"
+},
+"competitionId": "nba",
+"home": "Wizards",
+"homeNames": {
+"ar": "واشنطن ويزاردز",
+"de": "Washington Wizards",
+"en": "Washington Wizards",
+"es": "Washington Wizards",
+"fr": "Washington Wizards",
+"it": "Washington Wizards",
+"pt": "Washington Wizards",
+"tr": "Washington Wizards"
+},
+"id": "basketball-20261021-wizards-bucks",
+"kickoffUtc": "2026-10-21T23:00:00Z",
+"sources": [
+"espn"
+],
+"sport": "basketball",
+"tier": "global"
+},
+"slug": "washington-wizards-milwaukee-bucks-2026-10-22"
+},
+"es:basketball-20261022-clippers-kings": {
+"lang": "es",
+"m": {
+"away": "Kings",
+"awayNames": {
+"ar": "ساكرامنتو كينغز",
+"de": "Sacramento Kings",
+"en": "Sacramento Kings",
+"es": "Sacramento Kings",
+"fr": "Sacramento Kings",
+"it": "Sacramento Kings",
+"pt": "Sacramento Kings",
+"tr": "Sacramento Kings"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"AR": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"AT": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"AU": [
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+],
+"BE": [
+"DAZN",
+"Prime Video",
+"NBA League Pass"
+],
+"BR": [
+"ESPN",
+"Disney+",
+"Prime Video",
+"NBA League Pass"
+],
+"CA": [
+"TSN",
+"Sportsnet",
+"Prime Video",
+"NBA League Pass"
+],
+"CH": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"CL": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"CO": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"CZ": [
+"Nova Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"DE": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"DZ": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"EC": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"EG": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"ES": [
+"DAZN",
+"Prime Video",
+"NBA League Pass"
+],
+"FR": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"GB": [
+"Sky Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"GH": [
+"ESPN",
+"Sporty TV",
+"NBA League Pass"
+],
+"HR": [
+"Sport Klub",
+"Prime Video",
+"NBA League Pass"
+],
+"IT": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"JP": [
+"Lemino",
+"Prime Video",
+"WOWOW"
+],
+"KR": [
+"Coupang Play",
+"Prime Video",
+"NBA League Pass"
+],
+"MA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"MX": [
+"ESPN",
+"Disney+",
+"Prime Video",
+"NBA League Pass"
+],
+"NG": [
+"ESPN",
+"Sporty TV",
+"NBA League Pass"
+],
+"NL": [
+"ESPN",
+"NBA League Pass"
+],
+"NO": [
+"HBO Max",
+"NBA League Pass"
+],
+"NZ": [
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+],
+"PE": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"PT": [
+"Sport TV",
+"Prime Video",
+"NBA League Pass"
+],
+"PY": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"QA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"SA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"SN": [
+"Canal+ Sport",
+"NBA League Pass"
+],
+"TN": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"TR": [
+"S Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"US": [
+"NBA League Pass"
+],
+"UY": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"ZA": [
+"SuperSport",
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+]
+},
+"competition": {
+"ar": "دوري NBA",
+"de": "NBA",
+"en": "NBA",
+"es": "NBA",
+"fr": "NBA",
+"it": "NBA",
+"pt": "NBA",
+"tr": "NBA"
+},
+"competitionId": "nba",
+"home": "Clippers",
+"homeNames": {
+"ar": "لوس أنجلوس كليبرز",
+"de": "LA Clippers",
+"en": "LA Clippers",
+"es": "LA Clippers",
+"fr": "LA Clippers",
+"it": "LA Clippers",
+"pt": "LA Clippers",
+"tr": "LA Clippers"
+},
+"id": "basketball-20261022-clippers-kings",
+"kickoffUtc": "2026-10-22T02:30:00Z",
+"sources": [
+"espn"
+],
+"sport": "basketball",
+"tier": "global"
+},
+"slug": "la-clippers-sacramento-kings-2026-10-22"
+},
+"es:basketball-20261022-grizzlies-jazz": {
+"lang": "es",
+"m": {
+"away": "Jazz",
+"awayNames": {
+"ar": "يوتا جاز",
+"de": "Utah Jazz",
+"en": "Utah Jazz",
+"es": "Utah Jazz",
+"fr": "Utah Jazz",
+"it": "Utah Jazz",
+"pt": "Utah Jazz",
+"tr": "Utah Jazz"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"AR": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"AT": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"AU": [
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+],
+"BE": [
+"DAZN",
+"Prime Video",
+"NBA League Pass"
+],
+"BR": [
+"ESPN",
+"Disney+",
+"Prime Video",
+"NBA League Pass"
+],
+"CA": [
+"TSN",
+"Sportsnet",
+"Prime Video",
+"NBA League Pass"
+],
+"CH": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"CL": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"CO": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"CZ": [
+"Nova Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"DE": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"DZ": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"EC": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"EG": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"ES": [
+"DAZN",
+"Prime Video",
+"NBA League Pass"
+],
+"FR": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"GB": [
+"Sky Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"GH": [
+"ESPN",
+"Sporty TV",
+"NBA League Pass"
+],
+"HR": [
+"Sport Klub",
+"Prime Video",
+"NBA League Pass"
+],
+"IT": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"JP": [
+"Lemino",
+"Prime Video",
+"WOWOW"
+],
+"KR": [
+"Coupang Play",
+"Prime Video",
+"NBA League Pass"
+],
+"MA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"MX": [
+"ESPN",
+"Disney+",
+"Prime Video",
+"NBA League Pass"
+],
+"NG": [
+"ESPN",
+"Sporty TV",
+"NBA League Pass"
+],
+"NL": [
+"ESPN",
+"NBA League Pass"
+],
+"NO": [
+"HBO Max",
+"NBA League Pass"
+],
+"NZ": [
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+],
+"PE": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"PT": [
+"Sport TV",
+"Prime Video",
+"NBA League Pass"
+],
+"PY": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"QA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"SA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"SN": [
+"Canal+ Sport",
+"NBA League Pass"
+],
+"TN": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"TR": [
+"S Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"US": [
+"NBA League Pass"
+],
+"UY": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"ZA": [
+"SuperSport",
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+]
+},
+"competition": {
+"ar": "دوري NBA",
+"de": "NBA",
+"en": "NBA",
+"es": "NBA",
+"fr": "NBA",
+"it": "NBA",
+"pt": "NBA",
+"tr": "NBA"
+},
+"competitionId": "nba",
+"home": "Grizzlies",
+"homeNames": {
+"ar": "ممفيس غريزليز",
+"de": "Memphis Grizzlies",
+"en": "Memphis Grizzlies",
+"es": "Memphis Grizzlies",
+"fr": "Memphis Grizzlies",
+"it": "Memphis Grizzlies",
+"pt": "Memphis Grizzlies",
+"tr": "Memphis Grizzlies"
+},
+"id": "basketball-20261022-grizzlies-jazz",
+"kickoffUtc": "2026-10-22T00:00:00Z",
+"sources": [
+"espn"
+],
+"sport": "basketball",
+"tier": "global"
+},
+"slug": "memphis-grizzlies-utah-jazz-2026-10-22"
+},
+"es:basketball-20261022-lakers-warriors": {
+"lang": "es",
+"m": {
+"away": "Warriors",
+"awayNames": {
+"ar": "غولدن ستايت ووريورز",
+"de": "Golden State Warriors",
+"en": "Golden State Warriors",
+"es": "Golden State Warriors",
+"fr": "Golden State Warriors",
+"it": "Golden State Warriors",
+"pt": "Golden State Warriors",
+"tr": "Golden State Warriors"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"AR": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"AT": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"AU": [
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+],
+"BE": [
+"DAZN",
+"Prime Video",
+"NBA League Pass"
+],
+"BR": [
+"ESPN",
+"Disney+",
+"Prime Video",
+"NBA League Pass"
+],
+"CA": [
+"TSN",
+"Sportsnet",
+"Prime Video",
+"NBA League Pass"
+],
+"CH": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"CL": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"CO": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"CZ": [
+"Nova Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"DE": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"DZ": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"EC": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"EG": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"ES": [
+"DAZN",
+"Prime Video",
+"NBA League Pass"
+],
+"FR": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"GB": [
+"Sky Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"GH": [
+"ESPN",
+"Sporty TV",
+"NBA League Pass"
+],
+"HR": [
+"Sport Klub",
+"Prime Video",
+"NBA League Pass"
+],
+"IT": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"JP": [
+"Lemino",
+"Prime Video",
+"WOWOW"
+],
+"KR": [
+"Coupang Play",
+"Prime Video",
+"NBA League Pass"
+],
+"MA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"MX": [
+"ESPN",
+"Disney+",
+"Prime Video",
+"NBA League Pass"
+],
+"NG": [
+"ESPN",
+"Sporty TV",
+"NBA League Pass"
+],
+"NL": [
+"ESPN",
+"NBA League Pass"
+],
+"NO": [
+"HBO Max",
+"NBA League Pass"
+],
+"NZ": [
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+],
+"PE": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"PT": [
+"Sport TV",
+"Prime Video",
+"NBA League Pass"
+],
+"PY": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"QA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"SA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"SN": [
+"Canal+ Sport",
+"NBA League Pass"
+],
+"TN": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"TR": [
+"S Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"US": [
+"ESPN"
+],
+"UY": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"ZA": [
+"SuperSport",
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+]
+},
+"competition": {
+"ar": "دوري NBA",
+"de": "NBA",
+"en": "NBA",
+"es": "NBA",
+"fr": "NBA",
+"it": "NBA",
+"pt": "NBA",
+"tr": "NBA"
+},
+"competitionId": "nba",
+"home": "Lakers",
+"homeNames": {
+"ar": "لوس أنجلوس ليكرز",
+"de": "Los Angeles Lakers",
+"en": "Los Angeles Lakers",
+"es": "Los Angeles Lakers",
+"fr": "Los Angeles Lakers",
+"it": "Los Angeles Lakers",
+"pt": "Los Angeles Lakers",
+"tr": "Los Angeles Lakers"
+},
+"id": "basketball-20261022-lakers-warriors",
+"kickoffUtc": "2026-10-22T02:00:00Z",
+"sources": [
+"espn"
+],
+"sport": "basketball",
+"tier": "global"
+},
+"slug": "los-angeles-lakers-golden-state-warriors-2026-10-22"
+},
+"es:basketball-20261022-pelicans-pacers": {
+"lang": "es",
+"m": {
+"away": "Pacers",
+"awayNames": {
+"ar": "إنديانا بيسرز",
+"de": "Indiana Pacers",
+"en": "Indiana Pacers",
+"es": "Indiana Pacers",
+"fr": "Indiana Pacers",
+"it": "Indiana Pacers",
+"pt": "Indiana Pacers",
+"tr": "Indiana Pacers"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"AR": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"AT": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"AU": [
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+],
+"BE": [
+"DAZN",
+"Prime Video",
+"NBA League Pass"
+],
+"BR": [
+"ESPN",
+"Disney+",
+"Prime Video",
+"NBA League Pass"
+],
+"CA": [
+"TSN",
+"Sportsnet",
+"Prime Video",
+"NBA League Pass"
+],
+"CH": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"CL": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"CO": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"CZ": [
+"Nova Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"DE": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"DZ": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"EC": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"EG": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"ES": [
+"DAZN",
+"Prime Video",
+"NBA League Pass"
+],
+"FR": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"GB": [
+"Sky Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"GH": [
+"ESPN",
+"Sporty TV",
+"NBA League Pass"
+],
+"HR": [
+"Sport Klub",
+"Prime Video",
+"NBA League Pass"
+],
+"IT": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"JP": [
+"Lemino",
+"Prime Video",
+"WOWOW"
+],
+"KR": [
+"Coupang Play",
+"Prime Video",
+"NBA League Pass"
+],
+"MA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"MX": [
+"ESPN",
+"Disney+",
+"Prime Video",
+"NBA League Pass"
+],
+"NG": [
+"ESPN",
+"Sporty TV",
+"NBA League Pass"
+],
+"NL": [
+"ESPN",
+"NBA League Pass"
+],
+"NO": [
+"HBO Max",
+"NBA League Pass"
+],
+"NZ": [
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+],
+"PE": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"PT": [
+"Sport TV",
+"Prime Video",
+"NBA League Pass"
+],
+"PY": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"QA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"SA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"SN": [
+"Canal+ Sport",
+"NBA League Pass"
+],
+"TN": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"TR": [
+"S Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"US": [
+"NBA League Pass"
+],
+"UY": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"ZA": [
+"SuperSport",
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+]
+},
+"competition": {
+"ar": "دوري NBA",
+"de": "NBA",
+"en": "NBA",
+"es": "NBA",
+"fr": "NBA",
+"it": "NBA",
+"pt": "NBA",
+"tr": "NBA"
+},
+"competitionId": "nba",
+"home": "Pelicans",
+"homeNames": {
+"ar": "نيو أورلينز بيليكانز",
+"de": "New Orleans Pelicans",
+"en": "New Orleans Pelicans",
+"es": "New Orleans Pelicans",
+"fr": "New Orleans Pelicans",
+"it": "New Orleans Pelicans",
+"pt": "New Orleans Pelicans",
+"tr": "New Orleans Pelicans"
+},
+"id": "basketball-20261022-pelicans-pacers",
+"kickoffUtc": "2026-10-22T00:00:00Z",
+"sources": [
+"espn"
+],
+"sport": "basketball",
+"tier": "global"
+},
+"slug": "new-orleans-pelicans-indiana-pacers-2026-10-22"
+},
+"es:basketball-20261022-rockets-mavericks": {
+"lang": "es",
+"m": {
+"away": "Mavericks",
+"awayNames": {
+"ar": "دالاس مافريكس",
+"de": "Dallas Mavericks",
+"en": "Dallas Mavericks",
+"es": "Dallas Mavericks",
+"fr": "Dallas Mavericks",
+"it": "Dallas Mavericks",
+"pt": "Dallas Mavericks",
+"tr": "Dallas Mavericks"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"AR": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"AT": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"AU": [
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+],
+"BE": [
+"DAZN",
+"Prime Video",
+"NBA League Pass"
+],
+"BR": [
+"ESPN",
+"Disney+",
+"Prime Video",
+"NBA League Pass"
+],
+"CA": [
+"TSN",
+"Sportsnet",
+"Prime Video",
+"NBA League Pass"
+],
+"CH": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"CL": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"CO": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"CZ": [
+"Nova Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"DE": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"DZ": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"EC": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"EG": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"ES": [
+"DAZN",
+"Prime Video",
+"NBA League Pass"
+],
+"FR": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"GB": [
+"Sky Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"GH": [
+"ESPN",
+"Sporty TV",
+"NBA League Pass"
+],
+"HR": [
+"Sport Klub",
+"Prime Video",
+"NBA League Pass"
+],
+"IT": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"JP": [
+"Lemino",
+"Prime Video",
+"WOWOW"
+],
+"KR": [
+"Coupang Play",
+"Prime Video",
+"NBA League Pass"
+],
+"MA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"MX": [
+"ESPN",
+"Disney+",
+"Prime Video",
+"NBA League Pass"
+],
+"NG": [
+"ESPN",
+"Sporty TV",
+"NBA League Pass"
+],
+"NL": [
+"ESPN",
+"NBA League Pass"
+],
+"NO": [
+"HBO Max",
+"NBA League Pass"
+],
+"NZ": [
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+],
+"PE": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"PT": [
+"Sport TV",
+"Prime Video",
+"NBA League Pass"
+],
+"PY": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"QA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"SA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"SN": [
+"Canal+ Sport",
+"NBA League Pass"
+],
+"TN": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"TR": [
+"S Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"US": [
+"NBA League Pass"
+],
+"UY": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"ZA": [
+"SuperSport",
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+]
+},
+"competition": {
+"ar": "دوري NBA",
+"de": "NBA",
+"en": "NBA",
+"es": "NBA",
+"fr": "NBA",
+"it": "NBA",
+"pt": "NBA",
+"tr": "NBA"
+},
+"competitionId": "nba",
+"home": "Rockets",
+"homeNames": {
+"ar": "هيوستن روكتس",
+"de": "Houston Rockets",
+"en": "Houston Rockets",
+"es": "Houston Rockets",
+"fr": "Houston Rockets",
+"it": "Houston Rockets",
+"pt": "Houston Rockets",
+"tr": "Houston Rockets"
+},
+"id": "basketball-20261022-rockets-mavericks",
+"kickoffUtc": "2026-10-22T00:30:00Z",
+"sources": [
+"espn"
+],
+"sport": "basketball",
+"tier": "global"
+},
+"slug": "houston-rockets-dallas-mavericks-2026-10-22"
+},
+"es:basketball-20261022-trail-blazers-suns": {
+"lang": "es",
+"m": {
+"away": "Suns",
+"awayNames": {
+"ar": "فينيكس صنز",
+"de": "Phoenix Suns",
+"en": "Phoenix Suns",
+"es": "Phoenix Suns",
+"fr": "Phoenix Suns",
+"it": "Phoenix Suns",
+"pt": "Phoenix Suns",
+"tr": "Phoenix Suns"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"AR": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"AT": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"AU": [
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+],
+"BE": [
+"DAZN",
+"Prime Video",
+"NBA League Pass"
+],
+"BR": [
+"ESPN",
+"Disney+",
+"Prime Video",
+"NBA League Pass"
+],
+"CA": [
+"TSN",
+"Sportsnet",
+"Prime Video",
+"NBA League Pass"
+],
+"CH": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"CL": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"CO": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"CZ": [
+"Nova Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"DE": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"DZ": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"EC": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"EG": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"ES": [
+"DAZN",
+"Prime Video",
+"NBA League Pass"
+],
+"FR": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"GB": [
+"Sky Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"GH": [
+"ESPN",
+"Sporty TV",
+"NBA League Pass"
+],
+"HR": [
+"Sport Klub",
+"Prime Video",
+"NBA League Pass"
+],
+"IT": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"JP": [
+"Lemino",
+"Prime Video",
+"WOWOW"
+],
+"KR": [
+"Coupang Play",
+"Prime Video",
+"NBA League Pass"
+],
+"MA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"MX": [
+"ESPN",
+"Disney+",
+"Prime Video",
+"NBA League Pass"
+],
+"NG": [
+"ESPN",
+"Sporty TV",
+"NBA League Pass"
+],
+"NL": [
+"ESPN",
+"NBA League Pass"
+],
+"NO": [
+"HBO Max",
+"NBA League Pass"
+],
+"NZ": [
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+],
+"PE": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"PT": [
+"Sport TV",
+"Prime Video",
+"NBA League Pass"
+],
+"PY": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"QA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"SA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"SN": [
+"Canal+ Sport",
+"NBA League Pass"
+],
+"TN": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"TR": [
+"S Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"US": [
+"NBA League Pass"
+],
+"UY": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"ZA": [
+"SuperSport",
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+]
+},
+"competition": {
+"ar": "دوري NBA",
+"de": "NBA",
+"en": "NBA",
+"es": "NBA",
+"fr": "NBA",
+"it": "NBA",
+"pt": "NBA",
+"tr": "NBA"
+},
+"competitionId": "nba",
+"home": "Trail Blazers",
+"homeNames": {
+"ar": "بورتلاند ترايل بليزرز",
+"de": "Portland Trail Blazers",
+"en": "Portland Trail Blazers",
+"es": "Portland Trail Blazers",
+"fr": "Portland Trail Blazers",
+"it": "Portland Trail Blazers",
+"pt": "Portland Trail Blazers",
+"tr": "Portland Trail Blazers"
+},
+"id": "basketball-20261022-trail-blazers-suns",
+"kickoffUtc": "2026-10-22T02:00:00Z",
+"sources": [
+"espn"
+],
+"sport": "basketball",
+"tier": "global"
+},
+"slug": "portland-trail-blazers-phoenix-suns-2026-10-22"
 },
 "es:football-20261019-al-fayha-al-ahli-jeddah": {
 "lang": "es",
@@ -3170,6 +5965,802 @@
 },
 "slug": "vfb-stuttgart-atletico-de-madrid-2026-10-20"
 },
+"es:football-20261021-aston-villa-viking": {
+"lang": "es",
+"m": {
+"away": "Viking",
+"awayNames": {
+"ar": "فايكينغ",
+"de": "Viking",
+"en": "Viking",
+"es": "Viking",
+"fr": "Viking",
+"it": "Viking",
+"pt": "Viking",
+"tr": "Viking"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports MENA 4",
+"TOD TV"
+],
+"AR": [
+"Disney+"
+],
+"BR": [
+"HBO Max"
+],
+"CA": [
+"Fubo",
+"DAZN"
+],
+"CL": [
+"Disney+ Premium",
+"ESPN 3"
+],
+"CO": [
+"Disney+ Premium",
+"ESPN 3"
+],
+"DE": [
+"DAZN"
+],
+"DZ": [
+"beIN Sports MENA 4",
+"TOD TV"
+],
+"EC": [
+"Disney+ Premium",
+"ESPN 3"
+],
+"EG": [
+"beIN Sports MENA 4",
+"TOD TV"
+],
+"ES": [
+"M+ Liga de Campeones 4",
+"M+ Liga de Campeones 5"
+],
+"FR": [
+"CANAL+ Live 5"
+],
+"GB": [
+"TNT Sports 2",
+"TNT Sports 9",
+"HBO Max"
+],
+"IQ": [
+"beIN Sports MENA 4",
+"TOD TV"
+],
+"IT": [
+"Sky Sport Max"
+],
+"JO": [
+"beIN Sports MENA 4",
+"TOD TV"
+],
+"LY": [
+"beIN Sports MENA 4",
+"TOD TV"
+],
+"MA": [
+"beIN Sports MENA 4",
+"TOD TV"
+],
+"MX": [
+"FOX One"
+],
+"OM": [
+"beIN Sports MENA 4",
+"TOD TV"
+],
+"PE": [
+"Disney+ Premium",
+"ESPN 3"
+],
+"PT": [
+"tabii",
+"DAZN"
+],
+"PY": [
+"Disney+ Premium",
+"ESPN 3"
+],
+"QA": [
+"beIN Sports MENA 4",
+"TOD TV"
+],
+"SA": [
+"beIN Sports MENA 4",
+"TOD TV"
+],
+"TN": [
+"beIN Sports MENA 4",
+"TOD TV"
+],
+"TR": [
+"tabii Spor 3"
+],
+"US": [
+"Paramount+",
+"ViX"
+],
+"UY": [
+"Disney+ Premium",
+"ESPN 3"
+]
+},
+"competition": {
+"ar": "دوري أبطال أوروبا",
+"de": "UEFA Champions League",
+"en": "UEFA Champions League",
+"es": "Liga de Campeones",
+"fr": "Ligue des Champions",
+"it": "UEFA Champions League",
+"pt": "Liga dos Campeões",
+"tr": "UEFA Şampiyonlar Ligi"
+},
+"competitionId": "champions",
+"home": "Aston Villa",
+"homeNames": {
+"ar": "أستون فيلا",
+"de": "Aston Villa",
+"en": "Aston Villa",
+"es": "Aston Villa",
+"fr": "Aston Villa",
+"it": "Aston Villa",
+"pt": "Aston Villa",
+"tr": "Aston Villa"
+},
+"id": "football-20261021-aston-villa-viking",
+"kickoffUtc": "2026-10-21T19:00:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "aston-villa-viking-2026-10-21"
+},
+"es:football-20261021-bayern-munich-arsenal": {
+"lang": "es",
+"m": {
+"away": "Arsenal",
+"awayNames": {
+"ar": "أرسنال",
+"de": "Arsenal",
+"en": "Arsenal",
+"es": "Arsenal",
+"fr": "Arsenal",
+"it": "Arsenal",
+"pt": "Arsenal",
+"tr": "Arsenal"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports MENA 1",
+"beIN Sports English 1",
+"TOD TV"
+],
+"AR": [
+"Disney+"
+],
+"BR": [
+"TNT",
+"HBO Max"
+],
+"CA": [
+"Fubo",
+"DAZN"
+],
+"CL": [
+"Disney+ Premium",
+"ESPN"
+],
+"CO": [
+"Disney+ Premium",
+"ESPN"
+],
+"DE": [
+"DAZN"
+],
+"DZ": [
+"beIN Sports MENA 1",
+"beIN Sports English 1",
+"TOD TV"
+],
+"EC": [
+"Disney+ Premium",
+"ESPN"
+],
+"EG": [
+"beIN Sports MENA 1",
+"beIN Sports English 1",
+"TOD TV"
+],
+"ES": [
+"M+ Liga de Campeones 3",
+"M+ Liga de Campeones 4"
+],
+"FR": [
+"CANAL+ Foot"
+],
+"GB": [
+"TNT Sports 1",
+"HBO Max"
+],
+"IQ": [
+"beIN Sports MENA 1",
+"beIN Sports English 1",
+"TOD TV"
+],
+"IT": [
+"TV8",
+"Sky Sport Calcio"
+],
+"JO": [
+"beIN Sports MENA 1",
+"beIN Sports English 1",
+"TOD TV"
+],
+"LY": [
+"beIN Sports MENA 1",
+"beIN Sports English 1",
+"TOD TV"
+],
+"MA": [
+"beIN Sports MENA 1",
+"beIN Sports English 1",
+"TOD TV"
+],
+"MX": [
+"HBO Max"
+],
+"OM": [
+"beIN Sports MENA 1",
+"beIN Sports English 1",
+"TOD TV"
+],
+"PE": [
+"Disney+ Premium",
+"ESPN 2"
+],
+"PT": [
+"DAZN 1"
+],
+"PY": [
+"Disney+ Premium",
+"ESPN 2"
+],
+"QA": [
+"beIN Sports MENA 1",
+"beIN Sports English 1",
+"TOD TV"
+],
+"SA": [
+"beIN Sports MENA 1",
+"beIN Sports English 1",
+"TOD TV"
+],
+"TN": [
+"beIN Sports MENA 1",
+"beIN Sports English 1",
+"TOD TV"
+],
+"TR": [
+"tabii Spor",
+"İçtimai TV"
+],
+"US": [
+"Paramount+",
+"UniMás",
+"TUDN",
+"ViX"
+],
+"UY": [
+"Disney+ Premium",
+"ESPN 2"
+]
+},
+"competition": {
+"ar": "دوري أبطال أوروبا",
+"de": "UEFA Champions League",
+"en": "UEFA Champions League",
+"es": "Liga de Campeones",
+"fr": "Ligue des Champions",
+"it": "UEFA Champions League",
+"pt": "Liga dos Campeões",
+"tr": "UEFA Şampiyonlar Ligi"
+},
+"competitionId": "champions",
+"home": "Bayern Munich",
+"homeNames": {
+"ar": "بايرن ميونيخ",
+"de": "FC Bayern München",
+"en": "Bayern Munich",
+"es": "Bayern Múnich",
+"fr": "Bayern Munich",
+"it": "Bayern Monaco",
+"pt": "Bayern de Munique",
+"tr": "Bayern Münih"
+},
+"id": "football-20261021-bayern-munich-arsenal",
+"kickoffUtc": "2026-10-21T19:00:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "bayern-munich-arsenal-2026-10-21"
+},
+"es:football-20261021-betis-feyenoord": {
+"lang": "es",
+"m": {
+"away": "Feyenoord",
+"awayNames": {
+"ar": "Feyenoord",
+"de": "Feyenoord",
+"en": "Feyenoord",
+"es": "Feyenoord",
+"fr": "Feyenoord",
+"it": "Feyenoord",
+"pt": "Feyenoord",
+"tr": "Feyenoord"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports MENA 5",
+"TOD TV"
+],
+"AR": [
+"Disney+"
+],
+"BR": [
+"HBO Max"
+],
+"CA": [
+"Fubo",
+"DAZN"
+],
+"CL": [
+"Disney+ Premium",
+"ESPN 4"
+],
+"CO": [
+"Disney+ Premium",
+"ESPN 4"
+],
+"DE": [
+"DAZN"
+],
+"DZ": [
+"beIN Sports MENA 5",
+"TOD TV"
+],
+"EC": [
+"Disney+ Premium",
+"ESPN 4"
+],
+"EG": [
+"beIN Sports MENA 5",
+"TOD TV"
+],
+"ES": [
+"M+ Liga de Campeones 2",
+"M+ Liga de Campeones 4"
+],
+"FR": [
+"CANAL+ Live 6"
+],
+"GB": [
+"TNT Sports 6",
+"HBO Max"
+],
+"IQ": [
+"beIN Sports MENA 5",
+"TOD TV"
+],
+"IT": [
+"Sky Sport"
+],
+"JO": [
+"beIN Sports MENA 5",
+"TOD TV"
+],
+"LY": [
+"beIN Sports MENA 5",
+"TOD TV"
+],
+"MA": [
+"beIN Sports MENA 5",
+"TOD TV"
+],
+"MX": [
+"FOX",
+"FOX One"
+],
+"OM": [
+"beIN Sports MENA 5",
+"TOD TV"
+],
+"PE": [
+"Disney+ Premium",
+"ESPN 4"
+],
+"PT": [
+"DAZN 3"
+],
+"PY": [
+"Disney+ Premium",
+"ESPN 4"
+],
+"QA": [
+"beIN Sports MENA 5",
+"TOD TV"
+],
+"SA": [
+"beIN Sports MENA 5",
+"TOD TV"
+],
+"TN": [
+"beIN Sports MENA 5",
+"TOD TV"
+],
+"TR": [
+"tabii Spor 4"
+],
+"US": [
+"CBS Sports Golazo Network",
+"Paramount+",
+"Amazon Prime Video",
+"ViX"
+],
+"UY": [
+"Disney+ Premium",
+"ESPN 4"
+]
+},
+"competition": {
+"ar": "دوري أبطال أوروبا",
+"de": "UEFA Champions League",
+"en": "UEFA Champions League",
+"es": "Liga de Campeones",
+"fr": "Ligue des Champions",
+"it": "UEFA Champions League",
+"pt": "Liga dos Campeões",
+"tr": "UEFA Şampiyonlar Ligi"
+},
+"competitionId": "champions",
+"home": "Betis",
+"homeNames": {
+"ar": "ريال بيتيس",
+"de": "Real Betis",
+"en": "Real Betis",
+"es": "Real Betis",
+"fr": "Real Betis",
+"it": "Real Betis",
+"pt": "Real Betis",
+"tr": "Betis"
+},
+"id": "football-20261021-betis-feyenoord",
+"kickoffUtc": "2026-10-21T19:00:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "real-betis-feyenoord-2026-10-21"
+},
+"es:football-20261021-club-brugge-lens": {
+"lang": "es",
+"m": {
+"away": "Lens",
+"awayNames": {
+"ar": "لانس",
+"de": "RC Lens",
+"en": "RC Lens",
+"es": "Lens",
+"fr": "RC Lens",
+"it": "Lens",
+"pt": "Lens",
+"tr": "Lens"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports MENA 8"
+],
+"AR": [
+"Disney+"
+],
+"BR": [
+"HBO Max"
+],
+"CA": [
+"Fubo",
+"DAZN"
+],
+"CL": [
+"Disney+ Premium",
+"ESPN 7"
+],
+"CO": [
+"Disney+ Premium",
+"ESPN 7"
+],
+"DE": [
+"DAZN"
+],
+"DZ": [
+"beIN Sports MENA 8"
+],
+"EC": [
+"Disney+ Premium",
+"ESPN 7"
+],
+"EG": [
+"beIN Sports MENA 8"
+],
+"ES": [
+"M+ Liga de Campeones 4",
+"M+ Liga de Campeones 6"
+],
+"FR": [
+"CANAL+"
+],
+"GB": [
+"TNT Sports 7",
+"HBO Max"
+],
+"IQ": [
+"beIN Sports MENA 8"
+],
+"IT": [
+"Sky Sport"
+],
+"JO": [
+"beIN Sports MENA 8"
+],
+"LY": [
+"beIN Sports MENA 8"
+],
+"MA": [
+"beIN Sports MENA 8"
+],
+"MX": [
+"FOX One"
+],
+"OM": [
+"beIN Sports MENA 8"
+],
+"PE": [
+"Disney+ Premium",
+"ESPN 7"
+],
+"PT": [
+"tabii",
+"DAZN"
+],
+"PY": [
+"Disney+ Premium",
+"ESPN 7"
+],
+"QA": [
+"beIN Sports MENA 8"
+],
+"SA": [
+"beIN Sports MENA 8"
+],
+"TN": [
+"beIN Sports MENA 8"
+],
+"TR": [
+"tabii Spor 6"
+],
+"US": [
+"Paramount+",
+"ViX"
+],
+"UY": [
+"Disney+ Premium",
+"ESPN 7"
+]
+},
+"competition": {
+"ar": "دوري أبطال أوروبا",
+"de": "UEFA Champions League",
+"en": "UEFA Champions League",
+"es": "Liga de Campeones",
+"fr": "Ligue des Champions",
+"it": "UEFA Champions League",
+"pt": "Liga dos Campeões",
+"tr": "UEFA Şampiyonlar Ligi"
+},
+"competitionId": "champions",
+"home": "Club Brugge",
+"homeNames": {
+"ar": "كلوب بروج",
+"de": "Club Brugge",
+"en": "Club Brugge",
+"es": "Club Brugge",
+"fr": "Club Bruges",
+"it": "Club Brugge",
+"pt": "Club Brugge",
+"tr": "Club Brugge"
+},
+"id": "football-20261021-club-brugge-lens",
+"kickoffUtc": "2026-10-21T19:00:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "club-brugge-lens-2026-10-21"
+},
+"es:football-20261021-como-man-utd": {
+"lang": "es",
+"m": {
+"away": "Man Utd",
+"awayNames": {
+"ar": "مانشستر يونايتد",
+"de": "Manchester United",
+"en": "Manchester United",
+"es": "Manchester United",
+"fr": "Manchester United",
+"it": "Manchester United",
+"pt": "Manchester United",
+"tr": "Manchester United"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports MENA 2",
+"beIN Sports English 1",
+"TOD TV"
+],
+"AR": [
+"Disney+"
+],
+"BR": [
+"TNT",
+"HBO Max"
+],
+"CA": [
+"Fubo",
+"DAZN"
+],
+"CL": [
+"Disney+ Premium",
+"ESPN Premium"
+],
+"CO": [
+"Disney+ Premium",
+"ESPN"
+],
+"DE": [
+"DAZN"
+],
+"DZ": [
+"beIN Sports MENA 2",
+"beIN Sports English 1",
+"TOD TV"
+],
+"EC": [
+"Disney+ Premium",
+"ESPN"
+],
+"EG": [
+"beIN Sports MENA 2",
+"beIN Sports English 1",
+"TOD TV"
+],
+"ES": [
+"M+ Liga de Campeones 2"
+],
+"FR": [
+"CANAL+ Sport"
+],
+"GB": [
+"TNT Sports 2",
+"HBO Max"
+],
+"IQ": [
+"beIN Sports MENA 2",
+"beIN Sports English 1",
+"TOD TV"
+],
+"IT": [
+"Sky Sport 1"
+],
+"JO": [
+"beIN Sports MENA 2",
+"beIN Sports English 1",
+"TOD TV"
+],
+"LY": [
+"beIN Sports MENA 2",
+"beIN Sports English 1",
+"TOD TV"
+],
+"MA": [
+"beIN Sports MENA 2",
+"beIN Sports English 1",
+"TOD TV"
+],
+"MX": [
+"FOX One",
+"FOX+"
+],
+"OM": [
+"beIN Sports MENA 2",
+"beIN Sports English 1",
+"TOD TV"
+],
+"PE": [
+"Disney+ Premium",
+"ESPN"
+],
+"PT": [
+"DAZN 1"
+],
+"PY": [
+"Disney+ Premium",
+"ESPN"
+],
+"QA": [
+"beIN Sports MENA 2",
+"beIN Sports English 1",
+"TOD TV"
+],
+"SA": [
+"beIN Sports MENA 2",
+"beIN Sports English 1",
+"TOD TV"
+],
+"TN": [
+"beIN Sports MENA 2",
+"beIN Sports English 1",
+"TOD TV"
+],
+"TR": [
+"tabii Spor",
+"İçtimai TV"
+],
+"US": [
+"Paramount+",
+"UniMás",
+"TUDN",
+"ViX"
+],
+"UY": [
+"Disney+ Premium",
+"ESPN"
+]
+},
+"competition": {
+"ar": "دوري أبطال أوروبا",
+"de": "UEFA Champions League",
+"en": "UEFA Champions League",
+"es": "Liga de Campeones",
+"fr": "Ligue des Champions",
+"it": "UEFA Champions League",
+"pt": "Liga dos Campeões",
+"tr": "UEFA Şampiyonlar Ligi"
+},
+"competitionId": "champions",
+"home": "Como",
+"homeNames": {
+"ar": "كومو",
+"de": "Como",
+"en": "Como",
+"es": "Como",
+"fr": "Como",
+"it": "Como",
+"pt": "Como",
+"tr": "Como"
+},
+"id": "football-20261021-como-man-utd",
+"kickoffUtc": "2026-10-21T16:45:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "como-manchester-united-2026-10-21"
+},
 "es:football-20261021-guadalajara-necaxa": {
 "lang": "es",
 "m": {
@@ -3229,6 +6820,963 @@
 "tier": "regional"
 },
 "slug": "chivas-de-guadalajara-necaxa-2026-10-21"
+},
+"es:football-20261021-inter-shakhtar-donetsk": {
+"lang": "es",
+"m": {
+"away": "Shakhtar Donetsk",
+"awayNames": {
+"ar": "شاختار دونيتسك",
+"de": "Schachtar Donezk",
+"en": "Shakhtar Donetsk",
+"es": "Shakhtar Donetsk",
+"fr": "Chakhtar Donetsk",
+"it": "Shakhtar Donetsk",
+"pt": "Shakhtar Donetsk",
+"tr": "Şahtar Donetsk"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports MENA 3"
+],
+"AR": [
+"Disney+"
+],
+"BR": [
+"HBO Max"
+],
+"CA": [
+"Fubo",
+"DAZN"
+],
+"CL": [
+"Disney+ Premium",
+"ESPN 2"
+],
+"CO": [
+"Disney+ Premium",
+"ESPN 5"
+],
+"DE": [
+"DAZN"
+],
+"DZ": [
+"beIN Sports MENA 3"
+],
+"EC": [
+"Disney+ Premium",
+"ESPN 5"
+],
+"EG": [
+"beIN Sports MENA 3"
+],
+"ES": [
+"M+ Liga de Campeones 4",
+"M+ Liga de Campeones 7"
+],
+"FR": [
+"CANAL+ Live 4"
+],
+"GB": [
+"TNT Sports 5",
+"HBO Max"
+],
+"IQ": [
+"beIN Sports MENA 3"
+],
+"IT": [
+"Amazon Prime Video"
+],
+"JO": [
+"beIN Sports MENA 3"
+],
+"LY": [
+"beIN Sports MENA 3"
+],
+"MA": [
+"beIN Sports MENA 3"
+],
+"MX": [
+"HBO Max",
+"TNT",
+"FOX One",
+"TNT Sports"
+],
+"OM": [
+"beIN Sports MENA 3"
+],
+"PE": [
+"Disney+ Premium",
+"ESPN 5"
+],
+"PT": [
+"DAZN 4"
+],
+"PY": [
+"Disney+ Premium",
+"ESPN 5"
+],
+"QA": [
+"beIN Sports MENA 3"
+],
+"SA": [
+"beIN Sports MENA 3"
+],
+"TN": [
+"beIN Sports MENA 3"
+],
+"TR": [
+"tabii Spor 2"
+],
+"US": [
+"CBS Sports Network",
+"Paramount+",
+"Fubo",
+"ViX"
+],
+"UY": [
+"Disney+ Premium",
+"ESPN 5"
+]
+},
+"competition": {
+"ar": "دوري أبطال أوروبا",
+"de": "UEFA Champions League",
+"en": "UEFA Champions League",
+"es": "Liga de Campeones",
+"fr": "Ligue des Champions",
+"it": "UEFA Champions League",
+"pt": "Liga dos Campeões",
+"tr": "UEFA Şampiyonlar Ligi"
+},
+"competitionId": "champions",
+"home": "Inter",
+"homeNames": {
+"ar": "إنتر ميلان",
+"de": "Inter Mailand",
+"en": "Inter Milan",
+"es": "Inter de Milán",
+"fr": "Inter Milan",
+"it": "FC Internazionale",
+"pt": "Inter de Milão",
+"tr": "Inter Milan"
+},
+"id": "football-20261021-inter-shakhtar-donetsk",
+"kickoffUtc": "2026-10-21T19:00:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "inter-de-milan-shakhtar-donetsk-2026-10-21"
+},
+"es:football-20261021-levante-athletic-club": {
+"lang": "es",
+"m": {
+"away": "Athletic Club",
+"awayNames": {
+"ar": "أتلتيك بيلباو",
+"de": "Athletic Bilbao",
+"en": "Athletic Club",
+"es": "Athletic Club",
+"fr": "Athletic Club",
+"it": "Athletic Club",
+"pt": "Athletic Club",
+"tr": "Athletic Club"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports XTRA 1",
+"TOD TV"
+],
+"BR": [
+"CazéTV"
+],
+"CA": [
+"TSN+"
+],
+"CL": [
+"DGO",
+"DSports 2",
+"Paramount+",
+"Amazon Prime Video",
+"DAZN"
+],
+"CO": [
+"DGO",
+"DSports 2",
+"Paramount+",
+"Amazon Prime Video",
+"DAZN",
+"Win Play"
+],
+"DE": [
+"DAZN"
+],
+"DZ": [
+"beIN Sports XTRA 1",
+"TOD TV"
+],
+"EC": [
+"DGO",
+"DSports 2",
+"Paramount+",
+"DAZN"
+],
+"EG": [
+"beIN Sports XTRA 1",
+"TOD TV"
+],
+"ES": [
+"M+ LaLiga",
+"M+ LaLiga HDR",
+"LaLiga TV M2"
+],
+"FR": [
+"DAZN",
+"Disney+"
+],
+"GB": [
+"Premier Sports 1"
+],
+"IQ": [
+"beIN Sports XTRA 1",
+"TOD TV"
+],
+"IT": [
+"DAZN"
+],
+"JO": [
+"beIN Sports XTRA 1",
+"TOD TV"
+],
+"LY": [
+"beIN Sports XTRA 1",
+"TOD TV"
+],
+"MA": [
+"beIN Sports XTRA 1",
+"TOD TV"
+],
+"MX": [
+"Sky Sports"
+],
+"OM": [
+"beIN Sports XTRA 1",
+"TOD TV"
+],
+"PE": [
+"DGO",
+"DSports 2",
+"Paramount+",
+"DAZN"
+],
+"QA": [
+"beIN Sports XTRA 1",
+"TOD TV"
+],
+"SA": [
+"beIN Sports XTRA 1",
+"TOD TV"
+],
+"TN": [
+"beIN Sports XTRA 1",
+"TOD TV"
+],
+"TR": [
+"S Sport Plus",
+"S Sport"
+],
+"US": [
+"ESPN+",
+"ESPN Deportes",
+"Fubo"
+],
+"UY": [
+"DGO",
+"DSports 2",
+"Paramount+",
+"DAZN"
+]
+},
+"competition": {
+"ar": "الدوري الإسباني",
+"de": "LaLiga",
+"en": "LaLiga",
+"es": "LaLiga",
+"fr": "LaLiga",
+"it": "LaLiga",
+"pt": "LaLiga",
+"tr": "İspanya LaLiga"
+},
+"competitionId": "laliga",
+"home": "Levante",
+"homeNames": {
+"ar": "ليفانتي",
+"de": "Levante",
+"en": "Levante",
+"es": "Levante",
+"fr": "Levante",
+"it": "Levante",
+"pt": "Levante",
+"tr": "Levante"
+},
+"id": "football-20261021-levante-athletic-club",
+"kickoffUtc": "2026-10-21T18:00:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "levante-athletic-club-2026-10-21"
+},
+"es:football-20261021-lille-galatasaray": {
+"lang": "es",
+"m": {
+"away": "Galatasaray",
+"awayNames": {
+"ar": "غلطة سراي",
+"de": "Galatasaray",
+"en": "Galatasaray",
+"es": "Galatasaray",
+"fr": "Galatasaray",
+"it": "Galatasaray",
+"pt": "Galatasaray",
+"tr": "Galatasaray"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports MENA 3"
+],
+"AR": [
+"Disney+"
+],
+"BR": [
+"Space",
+"HBO Max"
+],
+"CA": [
+"Fubo",
+"DAZN"
+],
+"CL": [
+"Disney+ Premium",
+"ESPN"
+],
+"CO": [
+"Disney+ Premium",
+"ESPN 2"
+],
+"DE": [
+"DAZN"
+],
+"DZ": [
+"beIN Sports MENA 3"
+],
+"EC": [
+"Disney+ Premium",
+"ESPN 2"
+],
+"EG": [
+"beIN Sports MENA 3"
+],
+"ES": [
+"M+ Liga de Campeones 3"
+],
+"FR": [
+"CANAL+ Foot"
+],
+"GB": [
+"TNT Sports 4",
+"HBO Max"
+],
+"IQ": [
+"beIN Sports MENA 3"
+],
+"IT": [
+"Sky Sport Calcio"
+],
+"JO": [
+"beIN Sports MENA 3"
+],
+"LY": [
+"beIN Sports MENA 3"
+],
+"MA": [
+"beIN Sports MENA 3"
+],
+"MX": [
+"HBO Max",
+"TNT",
+"TNT Sports"
+],
+"OM": [
+"beIN Sports MENA 3"
+],
+"PE": [
+"Disney+ Premium",
+"ESPN 2"
+],
+"PT": [
+"DAZN 2"
+],
+"PY": [
+"Disney+ Premium",
+"ESPN 2"
+],
+"QA": [
+"beIN Sports MENA 3"
+],
+"SA": [
+"beIN Sports MENA 3"
+],
+"TN": [
+"beIN Sports MENA 3"
+],
+"TR": [
+"TRT 1",
+"CBC Sport"
+],
+"US": [
+"CBS Sports Golazo Network",
+"Paramount+",
+"Amazon Prime Video",
+"ViX"
+],
+"UY": [
+"Disney+ Premium",
+"ESPN 2"
+]
+},
+"competition": {
+"ar": "دوري أبطال أوروبا",
+"de": "UEFA Champions League",
+"en": "UEFA Champions League",
+"es": "Liga de Campeones",
+"fr": "Ligue des Champions",
+"it": "UEFA Champions League",
+"pt": "Liga dos Campeões",
+"tr": "UEFA Şampiyonlar Ligi"
+},
+"competitionId": "champions",
+"home": "Lille",
+"homeNames": {
+"ar": "ليل",
+"de": "OSC Lille",
+"en": "LOSC Lille",
+"es": "Lille OSC",
+"fr": "Lille OSC",
+"it": "Lille",
+"pt": "Lille",
+"tr": "Lille"
+},
+"id": "football-20261021-lille-galatasaray",
+"kickoffUtc": "2026-10-21T16:45:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "lille-osc-galatasaray-2026-10-21"
+},
+"es:football-20261021-llaneros-deportivo-cali": {
+"lang": "es",
+"m": {
+"away": "Deportivo Cali",
+"awayNames": {
+"ar": "ديبورتيفو كالي",
+"de": "Deportivo Cali",
+"en": "Deportivo Cali",
+"es": "Deportivo Cali",
+"fr": "Deportivo Cali",
+"it": "Deportivo Cali",
+"pt": "Deportivo Cali",
+"tr": "Deportivo Cali"
+},
+"broadcasts": {
+"CL": [
+"RCN Nuestra Tele"
+],
+"CO": [
+"Win Fútbol+",
+"Win Play"
+],
+"EC": [
+"RCN Nuestra Tele"
+],
+"ES": [
+"RCN Nuestra Tele"
+],
+"MX": [
+"RCN Nuestra Tele"
+],
+"PE": [
+"RCN Nuestra Tele"
+],
+"PT": [
+"Fanatiz"
+],
+"UY": [
+"RCN Nuestra Tele"
+]
+},
+"competition": {
+"ar": "الدوري الكولومبي",
+"de": "Liga BetPlay DIMAYOR",
+"en": "Liga BetPlay DIMAYOR",
+"es": "Liga BetPlay DIMAYOR",
+"fr": "Liga BetPlay DIMAYOR",
+"it": "Liga BetPlay DIMAYOR",
+"pt": "Liga BetPlay DIMAYOR",
+"tr": "Kolombiya Liga BetPlay"
+},
+"competitionId": "liga_dimayor",
+"home": "Llaneros",
+"homeNames": {
+"ar": "Llaneros",
+"de": "Llaneros",
+"en": "Llaneros",
+"es": "Llaneros",
+"fr": "Llaneros",
+"it": "Llaneros",
+"pt": "Llaneros",
+"tr": "Llaneros"
+},
+"id": "football-20261021-llaneros-deportivo-cali",
+"kickoffUtc": "2026-10-21T23:15:00Z",
+"sources": [],
+"sport": "football",
+"tier": "regional"
+},
+"slug": "llaneros-deportivo-cali-2026-10-22"
+},
+"es:football-20261021-montevideo-city-torque-atletico-mg": {
+"lang": "es",
+"m": {
+"away": "Atletico-MG",
+"awayNames": {
+"ar": "أتلتيكو مينيرو",
+"de": "Atlético Mineiro",
+"en": "Atlético Mineiro",
+"es": "Atlético Mineiro",
+"fr": "Atlético Mineiro",
+"it": "Atlético Mineiro",
+"pt": "Atlético Mineiro",
+"tr": "Atlético Mineiro"
+},
+"broadcasts": {
+"AR": [
+"ESPN",
+"DSports",
+"Disney+"
+],
+"BR": [
+"ESPN",
+"Disney+"
+],
+"CL": [
+"DGO",
+"Amazon Prime Video",
+"Paramount+",
+"DAZN",
+"Disney+ Premium",
+"ESPN",
+"DSports"
+],
+"CO": [
+"DSports",
+"DGO",
+"Amazon Prime Video",
+"Paramount+",
+"DAZN",
+"Disney+ Premium",
+"Win Play",
+"ESPN"
+],
+"DE": [
+"Sportdigital+",
+"Sportdigital FUSSBALL",
+"OneFootball"
+],
+"EC": [
+"DSports",
+"DGO",
+"Paramount+",
+"DAZN",
+"Disney+ Premium",
+"ESPN"
+],
+"ES": [
+"M+ Vamos 2",
+"M+ #Vamos Bar 2",
+"M+ Liga de Campeones 2"
+],
+"MX": [
+"Disney+ Premium"
+],
+"PE": [
+"DSports",
+"DGO",
+"Paramount+",
+"DAZN",
+"Disney+ Premium",
+"ESPN"
+],
+"PT": [
+"Fanatiz",
+"Sport TV 1"
+],
+"PY": [
+"Disney+ Premium",
+"ESPN",
+"Tigo Sports"
+],
+"US": [
+"beIN Sports",
+"beIN Sports en Español",
+"Fubo",
+"Fanatiz"
+],
+"UY": [
+"DSports",
+"DGO",
+"Paramount+",
+"DAZN",
+"Disney+ Premium",
+"ESPN"
+]
+},
+"competition": {
+"ar": "كأس أمريكا الجنوبية",
+"de": "Copa Sudamericana",
+"en": "Copa Sudamericana",
+"es": "Copa Sudamericana",
+"fr": "Copa Sudamericana",
+"it": "Copa Sudamericana",
+"pt": "Copa Sul-Americana",
+"tr": "Copa Sudamericana"
+},
+"competitionId": "sudamericana",
+"home": "Montevideo City Torque",
+"homeNames": {
+"ar": "مونتيفيديو سيتي توركي",
+"de": "Montevideo City Torque",
+"en": "Montevideo City Torque",
+"es": "Montevideo City Torque",
+"fr": "Montevideo City Torque",
+"it": "Montevideo City Torque",
+"pt": "Montevideo City Torque",
+"tr": "Montevideo City Torque"
+},
+"id": "football-20261021-montevideo-city-torque-atletico-mg",
+"kickoffUtc": "2026-10-21T22:00:00Z",
+"sources": [],
+"sport": "football",
+"tier": "regional"
+},
+"slug": "montevideo-city-torque-atletico-mineiro-2026-10-22"
+},
+"es:football-20261021-real-madrid-rb-leipzig": {
+"lang": "es",
+"m": {
+"away": "RB Leipzig",
+"awayNames": {
+"ar": "آر بي لايبزيغ",
+"de": "RB Leipzig",
+"en": "RB Leipzig",
+"es": "RB Leipzig",
+"fr": "RB Leipzig",
+"it": "RB Lipsia",
+"pt": "RB Leipzig",
+"tr": "RB Leipzig"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports MENA 2",
+"TOD TV"
+],
+"AR": [
+"Disney+"
+],
+"BR": [
+"HBO Max"
+],
+"CA": [
+"Fubo",
+"DAZN"
+],
+"CL": [
+"Disney+ Premium",
+"ESPN 5",
+"ESPN Premium"
+],
+"CO": [
+"Disney+ Premium",
+"ESPN 2"
+],
+"DE": [
+"DAZN"
+],
+"DZ": [
+"beIN Sports MENA 2",
+"TOD TV"
+],
+"EC": [
+"Disney+ Premium",
+"ESPN 2"
+],
+"EG": [
+"beIN Sports MENA 2",
+"TOD TV"
+],
+"ES": [
+"Movistar Plus+",
+"Orange Fútbol 1",
+"M+ Liga de Campeones",
+"M+ Liga de Campeones 4",
+"LaLiga TV Bar"
+],
+"FR": [
+"CANAL+ Sport"
+],
+"GB": [
+"TNT Sports 4",
+"HBO Max"
+],
+"IQ": [
+"beIN Sports MENA 2",
+"TOD TV"
+],
+"IT": [
+"Sky Sport Arena"
+],
+"JO": [
+"beIN Sports MENA 2",
+"TOD TV"
+],
+"LY": [
+"beIN Sports MENA 2",
+"TOD TV"
+],
+"MA": [
+"beIN Sports MENA 2",
+"TOD TV"
+],
+"MX": [
+"FOX One",
+"FOX+"
+],
+"OM": [
+"beIN Sports MENA 2",
+"TOD TV"
+],
+"PE": [
+"Disney+ Premium",
+"ESPN"
+],
+"PT": [
+"DAZN 2"
+],
+"PY": [
+"Disney+ Premium",
+"ESPN"
+],
+"QA": [
+"beIN Sports MENA 2",
+"TOD TV"
+],
+"SA": [
+"beIN Sports MENA 2",
+"TOD TV"
+],
+"TN": [
+"beIN Sports MENA 2",
+"TOD TV"
+],
+"TR": [
+"tabii Spor 1",
+"CBC Sport"
+],
+"US": [
+"Paramount+",
+"DAZN"
+],
+"UY": [
+"Disney+ Premium",
+"ESPN"
+]
+},
+"competition": {
+"ar": "دوري أبطال أوروبا",
+"de": "UEFA Champions League",
+"en": "UEFA Champions League",
+"es": "Liga de Campeones",
+"fr": "Ligue des Champions",
+"it": "UEFA Champions League",
+"pt": "Liga dos Campeões",
+"tr": "UEFA Şampiyonlar Ligi"
+},
+"competitionId": "champions",
+"home": "Real Madrid",
+"homeNames": {
+"ar": "ريال مدريد",
+"de": "Real Madrid",
+"en": "Real Madrid",
+"es": "Real Madrid",
+"fr": "Real Madrid",
+"it": "Real Madrid",
+"pt": "Real Madrid",
+"tr": "Real Madrid"
+},
+"id": "football-20261021-real-madrid-rb-leipzig",
+"kickoffUtc": "2026-10-21T19:00:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "real-madrid-rb-leipzig-2026-10-21"
+},
+"es:football-20261021-sporting-cp-lask": {
+"lang": "es",
+"m": {
+"away": "LASK",
+"awayNames": {
+"ar": "لاسك لينز",
+"de": "LASK",
+"en": "LASK",
+"es": "LASK",
+"fr": "LASK",
+"it": "LASK",
+"pt": "LASK",
+"tr": "LASK"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports MENA 9"
+],
+"AR": [
+"Disney+"
+],
+"BR": [
+"HBO Max"
+],
+"CA": [
+"Fubo",
+"DAZN"
+],
+"CL": [
+"Disney+ Premium",
+"ESPN 6"
+],
+"CO": [
+"Disney+ Premium",
+"ESPN 6"
+],
+"DE": [
+"DAZN"
+],
+"DZ": [
+"beIN Sports MENA 9"
+],
+"EC": [
+"Disney+ Premium",
+"ESPN 6"
+],
+"EG": [
+"beIN Sports MENA 9"
+],
+"ES": [
+"M+ Liga de Campeones 4",
+"M+ Liga de Campeones 8"
+],
+"FR": [
+"CANAL+ Live 7"
+],
+"GB": [
+"TNT Sports 8",
+"HBO Max"
+],
+"IQ": [
+"beIN Sports MENA 9"
+],
+"IT": [
+"Sky Sport"
+],
+"JO": [
+"beIN Sports MENA 9"
+],
+"LY": [
+"beIN Sports MENA 9"
+],
+"MA": [
+"beIN Sports MENA 9"
+],
+"MX": [
+"HBO Max",
+"Space"
+],
+"OM": [
+"beIN Sports MENA 9"
+],
+"PE": [
+"Disney+ Premium",
+"ESPN 6"
+],
+"PT": [
+"Sport TV 5",
+"Sporting TV"
+],
+"PY": [
+"Disney+ Premium",
+"ESPN 6"
+],
+"QA": [
+"beIN Sports MENA 9"
+],
+"SA": [
+"beIN Sports MENA 9"
+],
+"TN": [
+"beIN Sports MENA 9"
+],
+"TR": [
+"tabii Spor 5"
+],
+"US": [
+"Paramount+",
+"ViX"
+],
+"UY": [
+"Disney+ Premium",
+"ESPN 6"
+]
+},
+"competition": {
+"ar": "دوري أبطال أوروبا",
+"de": "UEFA Champions League",
+"en": "UEFA Champions League",
+"es": "Liga de Campeones",
+"fr": "Ligue des Champions",
+"it": "UEFA Champions League",
+"pt": "Liga dos Campeões",
+"tr": "UEFA Şampiyonlar Ligi"
+},
+"competitionId": "champions",
+"home": "Sporting CP",
+"homeNames": {
+"ar": "سبورتينغ لشبونة",
+"de": "Sporting Lissabon",
+"en": "Sporting CP",
+"es": "Sporting de Portugal",
+"fr": "Sporting CP",
+"it": "Sporting Lisbona",
+"pt": "Sporting",
+"tr": "Sporting Lizbon"
+},
+"id": "football-20261021-sporting-cp-lask",
+"kickoffUtc": "2026-10-21T19:00:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "sporting-de-portugal-lask-2026-10-21"
 },
 "es:football-20261021-vasco-da-gama-boca-juniors": {
 "lang": "es",
@@ -3328,6 +7876,183 @@
 "tier": "regional"
 },
 "slug": "vasco-da-gama-boca-juniors-2026-10-21"
+},
+"es:football-20261022-palmeiras-fluminense": {
+"lang": "es",
+"m": {
+"away": "Fluminense",
+"awayNames": {
+"ar": "فلومينينسي",
+"de": "Fluminense",
+"en": "Fluminense",
+"es": "Fluminense",
+"fr": "Fluminense",
+"it": "Fluminense",
+"pt": "Fluminense",
+"tr": "Fluminense"
+},
+"broadcasts": {
+"AR": [
+"ESPN",
+"Fox Sports",
+"Disney+"
+],
+"BR": [
+"Globo",
+"GE TV",
+"Paramount+"
+],
+"CL": [
+"Disney+ Premium",
+"ESPN 5",
+"ESPN Premium"
+],
+"CO": [
+"Disney+ Premium",
+"ESPN"
+],
+"DE": [
+"DAZN",
+"Sportdigital FUSSBALL",
+"OneFootball",
+"Sportdigital+",
+"Sportdigital1+"
+],
+"EC": [
+"Disney+ Premium",
+"ESPN"
+],
+"ES": [
+"M+ #Vamos Bar",
+"M+ Liga de Campeones"
+],
+"MX": [
+"Disney+ Premium",
+"ESPN 3"
+],
+"PE": [
+"Disney+ Premium",
+"ESPN"
+],
+"PT": [
+"Fanatiz",
+"Sport TV 1"
+],
+"PY": [
+"Disney+ Premium",
+"ESPN"
+],
+"US": [
+"beIN Sports",
+"beIN Sports en Español",
+"Fubo",
+"Fanatiz"
+],
+"UY": [
+"Disney+ Premium",
+"ESPN"
+]
+},
+"competition": {
+"ar": "كأس ليبرتادوريس",
+"de": "Copa Libertadores",
+"en": "Copa Libertadores",
+"es": "Copa Libertadores",
+"fr": "Copa Libertadores",
+"it": "Copa Libertadores",
+"pt": "Copa Libertadores",
+"tr": "Copa Libertadores"
+},
+"competitionId": "libertadores",
+"home": "Palmeiras",
+"homeNames": {
+"ar": "بالميراس",
+"de": "Palmeiras",
+"en": "Palmeiras",
+"es": "Palmeiras",
+"fr": "Palmeiras",
+"it": "Palmeiras",
+"pt": "Palmeiras",
+"tr": "Palmeiras"
+},
+"id": "football-20261022-palmeiras-fluminense",
+"kickoffUtc": "2026-10-22T00:30:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "palmeiras-fluminense-2026-10-22"
+},
+"es:football-20261022-santa-fe-jaguares-de-cordoba": {
+"lang": "es",
+"m": {
+"away": "Jaguares de Cordoba",
+"awayNames": {
+"ar": "خاغواريس دي كوردوبا",
+"de": "Jaguares de Córdoba",
+"en": "Jaguares de Córdoba",
+"es": "Jaguares de Córdoba",
+"fr": "Jaguares de Córdoba",
+"it": "Jaguares de Córdoba",
+"pt": "Jaguares de Córdoba",
+"tr": "Jaguares de Córdoba"
+},
+"broadcasts": {
+"CL": [
+"RCN Nuestra Tele"
+],
+"CO": [
+"Win Fútbol+",
+"Win Play"
+],
+"EC": [
+"RCN Nuestra Tele"
+],
+"ES": [
+"RCN Nuestra Tele"
+],
+"MX": [
+"RCN Nuestra Tele"
+],
+"PE": [
+"RCN Nuestra Tele"
+],
+"PT": [
+"Fanatiz"
+],
+"UY": [
+"RCN Nuestra Tele"
+]
+},
+"competition": {
+"ar": "الدوري الكولومبي",
+"de": "Liga BetPlay DIMAYOR",
+"en": "Liga BetPlay DIMAYOR",
+"es": "Liga BetPlay DIMAYOR",
+"fr": "Liga BetPlay DIMAYOR",
+"it": "Liga BetPlay DIMAYOR",
+"pt": "Liga BetPlay DIMAYOR",
+"tr": "Kolombiya Liga BetPlay"
+},
+"competitionId": "liga_dimayor",
+"home": "Santa Fe",
+"homeNames": {
+"ar": "سانتا في",
+"de": "Santa Fe",
+"en": "Santa Fe",
+"es": "Santa Fe",
+"fr": "Santa Fe",
+"it": "Santa Fe",
+"pt": "Santa Fe",
+"tr": "Santa Fe"
+},
+"id": "football-20261022-santa-fe-jaguares-de-cordoba",
+"kickoffUtc": "2026-10-22T01:20:00Z",
+"sources": [],
+"sport": "football",
+"tier": "regional"
+},
+"slug": "santa-fe-jaguares-de-cordoba-2026-10-22"
 },
 "fr:basketball-20261020-detroit-pistons-boston-celtics": {
 "lang": "fr",
@@ -3837,6 +8562,1022 @@
 },
 "slug": "new-york-knicks-philadelphia-76ers-2026-10-21"
 },
+"fr:basketball-20261021-heat-timberwolves": {
+"lang": "fr",
+"m": {
+"away": "Timberwolves",
+"awayNames": {
+"ar": "مينيسوتا تمبروولفز",
+"de": "Minnesota Timberwolves",
+"en": "Minnesota Timberwolves",
+"es": "Minnesota Timberwolves",
+"fr": "Minnesota Timberwolves",
+"it": "Minnesota Timberwolves",
+"pt": "Minnesota Timberwolves",
+"tr": "Minnesota Timberwolves"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"AR": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"AT": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"AU": [
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+],
+"BE": [
+"DAZN",
+"Prime Video",
+"NBA League Pass"
+],
+"BR": [
+"ESPN",
+"Disney+",
+"Prime Video",
+"NBA League Pass"
+],
+"CA": [
+"TSN",
+"Sportsnet",
+"Prime Video",
+"NBA League Pass"
+],
+"CH": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"CL": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"CO": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"CZ": [
+"Nova Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"DE": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"DZ": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"EC": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"EG": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"ES": [
+"DAZN",
+"Prime Video",
+"NBA League Pass"
+],
+"FR": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"GB": [
+"Sky Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"GH": [
+"ESPN",
+"Sporty TV",
+"NBA League Pass"
+],
+"HR": [
+"Sport Klub",
+"Prime Video",
+"NBA League Pass"
+],
+"IT": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"JP": [
+"Lemino",
+"Prime Video",
+"WOWOW"
+],
+"KR": [
+"Coupang Play",
+"Prime Video",
+"NBA League Pass"
+],
+"MA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"MX": [
+"ESPN",
+"Disney+",
+"Prime Video",
+"NBA League Pass"
+],
+"NG": [
+"ESPN",
+"Sporty TV",
+"NBA League Pass"
+],
+"NL": [
+"ESPN",
+"NBA League Pass"
+],
+"NO": [
+"HBO Max",
+"NBA League Pass"
+],
+"NZ": [
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+],
+"PE": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"PT": [
+"Sport TV",
+"Prime Video",
+"NBA League Pass"
+],
+"PY": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"QA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"SA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"SN": [
+"Canal+ Sport",
+"NBA League Pass"
+],
+"TN": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"TR": [
+"S Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"US": [
+"ESPN"
+],
+"UY": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"ZA": [
+"SuperSport",
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+]
+},
+"competition": {
+"ar": "دوري NBA",
+"de": "NBA",
+"en": "NBA",
+"es": "NBA",
+"fr": "NBA",
+"it": "NBA",
+"pt": "NBA",
+"tr": "NBA"
+},
+"competitionId": "nba",
+"home": "Heat",
+"homeNames": {
+"ar": "ميامي هيت",
+"de": "Miami Heat",
+"en": "Miami Heat",
+"es": "Miami Heat",
+"fr": "Miami Heat",
+"it": "Miami Heat",
+"pt": "Miami Heat",
+"tr": "Miami Heat"
+},
+"id": "basketball-20261021-heat-timberwolves",
+"kickoffUtc": "2026-10-21T23:30:00Z",
+"sources": [
+"espn"
+],
+"sport": "basketball",
+"tier": "global"
+},
+"slug": "miami-heat-minnesota-timberwolves-2026-10-22"
+},
+"fr:basketball-20261021-magic-hawks": {
+"lang": "fr",
+"m": {
+"away": "Hawks",
+"awayNames": {
+"ar": "أتلانتا هوكس",
+"de": "Atlanta Hawks",
+"en": "Atlanta Hawks",
+"es": "Atlanta Hawks",
+"fr": "Atlanta Hawks",
+"it": "Atlanta Hawks",
+"pt": "Atlanta Hawks",
+"tr": "Atlanta Hawks"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"AR": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"AT": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"AU": [
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+],
+"BE": [
+"DAZN",
+"Prime Video",
+"NBA League Pass"
+],
+"BR": [
+"ESPN",
+"Disney+",
+"Prime Video",
+"NBA League Pass"
+],
+"CA": [
+"TSN",
+"Sportsnet",
+"Prime Video",
+"NBA League Pass"
+],
+"CH": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"CL": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"CO": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"CZ": [
+"Nova Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"DE": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"DZ": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"EC": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"EG": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"ES": [
+"DAZN",
+"Prime Video",
+"NBA League Pass"
+],
+"FR": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"GB": [
+"Sky Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"GH": [
+"ESPN",
+"Sporty TV",
+"NBA League Pass"
+],
+"HR": [
+"Sport Klub",
+"Prime Video",
+"NBA League Pass"
+],
+"IT": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"JP": [
+"Lemino",
+"Prime Video",
+"WOWOW"
+],
+"KR": [
+"Coupang Play",
+"Prime Video",
+"NBA League Pass"
+],
+"MA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"MX": [
+"ESPN",
+"Disney+",
+"Prime Video",
+"NBA League Pass"
+],
+"NG": [
+"ESPN",
+"Sporty TV",
+"NBA League Pass"
+],
+"NL": [
+"ESPN",
+"NBA League Pass"
+],
+"NO": [
+"HBO Max",
+"NBA League Pass"
+],
+"NZ": [
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+],
+"PE": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"PT": [
+"Sport TV",
+"Prime Video",
+"NBA League Pass"
+],
+"PY": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"QA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"SA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"SN": [
+"Canal+ Sport",
+"NBA League Pass"
+],
+"TN": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"TR": [
+"S Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"US": [
+"NBA League Pass"
+],
+"UY": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"ZA": [
+"SuperSport",
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+]
+},
+"competition": {
+"ar": "دوري NBA",
+"de": "NBA",
+"en": "NBA",
+"es": "NBA",
+"fr": "NBA",
+"it": "NBA",
+"pt": "NBA",
+"tr": "NBA"
+},
+"competitionId": "nba",
+"home": "Magic",
+"homeNames": {
+"ar": "أورلاندو ماجيك",
+"de": "Orlando Magic",
+"en": "Orlando Magic",
+"es": "Orlando Magic",
+"fr": "Orlando Magic",
+"it": "Orlando Magic",
+"pt": "Orlando Magic",
+"tr": "Orlando Magic"
+},
+"id": "basketball-20261021-magic-hawks",
+"kickoffUtc": "2026-10-21T23:00:00Z",
+"sources": [
+"espn"
+],
+"sport": "basketball",
+"tier": "global"
+},
+"slug": "orlando-magic-atlanta-hawks-2026-10-22"
+},
+"fr:basketball-20261021-nets-hornets": {
+"lang": "fr",
+"m": {
+"away": "Hornets",
+"awayNames": {
+"ar": "شارلوت هورنتس",
+"de": "Charlotte Hornets",
+"en": "Charlotte Hornets",
+"es": "Charlotte Hornets",
+"fr": "Charlotte Hornets",
+"it": "Charlotte Hornets",
+"pt": "Charlotte Hornets",
+"tr": "Charlotte Hornets"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"AR": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"AT": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"AU": [
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+],
+"BE": [
+"DAZN",
+"Prime Video",
+"NBA League Pass"
+],
+"BR": [
+"ESPN",
+"Disney+",
+"Prime Video",
+"NBA League Pass"
+],
+"CA": [
+"TSN",
+"Sportsnet",
+"Prime Video",
+"NBA League Pass"
+],
+"CH": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"CL": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"CO": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"CZ": [
+"Nova Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"DE": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"DZ": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"EC": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"EG": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"ES": [
+"DAZN",
+"Prime Video",
+"NBA League Pass"
+],
+"FR": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"GB": [
+"Sky Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"GH": [
+"ESPN",
+"Sporty TV",
+"NBA League Pass"
+],
+"HR": [
+"Sport Klub",
+"Prime Video",
+"NBA League Pass"
+],
+"IT": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"JP": [
+"Lemino",
+"Prime Video",
+"WOWOW"
+],
+"KR": [
+"Coupang Play",
+"Prime Video",
+"NBA League Pass"
+],
+"MA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"MX": [
+"ESPN",
+"Disney+",
+"Prime Video",
+"NBA League Pass"
+],
+"NG": [
+"ESPN",
+"Sporty TV",
+"NBA League Pass"
+],
+"NL": [
+"ESPN",
+"NBA League Pass"
+],
+"NO": [
+"HBO Max",
+"NBA League Pass"
+],
+"NZ": [
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+],
+"PE": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"PT": [
+"Sport TV",
+"Prime Video",
+"NBA League Pass"
+],
+"PY": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"QA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"SA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"SN": [
+"Canal+ Sport",
+"NBA League Pass"
+],
+"TN": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"TR": [
+"S Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"US": [
+"NBA League Pass"
+],
+"UY": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"ZA": [
+"SuperSport",
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+]
+},
+"competition": {
+"ar": "دوري NBA",
+"de": "NBA",
+"en": "NBA",
+"es": "NBA",
+"fr": "NBA",
+"it": "NBA",
+"pt": "NBA",
+"tr": "NBA"
+},
+"competitionId": "nba",
+"home": "Nets",
+"homeNames": {
+"ar": "بروكلين نتس",
+"de": "Brooklyn Nets",
+"en": "Brooklyn Nets",
+"es": "Brooklyn Nets",
+"fr": "Brooklyn Nets",
+"it": "Brooklyn Nets",
+"pt": "Brooklyn Nets",
+"tr": "Brooklyn Nets"
+},
+"id": "basketball-20261021-nets-hornets",
+"kickoffUtc": "2026-10-21T23:30:00Z",
+"sources": [
+"espn"
+],
+"sport": "basketball",
+"tier": "global"
+},
+"slug": "brooklyn-nets-charlotte-hornets-2026-10-22"
+},
+"fr:basketball-20261021-raptors-bulls": {
+"lang": "fr",
+"m": {
+"away": "Bulls",
+"awayNames": {
+"ar": "شيكاغو بولز",
+"de": "Chicago Bulls",
+"en": "Chicago Bulls",
+"es": "Chicago Bulls",
+"fr": "Chicago Bulls",
+"it": "Chicago Bulls",
+"pt": "Chicago Bulls",
+"tr": "Chicago Bulls"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"AR": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"AT": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"AU": [
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+],
+"BE": [
+"DAZN",
+"Prime Video",
+"NBA League Pass"
+],
+"BR": [
+"ESPN",
+"Disney+",
+"Prime Video",
+"NBA League Pass"
+],
+"CA": [
+"TSN",
+"Sportsnet",
+"Prime Video",
+"NBA League Pass"
+],
+"CH": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"CL": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"CO": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"CZ": [
+"Nova Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"DE": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"DZ": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"EC": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"EG": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"ES": [
+"DAZN",
+"Prime Video",
+"NBA League Pass"
+],
+"FR": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"GB": [
+"Sky Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"GH": [
+"ESPN",
+"Sporty TV",
+"NBA League Pass"
+],
+"HR": [
+"Sport Klub",
+"Prime Video",
+"NBA League Pass"
+],
+"IT": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"JP": [
+"Lemino",
+"Prime Video",
+"WOWOW"
+],
+"KR": [
+"Coupang Play",
+"Prime Video",
+"NBA League Pass"
+],
+"MA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"MX": [
+"ESPN",
+"Disney+",
+"Prime Video",
+"NBA League Pass"
+],
+"NG": [
+"ESPN",
+"Sporty TV",
+"NBA League Pass"
+],
+"NL": [
+"ESPN",
+"NBA League Pass"
+],
+"NO": [
+"HBO Max",
+"NBA League Pass"
+],
+"NZ": [
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+],
+"PE": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"PT": [
+"Sport TV",
+"Prime Video",
+"NBA League Pass"
+],
+"PY": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"QA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"SA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"SN": [
+"Canal+ Sport",
+"NBA League Pass"
+],
+"TN": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"TR": [
+"S Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"US": [
+"NBA League Pass"
+],
+"UY": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"ZA": [
+"SuperSport",
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+]
+},
+"competition": {
+"ar": "دوري NBA",
+"de": "NBA",
+"en": "NBA",
+"es": "NBA",
+"fr": "NBA",
+"it": "NBA",
+"pt": "NBA",
+"tr": "NBA"
+},
+"competitionId": "nba",
+"home": "Raptors",
+"homeNames": {
+"ar": "تورونتو رابتورز",
+"de": "Toronto Raptors",
+"en": "Toronto Raptors",
+"es": "Toronto Raptors",
+"fr": "Toronto Raptors",
+"it": "Toronto Raptors",
+"pt": "Toronto Raptors",
+"tr": "Toronto Raptors"
+},
+"id": "basketball-20261021-raptors-bulls",
+"kickoffUtc": "2026-10-21T23:30:00Z",
+"sources": [
+"espn"
+],
+"sport": "basketball",
+"tier": "global"
+},
+"slug": "toronto-raptors-chicago-bulls-2026-10-22"
+},
 "fr:basketball-20261021-spurs-thunder": {
 "lang": "fr",
 "m": {
@@ -4090,6 +9831,1785 @@
 "tier": "global"
 },
 "slug": "san-antonio-spurs-oklahoma-city-thunder-2026-10-21"
+},
+"fr:basketball-20261021-wizards-bucks": {
+"lang": "fr",
+"m": {
+"away": "Bucks",
+"awayNames": {
+"ar": "ميلووكي باكس",
+"de": "Milwaukee Bucks",
+"en": "Milwaukee Bucks",
+"es": "Milwaukee Bucks",
+"fr": "Milwaukee Bucks",
+"it": "Milwaukee Bucks",
+"pt": "Milwaukee Bucks",
+"tr": "Milwaukee Bucks"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"AR": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"AT": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"AU": [
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+],
+"BE": [
+"DAZN",
+"Prime Video",
+"NBA League Pass"
+],
+"BR": [
+"ESPN",
+"Disney+",
+"Prime Video",
+"NBA League Pass"
+],
+"CA": [
+"TSN",
+"Sportsnet",
+"Prime Video",
+"NBA League Pass"
+],
+"CH": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"CL": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"CO": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"CZ": [
+"Nova Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"DE": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"DZ": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"EC": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"EG": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"ES": [
+"DAZN",
+"Prime Video",
+"NBA League Pass"
+],
+"FR": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"GB": [
+"Sky Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"GH": [
+"ESPN",
+"Sporty TV",
+"NBA League Pass"
+],
+"HR": [
+"Sport Klub",
+"Prime Video",
+"NBA League Pass"
+],
+"IT": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"JP": [
+"Lemino",
+"Prime Video",
+"WOWOW"
+],
+"KR": [
+"Coupang Play",
+"Prime Video",
+"NBA League Pass"
+],
+"MA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"MX": [
+"ESPN",
+"Disney+",
+"Prime Video",
+"NBA League Pass"
+],
+"NG": [
+"ESPN",
+"Sporty TV",
+"NBA League Pass"
+],
+"NL": [
+"ESPN",
+"NBA League Pass"
+],
+"NO": [
+"HBO Max",
+"NBA League Pass"
+],
+"NZ": [
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+],
+"PE": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"PT": [
+"Sport TV",
+"Prime Video",
+"NBA League Pass"
+],
+"PY": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"QA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"SA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"SN": [
+"Canal+ Sport",
+"NBA League Pass"
+],
+"TN": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"TR": [
+"S Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"US": [
+"MNMT",
+"NBA League Pass"
+],
+"UY": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"ZA": [
+"SuperSport",
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+]
+},
+"competition": {
+"ar": "دوري NBA",
+"de": "NBA",
+"en": "NBA",
+"es": "NBA",
+"fr": "NBA",
+"it": "NBA",
+"pt": "NBA",
+"tr": "NBA"
+},
+"competitionId": "nba",
+"home": "Wizards",
+"homeNames": {
+"ar": "واشنطن ويزاردز",
+"de": "Washington Wizards",
+"en": "Washington Wizards",
+"es": "Washington Wizards",
+"fr": "Washington Wizards",
+"it": "Washington Wizards",
+"pt": "Washington Wizards",
+"tr": "Washington Wizards"
+},
+"id": "basketball-20261021-wizards-bucks",
+"kickoffUtc": "2026-10-21T23:00:00Z",
+"sources": [
+"espn"
+],
+"sport": "basketball",
+"tier": "global"
+},
+"slug": "washington-wizards-milwaukee-bucks-2026-10-22"
+},
+"fr:basketball-20261022-clippers-kings": {
+"lang": "fr",
+"m": {
+"away": "Kings",
+"awayNames": {
+"ar": "ساكرامنتو كينغز",
+"de": "Sacramento Kings",
+"en": "Sacramento Kings",
+"es": "Sacramento Kings",
+"fr": "Sacramento Kings",
+"it": "Sacramento Kings",
+"pt": "Sacramento Kings",
+"tr": "Sacramento Kings"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"AR": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"AT": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"AU": [
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+],
+"BE": [
+"DAZN",
+"Prime Video",
+"NBA League Pass"
+],
+"BR": [
+"ESPN",
+"Disney+",
+"Prime Video",
+"NBA League Pass"
+],
+"CA": [
+"TSN",
+"Sportsnet",
+"Prime Video",
+"NBA League Pass"
+],
+"CH": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"CL": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"CO": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"CZ": [
+"Nova Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"DE": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"DZ": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"EC": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"EG": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"ES": [
+"DAZN",
+"Prime Video",
+"NBA League Pass"
+],
+"FR": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"GB": [
+"Sky Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"GH": [
+"ESPN",
+"Sporty TV",
+"NBA League Pass"
+],
+"HR": [
+"Sport Klub",
+"Prime Video",
+"NBA League Pass"
+],
+"IT": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"JP": [
+"Lemino",
+"Prime Video",
+"WOWOW"
+],
+"KR": [
+"Coupang Play",
+"Prime Video",
+"NBA League Pass"
+],
+"MA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"MX": [
+"ESPN",
+"Disney+",
+"Prime Video",
+"NBA League Pass"
+],
+"NG": [
+"ESPN",
+"Sporty TV",
+"NBA League Pass"
+],
+"NL": [
+"ESPN",
+"NBA League Pass"
+],
+"NO": [
+"HBO Max",
+"NBA League Pass"
+],
+"NZ": [
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+],
+"PE": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"PT": [
+"Sport TV",
+"Prime Video",
+"NBA League Pass"
+],
+"PY": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"QA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"SA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"SN": [
+"Canal+ Sport",
+"NBA League Pass"
+],
+"TN": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"TR": [
+"S Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"US": [
+"NBA League Pass"
+],
+"UY": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"ZA": [
+"SuperSport",
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+]
+},
+"competition": {
+"ar": "دوري NBA",
+"de": "NBA",
+"en": "NBA",
+"es": "NBA",
+"fr": "NBA",
+"it": "NBA",
+"pt": "NBA",
+"tr": "NBA"
+},
+"competitionId": "nba",
+"home": "Clippers",
+"homeNames": {
+"ar": "لوس أنجلوس كليبرز",
+"de": "LA Clippers",
+"en": "LA Clippers",
+"es": "LA Clippers",
+"fr": "LA Clippers",
+"it": "LA Clippers",
+"pt": "LA Clippers",
+"tr": "LA Clippers"
+},
+"id": "basketball-20261022-clippers-kings",
+"kickoffUtc": "2026-10-22T02:30:00Z",
+"sources": [
+"espn"
+],
+"sport": "basketball",
+"tier": "global"
+},
+"slug": "la-clippers-sacramento-kings-2026-10-22"
+},
+"fr:basketball-20261022-grizzlies-jazz": {
+"lang": "fr",
+"m": {
+"away": "Jazz",
+"awayNames": {
+"ar": "يوتا جاز",
+"de": "Utah Jazz",
+"en": "Utah Jazz",
+"es": "Utah Jazz",
+"fr": "Utah Jazz",
+"it": "Utah Jazz",
+"pt": "Utah Jazz",
+"tr": "Utah Jazz"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"AR": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"AT": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"AU": [
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+],
+"BE": [
+"DAZN",
+"Prime Video",
+"NBA League Pass"
+],
+"BR": [
+"ESPN",
+"Disney+",
+"Prime Video",
+"NBA League Pass"
+],
+"CA": [
+"TSN",
+"Sportsnet",
+"Prime Video",
+"NBA League Pass"
+],
+"CH": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"CL": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"CO": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"CZ": [
+"Nova Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"DE": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"DZ": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"EC": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"EG": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"ES": [
+"DAZN",
+"Prime Video",
+"NBA League Pass"
+],
+"FR": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"GB": [
+"Sky Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"GH": [
+"ESPN",
+"Sporty TV",
+"NBA League Pass"
+],
+"HR": [
+"Sport Klub",
+"Prime Video",
+"NBA League Pass"
+],
+"IT": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"JP": [
+"Lemino",
+"Prime Video",
+"WOWOW"
+],
+"KR": [
+"Coupang Play",
+"Prime Video",
+"NBA League Pass"
+],
+"MA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"MX": [
+"ESPN",
+"Disney+",
+"Prime Video",
+"NBA League Pass"
+],
+"NG": [
+"ESPN",
+"Sporty TV",
+"NBA League Pass"
+],
+"NL": [
+"ESPN",
+"NBA League Pass"
+],
+"NO": [
+"HBO Max",
+"NBA League Pass"
+],
+"NZ": [
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+],
+"PE": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"PT": [
+"Sport TV",
+"Prime Video",
+"NBA League Pass"
+],
+"PY": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"QA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"SA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"SN": [
+"Canal+ Sport",
+"NBA League Pass"
+],
+"TN": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"TR": [
+"S Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"US": [
+"NBA League Pass"
+],
+"UY": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"ZA": [
+"SuperSport",
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+]
+},
+"competition": {
+"ar": "دوري NBA",
+"de": "NBA",
+"en": "NBA",
+"es": "NBA",
+"fr": "NBA",
+"it": "NBA",
+"pt": "NBA",
+"tr": "NBA"
+},
+"competitionId": "nba",
+"home": "Grizzlies",
+"homeNames": {
+"ar": "ممفيس غريزليز",
+"de": "Memphis Grizzlies",
+"en": "Memphis Grizzlies",
+"es": "Memphis Grizzlies",
+"fr": "Memphis Grizzlies",
+"it": "Memphis Grizzlies",
+"pt": "Memphis Grizzlies",
+"tr": "Memphis Grizzlies"
+},
+"id": "basketball-20261022-grizzlies-jazz",
+"kickoffUtc": "2026-10-22T00:00:00Z",
+"sources": [
+"espn"
+],
+"sport": "basketball",
+"tier": "global"
+},
+"slug": "memphis-grizzlies-utah-jazz-2026-10-22"
+},
+"fr:basketball-20261022-lakers-warriors": {
+"lang": "fr",
+"m": {
+"away": "Warriors",
+"awayNames": {
+"ar": "غولدن ستايت ووريورز",
+"de": "Golden State Warriors",
+"en": "Golden State Warriors",
+"es": "Golden State Warriors",
+"fr": "Golden State Warriors",
+"it": "Golden State Warriors",
+"pt": "Golden State Warriors",
+"tr": "Golden State Warriors"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"AR": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"AT": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"AU": [
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+],
+"BE": [
+"DAZN",
+"Prime Video",
+"NBA League Pass"
+],
+"BR": [
+"ESPN",
+"Disney+",
+"Prime Video",
+"NBA League Pass"
+],
+"CA": [
+"TSN",
+"Sportsnet",
+"Prime Video",
+"NBA League Pass"
+],
+"CH": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"CL": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"CO": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"CZ": [
+"Nova Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"DE": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"DZ": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"EC": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"EG": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"ES": [
+"DAZN",
+"Prime Video",
+"NBA League Pass"
+],
+"FR": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"GB": [
+"Sky Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"GH": [
+"ESPN",
+"Sporty TV",
+"NBA League Pass"
+],
+"HR": [
+"Sport Klub",
+"Prime Video",
+"NBA League Pass"
+],
+"IT": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"JP": [
+"Lemino",
+"Prime Video",
+"WOWOW"
+],
+"KR": [
+"Coupang Play",
+"Prime Video",
+"NBA League Pass"
+],
+"MA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"MX": [
+"ESPN",
+"Disney+",
+"Prime Video",
+"NBA League Pass"
+],
+"NG": [
+"ESPN",
+"Sporty TV",
+"NBA League Pass"
+],
+"NL": [
+"ESPN",
+"NBA League Pass"
+],
+"NO": [
+"HBO Max",
+"NBA League Pass"
+],
+"NZ": [
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+],
+"PE": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"PT": [
+"Sport TV",
+"Prime Video",
+"NBA League Pass"
+],
+"PY": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"QA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"SA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"SN": [
+"Canal+ Sport",
+"NBA League Pass"
+],
+"TN": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"TR": [
+"S Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"US": [
+"ESPN"
+],
+"UY": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"ZA": [
+"SuperSport",
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+]
+},
+"competition": {
+"ar": "دوري NBA",
+"de": "NBA",
+"en": "NBA",
+"es": "NBA",
+"fr": "NBA",
+"it": "NBA",
+"pt": "NBA",
+"tr": "NBA"
+},
+"competitionId": "nba",
+"home": "Lakers",
+"homeNames": {
+"ar": "لوس أنجلوس ليكرز",
+"de": "Los Angeles Lakers",
+"en": "Los Angeles Lakers",
+"es": "Los Angeles Lakers",
+"fr": "Los Angeles Lakers",
+"it": "Los Angeles Lakers",
+"pt": "Los Angeles Lakers",
+"tr": "Los Angeles Lakers"
+},
+"id": "basketball-20261022-lakers-warriors",
+"kickoffUtc": "2026-10-22T02:00:00Z",
+"sources": [
+"espn"
+],
+"sport": "basketball",
+"tier": "global"
+},
+"slug": "los-angeles-lakers-golden-state-warriors-2026-10-22"
+},
+"fr:basketball-20261022-pelicans-pacers": {
+"lang": "fr",
+"m": {
+"away": "Pacers",
+"awayNames": {
+"ar": "إنديانا بيسرز",
+"de": "Indiana Pacers",
+"en": "Indiana Pacers",
+"es": "Indiana Pacers",
+"fr": "Indiana Pacers",
+"it": "Indiana Pacers",
+"pt": "Indiana Pacers",
+"tr": "Indiana Pacers"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"AR": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"AT": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"AU": [
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+],
+"BE": [
+"DAZN",
+"Prime Video",
+"NBA League Pass"
+],
+"BR": [
+"ESPN",
+"Disney+",
+"Prime Video",
+"NBA League Pass"
+],
+"CA": [
+"TSN",
+"Sportsnet",
+"Prime Video",
+"NBA League Pass"
+],
+"CH": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"CL": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"CO": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"CZ": [
+"Nova Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"DE": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"DZ": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"EC": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"EG": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"ES": [
+"DAZN",
+"Prime Video",
+"NBA League Pass"
+],
+"FR": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"GB": [
+"Sky Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"GH": [
+"ESPN",
+"Sporty TV",
+"NBA League Pass"
+],
+"HR": [
+"Sport Klub",
+"Prime Video",
+"NBA League Pass"
+],
+"IT": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"JP": [
+"Lemino",
+"Prime Video",
+"WOWOW"
+],
+"KR": [
+"Coupang Play",
+"Prime Video",
+"NBA League Pass"
+],
+"MA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"MX": [
+"ESPN",
+"Disney+",
+"Prime Video",
+"NBA League Pass"
+],
+"NG": [
+"ESPN",
+"Sporty TV",
+"NBA League Pass"
+],
+"NL": [
+"ESPN",
+"NBA League Pass"
+],
+"NO": [
+"HBO Max",
+"NBA League Pass"
+],
+"NZ": [
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+],
+"PE": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"PT": [
+"Sport TV",
+"Prime Video",
+"NBA League Pass"
+],
+"PY": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"QA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"SA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"SN": [
+"Canal+ Sport",
+"NBA League Pass"
+],
+"TN": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"TR": [
+"S Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"US": [
+"NBA League Pass"
+],
+"UY": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"ZA": [
+"SuperSport",
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+]
+},
+"competition": {
+"ar": "دوري NBA",
+"de": "NBA",
+"en": "NBA",
+"es": "NBA",
+"fr": "NBA",
+"it": "NBA",
+"pt": "NBA",
+"tr": "NBA"
+},
+"competitionId": "nba",
+"home": "Pelicans",
+"homeNames": {
+"ar": "نيو أورلينز بيليكانز",
+"de": "New Orleans Pelicans",
+"en": "New Orleans Pelicans",
+"es": "New Orleans Pelicans",
+"fr": "New Orleans Pelicans",
+"it": "New Orleans Pelicans",
+"pt": "New Orleans Pelicans",
+"tr": "New Orleans Pelicans"
+},
+"id": "basketball-20261022-pelicans-pacers",
+"kickoffUtc": "2026-10-22T00:00:00Z",
+"sources": [
+"espn"
+],
+"sport": "basketball",
+"tier": "global"
+},
+"slug": "new-orleans-pelicans-indiana-pacers-2026-10-22"
+},
+"fr:basketball-20261022-rockets-mavericks": {
+"lang": "fr",
+"m": {
+"away": "Mavericks",
+"awayNames": {
+"ar": "دالاس مافريكس",
+"de": "Dallas Mavericks",
+"en": "Dallas Mavericks",
+"es": "Dallas Mavericks",
+"fr": "Dallas Mavericks",
+"it": "Dallas Mavericks",
+"pt": "Dallas Mavericks",
+"tr": "Dallas Mavericks"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"AR": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"AT": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"AU": [
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+],
+"BE": [
+"DAZN",
+"Prime Video",
+"NBA League Pass"
+],
+"BR": [
+"ESPN",
+"Disney+",
+"Prime Video",
+"NBA League Pass"
+],
+"CA": [
+"TSN",
+"Sportsnet",
+"Prime Video",
+"NBA League Pass"
+],
+"CH": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"CL": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"CO": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"CZ": [
+"Nova Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"DE": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"DZ": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"EC": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"EG": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"ES": [
+"DAZN",
+"Prime Video",
+"NBA League Pass"
+],
+"FR": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"GB": [
+"Sky Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"GH": [
+"ESPN",
+"Sporty TV",
+"NBA League Pass"
+],
+"HR": [
+"Sport Klub",
+"Prime Video",
+"NBA League Pass"
+],
+"IT": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"JP": [
+"Lemino",
+"Prime Video",
+"WOWOW"
+],
+"KR": [
+"Coupang Play",
+"Prime Video",
+"NBA League Pass"
+],
+"MA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"MX": [
+"ESPN",
+"Disney+",
+"Prime Video",
+"NBA League Pass"
+],
+"NG": [
+"ESPN",
+"Sporty TV",
+"NBA League Pass"
+],
+"NL": [
+"ESPN",
+"NBA League Pass"
+],
+"NO": [
+"HBO Max",
+"NBA League Pass"
+],
+"NZ": [
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+],
+"PE": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"PT": [
+"Sport TV",
+"Prime Video",
+"NBA League Pass"
+],
+"PY": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"QA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"SA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"SN": [
+"Canal+ Sport",
+"NBA League Pass"
+],
+"TN": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"TR": [
+"S Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"US": [
+"NBA League Pass"
+],
+"UY": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"ZA": [
+"SuperSport",
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+]
+},
+"competition": {
+"ar": "دوري NBA",
+"de": "NBA",
+"en": "NBA",
+"es": "NBA",
+"fr": "NBA",
+"it": "NBA",
+"pt": "NBA",
+"tr": "NBA"
+},
+"competitionId": "nba",
+"home": "Rockets",
+"homeNames": {
+"ar": "هيوستن روكتس",
+"de": "Houston Rockets",
+"en": "Houston Rockets",
+"es": "Houston Rockets",
+"fr": "Houston Rockets",
+"it": "Houston Rockets",
+"pt": "Houston Rockets",
+"tr": "Houston Rockets"
+},
+"id": "basketball-20261022-rockets-mavericks",
+"kickoffUtc": "2026-10-22T00:30:00Z",
+"sources": [
+"espn"
+],
+"sport": "basketball",
+"tier": "global"
+},
+"slug": "houston-rockets-dallas-mavericks-2026-10-22"
+},
+"fr:basketball-20261022-trail-blazers-suns": {
+"lang": "fr",
+"m": {
+"away": "Suns",
+"awayNames": {
+"ar": "فينيكس صنز",
+"de": "Phoenix Suns",
+"en": "Phoenix Suns",
+"es": "Phoenix Suns",
+"fr": "Phoenix Suns",
+"it": "Phoenix Suns",
+"pt": "Phoenix Suns",
+"tr": "Phoenix Suns"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"AR": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"AT": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"AU": [
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+],
+"BE": [
+"DAZN",
+"Prime Video",
+"NBA League Pass"
+],
+"BR": [
+"ESPN",
+"Disney+",
+"Prime Video",
+"NBA League Pass"
+],
+"CA": [
+"TSN",
+"Sportsnet",
+"Prime Video",
+"NBA League Pass"
+],
+"CH": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"CL": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"CO": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"CZ": [
+"Nova Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"DE": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"DZ": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"EC": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"EG": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"ES": [
+"DAZN",
+"Prime Video",
+"NBA League Pass"
+],
+"FR": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"GB": [
+"Sky Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"GH": [
+"ESPN",
+"Sporty TV",
+"NBA League Pass"
+],
+"HR": [
+"Sport Klub",
+"Prime Video",
+"NBA League Pass"
+],
+"IT": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"JP": [
+"Lemino",
+"Prime Video",
+"WOWOW"
+],
+"KR": [
+"Coupang Play",
+"Prime Video",
+"NBA League Pass"
+],
+"MA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"MX": [
+"ESPN",
+"Disney+",
+"Prime Video",
+"NBA League Pass"
+],
+"NG": [
+"ESPN",
+"Sporty TV",
+"NBA League Pass"
+],
+"NL": [
+"ESPN",
+"NBA League Pass"
+],
+"NO": [
+"HBO Max",
+"NBA League Pass"
+],
+"NZ": [
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+],
+"PE": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"PT": [
+"Sport TV",
+"Prime Video",
+"NBA League Pass"
+],
+"PY": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"QA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"SA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"SN": [
+"Canal+ Sport",
+"NBA League Pass"
+],
+"TN": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"TR": [
+"S Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"US": [
+"NBA League Pass"
+],
+"UY": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"ZA": [
+"SuperSport",
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+]
+},
+"competition": {
+"ar": "دوري NBA",
+"de": "NBA",
+"en": "NBA",
+"es": "NBA",
+"fr": "NBA",
+"it": "NBA",
+"pt": "NBA",
+"tr": "NBA"
+},
+"competitionId": "nba",
+"home": "Trail Blazers",
+"homeNames": {
+"ar": "بورتلاند ترايل بليزرز",
+"de": "Portland Trail Blazers",
+"en": "Portland Trail Blazers",
+"es": "Portland Trail Blazers",
+"fr": "Portland Trail Blazers",
+"it": "Portland Trail Blazers",
+"pt": "Portland Trail Blazers",
+"tr": "Portland Trail Blazers"
+},
+"id": "basketball-20261022-trail-blazers-suns",
+"kickoffUtc": "2026-10-22T02:00:00Z",
+"sources": [
+"espn"
+],
+"sport": "basketball",
+"tier": "global"
+},
+"slug": "portland-trail-blazers-phoenix-suns-2026-10-22"
 },
 "fr:football-20261019-getafe-rayo-vallecano": {
 "lang": "fr",
@@ -6066,5 +13586,1561 @@
 "tier": "global"
 },
 "slug": "vfb-stuttgart-atletico-madrid-2026-10-20"
+},
+"fr:football-20261021-aston-villa-viking": {
+"lang": "fr",
+"m": {
+"away": "Viking",
+"awayNames": {
+"ar": "فايكينغ",
+"de": "Viking",
+"en": "Viking",
+"es": "Viking",
+"fr": "Viking",
+"it": "Viking",
+"pt": "Viking",
+"tr": "Viking"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports MENA 4",
+"TOD TV"
+],
+"AR": [
+"Disney+"
+],
+"BR": [
+"HBO Max"
+],
+"CA": [
+"Fubo",
+"DAZN"
+],
+"CL": [
+"Disney+ Premium",
+"ESPN 3"
+],
+"CO": [
+"Disney+ Premium",
+"ESPN 3"
+],
+"DE": [
+"DAZN"
+],
+"DZ": [
+"beIN Sports MENA 4",
+"TOD TV"
+],
+"EC": [
+"Disney+ Premium",
+"ESPN 3"
+],
+"EG": [
+"beIN Sports MENA 4",
+"TOD TV"
+],
+"ES": [
+"M+ Liga de Campeones 4",
+"M+ Liga de Campeones 5"
+],
+"FR": [
+"CANAL+ Live 5"
+],
+"GB": [
+"TNT Sports 2",
+"TNT Sports 9",
+"HBO Max"
+],
+"IQ": [
+"beIN Sports MENA 4",
+"TOD TV"
+],
+"IT": [
+"Sky Sport Max"
+],
+"JO": [
+"beIN Sports MENA 4",
+"TOD TV"
+],
+"LY": [
+"beIN Sports MENA 4",
+"TOD TV"
+],
+"MA": [
+"beIN Sports MENA 4",
+"TOD TV"
+],
+"MX": [
+"FOX One"
+],
+"OM": [
+"beIN Sports MENA 4",
+"TOD TV"
+],
+"PE": [
+"Disney+ Premium",
+"ESPN 3"
+],
+"PT": [
+"tabii",
+"DAZN"
+],
+"PY": [
+"Disney+ Premium",
+"ESPN 3"
+],
+"QA": [
+"beIN Sports MENA 4",
+"TOD TV"
+],
+"SA": [
+"beIN Sports MENA 4",
+"TOD TV"
+],
+"TN": [
+"beIN Sports MENA 4",
+"TOD TV"
+],
+"TR": [
+"tabii Spor 3"
+],
+"US": [
+"Paramount+",
+"ViX"
+],
+"UY": [
+"Disney+ Premium",
+"ESPN 3"
+]
+},
+"competition": {
+"ar": "دوري أبطال أوروبا",
+"de": "UEFA Champions League",
+"en": "UEFA Champions League",
+"es": "Liga de Campeones",
+"fr": "Ligue des Champions",
+"it": "UEFA Champions League",
+"pt": "Liga dos Campeões",
+"tr": "UEFA Şampiyonlar Ligi"
+},
+"competitionId": "champions",
+"home": "Aston Villa",
+"homeNames": {
+"ar": "أستون فيلا",
+"de": "Aston Villa",
+"en": "Aston Villa",
+"es": "Aston Villa",
+"fr": "Aston Villa",
+"it": "Aston Villa",
+"pt": "Aston Villa",
+"tr": "Aston Villa"
+},
+"id": "football-20261021-aston-villa-viking",
+"kickoffUtc": "2026-10-21T19:00:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "aston-villa-viking-2026-10-21"
+},
+"fr:football-20261021-bayern-munich-arsenal": {
+"lang": "fr",
+"m": {
+"away": "Arsenal",
+"awayNames": {
+"ar": "أرسنال",
+"de": "Arsenal",
+"en": "Arsenal",
+"es": "Arsenal",
+"fr": "Arsenal",
+"it": "Arsenal",
+"pt": "Arsenal",
+"tr": "Arsenal"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports MENA 1",
+"beIN Sports English 1",
+"TOD TV"
+],
+"AR": [
+"Disney+"
+],
+"BR": [
+"TNT",
+"HBO Max"
+],
+"CA": [
+"Fubo",
+"DAZN"
+],
+"CL": [
+"Disney+ Premium",
+"ESPN"
+],
+"CO": [
+"Disney+ Premium",
+"ESPN"
+],
+"DE": [
+"DAZN"
+],
+"DZ": [
+"beIN Sports MENA 1",
+"beIN Sports English 1",
+"TOD TV"
+],
+"EC": [
+"Disney+ Premium",
+"ESPN"
+],
+"EG": [
+"beIN Sports MENA 1",
+"beIN Sports English 1",
+"TOD TV"
+],
+"ES": [
+"M+ Liga de Campeones 3",
+"M+ Liga de Campeones 4"
+],
+"FR": [
+"CANAL+ Foot"
+],
+"GB": [
+"TNT Sports 1",
+"HBO Max"
+],
+"IQ": [
+"beIN Sports MENA 1",
+"beIN Sports English 1",
+"TOD TV"
+],
+"IT": [
+"TV8",
+"Sky Sport Calcio"
+],
+"JO": [
+"beIN Sports MENA 1",
+"beIN Sports English 1",
+"TOD TV"
+],
+"LY": [
+"beIN Sports MENA 1",
+"beIN Sports English 1",
+"TOD TV"
+],
+"MA": [
+"beIN Sports MENA 1",
+"beIN Sports English 1",
+"TOD TV"
+],
+"MX": [
+"HBO Max"
+],
+"OM": [
+"beIN Sports MENA 1",
+"beIN Sports English 1",
+"TOD TV"
+],
+"PE": [
+"Disney+ Premium",
+"ESPN 2"
+],
+"PT": [
+"DAZN 1"
+],
+"PY": [
+"Disney+ Premium",
+"ESPN 2"
+],
+"QA": [
+"beIN Sports MENA 1",
+"beIN Sports English 1",
+"TOD TV"
+],
+"SA": [
+"beIN Sports MENA 1",
+"beIN Sports English 1",
+"TOD TV"
+],
+"TN": [
+"beIN Sports MENA 1",
+"beIN Sports English 1",
+"TOD TV"
+],
+"TR": [
+"tabii Spor",
+"İçtimai TV"
+],
+"US": [
+"Paramount+",
+"UniMás",
+"TUDN",
+"ViX"
+],
+"UY": [
+"Disney+ Premium",
+"ESPN 2"
+]
+},
+"competition": {
+"ar": "دوري أبطال أوروبا",
+"de": "UEFA Champions League",
+"en": "UEFA Champions League",
+"es": "Liga de Campeones",
+"fr": "Ligue des Champions",
+"it": "UEFA Champions League",
+"pt": "Liga dos Campeões",
+"tr": "UEFA Şampiyonlar Ligi"
+},
+"competitionId": "champions",
+"home": "Bayern Munich",
+"homeNames": {
+"ar": "بايرن ميونيخ",
+"de": "FC Bayern München",
+"en": "Bayern Munich",
+"es": "Bayern Múnich",
+"fr": "Bayern Munich",
+"it": "Bayern Monaco",
+"pt": "Bayern de Munique",
+"tr": "Bayern Münih"
+},
+"id": "football-20261021-bayern-munich-arsenal",
+"kickoffUtc": "2026-10-21T19:00:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "bayern-munich-arsenal-2026-10-21"
+},
+"fr:football-20261021-betis-feyenoord": {
+"lang": "fr",
+"m": {
+"away": "Feyenoord",
+"awayNames": {
+"ar": "Feyenoord",
+"de": "Feyenoord",
+"en": "Feyenoord",
+"es": "Feyenoord",
+"fr": "Feyenoord",
+"it": "Feyenoord",
+"pt": "Feyenoord",
+"tr": "Feyenoord"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports MENA 5",
+"TOD TV"
+],
+"AR": [
+"Disney+"
+],
+"BR": [
+"HBO Max"
+],
+"CA": [
+"Fubo",
+"DAZN"
+],
+"CL": [
+"Disney+ Premium",
+"ESPN 4"
+],
+"CO": [
+"Disney+ Premium",
+"ESPN 4"
+],
+"DE": [
+"DAZN"
+],
+"DZ": [
+"beIN Sports MENA 5",
+"TOD TV"
+],
+"EC": [
+"Disney+ Premium",
+"ESPN 4"
+],
+"EG": [
+"beIN Sports MENA 5",
+"TOD TV"
+],
+"ES": [
+"M+ Liga de Campeones 2",
+"M+ Liga de Campeones 4"
+],
+"FR": [
+"CANAL+ Live 6"
+],
+"GB": [
+"TNT Sports 6",
+"HBO Max"
+],
+"IQ": [
+"beIN Sports MENA 5",
+"TOD TV"
+],
+"IT": [
+"Sky Sport"
+],
+"JO": [
+"beIN Sports MENA 5",
+"TOD TV"
+],
+"LY": [
+"beIN Sports MENA 5",
+"TOD TV"
+],
+"MA": [
+"beIN Sports MENA 5",
+"TOD TV"
+],
+"MX": [
+"FOX",
+"FOX One"
+],
+"OM": [
+"beIN Sports MENA 5",
+"TOD TV"
+],
+"PE": [
+"Disney+ Premium",
+"ESPN 4"
+],
+"PT": [
+"DAZN 3"
+],
+"PY": [
+"Disney+ Premium",
+"ESPN 4"
+],
+"QA": [
+"beIN Sports MENA 5",
+"TOD TV"
+],
+"SA": [
+"beIN Sports MENA 5",
+"TOD TV"
+],
+"TN": [
+"beIN Sports MENA 5",
+"TOD TV"
+],
+"TR": [
+"tabii Spor 4"
+],
+"US": [
+"CBS Sports Golazo Network",
+"Paramount+",
+"Amazon Prime Video",
+"ViX"
+],
+"UY": [
+"Disney+ Premium",
+"ESPN 4"
+]
+},
+"competition": {
+"ar": "دوري أبطال أوروبا",
+"de": "UEFA Champions League",
+"en": "UEFA Champions League",
+"es": "Liga de Campeones",
+"fr": "Ligue des Champions",
+"it": "UEFA Champions League",
+"pt": "Liga dos Campeões",
+"tr": "UEFA Şampiyonlar Ligi"
+},
+"competitionId": "champions",
+"home": "Betis",
+"homeNames": {
+"ar": "ريال بيتيس",
+"de": "Real Betis",
+"en": "Real Betis",
+"es": "Real Betis",
+"fr": "Real Betis",
+"it": "Real Betis",
+"pt": "Real Betis",
+"tr": "Betis"
+},
+"id": "football-20261021-betis-feyenoord",
+"kickoffUtc": "2026-10-21T19:00:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "real-betis-feyenoord-2026-10-21"
+},
+"fr:football-20261021-club-brugge-lens": {
+"lang": "fr",
+"m": {
+"away": "Lens",
+"awayNames": {
+"ar": "لانس",
+"de": "RC Lens",
+"en": "RC Lens",
+"es": "Lens",
+"fr": "RC Lens",
+"it": "Lens",
+"pt": "Lens",
+"tr": "Lens"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports MENA 8"
+],
+"AR": [
+"Disney+"
+],
+"BR": [
+"HBO Max"
+],
+"CA": [
+"Fubo",
+"DAZN"
+],
+"CL": [
+"Disney+ Premium",
+"ESPN 7"
+],
+"CO": [
+"Disney+ Premium",
+"ESPN 7"
+],
+"DE": [
+"DAZN"
+],
+"DZ": [
+"beIN Sports MENA 8"
+],
+"EC": [
+"Disney+ Premium",
+"ESPN 7"
+],
+"EG": [
+"beIN Sports MENA 8"
+],
+"ES": [
+"M+ Liga de Campeones 4",
+"M+ Liga de Campeones 6"
+],
+"FR": [
+"CANAL+"
+],
+"GB": [
+"TNT Sports 7",
+"HBO Max"
+],
+"IQ": [
+"beIN Sports MENA 8"
+],
+"IT": [
+"Sky Sport"
+],
+"JO": [
+"beIN Sports MENA 8"
+],
+"LY": [
+"beIN Sports MENA 8"
+],
+"MA": [
+"beIN Sports MENA 8"
+],
+"MX": [
+"FOX One"
+],
+"OM": [
+"beIN Sports MENA 8"
+],
+"PE": [
+"Disney+ Premium",
+"ESPN 7"
+],
+"PT": [
+"tabii",
+"DAZN"
+],
+"PY": [
+"Disney+ Premium",
+"ESPN 7"
+],
+"QA": [
+"beIN Sports MENA 8"
+],
+"SA": [
+"beIN Sports MENA 8"
+],
+"TN": [
+"beIN Sports MENA 8"
+],
+"TR": [
+"tabii Spor 6"
+],
+"US": [
+"Paramount+",
+"ViX"
+],
+"UY": [
+"Disney+ Premium",
+"ESPN 7"
+]
+},
+"competition": {
+"ar": "دوري أبطال أوروبا",
+"de": "UEFA Champions League",
+"en": "UEFA Champions League",
+"es": "Liga de Campeones",
+"fr": "Ligue des Champions",
+"it": "UEFA Champions League",
+"pt": "Liga dos Campeões",
+"tr": "UEFA Şampiyonlar Ligi"
+},
+"competitionId": "champions",
+"home": "Club Brugge",
+"homeNames": {
+"ar": "كلوب بروج",
+"de": "Club Brugge",
+"en": "Club Brugge",
+"es": "Club Brugge",
+"fr": "Club Bruges",
+"it": "Club Brugge",
+"pt": "Club Brugge",
+"tr": "Club Brugge"
+},
+"id": "football-20261021-club-brugge-lens",
+"kickoffUtc": "2026-10-21T19:00:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "club-bruges-rc-lens-2026-10-21"
+},
+"fr:football-20261021-como-man-utd": {
+"lang": "fr",
+"m": {
+"away": "Man Utd",
+"awayNames": {
+"ar": "مانشستر يونايتد",
+"de": "Manchester United",
+"en": "Manchester United",
+"es": "Manchester United",
+"fr": "Manchester United",
+"it": "Manchester United",
+"pt": "Manchester United",
+"tr": "Manchester United"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports MENA 2",
+"beIN Sports English 1",
+"TOD TV"
+],
+"AR": [
+"Disney+"
+],
+"BR": [
+"TNT",
+"HBO Max"
+],
+"CA": [
+"Fubo",
+"DAZN"
+],
+"CL": [
+"Disney+ Premium",
+"ESPN Premium"
+],
+"CO": [
+"Disney+ Premium",
+"ESPN"
+],
+"DE": [
+"DAZN"
+],
+"DZ": [
+"beIN Sports MENA 2",
+"beIN Sports English 1",
+"TOD TV"
+],
+"EC": [
+"Disney+ Premium",
+"ESPN"
+],
+"EG": [
+"beIN Sports MENA 2",
+"beIN Sports English 1",
+"TOD TV"
+],
+"ES": [
+"M+ Liga de Campeones 2"
+],
+"FR": [
+"CANAL+ Sport"
+],
+"GB": [
+"TNT Sports 2",
+"HBO Max"
+],
+"IQ": [
+"beIN Sports MENA 2",
+"beIN Sports English 1",
+"TOD TV"
+],
+"IT": [
+"Sky Sport 1"
+],
+"JO": [
+"beIN Sports MENA 2",
+"beIN Sports English 1",
+"TOD TV"
+],
+"LY": [
+"beIN Sports MENA 2",
+"beIN Sports English 1",
+"TOD TV"
+],
+"MA": [
+"beIN Sports MENA 2",
+"beIN Sports English 1",
+"TOD TV"
+],
+"MX": [
+"FOX One",
+"FOX+"
+],
+"OM": [
+"beIN Sports MENA 2",
+"beIN Sports English 1",
+"TOD TV"
+],
+"PE": [
+"Disney+ Premium",
+"ESPN"
+],
+"PT": [
+"DAZN 1"
+],
+"PY": [
+"Disney+ Premium",
+"ESPN"
+],
+"QA": [
+"beIN Sports MENA 2",
+"beIN Sports English 1",
+"TOD TV"
+],
+"SA": [
+"beIN Sports MENA 2",
+"beIN Sports English 1",
+"TOD TV"
+],
+"TN": [
+"beIN Sports MENA 2",
+"beIN Sports English 1",
+"TOD TV"
+],
+"TR": [
+"tabii Spor",
+"İçtimai TV"
+],
+"US": [
+"Paramount+",
+"UniMás",
+"TUDN",
+"ViX"
+],
+"UY": [
+"Disney+ Premium",
+"ESPN"
+]
+},
+"competition": {
+"ar": "دوري أبطال أوروبا",
+"de": "UEFA Champions League",
+"en": "UEFA Champions League",
+"es": "Liga de Campeones",
+"fr": "Ligue des Champions",
+"it": "UEFA Champions League",
+"pt": "Liga dos Campeões",
+"tr": "UEFA Şampiyonlar Ligi"
+},
+"competitionId": "champions",
+"home": "Como",
+"homeNames": {
+"ar": "كومو",
+"de": "Como",
+"en": "Como",
+"es": "Como",
+"fr": "Como",
+"it": "Como",
+"pt": "Como",
+"tr": "Como"
+},
+"id": "football-20261021-como-man-utd",
+"kickoffUtc": "2026-10-21T16:45:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "como-manchester-united-2026-10-21"
+},
+"fr:football-20261021-inter-shakhtar-donetsk": {
+"lang": "fr",
+"m": {
+"away": "Shakhtar Donetsk",
+"awayNames": {
+"ar": "شاختار دونيتسك",
+"de": "Schachtar Donezk",
+"en": "Shakhtar Donetsk",
+"es": "Shakhtar Donetsk",
+"fr": "Chakhtar Donetsk",
+"it": "Shakhtar Donetsk",
+"pt": "Shakhtar Donetsk",
+"tr": "Şahtar Donetsk"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports MENA 3"
+],
+"AR": [
+"Disney+"
+],
+"BR": [
+"HBO Max"
+],
+"CA": [
+"Fubo",
+"DAZN"
+],
+"CL": [
+"Disney+ Premium",
+"ESPN 2"
+],
+"CO": [
+"Disney+ Premium",
+"ESPN 5"
+],
+"DE": [
+"DAZN"
+],
+"DZ": [
+"beIN Sports MENA 3"
+],
+"EC": [
+"Disney+ Premium",
+"ESPN 5"
+],
+"EG": [
+"beIN Sports MENA 3"
+],
+"ES": [
+"M+ Liga de Campeones 4",
+"M+ Liga de Campeones 7"
+],
+"FR": [
+"CANAL+ Live 4"
+],
+"GB": [
+"TNT Sports 5",
+"HBO Max"
+],
+"IQ": [
+"beIN Sports MENA 3"
+],
+"IT": [
+"Amazon Prime Video"
+],
+"JO": [
+"beIN Sports MENA 3"
+],
+"LY": [
+"beIN Sports MENA 3"
+],
+"MA": [
+"beIN Sports MENA 3"
+],
+"MX": [
+"HBO Max",
+"TNT",
+"FOX One",
+"TNT Sports"
+],
+"OM": [
+"beIN Sports MENA 3"
+],
+"PE": [
+"Disney+ Premium",
+"ESPN 5"
+],
+"PT": [
+"DAZN 4"
+],
+"PY": [
+"Disney+ Premium",
+"ESPN 5"
+],
+"QA": [
+"beIN Sports MENA 3"
+],
+"SA": [
+"beIN Sports MENA 3"
+],
+"TN": [
+"beIN Sports MENA 3"
+],
+"TR": [
+"tabii Spor 2"
+],
+"US": [
+"CBS Sports Network",
+"Paramount+",
+"Fubo",
+"ViX"
+],
+"UY": [
+"Disney+ Premium",
+"ESPN 5"
+]
+},
+"competition": {
+"ar": "دوري أبطال أوروبا",
+"de": "UEFA Champions League",
+"en": "UEFA Champions League",
+"es": "Liga de Campeones",
+"fr": "Ligue des Champions",
+"it": "UEFA Champions League",
+"pt": "Liga dos Campeões",
+"tr": "UEFA Şampiyonlar Ligi"
+},
+"competitionId": "champions",
+"home": "Inter",
+"homeNames": {
+"ar": "إنتر ميلان",
+"de": "Inter Mailand",
+"en": "Inter Milan",
+"es": "Inter de Milán",
+"fr": "Inter Milan",
+"it": "FC Internazionale",
+"pt": "Inter de Milão",
+"tr": "Inter Milan"
+},
+"id": "football-20261021-inter-shakhtar-donetsk",
+"kickoffUtc": "2026-10-21T19:00:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "inter-milan-chakhtar-donetsk-2026-10-21"
+},
+"fr:football-20261021-levante-athletic-club": {
+"lang": "fr",
+"m": {
+"away": "Athletic Club",
+"awayNames": {
+"ar": "أتلتيك بيلباو",
+"de": "Athletic Bilbao",
+"en": "Athletic Club",
+"es": "Athletic Club",
+"fr": "Athletic Club",
+"it": "Athletic Club",
+"pt": "Athletic Club",
+"tr": "Athletic Club"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports XTRA 1",
+"TOD TV"
+],
+"BR": [
+"CazéTV"
+],
+"CA": [
+"TSN+"
+],
+"CL": [
+"DGO",
+"DSports 2",
+"Paramount+",
+"Amazon Prime Video",
+"DAZN"
+],
+"CO": [
+"DGO",
+"DSports 2",
+"Paramount+",
+"Amazon Prime Video",
+"DAZN",
+"Win Play"
+],
+"DE": [
+"DAZN"
+],
+"DZ": [
+"beIN Sports XTRA 1",
+"TOD TV"
+],
+"EC": [
+"DGO",
+"DSports 2",
+"Paramount+",
+"DAZN"
+],
+"EG": [
+"beIN Sports XTRA 1",
+"TOD TV"
+],
+"ES": [
+"M+ LaLiga",
+"M+ LaLiga HDR",
+"LaLiga TV M2"
+],
+"FR": [
+"DAZN",
+"Disney+"
+],
+"GB": [
+"Premier Sports 1"
+],
+"IQ": [
+"beIN Sports XTRA 1",
+"TOD TV"
+],
+"IT": [
+"DAZN"
+],
+"JO": [
+"beIN Sports XTRA 1",
+"TOD TV"
+],
+"LY": [
+"beIN Sports XTRA 1",
+"TOD TV"
+],
+"MA": [
+"beIN Sports XTRA 1",
+"TOD TV"
+],
+"MX": [
+"Sky Sports"
+],
+"OM": [
+"beIN Sports XTRA 1",
+"TOD TV"
+],
+"PE": [
+"DGO",
+"DSports 2",
+"Paramount+",
+"DAZN"
+],
+"QA": [
+"beIN Sports XTRA 1",
+"TOD TV"
+],
+"SA": [
+"beIN Sports XTRA 1",
+"TOD TV"
+],
+"TN": [
+"beIN Sports XTRA 1",
+"TOD TV"
+],
+"TR": [
+"S Sport Plus",
+"S Sport"
+],
+"US": [
+"ESPN+",
+"ESPN Deportes",
+"Fubo"
+],
+"UY": [
+"DGO",
+"DSports 2",
+"Paramount+",
+"DAZN"
+]
+},
+"competition": {
+"ar": "الدوري الإسباني",
+"de": "LaLiga",
+"en": "LaLiga",
+"es": "LaLiga",
+"fr": "LaLiga",
+"it": "LaLiga",
+"pt": "LaLiga",
+"tr": "İspanya LaLiga"
+},
+"competitionId": "laliga",
+"home": "Levante",
+"homeNames": {
+"ar": "ليفانتي",
+"de": "Levante",
+"en": "Levante",
+"es": "Levante",
+"fr": "Levante",
+"it": "Levante",
+"pt": "Levante",
+"tr": "Levante"
+},
+"id": "football-20261021-levante-athletic-club",
+"kickoffUtc": "2026-10-21T18:00:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "levante-athletic-club-2026-10-21"
+},
+"fr:football-20261021-lille-galatasaray": {
+"lang": "fr",
+"m": {
+"away": "Galatasaray",
+"awayNames": {
+"ar": "غلطة سراي",
+"de": "Galatasaray",
+"en": "Galatasaray",
+"es": "Galatasaray",
+"fr": "Galatasaray",
+"it": "Galatasaray",
+"pt": "Galatasaray",
+"tr": "Galatasaray"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports MENA 3"
+],
+"AR": [
+"Disney+"
+],
+"BR": [
+"Space",
+"HBO Max"
+],
+"CA": [
+"Fubo",
+"DAZN"
+],
+"CL": [
+"Disney+ Premium",
+"ESPN"
+],
+"CO": [
+"Disney+ Premium",
+"ESPN 2"
+],
+"DE": [
+"DAZN"
+],
+"DZ": [
+"beIN Sports MENA 3"
+],
+"EC": [
+"Disney+ Premium",
+"ESPN 2"
+],
+"EG": [
+"beIN Sports MENA 3"
+],
+"ES": [
+"M+ Liga de Campeones 3"
+],
+"FR": [
+"CANAL+ Foot"
+],
+"GB": [
+"TNT Sports 4",
+"HBO Max"
+],
+"IQ": [
+"beIN Sports MENA 3"
+],
+"IT": [
+"Sky Sport Calcio"
+],
+"JO": [
+"beIN Sports MENA 3"
+],
+"LY": [
+"beIN Sports MENA 3"
+],
+"MA": [
+"beIN Sports MENA 3"
+],
+"MX": [
+"HBO Max",
+"TNT",
+"TNT Sports"
+],
+"OM": [
+"beIN Sports MENA 3"
+],
+"PE": [
+"Disney+ Premium",
+"ESPN 2"
+],
+"PT": [
+"DAZN 2"
+],
+"PY": [
+"Disney+ Premium",
+"ESPN 2"
+],
+"QA": [
+"beIN Sports MENA 3"
+],
+"SA": [
+"beIN Sports MENA 3"
+],
+"TN": [
+"beIN Sports MENA 3"
+],
+"TR": [
+"TRT 1",
+"CBC Sport"
+],
+"US": [
+"CBS Sports Golazo Network",
+"Paramount+",
+"Amazon Prime Video",
+"ViX"
+],
+"UY": [
+"Disney+ Premium",
+"ESPN 2"
+]
+},
+"competition": {
+"ar": "دوري أبطال أوروبا",
+"de": "UEFA Champions League",
+"en": "UEFA Champions League",
+"es": "Liga de Campeones",
+"fr": "Ligue des Champions",
+"it": "UEFA Champions League",
+"pt": "Liga dos Campeões",
+"tr": "UEFA Şampiyonlar Ligi"
+},
+"competitionId": "champions",
+"home": "Lille",
+"homeNames": {
+"ar": "ليل",
+"de": "OSC Lille",
+"en": "LOSC Lille",
+"es": "Lille OSC",
+"fr": "Lille OSC",
+"it": "Lille",
+"pt": "Lille",
+"tr": "Lille"
+},
+"id": "football-20261021-lille-galatasaray",
+"kickoffUtc": "2026-10-21T16:45:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "lille-osc-galatasaray-2026-10-21"
+},
+"fr:football-20261021-real-madrid-rb-leipzig": {
+"lang": "fr",
+"m": {
+"away": "RB Leipzig",
+"awayNames": {
+"ar": "آر بي لايبزيغ",
+"de": "RB Leipzig",
+"en": "RB Leipzig",
+"es": "RB Leipzig",
+"fr": "RB Leipzig",
+"it": "RB Lipsia",
+"pt": "RB Leipzig",
+"tr": "RB Leipzig"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports MENA 2",
+"TOD TV"
+],
+"AR": [
+"Disney+"
+],
+"BR": [
+"HBO Max"
+],
+"CA": [
+"Fubo",
+"DAZN"
+],
+"CL": [
+"Disney+ Premium",
+"ESPN 5",
+"ESPN Premium"
+],
+"CO": [
+"Disney+ Premium",
+"ESPN 2"
+],
+"DE": [
+"DAZN"
+],
+"DZ": [
+"beIN Sports MENA 2",
+"TOD TV"
+],
+"EC": [
+"Disney+ Premium",
+"ESPN 2"
+],
+"EG": [
+"beIN Sports MENA 2",
+"TOD TV"
+],
+"ES": [
+"Movistar Plus+",
+"Orange Fútbol 1",
+"M+ Liga de Campeones",
+"M+ Liga de Campeones 4",
+"LaLiga TV Bar"
+],
+"FR": [
+"CANAL+ Sport"
+],
+"GB": [
+"TNT Sports 4",
+"HBO Max"
+],
+"IQ": [
+"beIN Sports MENA 2",
+"TOD TV"
+],
+"IT": [
+"Sky Sport Arena"
+],
+"JO": [
+"beIN Sports MENA 2",
+"TOD TV"
+],
+"LY": [
+"beIN Sports MENA 2",
+"TOD TV"
+],
+"MA": [
+"beIN Sports MENA 2",
+"TOD TV"
+],
+"MX": [
+"FOX One",
+"FOX+"
+],
+"OM": [
+"beIN Sports MENA 2",
+"TOD TV"
+],
+"PE": [
+"Disney+ Premium",
+"ESPN"
+],
+"PT": [
+"DAZN 2"
+],
+"PY": [
+"Disney+ Premium",
+"ESPN"
+],
+"QA": [
+"beIN Sports MENA 2",
+"TOD TV"
+],
+"SA": [
+"beIN Sports MENA 2",
+"TOD TV"
+],
+"TN": [
+"beIN Sports MENA 2",
+"TOD TV"
+],
+"TR": [
+"tabii Spor 1",
+"CBC Sport"
+],
+"US": [
+"Paramount+",
+"DAZN"
+],
+"UY": [
+"Disney+ Premium",
+"ESPN"
+]
+},
+"competition": {
+"ar": "دوري أبطال أوروبا",
+"de": "UEFA Champions League",
+"en": "UEFA Champions League",
+"es": "Liga de Campeones",
+"fr": "Ligue des Champions",
+"it": "UEFA Champions League",
+"pt": "Liga dos Campeões",
+"tr": "UEFA Şampiyonlar Ligi"
+},
+"competitionId": "champions",
+"home": "Real Madrid",
+"homeNames": {
+"ar": "ريال مدريد",
+"de": "Real Madrid",
+"en": "Real Madrid",
+"es": "Real Madrid",
+"fr": "Real Madrid",
+"it": "Real Madrid",
+"pt": "Real Madrid",
+"tr": "Real Madrid"
+},
+"id": "football-20261021-real-madrid-rb-leipzig",
+"kickoffUtc": "2026-10-21T19:00:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "real-madrid-rb-leipzig-2026-10-21"
+},
+"fr:football-20261021-sporting-cp-lask": {
+"lang": "fr",
+"m": {
+"away": "LASK",
+"awayNames": {
+"ar": "لاسك لينز",
+"de": "LASK",
+"en": "LASK",
+"es": "LASK",
+"fr": "LASK",
+"it": "LASK",
+"pt": "LASK",
+"tr": "LASK"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports MENA 9"
+],
+"AR": [
+"Disney+"
+],
+"BR": [
+"HBO Max"
+],
+"CA": [
+"Fubo",
+"DAZN"
+],
+"CL": [
+"Disney+ Premium",
+"ESPN 6"
+],
+"CO": [
+"Disney+ Premium",
+"ESPN 6"
+],
+"DE": [
+"DAZN"
+],
+"DZ": [
+"beIN Sports MENA 9"
+],
+"EC": [
+"Disney+ Premium",
+"ESPN 6"
+],
+"EG": [
+"beIN Sports MENA 9"
+],
+"ES": [
+"M+ Liga de Campeones 4",
+"M+ Liga de Campeones 8"
+],
+"FR": [
+"CANAL+ Live 7"
+],
+"GB": [
+"TNT Sports 8",
+"HBO Max"
+],
+"IQ": [
+"beIN Sports MENA 9"
+],
+"IT": [
+"Sky Sport"
+],
+"JO": [
+"beIN Sports MENA 9"
+],
+"LY": [
+"beIN Sports MENA 9"
+],
+"MA": [
+"beIN Sports MENA 9"
+],
+"MX": [
+"HBO Max",
+"Space"
+],
+"OM": [
+"beIN Sports MENA 9"
+],
+"PE": [
+"Disney+ Premium",
+"ESPN 6"
+],
+"PT": [
+"Sport TV 5",
+"Sporting TV"
+],
+"PY": [
+"Disney+ Premium",
+"ESPN 6"
+],
+"QA": [
+"beIN Sports MENA 9"
+],
+"SA": [
+"beIN Sports MENA 9"
+],
+"TN": [
+"beIN Sports MENA 9"
+],
+"TR": [
+"tabii Spor 5"
+],
+"US": [
+"Paramount+",
+"ViX"
+],
+"UY": [
+"Disney+ Premium",
+"ESPN 6"
+]
+},
+"competition": {
+"ar": "دوري أبطال أوروبا",
+"de": "UEFA Champions League",
+"en": "UEFA Champions League",
+"es": "Liga de Campeones",
+"fr": "Ligue des Champions",
+"it": "UEFA Champions League",
+"pt": "Liga dos Campeões",
+"tr": "UEFA Şampiyonlar Ligi"
+},
+"competitionId": "champions",
+"home": "Sporting CP",
+"homeNames": {
+"ar": "سبورتينغ لشبونة",
+"de": "Sporting Lissabon",
+"en": "Sporting CP",
+"es": "Sporting de Portugal",
+"fr": "Sporting CP",
+"it": "Sporting Lisbona",
+"pt": "Sporting",
+"tr": "Sporting Lizbon"
+},
+"id": "football-20261021-sporting-cp-lask",
+"kickoffUtc": "2026-10-21T19:00:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "sporting-cp-lask-2026-10-21"
 }
 }
