@@ -2032,6 +2032,260 @@
 },
 "slug": "washington-wizards-milwaukee-bucks-2026-10-22"
 },
+"es:basketball-20261022-76ers-cavaliers": {
+"lang": "es",
+"m": {
+"away": "Cavaliers",
+"awayNames": {
+"ar": "كليفلاند كافالييرز",
+"de": "Cleveland Cavaliers",
+"en": "Cleveland Cavaliers",
+"es": "Cleveland Cavaliers",
+"fr": "Cleveland Cavaliers",
+"it": "Cleveland Cavaliers",
+"pt": "Cleveland Cavaliers",
+"tr": "Cleveland Cavaliers"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"AR": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"AT": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"AU": [
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+],
+"BE": [
+"DAZN",
+"Prime Video",
+"NBA League Pass"
+],
+"BR": [
+"ESPN",
+"Disney+",
+"Prime Video",
+"NBA League Pass"
+],
+"CA": [
+"TSN",
+"Sportsnet",
+"Prime Video",
+"NBA League Pass"
+],
+"CH": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"CL": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"CO": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"CZ": [
+"Nova Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"DE": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"DZ": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"EC": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"EG": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"ES": [
+"DAZN",
+"Prime Video",
+"NBA League Pass"
+],
+"FR": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"GB": [
+"Sky Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"GH": [
+"ESPN",
+"Sporty TV",
+"NBA League Pass"
+],
+"HR": [
+"Sport Klub",
+"Prime Video",
+"NBA League Pass"
+],
+"IT": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"JP": [
+"Lemino",
+"Prime Video",
+"WOWOW"
+],
+"KR": [
+"Coupang Play",
+"Prime Video",
+"NBA League Pass"
+],
+"MA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"MX": [
+"ESPN",
+"Disney+",
+"Prime Video",
+"NBA League Pass"
+],
+"NG": [
+"ESPN",
+"Sporty TV",
+"NBA League Pass"
+],
+"NL": [
+"ESPN",
+"NBA League Pass"
+],
+"NO": [
+"HBO Max",
+"NBA League Pass"
+],
+"NZ": [
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+],
+"PE": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"PT": [
+"Sport TV",
+"Prime Video",
+"NBA League Pass"
+],
+"PY": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"QA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"SA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"SN": [
+"Canal+ Sport",
+"NBA League Pass"
+],
+"TN": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"TR": [
+"S Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"US": [
+"ESPN"
+],
+"UY": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"ZA": [
+"SuperSport",
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+]
+},
+"competition": {
+"ar": "دوري NBA",
+"de": "NBA",
+"en": "NBA",
+"es": "NBA",
+"fr": "NBA",
+"it": "NBA",
+"pt": "NBA",
+"tr": "NBA"
+},
+"competitionId": "nba",
+"home": "76ers",
+"homeNames": {
+"ar": "فيلادلفيا سفنتي سيكسرز",
+"de": "Philadelphia 76ers",
+"en": "Philadelphia 76ers",
+"es": "Philadelphia 76ers",
+"fr": "Philadelphia 76ers",
+"it": "Philadelphia 76ers",
+"pt": "Philadelphia 76ers",
+"tr": "Philadelphia 76ers"
+},
+"id": "basketball-20261022-76ers-cavaliers",
+"kickoffUtc": "2026-10-22T23:00:00Z",
+"sources": [
+"espn"
+],
+"sport": "basketball",
+"tier": "global"
+},
+"slug": "philadelphia-76ers-cleveland-cavaliers-2026-10-23"
+},
 "es:basketball-20261022-clippers-kings": {
 "lang": "es",
 "m": {
@@ -3555,6 +3809,260 @@
 "tier": "global"
 },
 "slug": "portland-trail-blazers-phoenix-suns-2026-10-22"
+},
+"es:basketball-20261023-thunder-nuggets": {
+"lang": "es",
+"m": {
+"away": "Nuggets",
+"awayNames": {
+"ar": "دنفر ناجتس",
+"de": "Denver Nuggets",
+"en": "Denver Nuggets",
+"es": "Denver Nuggets",
+"fr": "Denver Nuggets",
+"it": "Denver Nuggets",
+"pt": "Denver Nuggets",
+"tr": "Denver Nuggets"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"AR": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"AT": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"AU": [
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+],
+"BE": [
+"DAZN",
+"Prime Video",
+"NBA League Pass"
+],
+"BR": [
+"ESPN",
+"Disney+",
+"Prime Video",
+"NBA League Pass"
+],
+"CA": [
+"TSN",
+"Sportsnet",
+"Prime Video",
+"NBA League Pass"
+],
+"CH": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"CL": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"CO": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"CZ": [
+"Nova Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"DE": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"DZ": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"EC": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"EG": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"ES": [
+"DAZN",
+"Prime Video",
+"NBA League Pass"
+],
+"FR": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"GB": [
+"Sky Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"GH": [
+"ESPN",
+"Sporty TV",
+"NBA League Pass"
+],
+"HR": [
+"Sport Klub",
+"Prime Video",
+"NBA League Pass"
+],
+"IT": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"JP": [
+"Lemino",
+"Prime Video",
+"WOWOW"
+],
+"KR": [
+"Coupang Play",
+"Prime Video",
+"NBA League Pass"
+],
+"MA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"MX": [
+"ESPN",
+"Disney+",
+"Prime Video",
+"NBA League Pass"
+],
+"NG": [
+"ESPN",
+"Sporty TV",
+"NBA League Pass"
+],
+"NL": [
+"ESPN",
+"NBA League Pass"
+],
+"NO": [
+"HBO Max",
+"NBA League Pass"
+],
+"NZ": [
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+],
+"PE": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"PT": [
+"Sport TV",
+"Prime Video",
+"NBA League Pass"
+],
+"PY": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"QA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"SA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"SN": [
+"Canal+ Sport",
+"NBA League Pass"
+],
+"TN": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"TR": [
+"S Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"US": [
+"ESPN"
+],
+"UY": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"ZA": [
+"SuperSport",
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+]
+},
+"competition": {
+"ar": "دوري NBA",
+"de": "NBA",
+"en": "NBA",
+"es": "NBA",
+"fr": "NBA",
+"it": "NBA",
+"pt": "NBA",
+"tr": "NBA"
+},
+"competitionId": "nba",
+"home": "Thunder",
+"homeNames": {
+"ar": "أوكلاهوما سيتي ثاندر",
+"de": "Oklahoma City Thunder",
+"en": "Oklahoma City Thunder",
+"es": "Oklahoma City Thunder",
+"fr": "Oklahoma City Thunder",
+"it": "Oklahoma City Thunder",
+"pt": "Oklahoma City Thunder",
+"tr": "Oklahoma City Thunder"
+},
+"id": "basketball-20261023-thunder-nuggets",
+"kickoffUtc": "2026-10-23T01:30:00Z",
+"sources": [
+"espn"
+],
+"sport": "basketball",
+"tier": "global"
+},
+"slug": "oklahoma-city-thunder-denver-nuggets-2026-10-23"
 },
 "es:football-20261019-al-fayha-al-ahli-jeddah": {
 "lang": "es",
@@ -7877,6 +8385,2790 @@
 },
 "slug": "vasco-da-gama-boca-juniors-2026-10-21"
 },
+"es:football-20261022-agf-egnatia": {
+"lang": "es",
+"m": {
+"away": "Egnatia",
+"awayNames": {
+"ar": "Egnatia",
+"de": "Egnatia",
+"en": "Egnatia",
+"es": "Egnatia",
+"fr": "Egnatia",
+"it": "Egnatia",
+"pt": "Egnatia",
+"tr": "Egnatia"
+},
+"broadcasts": {
+"DE": [
+"RTL+"
+],
+"ES": [
+"M+ Liga de Campeones 3",
+"Movistar+ Dispositivos"
+],
+"FR": [
+"CANAL+ Live 14"
+],
+"GB": [
+"HBO Max"
+],
+"IT": [
+"Sky Sport"
+],
+"US": [
+"Paramount+",
+"ViX"
+]
+},
+"competition": {
+"ar": "دوري المؤتمر الأوروبي",
+"de": "UEFA Conference League",
+"en": "UEFA Conference League",
+"es": "Conference League",
+"fr": "Ligue Europa Conférence",
+"it": "UEFA Conference League",
+"pt": "Liga Conferência",
+"tr": "UEFA Konferans Ligi"
+},
+"competitionId": "conference",
+"home": "AGF",
+"homeNames": {
+"ar": "AGF",
+"de": "AGF",
+"en": "AGF",
+"es": "AGF",
+"fr": "AGF",
+"it": "AGF",
+"pt": "AGF",
+"tr": "AGF"
+},
+"id": "football-20261022-agf-egnatia",
+"kickoffUtc": "2026-10-22T19:00:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "agf-egnatia-2026-10-22"
+},
+"es:football-20261022-ajax-atalanta": {
+"lang": "es",
+"m": {
+"away": "Atalanta",
+"awayNames": {
+"ar": "Atalanta",
+"de": "Atalanta",
+"en": "Atalanta",
+"es": "Atalanta",
+"fr": "Atalanta",
+"it": "Atalanta",
+"pt": "Atalanta",
+"tr": "Atalanta"
+},
+"broadcasts": {
+"DE": [
+"WOW",
+"RTL+",
+"Sky Sport 4"
+],
+"ES": [
+"M+ Liga de Campeones 3",
+"M+ Liga de Campeones 11"
+],
+"FR": [
+"CANAL+ Live 12"
+],
+"GB": [
+"TNT Sports 8",
+"HBO Max"
+],
+"IT": [
+"Sky Sport Arena"
+],
+"TR": [
+"tabii Spor 6"
+],
+"US": [
+"Paramount+",
+"ViX"
+]
+},
+"competition": {
+"ar": "دوري المؤتمر الأوروبي",
+"de": "UEFA Conference League",
+"en": "UEFA Conference League",
+"es": "Conference League",
+"fr": "Ligue Europa Conférence",
+"it": "UEFA Conference League",
+"pt": "Liga Conferência",
+"tr": "UEFA Konferans Ligi"
+},
+"competitionId": "conference",
+"home": "Ajax",
+"homeNames": {
+"ar": "أياكس",
+"de": "Ajax Amsterdam",
+"en": "Ajax",
+"es": "Ajax",
+"fr": "Ajax Amsterdam",
+"it": "Ajax",
+"pt": "Ajax",
+"tr": "Ajax"
+},
+"id": "football-20261022-ajax-atalanta",
+"kickoffUtc": "2026-10-22T19:00:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "ajax-atalanta-2026-10-22"
+},
+"es:football-20261022-al-ahli-al-khaleej": {
+"lang": "es",
+"m": {
+"away": "Al-Khaleej",
+"awayNames": {
+"ar": "Al-Khaleej",
+"de": "Al-Khaleej",
+"en": "Al-Khaleej",
+"es": "Al-Khaleej",
+"fr": "Al-Khaleej",
+"it": "Al-Khaleej",
+"pt": "Al-Khaleej",
+"tr": "Al-Khaleej"
+},
+"broadcasts": {
+"AT": [
+"DAZN"
+],
+"CH": [
+"DAZN"
+],
+"DE": [
+"DAZN"
+],
+"ES": [
+"OneFootball"
+],
+"FR": [
+"DAZN"
+],
+"PT": [
+"OneFootball"
+],
+"SA": [
+"Thmanyah",
+"STC TV"
+],
+"TR": [
+"HT Spor"
+]
+},
+"competition": {
+"ar": "دوري روشن السعودي",
+"de": "Saudi Pro League",
+"en": "Saudi Pro League",
+"es": "Liga Profesional Saudí",
+"fr": "Saudi Pro League",
+"it": "Saudi Pro League",
+"pt": "Liga Saudita",
+"tr": "Suudi Pro Lig"
+},
+"competitionId": "saudi_pl",
+"home": "Al-Ahli",
+"homeNames": {
+"ar": "Al-Ahli",
+"de": "Al-Ahli",
+"en": "Al-Ahli",
+"es": "Al-Ahli",
+"fr": "Al-Ahli",
+"it": "Al-Ahli",
+"pt": "Al-Ahli",
+"tr": "Al-Ahli"
+},
+"id": "football-20261022-al-ahli-al-khaleej",
+"kickoffUtc": "2026-10-22T18:00:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "al-ahli-al-khaleej-2026-10-22"
+},
+"es:football-20261022-ararat-armenia-az-alkmaar": {
+"lang": "es",
+"m": {
+"away": "AZ Alkmaar",
+"awayNames": {
+"ar": "آيه زد ألكمار",
+"de": "AZ Alkmaar",
+"en": "AZ Alkmaar",
+"es": "AZ Alkmaar",
+"fr": "AZ Alkmaar",
+"it": "AZ Alkmaar",
+"pt": "AZ Alkmaar",
+"tr": "AZ Alkmaar"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports"
+],
+"CA": [
+"Fubo",
+"DAZN"
+],
+"DE": [
+"RTL+"
+],
+"DZ": [
+"beIN Sports"
+],
+"EG": [
+"beIN Sports"
+],
+"ES": [
+"M+ Liga de Campeones 13",
+"M+ Liga de Campeones 3"
+],
+"FR": [
+"CANAL+ Live 14"
+],
+"GB": [
+"HBO Max"
+],
+"IQ": [
+"beIN Sports"
+],
+"IT": [
+"Sky Sport"
+],
+"JO": [
+"beIN Sports"
+],
+"LY": [
+"beIN Sports"
+],
+"MA": [
+"beIN Sports"
+],
+"OM": [
+"beIN Sports"
+],
+"QA": [
+"beIN Sports"
+],
+"SA": [
+"beIN Sports"
+],
+"TN": [
+"beIN Sports"
+],
+"TR": [
+"tabii Spor 6"
+],
+"US": [
+"Paramount+",
+"ViX"
+]
+},
+"competition": {
+"ar": "الدوري الأوروبي",
+"de": "UEFA Europa League",
+"en": "UEFA Europa League",
+"es": "Europa League",
+"fr": "Ligue Europa",
+"it": "UEFA Europa League",
+"pt": "Liga Europa",
+"tr": "UEFA Avrupa Ligi"
+},
+"competitionId": "europa",
+"home": "Ararat-Armenia",
+"homeNames": {
+"ar": "Ararat-Armenia",
+"de": "Ararat-Armenia",
+"en": "Ararat-Armenia",
+"es": "Ararat-Armenia",
+"fr": "Ararat-Armenia",
+"it": "Ararat-Armenia",
+"pt": "Ararat-Armenia",
+"tr": "Ararat-Armenia"
+},
+"id": "football-20261022-ararat-armenia-az-alkmaar",
+"kickoffUtc": "2026-10-22T16:45:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "ararat-armenia-az-alkmaar-2026-10-22"
+},
+"es:football-20261022-besiktas-crystal-palace": {
+"lang": "es",
+"m": {
+"away": "Crystal Palace",
+"awayNames": {
+"ar": "كريستال بالاس",
+"de": "Crystal Palace",
+"en": "Crystal Palace",
+"es": "Crystal Palace",
+"fr": "Crystal Palace",
+"it": "Crystal Palace",
+"pt": "Crystal Palace",
+"tr": "Crystal Palace"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports"
+],
+"CA": [
+"Fubo",
+"DAZN"
+],
+"DE": [
+"RTL+"
+],
+"DZ": [
+"beIN Sports"
+],
+"EG": [
+"beIN Sports"
+],
+"ES": [
+"M+ Liga de Campeones 3",
+"M+ Liga de Campeones 5"
+],
+"FR": [
+"CANAL+ Live 4"
+],
+"GB": [
+"TNT Sports 2",
+"HBO Max"
+],
+"IQ": [
+"beIN Sports"
+],
+"IT": [
+"Sky Sport Calcio"
+],
+"JO": [
+"beIN Sports"
+],
+"LY": [
+"beIN Sports"
+],
+"MA": [
+"beIN Sports"
+],
+"OM": [
+"beIN Sports"
+],
+"QA": [
+"beIN Sports"
+],
+"SA": [
+"beIN Sports"
+],
+"TN": [
+"beIN Sports"
+],
+"TR": [
+"TRT 1",
+"CBC Sport"
+],
+"US": [
+"Paramount+",
+"DAZN"
+]
+},
+"competition": {
+"ar": "الدوري الأوروبي",
+"de": "UEFA Europa League",
+"en": "UEFA Europa League",
+"es": "Europa League",
+"fr": "Ligue Europa",
+"it": "UEFA Europa League",
+"pt": "Liga Europa",
+"tr": "UEFA Avrupa Ligi"
+},
+"competitionId": "europa",
+"home": "Besiktas",
+"homeNames": {
+"ar": "Beşiktaş",
+"de": "Beşiktaş",
+"en": "Beşiktaş",
+"es": "Beşiktaş",
+"fr": "Beşiktaş",
+"it": "Beşiktaş",
+"pt": "Beşiktaş",
+"tr": "Beşiktaş"
+},
+"id": "football-20261022-besiktas-crystal-palace",
+"kickoffUtc": "2026-10-22T19:00:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "besiktas-crystal-palace-2026-10-22"
+},
+"es:football-20261022-borac-banja-luka-kups": {
+"lang": "es",
+"m": {
+"away": "KuPS",
+"awayNames": {
+"ar": "KuPS",
+"de": "KuPS",
+"en": "KuPS",
+"es": "KuPS",
+"fr": "KuPS",
+"it": "KuPS",
+"pt": "KuPS",
+"tr": "KuPS"
+},
+"broadcasts": {
+"DE": [
+"RTL+"
+],
+"ES": [
+"M+ Liga de Campeones 3",
+"Movistar+ Dispositivos"
+],
+"FR": [
+"CANAL+ Live 17"
+],
+"GB": [
+"HBO Max"
+],
+"IT": [
+"Sky Sport"
+],
+"US": [
+"Paramount+",
+"ViX"
+]
+},
+"competition": {
+"ar": "دوري المؤتمر الأوروبي",
+"de": "UEFA Conference League",
+"en": "UEFA Conference League",
+"es": "Conference League",
+"fr": "Ligue Europa Conférence",
+"it": "UEFA Conference League",
+"pt": "Liga Conferência",
+"tr": "UEFA Konferans Ligi"
+},
+"competitionId": "conference",
+"home": "Borac Banja Luka",
+"homeNames": {
+"ar": "Borac Banja Luka",
+"de": "Borac Banja Luka",
+"en": "Borac Banja Luka",
+"es": "Borac Banja Luka",
+"fr": "Borac Banja Luka",
+"it": "Borac Banja Luka",
+"pt": "Borac Banja Luka",
+"tr": "Borac Banja Luka"
+},
+"id": "football-20261022-borac-banja-luka-kups",
+"kickoffUtc": "2026-10-22T19:00:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "borac-banja-luka-kups-2026-10-22"
+},
+"es:football-20261022-bournemouth-ac-milan": {
+"lang": "es",
+"m": {
+"away": "AC Milan",
+"awayNames": {
+"ar": "ميلان",
+"de": "AC Mailand",
+"en": "AC Milan",
+"es": "AC Milan",
+"fr": "AC Milan",
+"it": "AC Milan",
+"pt": "AC Milan",
+"tr": "AC Milan"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports"
+],
+"CA": [
+"Fubo",
+"DAZN"
+],
+"DE": [
+"WOW",
+"Sky Sport 3",
+"RTL+"
+],
+"DZ": [
+"beIN Sports"
+],
+"EG": [
+"beIN Sports"
+],
+"ES": [
+"M+ Liga de Campeones 3",
+"M+ Liga de Campeones 4"
+],
+"FR": [
+"CANAL+ Live 2"
+],
+"GB": [
+"TNT Sports 1",
+"TNT Sports Ultimate",
+"HBO Max"
+],
+"IQ": [
+"beIN Sports"
+],
+"IT": [
+"Sky Sport 1"
+],
+"JO": [
+"beIN Sports"
+],
+"LY": [
+"beIN Sports"
+],
+"MA": [
+"beIN Sports"
+],
+"OM": [
+"beIN Sports"
+],
+"PT": [
+"DAZN 2"
+],
+"QA": [
+"beIN Sports"
+],
+"SA": [
+"beIN Sports"
+],
+"TN": [
+"beIN Sports"
+],
+"TR": [
+"tabii Spor",
+"İçtimai TV"
+],
+"US": [
+"CBS Sports Network",
+"UniMás",
+"TUDN",
+"Paramount+",
+"Fubo",
+"ViX"
+]
+},
+"competition": {
+"ar": "الدوري الأوروبي",
+"de": "UEFA Europa League",
+"en": "UEFA Europa League",
+"es": "Europa League",
+"fr": "Ligue Europa",
+"it": "UEFA Europa League",
+"pt": "Liga Europa",
+"tr": "UEFA Avrupa Ligi"
+},
+"competitionId": "europa",
+"home": "Bournemouth",
+"homeNames": {
+"ar": "بورنموث",
+"de": "Bournemouth",
+"en": "AFC Bournemouth",
+"es": "Bournemouth",
+"fr": "Bournemouth",
+"it": "Bournemouth",
+"pt": "Bournemouth",
+"tr": "Bournemouth"
+},
+"id": "football-20261022-bournemouth-ac-milan",
+"kickoffUtc": "2026-10-22T19:00:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "bournemouth-ac-milan-2026-10-22"
+},
+"es:football-20261022-braga-gent": {
+"lang": "es",
+"m": {
+"away": "Gent",
+"awayNames": {
+"ar": "Gent",
+"de": "Gent",
+"en": "Gent",
+"es": "Gent",
+"fr": "Gent",
+"it": "Gent",
+"pt": "Gent",
+"tr": "Gent"
+},
+"broadcasts": {
+"DE": [
+"RTL+"
+],
+"ES": [
+"M+ Liga de Campeones 13",
+"M+ Liga de Campeones 3"
+],
+"FR": [
+"CANAL+ Live 13"
+],
+"GB": [
+"HBO Max"
+],
+"IT": [
+"Sky Sport"
+],
+"PT": [
+"DAZN 1"
+],
+"US": [
+"Paramount+",
+"ViX"
+]
+},
+"competition": {
+"ar": "دوري المؤتمر الأوروبي",
+"de": "UEFA Conference League",
+"en": "UEFA Conference League",
+"es": "Conference League",
+"fr": "Ligue Europa Conférence",
+"it": "UEFA Conference League",
+"pt": "Liga Conferência",
+"tr": "UEFA Konferans Ligi"
+},
+"competitionId": "conference",
+"home": "Braga",
+"homeNames": {
+"ar": "براغا",
+"de": "SC Braga",
+"en": "SC Braga",
+"es": "Braga",
+"fr": "SC Braga",
+"it": "Braga",
+"pt": "Sporting Braga",
+"tr": "Braga"
+},
+"id": "football-20261022-braga-gent",
+"kickoffUtc": "2026-10-22T19:00:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "braga-gent-2026-10-22"
+},
+"es:football-20261022-celje-salzburg": {
+"lang": "es",
+"m": {
+"away": "Salzburg",
+"awayNames": {
+"ar": "Salzburg",
+"de": "Salzburg",
+"en": "Salzburg",
+"es": "Salzburg",
+"fr": "Salzburg",
+"it": "Salzburg",
+"pt": "Salzburg",
+"tr": "Salzburg"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports"
+],
+"CA": [
+"Fubo",
+"DAZN"
+],
+"DE": [
+"WOW",
+"Sky Sport 5"
+],
+"DZ": [
+"beIN Sports"
+],
+"EG": [
+"beIN Sports"
+],
+"ES": [
+"M+ Liga de Campeones 3",
+"M+ Liga de Campeones 8"
+],
+"FR": [
+"CANAL+ Live 10"
+],
+"GB": [
+"HBO Max"
+],
+"IQ": [
+"beIN Sports"
+],
+"IT": [
+"Sky Sport"
+],
+"JO": [
+"beIN Sports"
+],
+"LY": [
+"beIN Sports"
+],
+"MA": [
+"beIN Sports"
+],
+"OM": [
+"beIN Sports"
+],
+"QA": [
+"beIN Sports"
+],
+"SA": [
+"beIN Sports"
+],
+"TN": [
+"beIN Sports"
+],
+"US": [
+"Paramount+",
+"ViX"
+]
+},
+"competition": {
+"ar": "الدوري الأوروبي",
+"de": "UEFA Europa League",
+"en": "UEFA Europa League",
+"es": "Europa League",
+"fr": "Ligue Europa",
+"it": "UEFA Europa League",
+"pt": "Liga Europa",
+"tr": "UEFA Avrupa Ligi"
+},
+"competitionId": "europa",
+"home": "Celje",
+"homeNames": {
+"ar": "Celje",
+"de": "Celje",
+"en": "Celje",
+"es": "Celje",
+"fr": "Celje",
+"it": "Celje",
+"pt": "Celje",
+"tr": "Celje"
+},
+"id": "football-20261022-celje-salzburg",
+"kickoffUtc": "2026-10-22T19:00:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "celje-salzburg-2026-10-22"
+},
+"es:football-20261022-celtic-celta-vigo": {
+"lang": "es",
+"m": {
+"away": "Celta Vigo",
+"awayNames": {
+"ar": "سيلتا فيغو",
+"de": "Celta Vigo",
+"en": "Celta Vigo",
+"es": "Celta de Vigo",
+"fr": "Celta Vigo",
+"it": "Celta Vigo",
+"pt": "Celta de Vigo",
+"tr": "Celta Vigo"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports"
+],
+"CA": [
+"Fubo",
+"DAZN"
+],
+"DE": [
+"RTL+"
+],
+"DZ": [
+"beIN Sports"
+],
+"EG": [
+"beIN Sports"
+],
+"ES": [
+"Movistar Plus+",
+"M+ Liga de Campeones",
+"M+ Liga de Campeones 3",
+"LaLiga TV Bar"
+],
+"FR": [
+"CANAL+ Live 5"
+],
+"GB": [
+"TNT Sports 3",
+"HBO Max"
+],
+"IQ": [
+"beIN Sports"
+],
+"IT": [
+"Sky Sport Mix"
+],
+"JO": [
+"beIN Sports"
+],
+"LY": [
+"beIN Sports"
+],
+"MA": [
+"beIN Sports"
+],
+"OM": [
+"beIN Sports"
+],
+"PT": [
+"DAZN 3"
+],
+"QA": [
+"beIN Sports"
+],
+"SA": [
+"beIN Sports"
+],
+"TN": [
+"beIN Sports"
+],
+"TR": [
+"tabii Spor 3"
+],
+"US": [
+"Paramount+",
+"ViX"
+]
+},
+"competition": {
+"ar": "الدوري الأوروبي",
+"de": "UEFA Europa League",
+"en": "UEFA Europa League",
+"es": "Europa League",
+"fr": "Ligue Europa",
+"it": "UEFA Europa League",
+"pt": "Liga Europa",
+"tr": "UEFA Avrupa Ligi"
+},
+"competitionId": "europa",
+"home": "Celtic",
+"homeNames": {
+"ar": "سلتيك",
+"de": "Celtic Glasgow",
+"en": "Celtic",
+"es": "Celtic",
+"fr": "Celtic",
+"it": "Celtic",
+"pt": "Celtic",
+"tr": "Celtic"
+},
+"id": "football-20261022-celtic-celta-vigo",
+"kickoffUtc": "2026-10-22T19:00:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "celtic-celta-de-vigo-2026-10-22"
+},
+"es:football-20261022-crvena-zvezda-fc-copenhagen": {
+"lang": "es",
+"m": {
+"away": "FC Copenhagen",
+"awayNames": {
+"ar": "FC Copenhagen",
+"de": "FC Copenhagen",
+"en": "FC Copenhagen",
+"es": "FC Copenhagen",
+"fr": "FC Copenhagen",
+"it": "FC Copenhagen",
+"pt": "FC Copenhagen",
+"tr": "FC Copenhagen"
+},
+"broadcasts": {
+"DE": [
+"RTL+"
+],
+"ES": [
+"M+ Liga de Campeones 3",
+"Movistar+ Dispositivos"
+],
+"FR": [
+"CANAL+ Live 9"
+],
+"GB": [
+"TNT Sports 9",
+"HBO Max"
+],
+"IT": [
+"Sky Sport"
+],
+"US": [
+"Paramount+",
+"ViX"
+]
+},
+"competition": {
+"ar": "دوري المؤتمر الأوروبي",
+"de": "UEFA Conference League",
+"en": "UEFA Conference League",
+"es": "Conference League",
+"fr": "Ligue Europa Conférence",
+"it": "UEFA Conference League",
+"pt": "Liga Conferência",
+"tr": "UEFA Konferans Ligi"
+},
+"competitionId": "conference",
+"home": "Crvena Zvezda",
+"homeNames": {
+"ar": "النجم الأحمر",
+"de": "Roter Stern Belgrad",
+"en": "Crvena Zvezda",
+"es": "Estrella Roja",
+"fr": "Étoile rouge de Belgrade",
+"it": "Stella Rossa",
+"pt": "Estrela Vermelha",
+"tr": "Kızılyıldız"
+},
+"id": "football-20261022-crvena-zvezda-fc-copenhagen",
+"kickoffUtc": "2026-10-22T16:45:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "estrella-roja-fc-copenhagen-2026-10-22"
+},
+"es:football-20261022-dinamo-zagreb-nec-nijmegen": {
+"lang": "es",
+"m": {
+"away": "NEC Nijmegen",
+"awayNames": {
+"ar": "NEC Nijmegen",
+"de": "NEC Nijmegen",
+"en": "NEC Nijmegen",
+"es": "NEC Nijmegen",
+"fr": "NEC Nijmegen",
+"it": "NEC Nijmegen",
+"pt": "NEC Nijmegen",
+"tr": "NEC Nijmegen"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports"
+],
+"CA": [
+"Fubo",
+"DAZN"
+],
+"DE": [
+"WOW",
+"RTL+",
+"Sky Sport 4"
+],
+"DZ": [
+"beIN Sports"
+],
+"EG": [
+"beIN Sports"
+],
+"ES": [
+"M+ Liga de Campeones 3",
+"M+ Liga de Campeones 8"
+],
+"FR": [
+"CANAL+ Live 8"
+],
+"GB": [
+"HBO Max"
+],
+"IQ": [
+"beIN Sports"
+],
+"IT": [
+"Sky Sport"
+],
+"JO": [
+"beIN Sports"
+],
+"LY": [
+"beIN Sports"
+],
+"MA": [
+"beIN Sports"
+],
+"OM": [
+"beIN Sports"
+],
+"QA": [
+"beIN Sports"
+],
+"SA": [
+"beIN Sports"
+],
+"TN": [
+"beIN Sports"
+],
+"TR": [
+"tabii Spor 5"
+],
+"US": [
+"Paramount+",
+"ViX"
+]
+},
+"competition": {
+"ar": "الدوري الأوروبي",
+"de": "UEFA Europa League",
+"en": "UEFA Europa League",
+"es": "Europa League",
+"fr": "Ligue Europa",
+"it": "UEFA Europa League",
+"pt": "Liga Europa",
+"tr": "UEFA Avrupa Ligi"
+},
+"competitionId": "europa",
+"home": "Dinamo Zagreb",
+"homeNames": {
+"ar": "Dinamo Zagreb",
+"de": "Dinamo Zagreb",
+"en": "Dinamo Zagreb",
+"es": "Dinamo Zagreb",
+"fr": "Dinamo Zagreb",
+"it": "Dinamo Zagreb",
+"pt": "Dinamo Zagreb",
+"tr": "Dinamo Zagreb"
+},
+"id": "football-20261022-dinamo-zagreb-nec-nijmegen",
+"kickoffUtc": "2026-10-22T16:45:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "dinamo-zagreb-nec-nijmegen-2026-10-22"
+},
+"es:football-20261022-ferencvaros-torreense": {
+"lang": "es",
+"m": {
+"away": "Torreense",
+"awayNames": {
+"ar": "توريينسي",
+"de": "Torreense",
+"en": "Torreense",
+"es": "Torreense",
+"fr": "Torreense",
+"it": "Torreense",
+"pt": "Torreense",
+"tr": "Torreense"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports"
+],
+"CA": [
+"Fubo",
+"DAZN"
+],
+"DE": [
+"RTL+"
+],
+"DZ": [
+"beIN Sports"
+],
+"EG": [
+"beIN Sports"
+],
+"ES": [
+"M+ Liga de Campeones 3",
+"M+ Liga de Campeones 7"
+],
+"FR": [
+"CANAL+ Live 5"
+],
+"GB": [
+"HBO Max"
+],
+"IQ": [
+"beIN Sports"
+],
+"IT": [
+"Sky Sport"
+],
+"JO": [
+"beIN Sports"
+],
+"LY": [
+"beIN Sports"
+],
+"MA": [
+"beIN Sports"
+],
+"OM": [
+"beIN Sports"
+],
+"PT": [
+"DAZN 1"
+],
+"QA": [
+"beIN Sports"
+],
+"SA": [
+"beIN Sports"
+],
+"TN": [
+"beIN Sports"
+],
+"TR": [
+"tabii Spor 3"
+],
+"US": [
+"Paramount+",
+"ViX"
+]
+},
+"competition": {
+"ar": "الدوري الأوروبي",
+"de": "UEFA Europa League",
+"en": "UEFA Europa League",
+"es": "Europa League",
+"fr": "Ligue Europa",
+"it": "UEFA Europa League",
+"pt": "Liga Europa",
+"tr": "UEFA Avrupa Ligi"
+},
+"competitionId": "europa",
+"home": "Ferencvaros",
+"homeNames": {
+"ar": "Ferencváros",
+"de": "Ferencváros",
+"en": "Ferencváros",
+"es": "Ferencváros",
+"fr": "Ferencváros",
+"it": "Ferencváros",
+"pt": "Ferencváros",
+"tr": "Ferencváros"
+},
+"id": "football-20261022-ferencvaros-torreense",
+"kickoffUtc": "2026-10-22T16:45:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "ferencvaros-torreense-2026-10-22"
+},
+"es:football-20261022-getafe-lugano": {
+"lang": "es",
+"m": {
+"away": "Lugano",
+"awayNames": {
+"ar": "Lugano",
+"de": "Lugano",
+"en": "Lugano",
+"es": "Lugano",
+"fr": "Lugano",
+"it": "Lugano",
+"pt": "Lugano",
+"tr": "Lugano"
+},
+"broadcasts": {
+"DE": [
+"RTL+"
+],
+"ES": [
+"M+ Liga de Campeones",
+"M+ Liga de Campeones 3",
+"LaLiga TV Bar"
+],
+"FR": [
+"CANAL+ Live 10"
+],
+"GB": [
+"HBO Max"
+],
+"IT": [
+"Sky Sport"
+],
+"US": [
+"Paramount+",
+"ViX"
+]
+},
+"competition": {
+"ar": "دوري المؤتمر الأوروبي",
+"de": "UEFA Conference League",
+"en": "UEFA Conference League",
+"es": "Conference League",
+"fr": "Ligue Europa Conférence",
+"it": "UEFA Conference League",
+"pt": "Liga Conferência",
+"tr": "UEFA Konferans Ligi"
+},
+"competitionId": "conference",
+"home": "Getafe",
+"homeNames": {
+"ar": "خيتافي",
+"de": "Getafe",
+"en": "Getafe",
+"es": "Getafe",
+"fr": "Getafe",
+"it": "Getafe",
+"pt": "Getafe",
+"tr": "Getafe"
+},
+"id": "football-20261022-getafe-lugano",
+"kickoffUtc": "2026-10-22T16:45:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "getafe-lugano-2026-10-22"
+},
+"es:football-20261022-hoffenheim-lyon": {
+"lang": "es",
+"m": {
+"away": "Lyon",
+"awayNames": {
+"ar": "أولمبيك ليون",
+"de": "Olympique Lyon",
+"en": "Olympique Lyonnais",
+"es": "Olympique de Lyon",
+"fr": "Olympique Lyonnais",
+"it": "Lione",
+"pt": "Lyon",
+"tr": "Lyon"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports"
+],
+"CA": [
+"Fubo",
+"DAZN"
+],
+"DE": [
+"WOW",
+"RTL+",
+"Sky Top Event",
+"Sky Sport 1"
+],
+"DZ": [
+"beIN Sports"
+],
+"EG": [
+"beIN Sports"
+],
+"ES": [
+"M+ Liga de Campeones 3",
+"M+ Liga de Campeones 10"
+],
+"FR": [
+"CANAL+"
+],
+"GB": [
+"TNT Sports 5",
+"HBO Max"
+],
+"IQ": [
+"beIN Sports"
+],
+"IT": [
+"Sky Sport"
+],
+"JO": [
+"beIN Sports"
+],
+"LY": [
+"beIN Sports"
+],
+"MA": [
+"beIN Sports"
+],
+"OM": [
+"beIN Sports"
+],
+"QA": [
+"beIN Sports"
+],
+"SA": [
+"beIN Sports"
+],
+"TN": [
+"beIN Sports"
+],
+"TR": [
+"tabii Spor 1"
+],
+"US": [
+"Paramount+",
+"DAZN"
+]
+},
+"competition": {
+"ar": "الدوري الأوروبي",
+"de": "UEFA Europa League",
+"en": "UEFA Europa League",
+"es": "Europa League",
+"fr": "Ligue Europa",
+"it": "UEFA Europa League",
+"pt": "Liga Europa",
+"tr": "UEFA Avrupa Ligi"
+},
+"competitionId": "europa",
+"home": "Hoffenheim",
+"homeNames": {
+"ar": "هوفنهايم",
+"de": "TSG Hoffenheim",
+"en": "Hoffenheim",
+"es": "Hoffenheim",
+"fr": "Hoffenheim",
+"it": "Hoffenheim",
+"pt": "Hoffenheim",
+"tr": "Hoffenheim"
+},
+"id": "football-20261022-hoffenheim-lyon",
+"kickoffUtc": "2026-10-22T19:00:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "hoffenheim-olympique-de-lyon-2026-10-22"
+},
+"es:football-20261022-iberia-1999-mjallby": {
+"lang": "es",
+"m": {
+"away": "Mjallby",
+"awayNames": {
+"ar": "Mjällby",
+"de": "Mjällby",
+"en": "Mjällby",
+"es": "Mjällby",
+"fr": "Mjällby",
+"it": "Mjällby",
+"pt": "Mjällby",
+"tr": "Mjällby"
+},
+"broadcasts": {
+"DE": [
+"RTL+"
+],
+"ES": [
+"M+ Liga de Campeones 3",
+"Movistar+ Dispositivos"
+],
+"FR": [
+"CANAL+ Live 15"
+],
+"GB": [
+"HBO Max"
+],
+"IT": [
+"Sky Sport"
+],
+"US": [
+"Paramount+",
+"ViX"
+]
+},
+"competition": {
+"ar": "دوري المؤتمر الأوروبي",
+"de": "UEFA Conference League",
+"en": "UEFA Conference League",
+"es": "Conference League",
+"fr": "Ligue Europa Conférence",
+"it": "UEFA Conference League",
+"pt": "Liga Conferência",
+"tr": "UEFA Konferans Ligi"
+},
+"competitionId": "conference",
+"home": "Iberia 1999",
+"homeNames": {
+"ar": "Iberia 1999",
+"de": "Iberia 1999",
+"en": "Iberia 1999",
+"es": "Iberia 1999",
+"fr": "Iberia 1999",
+"it": "Iberia 1999",
+"pt": "Iberia 1999",
+"tr": "Iberia 1999"
+},
+"id": "football-20261022-iberia-1999-mjallby",
+"kickoffUtc": "2026-10-22T16:45:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "iberia-1999-mjallby-2026-10-22"
+},
+"es:football-20261022-inter-escaldes-universitatea-craiova": {
+"lang": "es",
+"m": {
+"away": "Universitatea Craiova",
+"awayNames": {
+"ar": "Universitatea Craiova",
+"de": "Universitatea Craiova",
+"en": "Universitatea Craiova",
+"es": "Universitatea Craiova",
+"fr": "Universitatea Craiova",
+"it": "Universitatea Craiova",
+"pt": "Universitatea Craiova",
+"tr": "Universitatea Craiova"
+},
+"broadcasts": {
+"DE": [
+"RTL+"
+],
+"ES": [
+"M+ Liga de Campeones 12",
+"M+ Liga de Campeones 3"
+],
+"FR": [
+"CANAL+ Live 16"
+],
+"GB": [
+"HBO Max"
+],
+"IT": [
+"Sky Sport"
+],
+"US": [
+"Paramount+",
+"ViX"
+]
+},
+"competition": {
+"ar": "دوري المؤتمر الأوروبي",
+"de": "UEFA Conference League",
+"en": "UEFA Conference League",
+"es": "Conference League",
+"fr": "Ligue Europa Conférence",
+"it": "UEFA Conference League",
+"pt": "Liga Conferência",
+"tr": "UEFA Konferans Ligi"
+},
+"competitionId": "conference",
+"home": "Inter Escaldes",
+"homeNames": {
+"ar": "Inter Club d'Escaldes",
+"de": "Inter Club d'Escaldes",
+"en": "Inter Club d'Escaldes",
+"es": "Inter Club d'Escaldes",
+"fr": "Inter Club d'Escaldes",
+"it": "Inter Club d'Escaldes",
+"pt": "Inter Club d'Escaldes",
+"tr": "Inter Club d'Escaldes"
+},
+"id": "football-20261022-inter-escaldes-universitatea-craiova",
+"kickoffUtc": "2026-10-22T16:45:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "inter-club-d-escaldes-universitatea-craiova-2026-10-22"
+},
+"es:football-20261022-jablonec-brighton": {
+"lang": "es",
+"m": {
+"away": "Brighton",
+"awayNames": {
+"ar": "برايتون",
+"de": "Brighton",
+"en": "Brighton & Hove Albion",
+"es": "Brighton",
+"fr": "Brighton",
+"it": "Brighton",
+"pt": "Brighton",
+"tr": "Brighton"
+},
+"broadcasts": {
+"DE": [
+"RTL+"
+],
+"ES": [
+"M+ Liga de Campeones 3",
+"M+ Liga de Campeones 11"
+],
+"FR": [
+"CANAL+ Live 11"
+],
+"GB": [
+"TNT Sports 2",
+"HBO Max"
+],
+"IT": [
+"Sky Sport"
+],
+"US": [
+"Paramount+",
+"ViX"
+]
+},
+"competition": {
+"ar": "دوري المؤتمر الأوروبي",
+"de": "UEFA Conference League",
+"en": "UEFA Conference League",
+"es": "Conference League",
+"fr": "Ligue Europa Conférence",
+"it": "UEFA Conference League",
+"pt": "Liga Conferência",
+"tr": "UEFA Konferans Ligi"
+},
+"competitionId": "conference",
+"home": "Jablonec",
+"homeNames": {
+"ar": "Jablonec",
+"de": "Jablonec",
+"en": "Jablonec",
+"es": "Jablonec",
+"fr": "Jablonec",
+"it": "Jablonec",
+"pt": "Jablonec",
+"tr": "Jablonec"
+},
+"id": "football-20261022-jablonec-brighton",
+"kickoffUtc": "2026-10-22T16:45:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "jablonec-brighton-2026-10-22"
+},
+"es:football-20261022-jagiellonia-bialystok-anderlecht": {
+"lang": "es",
+"m": {
+"away": "Anderlecht",
+"awayNames": {
+"ar": "Anderlecht",
+"de": "Anderlecht",
+"en": "Anderlecht",
+"es": "Anderlecht",
+"fr": "Anderlecht",
+"it": "Anderlecht",
+"pt": "Anderlecht",
+"tr": "Anderlecht"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports"
+],
+"CA": [
+"Fubo",
+"DAZN"
+],
+"DE": [
+"RTL+"
+],
+"DZ": [
+"beIN Sports"
+],
+"EG": [
+"beIN Sports"
+],
+"ES": [
+"M+ Liga de Campeones 3",
+"M+ Liga de Campeones 9"
+],
+"FR": [
+"CANAL+ Live 9"
+],
+"GB": [
+"HBO Max"
+],
+"IQ": [
+"beIN Sports"
+],
+"IT": [
+"Sky Sport"
+],
+"JO": [
+"beIN Sports"
+],
+"LY": [
+"beIN Sports"
+],
+"MA": [
+"beIN Sports"
+],
+"OM": [
+"beIN Sports"
+],
+"QA": [
+"beIN Sports"
+],
+"SA": [
+"beIN Sports"
+],
+"TN": [
+"beIN Sports"
+],
+"US": [
+"Paramount+",
+"ViX"
+]
+},
+"competition": {
+"ar": "الدوري الأوروبي",
+"de": "UEFA Europa League",
+"en": "UEFA Europa League",
+"es": "Europa League",
+"fr": "Ligue Europa",
+"it": "UEFA Europa League",
+"pt": "Liga Europa",
+"tr": "UEFA Avrupa Ligi"
+},
+"competitionId": "europa",
+"home": "Jagiellonia Bialystok",
+"homeNames": {
+"ar": "ياغيلونيا",
+"de": "Jagiellonia Białystok",
+"en": "Jagiellonia Białystok",
+"es": "Jagiellonia Białystok",
+"fr": "Jagiellonia Białystok",
+"it": "Jagiellonia Białystok",
+"pt": "Jagiellonia Białystok",
+"tr": "Jagiellonia Białystok"
+},
+"id": "football-20261022-jagiellonia-bialystok-anderlecht",
+"kickoffUtc": "2026-10-22T19:00:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "jagiellonia-bialystok-anderlecht-2026-10-22"
+},
+"es:football-20261022-juventus-rennes": {
+"lang": "es",
+"m": {
+"away": "Rennes",
+"awayNames": {
+"ar": "رين",
+"de": "Stade Rennes",
+"en": "Stade Rennais",
+"es": "Rennes",
+"fr": "Rennes",
+"it": "Rennes",
+"pt": "Rennes",
+"tr": "Rennes"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports"
+],
+"CA": [
+"Fubo",
+"DAZN"
+],
+"DE": [
+"RTL+",
+"WOW",
+"Sky Sport 3"
+],
+"DZ": [
+"beIN Sports"
+],
+"EG": [
+"beIN Sports"
+],
+"ES": [
+"M+ Liga de Campeones 3",
+"M+ Liga de Campeones 4"
+],
+"FR": [
+"CANAL+ Sport"
+],
+"GB": [
+"TNT Sports 5",
+"HBO Max"
+],
+"IQ": [
+"beIN Sports"
+],
+"IT": [
+"Sky Sport 1"
+],
+"JO": [
+"beIN Sports"
+],
+"LY": [
+"beIN Sports"
+],
+"MA": [
+"beIN Sports"
+],
+"OM": [
+"beIN Sports"
+],
+"PT": [
+"DAZN 2"
+],
+"QA": [
+"beIN Sports"
+],
+"SA": [
+"beIN Sports"
+],
+"TN": [
+"beIN Sports"
+],
+"TR": [
+"tabii Spor",
+"CBC Sport"
+],
+"US": [
+"CBS Sports Network",
+"TUDN",
+"Paramount+",
+"Fubo",
+"ViX"
+]
+},
+"competition": {
+"ar": "الدوري الأوروبي",
+"de": "UEFA Europa League",
+"en": "UEFA Europa League",
+"es": "Europa League",
+"fr": "Ligue Europa",
+"it": "UEFA Europa League",
+"pt": "Liga Europa",
+"tr": "UEFA Avrupa Ligi"
+},
+"competitionId": "europa",
+"home": "Juventus",
+"homeNames": {
+"ar": "يوفنتوس",
+"de": "Juventus",
+"en": "Juventus",
+"es": "Juventus",
+"fr": "Juventus",
+"it": "Juventus",
+"pt": "Juventus",
+"tr": "Juventus"
+},
+"id": "football-20261022-juventus-rennes",
+"kickoffUtc": "2026-10-22T16:45:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "juventus-rennes-2026-10-22"
+},
+"es:football-20261022-kairat-almaty-panathinaikos": {
+"lang": "es",
+"m": {
+"away": "Panathinaikos",
+"awayNames": {
+"ar": "باناثينايكوس",
+"de": "Panathinaikos",
+"en": "Panathinaikos",
+"es": "Panathinaikos",
+"fr": "Panathinaikos",
+"it": "Panathinaikos",
+"pt": "Panathinaikos",
+"tr": "Panathinaikos"
+},
+"broadcasts": {
+"DE": [
+"RTL+"
+],
+"ES": [
+"M+ Liga de Campeones 2"
+],
+"FR": [
+"CANAL+ Live 14"
+],
+"GB": [
+"TNT Sports 9",
+"HBO Max"
+],
+"IT": [
+"Sky Sport Calcio"
+],
+"PT": [
+"DAZN 2"
+],
+"US": [
+"Paramount+",
+"ViX"
+]
+},
+"competition": {
+"ar": "دوري المؤتمر الأوروبي",
+"de": "UEFA Conference League",
+"en": "UEFA Conference League",
+"es": "Conference League",
+"fr": "Ligue Europa Conférence",
+"it": "UEFA Conference League",
+"pt": "Liga Conferência",
+"tr": "UEFA Konferans Ligi"
+},
+"competitionId": "conference",
+"home": "Kairat Almaty",
+"homeNames": {
+"ar": "Kairat Almaty",
+"de": "Kairat Almaty",
+"en": "Kairat Almaty",
+"es": "Kairat Almaty",
+"fr": "Kairat Almaty",
+"it": "Kairat Almaty",
+"pt": "Kairat Almaty",
+"tr": "Kairat Almaty"
+},
+"id": "football-20261022-kairat-almaty-panathinaikos",
+"kickoffUtc": "2026-10-22T14:30:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "kairat-almaty-panathinaikos-2026-10-22"
+},
+"es:football-20261022-kauno-zalgiris-brann": {
+"lang": "es",
+"m": {
+"away": "Brann",
+"awayNames": {
+"ar": "Brann",
+"de": "Brann",
+"en": "Brann",
+"es": "Brann",
+"fr": "Brann",
+"it": "Brann",
+"pt": "Brann",
+"tr": "Brann"
+},
+"broadcasts": {
+"DE": [
+"RTL+"
+],
+"ES": [
+"M+ Liga de Campeones 3",
+"Movistar+ Dispositivos"
+],
+"FR": [
+"CANAL+ Live 17"
+],
+"GB": [
+"HBO Max"
+],
+"IT": [
+"Sky Sport"
+],
+"US": [
+"Paramount+",
+"ViX"
+]
+},
+"competition": {
+"ar": "دوري المؤتمر الأوروبي",
+"de": "UEFA Conference League",
+"en": "UEFA Conference League",
+"es": "Conference League",
+"fr": "Ligue Europa Conférence",
+"it": "UEFA Conference League",
+"pt": "Liga Conferência",
+"tr": "UEFA Konferans Ligi"
+},
+"competitionId": "conference",
+"home": "Kauno Zalgiris",
+"homeNames": {
+"ar": "Kauno Žalgiris",
+"de": "Kauno Žalgiris",
+"en": "Kauno Žalgiris",
+"es": "Kauno Žalgiris",
+"fr": "Kauno Žalgiris",
+"it": "Kauno Žalgiris",
+"pt": "Kauno Žalgiris",
+"tr": "Kauno Žalgiris"
+},
+"id": "football-20261022-kauno-zalgiris-brann",
+"kickoffUtc": "2026-10-22T16:45:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "kauno-zalgiris-brann-2026-10-22"
+},
+"es:football-20261022-lech-poznan-sunderland": {
+"lang": "es",
+"m": {
+"away": "Sunderland",
+"awayNames": {
+"ar": "سندرلاند",
+"de": "AFC Sunderland",
+"en": "Sunderland",
+"es": "Sunderland",
+"fr": "Sunderland",
+"it": "Sunderland",
+"pt": "Sunderland",
+"tr": "Sunderland"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports"
+],
+"CA": [
+"Fubo",
+"DAZN"
+],
+"DE": [
+"WOW",
+"Sky Sport 2"
+],
+"DZ": [
+"beIN Sports"
+],
+"EG": [
+"beIN Sports"
+],
+"ES": [
+"M+ Liga de Campeones 3",
+"M+ Liga de Campeones 9"
+],
+"FR": [
+"CANAL+ Live 6"
+],
+"GB": [
+"TNT Sports 1",
+"HBO Max"
+],
+"IQ": [
+"beIN Sports"
+],
+"IT": [
+"Sky Sport Mix"
+],
+"JO": [
+"beIN Sports"
+],
+"LY": [
+"beIN Sports"
+],
+"MA": [
+"beIN Sports"
+],
+"OM": [
+"beIN Sports"
+],
+"PT": [
+"DAZN 3"
+],
+"QA": [
+"beIN Sports"
+],
+"SA": [
+"beIN Sports"
+],
+"TN": [
+"beIN Sports"
+],
+"TR": [
+"tabii Spor 2"
+],
+"US": [
+"Paramount+",
+"ViX"
+]
+},
+"competition": {
+"ar": "الدوري الأوروبي",
+"de": "UEFA Europa League",
+"en": "UEFA Europa League",
+"es": "Europa League",
+"fr": "Ligue Europa",
+"it": "UEFA Europa League",
+"pt": "Liga Europa",
+"tr": "UEFA Avrupa Ligi"
+},
+"competitionId": "europa",
+"home": "Lech Poznan",
+"homeNames": {
+"ar": "Lech Poznan",
+"de": "Lech Poznan",
+"en": "Lech Poznan",
+"es": "Lech Poznan",
+"fr": "Lech Poznan",
+"it": "Lech Poznan",
+"pt": "Lech Poznan",
+"tr": "Lech Poznan"
+},
+"id": "football-20261022-lech-poznan-sunderland",
+"kickoffUtc": "2026-10-22T16:45:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "lech-poznan-sunderland-2026-10-22"
+},
+"es:football-20261022-lillestrom-real-sociedad": {
+"lang": "es",
+"m": {
+"away": "Real Sociedad",
+"awayNames": {
+"ar": "ريال سوسيداد",
+"de": "Real Sociedad",
+"en": "Real Sociedad",
+"es": "Real Sociedad",
+"fr": "Real Sociedad",
+"it": "Real Sociedad",
+"pt": "Real Sociedad",
+"tr": "Real Sociedad"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports"
+],
+"CA": [
+"Fubo",
+"DAZN"
+],
+"DE": [
+"RTL+"
+],
+"DZ": [
+"beIN Sports"
+],
+"EG": [
+"beIN Sports"
+],
+"ES": [
+"M+ Liga de Campeones 2",
+"M+ Liga de Campeones 3"
+],
+"FR": [
+"CANAL+ Live 6"
+],
+"GB": [
+"TNT Sports 7",
+"HBO Max"
+],
+"IQ": [
+"beIN Sports"
+],
+"IT": [
+"Sky Sport"
+],
+"JO": [
+"beIN Sports"
+],
+"LY": [
+"beIN Sports"
+],
+"MA": [
+"beIN Sports"
+],
+"OM": [
+"beIN Sports"
+],
+"QA": [
+"beIN Sports"
+],
+"SA": [
+"beIN Sports"
+],
+"TN": [
+"beIN Sports"
+],
+"TR": [
+"tabii Spor 5"
+],
+"US": [
+"Paramount+",
+"DAZN"
+]
+},
+"competition": {
+"ar": "الدوري الأوروبي",
+"de": "UEFA Europa League",
+"en": "UEFA Europa League",
+"es": "Europa League",
+"fr": "Ligue Europa",
+"it": "UEFA Europa League",
+"pt": "Liga Europa",
+"tr": "UEFA Avrupa Ligi"
+},
+"competitionId": "europa",
+"home": "Lillestrom",
+"homeNames": {
+"ar": "Lillestrøm",
+"de": "Lillestrøm",
+"en": "Lillestrøm",
+"es": "Lillestrøm",
+"fr": "Lillestrøm",
+"it": "Lillestrøm",
+"pt": "Lillestrøm",
+"tr": "Lillestrøm"
+},
+"id": "football-20261022-lillestrom-real-sociedad",
+"kickoffUtc": "2026-10-22T19:00:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "lillestrom-real-sociedad-2026-10-22"
+},
+"es:football-20261022-lincoln-red-imps-twente": {
+"lang": "es",
+"m": {
+"away": "Twente",
+"awayNames": {
+"ar": "Twente",
+"de": "Twente",
+"en": "Twente",
+"es": "Twente",
+"fr": "Twente",
+"it": "Twente",
+"pt": "Twente",
+"tr": "Twente"
+},
+"broadcasts": {
+"DE": [
+"RTL+"
+],
+"ES": [
+"M+ Liga de Campeones 3",
+"Movistar+ Dispositivos"
+],
+"FR": [
+"CANAL+ Live 18"
+],
+"GB": [
+"HBO Max"
+],
+"IT": [
+"Sky Sport"
+],
+"US": [
+"Paramount+",
+"ViX"
+]
+},
+"competition": {
+"ar": "دوري المؤتمر الأوروبي",
+"de": "UEFA Conference League",
+"en": "UEFA Conference League",
+"es": "Conference League",
+"fr": "Ligue Europa Conférence",
+"it": "UEFA Conference League",
+"pt": "Liga Conferência",
+"tr": "UEFA Konferans Ligi"
+},
+"competitionId": "conference",
+"home": "Lincoln Red Imps",
+"homeNames": {
+"ar": "Lincoln Red Imps",
+"de": "Lincoln Red Imps",
+"en": "Lincoln Red Imps",
+"es": "Lincoln Red Imps",
+"fr": "Lincoln Red Imps",
+"it": "Lincoln Red Imps",
+"pt": "Lincoln Red Imps",
+"tr": "Lincoln Red Imps"
+},
+"id": "football-20261022-lincoln-red-imps-twente",
+"kickoffUtc": "2026-10-22T19:00:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "lincoln-red-imps-twente-2026-10-22"
+},
+"es:football-20261022-midtjylland-sint-truiden": {
+"lang": "es",
+"m": {
+"away": "Sint-Truiden",
+"awayNames": {
+"ar": "Sint-Truiden",
+"de": "Sint-Truiden",
+"en": "Sint-Truiden",
+"es": "Sint-Truiden",
+"fr": "Sint-Truiden",
+"it": "Sint-Truiden",
+"pt": "Sint-Truiden",
+"tr": "Sint-Truiden"
+},
+"broadcasts": {
+"DE": [
+"RTL+"
+],
+"ES": [
+"M+ Liga de Campeones 3",
+"Movistar+ Dispositivos"
+],
+"FR": [
+"CANAL+ Live 15"
+],
+"GB": [
+"HBO Max"
+],
+"IT": [
+"Sky Sport"
+],
+"US": [
+"Paramount+",
+"ViX"
+]
+},
+"competition": {
+"ar": "دوري المؤتمر الأوروبي",
+"de": "UEFA Conference League",
+"en": "UEFA Conference League",
+"es": "Conference League",
+"fr": "Ligue Europa Conférence",
+"it": "UEFA Conference League",
+"pt": "Liga Conferência",
+"tr": "UEFA Konferans Ligi"
+},
+"competitionId": "conference",
+"home": "Midtjylland",
+"homeNames": {
+"ar": "Midtjylland",
+"de": "Midtjylland",
+"en": "Midtjylland",
+"es": "Midtjylland",
+"fr": "Midtjylland",
+"it": "Midtjylland",
+"pt": "Midtjylland",
+"tr": "Midtjylland"
+},
+"id": "football-20261022-midtjylland-sint-truiden",
+"kickoffUtc": "2026-10-22T19:00:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "midtjylland-sint-truiden-2026-10-22"
+},
+"es:football-20261022-monaco-freiburg": {
+"lang": "es",
+"m": {
+"away": "Freiburg",
+"awayNames": {
+"ar": "SC Freiburg",
+"de": "SC Freiburg",
+"en": "SC Freiburg",
+"es": "SC Freiburg",
+"fr": "SC Freiburg",
+"it": "SC Freiburg",
+"pt": "SC Freiburg",
+"tr": "SC Freiburg"
+},
+"broadcasts": {
+"DE": [
+"WOW",
+"RTL+",
+"Sky Sport 2",
+"RTL"
+],
+"ES": [
+"M+ Liga de Campeones 12",
+"M+ Liga de Campeones 3"
+],
+"FR": [
+"CANAL+ Foot"
+],
+"GB": [
+"TNT Sports 9",
+"HBO Max"
+],
+"IT": [
+"Sky Sport"
+],
+"US": [
+"Paramount+",
+"ViX"
+]
+},
+"competition": {
+"ar": "دوري المؤتمر الأوروبي",
+"de": "UEFA Conference League",
+"en": "UEFA Conference League",
+"es": "Conference League",
+"fr": "Ligue Europa Conférence",
+"it": "UEFA Conference League",
+"pt": "Liga Conferência",
+"tr": "UEFA Konferans Ligi"
+},
+"competitionId": "conference",
+"home": "Monaco",
+"homeNames": {
+"ar": "موناكو",
+"de": "AS Monaco",
+"en": "AS Monaco",
+"es": "AS Mónaco",
+"fr": "AS Monaco",
+"it": "AS Monaco",
+"pt": "AS Monaco",
+"tr": "Monaco"
+},
+"id": "football-20261022-monaco-freiburg",
+"kickoffUtc": "2026-10-22T19:00:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "as-monaco-sc-freiburg-2026-10-22"
+},
+"es:football-20261022-nordsjaelland-cska-sofia": {
+"lang": "es",
+"m": {
+"away": "CSKA Sofia",
+"awayNames": {
+"ar": "CSKA Sofia",
+"de": "CSKA Sofia",
+"en": "CSKA Sofia",
+"es": "CSKA Sofia",
+"fr": "CSKA Sofia",
+"it": "CSKA Sofia",
+"pt": "CSKA Sofia",
+"tr": "CSKA Sofia"
+},
+"broadcasts": {
+"DE": [
+"RTL+"
+],
+"ES": [
+"M+ Liga de Campeones 3",
+"Movistar+ Dispositivos"
+],
+"FR": [
+"CANAL+ Live 18"
+],
+"GB": [
+"HBO Max"
+],
+"IT": [
+"Sky Sport"
+],
+"US": [
+"Paramount+",
+"ViX"
+]
+},
+"competition": {
+"ar": "دوري المؤتمر الأوروبي",
+"de": "UEFA Conference League",
+"en": "UEFA Conference League",
+"es": "Conference League",
+"fr": "Ligue Europa Conférence",
+"it": "UEFA Conference League",
+"pt": "Liga Conferência",
+"tr": "UEFA Konferans Ligi"
+},
+"competitionId": "conference",
+"home": "Nordsjaelland",
+"homeNames": {
+"ar": "Nordsjælland",
+"de": "Nordsjælland",
+"en": "Nordsjælland",
+"es": "Nordsjælland",
+"fr": "Nordsjælland",
+"it": "Nordsjælland",
+"pt": "Nordsjælland",
+"tr": "Nordsjælland"
+},
+"id": "football-20261022-nordsjaelland-cska-sofia",
+"kickoffUtc": "2026-10-22T16:45:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "nordsjaelland-cska-sofia-2026-10-22"
+},
+"es:football-20261022-ofi-crete-leverkusen": {
+"lang": "es",
+"m": {
+"away": "Leverkusen",
+"awayNames": {
+"ar": "باير ليفركوزن",
+"de": "Bayer 04 Leverkusen",
+"en": "Bayer Leverkusen",
+"es": "Bayer Leverkusen",
+"fr": "Bayer Leverkusen",
+"it": "Bayer Leverkusen",
+"pt": "Bayer Leverkusen",
+"tr": "Leverkusen"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports"
+],
+"CA": [
+"Fubo",
+"DAZN"
+],
+"DE": [
+"WOW",
+"RTL+",
+"Sky Top Event",
+"Sky Sport 1"
+],
+"DZ": [
+"beIN Sports"
+],
+"EG": [
+"beIN Sports"
+],
+"ES": [
+"M+ Liga de Campeones 3",
+"M+ Liga de Campeones 5"
+],
+"FR": [
+"CANAL+ Live 4"
+],
+"GB": [
+"TNT Sports 6",
+"HBO Max"
+],
+"IQ": [
+"beIN Sports"
+],
+"IT": [
+"Sky Sport Calcio"
+],
+"JO": [
+"beIN Sports"
+],
+"LY": [
+"beIN Sports"
+],
+"MA": [
+"beIN Sports"
+],
+"OM": [
+"beIN Sports"
+],
+"QA": [
+"beIN Sports"
+],
+"SA": [
+"beIN Sports"
+],
+"TN": [
+"beIN Sports"
+],
+"TR": [
+"tabii Spor 1"
+],
+"US": [
+"Paramount+",
+"ViX"
+]
+},
+"competition": {
+"ar": "الدوري الأوروبي",
+"de": "UEFA Europa League",
+"en": "UEFA Europa League",
+"es": "Europa League",
+"fr": "Ligue Europa",
+"it": "UEFA Europa League",
+"pt": "Liga Europa",
+"tr": "UEFA Avrupa Ligi"
+},
+"competitionId": "europa",
+"home": "OFI Crete",
+"homeNames": {
+"ar": "OFI Crete",
+"de": "OFI Crete",
+"en": "OFI Crete",
+"es": "OFI Crete",
+"fr": "OFI Crete",
+"it": "OFI Crete",
+"pt": "OFI Crete",
+"tr": "OFI Crete"
+},
+"id": "football-20261022-ofi-crete-leverkusen",
+"kickoffUtc": "2026-10-22T16:45:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "ofi-crete-bayer-leverkusen-2026-10-22"
+},
+"es:football-20261022-olympiacos-sparta-prague": {
+"lang": "es",
+"m": {
+"away": "Sparta Prague",
+"awayNames": {
+"ar": "Sparta Prague",
+"de": "Sparta Prague",
+"en": "Sparta Prague",
+"es": "Sparta Prague",
+"fr": "Sparta Prague",
+"it": "Sparta Prague",
+"pt": "Sparta Prague",
+"tr": "Sparta Prague"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports"
+],
+"CA": [
+"Fubo",
+"DAZN"
+],
+"DE": [
+"RTL+"
+],
+"DZ": [
+"beIN Sports"
+],
+"EG": [
+"beIN Sports"
+],
+"ES": [
+"M+ Liga de Campeones 3",
+"M+ Liga de Campeones 6"
+],
+"FR": [
+"CANAL+ Live 11"
+],
+"GB": [
+"HBO Max"
+],
+"IQ": [
+"beIN Sports"
+],
+"IT": [
+"Sky Sport"
+],
+"JO": [
+"beIN Sports"
+],
+"LY": [
+"beIN Sports"
+],
+"MA": [
+"beIN Sports"
+],
+"OM": [
+"beIN Sports"
+],
+"QA": [
+"beIN Sports"
+],
+"SA": [
+"beIN Sports"
+],
+"TN": [
+"beIN Sports"
+],
+"TR": [
+"tabii Spor 4"
+],
+"US": [
+"Paramount+",
+"ViX"
+]
+},
+"competition": {
+"ar": "الدوري الأوروبي",
+"de": "UEFA Europa League",
+"en": "UEFA Europa League",
+"es": "Europa League",
+"fr": "Ligue Europa",
+"it": "UEFA Europa League",
+"pt": "Liga Europa",
+"tr": "UEFA Avrupa Ligi"
+},
+"competitionId": "europa",
+"home": "Olympiacos",
+"homeNames": {
+"ar": "أولمبياكوس",
+"de": "Olympiakos",
+"en": "Olympiacos",
+"es": "Olympiacos",
+"fr": "Olympiakos",
+"it": "Olympiakos",
+"pt": "Olympiacos",
+"tr": "Olympiakos"
+},
+"id": "football-20261022-olympiacos-sparta-prague",
+"kickoffUtc": "2026-10-22T19:00:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "olympiacos-sparta-prague-2026-10-22"
+},
+"es:football-20261022-omonia-nicosia-benfica": {
+"lang": "es",
+"m": {
+"away": "Benfica",
+"awayNames": {
+"ar": "بنفيكا",
+"de": "Benfica Lissabon",
+"en": "Benfica",
+"es": "Benfica",
+"fr": "Benfica Lisbonne",
+"it": "Benfica",
+"pt": "Benfica",
+"tr": "Benfica"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports"
+],
+"CA": [
+"Fubo",
+"DAZN"
+],
+"DE": [
+"RTL+"
+],
+"DZ": [
+"beIN Sports"
+],
+"EG": [
+"beIN Sports"
+],
+"ES": [
+"M+ Liga de Campeones 3",
+"M+ Liga de Campeones 7"
+],
+"FR": [
+"CANAL+ Live 7"
+],
+"GB": [
+"TNT Sports 6",
+"HBO Max"
+],
+"IQ": [
+"beIN Sports"
+],
+"IT": [
+"Sky Sport"
+],
+"JO": [
+"beIN Sports"
+],
+"LY": [
+"beIN Sports"
+],
+"MA": [
+"beIN Sports"
+],
+"OM": [
+"beIN Sports"
+],
+"PT": [
+"Sport TV 5"
+],
+"QA": [
+"beIN Sports"
+],
+"SA": [
+"beIN Sports"
+],
+"TN": [
+"beIN Sports"
+],
+"TR": [
+"tabii Spor 2"
+],
+"US": [
+"Paramount+",
+"DAZN"
+]
+},
+"competition": {
+"ar": "الدوري الأوروبي",
+"de": "UEFA Europa League",
+"en": "UEFA Europa League",
+"es": "Europa League",
+"fr": "Ligue Europa",
+"it": "UEFA Europa League",
+"pt": "Liga Europa",
+"tr": "UEFA Avrupa Ligi"
+},
+"competitionId": "europa",
+"home": "Omonia Nicosia",
+"homeNames": {
+"ar": "Omonia Nicosia",
+"de": "Omonia Nicosia",
+"en": "Omonia Nicosia",
+"es": "Omonia Nicosia",
+"fr": "Omonia Nicosia",
+"it": "Omonia Nicosia",
+"pt": "Omonia Nicosia",
+"tr": "Omonia Nicosia"
+},
+"id": "football-20261022-omonia-nicosia-benfica",
+"kickoffUtc": "2026-10-22T19:00:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "omonia-nicosia-benfica-2026-10-22"
+},
+"es:football-20261022-pafos-riga-fc": {
+"lang": "es",
+"m": {
+"away": "Riga FC",
+"awayNames": {
+"ar": "Riga FC",
+"de": "Riga FC",
+"en": "Riga FC",
+"es": "Riga FC",
+"fr": "Riga FC",
+"it": "Riga FC",
+"pt": "Riga FC",
+"tr": "Riga FC"
+},
+"broadcasts": {
+"DE": [
+"RTL+"
+],
+"ES": [
+"M+ Liga de Campeones 3",
+"Movistar+ Dispositivos"
+],
+"FR": [
+"CANAL+ Live 13"
+],
+"GB": [
+"HBO Max"
+],
+"IT": [
+"Sky Sport"
+],
+"US": [
+"Paramount+",
+"ViX"
+]
+},
+"competition": {
+"ar": "دوري المؤتمر الأوروبي",
+"de": "UEFA Conference League",
+"en": "UEFA Conference League",
+"es": "Conference League",
+"fr": "Ligue Europa Conférence",
+"it": "UEFA Conference League",
+"pt": "Liga Conferência",
+"tr": "UEFA Konferans Ligi"
+},
+"competitionId": "conference",
+"home": "Pafos",
+"homeNames": {
+"ar": "Pafos",
+"de": "Pafos",
+"en": "Pafos",
+"es": "Pafos",
+"fr": "Pafos",
+"it": "Pafos",
+"pt": "Pafos",
+"tr": "Pafos"
+},
+"id": "football-20261022-pafos-riga-fc",
+"kickoffUtc": "2026-10-22T16:45:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "pafos-riga-fc-2026-10-22"
+},
 "es:football-20261022-palmeiras-fluminense": {
 "lang": "es",
 "m": {
@@ -8053,6 +11345,549 @@
 "tier": "regional"
 },
 "slug": "santa-fe-jaguares-de-cordoba-2026-10-22"
+},
+"es:football-20261022-sturm-graz-marseille": {
+"lang": "es",
+"m": {
+"away": "Marseille",
+"awayNames": {
+"ar": "مارسيليا",
+"de": "Marseille",
+"en": "Marseille",
+"es": "Marsella",
+"fr": "Olympique de Marseille",
+"it": "Marsiglia",
+"pt": "Marselha",
+"tr": "Marsilya"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports"
+],
+"CA": [
+"Fubo",
+"DAZN"
+],
+"DE": [
+"RTL+"
+],
+"DZ": [
+"beIN Sports"
+],
+"EG": [
+"beIN Sports"
+],
+"ES": [
+"M+ Liga de Campeones 3",
+"M+ Liga de Campeones 6"
+],
+"FR": [
+"CANAL+ Foot"
+],
+"GB": [
+"TNT Sports 7",
+"HBO Max"
+],
+"IQ": [
+"beIN Sports"
+],
+"IT": [
+"Sky Sport"
+],
+"JO": [
+"beIN Sports"
+],
+"LY": [
+"beIN Sports"
+],
+"MA": [
+"beIN Sports"
+],
+"OM": [
+"beIN Sports"
+],
+"QA": [
+"beIN Sports"
+],
+"SA": [
+"beIN Sports"
+],
+"TN": [
+"beIN Sports"
+],
+"TR": [
+"tabii Spor 4"
+],
+"US": [
+"Paramount+",
+"ViX"
+]
+},
+"competition": {
+"ar": "الدوري الأوروبي",
+"de": "UEFA Europa League",
+"en": "UEFA Europa League",
+"es": "Europa League",
+"fr": "Ligue Europa",
+"it": "UEFA Europa League",
+"pt": "Liga Europa",
+"tr": "UEFA Avrupa Ligi"
+},
+"competitionId": "europa",
+"home": "Sturm Graz",
+"homeNames": {
+"ar": "Sturm Graz",
+"de": "Sturm Graz",
+"en": "Sturm Graz",
+"es": "Sturm Graz",
+"fr": "Sturm Graz",
+"it": "Sturm Graz",
+"pt": "Sturm Graz",
+"tr": "Sturm Graz"
+},
+"id": "football-20261022-sturm-graz-marseille",
+"kickoffUtc": "2026-10-22T16:45:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "sturm-graz-marsella-2026-10-22"
+},
+"es:football-20261022-thun-hajduk-split": {
+"lang": "es",
+"m": {
+"away": "Hajduk Split",
+"awayNames": {
+"ar": "Hajduk Split",
+"de": "Hajduk Split",
+"en": "Hajduk Split",
+"es": "Hajduk Split",
+"fr": "Hajduk Split",
+"it": "Hajduk Split",
+"pt": "Hajduk Split",
+"tr": "Hajduk Split"
+},
+"broadcasts": {
+"DE": [
+"RTL+"
+],
+"ES": [
+"M+ Liga de Campeones 3",
+"Movistar+ Dispositivos"
+],
+"FR": [
+"CANAL+ Live 16"
+],
+"GB": [
+"HBO Max"
+],
+"IT": [
+"Sky Sport"
+],
+"US": [
+"Paramount+",
+"ViX"
+]
+},
+"competition": {
+"ar": "دوري المؤتمر الأوروبي",
+"de": "UEFA Conference League",
+"en": "UEFA Conference League",
+"es": "Conference League",
+"fr": "Ligue Europa Conférence",
+"it": "UEFA Conference League",
+"pt": "Liga Conferência",
+"tr": "UEFA Konferans Ligi"
+},
+"competitionId": "conference",
+"home": "Thun",
+"homeNames": {
+"ar": "Thun",
+"de": "Thun",
+"en": "Thun",
+"es": "Thun",
+"fr": "Thun",
+"it": "Thun",
+"pt": "Thun",
+"tr": "Thun"
+},
+"id": "football-20261022-thun-hajduk-split",
+"kickoffUtc": "2026-10-22T19:00:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "thun-hajduk-split-2026-10-22"
+},
+"es:football-20261022-trabzonspor-hearts": {
+"lang": "es",
+"m": {
+"away": "Hearts",
+"awayNames": {
+"ar": "Hearts",
+"de": "Hearts",
+"en": "Hearts",
+"es": "Hearts",
+"fr": "Hearts",
+"it": "Hearts",
+"pt": "Hearts",
+"tr": "Hearts"
+},
+"broadcasts": {
+"DE": [
+"RTL+"
+],
+"ES": [
+"M+ Liga de Campeones 3",
+"Movistar+ Dispositivos"
+],
+"FR": [
+"CANAL+ Live 12"
+],
+"GB": [
+"TNT Sports 3",
+"HBO Max"
+],
+"IT": [
+"Sky Sport"
+],
+"TR": [
+"TRT 1",
+"İçtimai TV"
+],
+"US": [
+"Paramount+",
+"ViX"
+]
+},
+"competition": {
+"ar": "دوري المؤتمر الأوروبي",
+"de": "UEFA Conference League",
+"en": "UEFA Conference League",
+"es": "Conference League",
+"fr": "Ligue Europa Conférence",
+"it": "UEFA Conference League",
+"pt": "Liga Conferência",
+"tr": "UEFA Konferans Ligi"
+},
+"competitionId": "conference",
+"home": "Trabzonspor",
+"homeNames": {
+"ar": "طرابزون",
+"de": "Trabzonspor",
+"en": "Trabzonspor",
+"es": "Trabzonspor",
+"fr": "Trabzonspor",
+"it": "Trabzonspor",
+"pt": "Trabzonspor",
+"tr": "Trabzonspor"
+},
+"id": "football-20261022-trabzonspor-hearts",
+"kickoffUtc": "2026-10-22T16:45:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "trabzonspor-hearts-2026-10-22"
+},
+"es:football-20261022-union-sg-hapoel-beer-sheva": {
+"lang": "es",
+"m": {
+"away": "Hapoel Beer Sheva",
+"awayNames": {
+"ar": "Hapoel Be'er Sheva",
+"de": "Hapoel Be'er Sheva",
+"en": "Hapoel Be'er Sheva",
+"es": "Hapoel Be'er Sheva",
+"fr": "Hapoel Be'er Sheva",
+"it": "Hapoel Be'er Sheva",
+"pt": "Hapoel Be'er Sheva",
+"tr": "Hapoel Be'er Sheva"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports"
+],
+"CA": [
+"Fubo",
+"DAZN"
+],
+"DE": [
+"RTL+"
+],
+"DZ": [
+"beIN Sports"
+],
+"EG": [
+"beIN Sports"
+],
+"ES": [
+"M+ Liga de Campeones 3",
+"M+ Liga de Campeones 10"
+],
+"FR": [
+"CANAL+ Live 7"
+],
+"GB": [
+"TNT Sports 8",
+"HBO Max"
+],
+"IQ": [
+"beIN Sports"
+],
+"IT": [
+"Sky Sport"
+],
+"JO": [
+"beIN Sports"
+],
+"LY": [
+"beIN Sports"
+],
+"MA": [
+"beIN Sports"
+],
+"OM": [
+"beIN Sports"
+],
+"QA": [
+"beIN Sports"
+],
+"SA": [
+"beIN Sports"
+],
+"TN": [
+"beIN Sports"
+],
+"US": [
+"Paramount+",
+"ViX"
+]
+},
+"competition": {
+"ar": "الدوري الأوروبي",
+"de": "UEFA Europa League",
+"en": "UEFA Europa League",
+"es": "Europa League",
+"fr": "Ligue Europa",
+"it": "UEFA Europa League",
+"pt": "Liga Europa",
+"tr": "UEFA Avrupa Ligi"
+},
+"competitionId": "europa",
+"home": "Union SG",
+"homeNames": {
+"ar": "Union Saint-Gilloise",
+"de": "Union Saint-Gilloise",
+"en": "Union Saint-Gilloise",
+"es": "Union Saint-Gilloise",
+"fr": "Union Saint-Gilloise",
+"it": "Union Saint-Gilloise",
+"pt": "Union Saint-Gilloise",
+"tr": "Union Saint-Gilloise"
+},
+"id": "football-20261022-union-sg-hapoel-beer-sheva",
+"kickoffUtc": "2026-10-22T16:45:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "union-saint-gilloise-hapoel-be-er-sheva-2026-10-22"
+},
+"es:football-20261022-viktoria-plzen-levski-sofia": {
+"lang": "es",
+"m": {
+"away": "Levski Sofia",
+"awayNames": {
+"ar": "Levski Sofia",
+"de": "Levski Sofia",
+"en": "Levski Sofia",
+"es": "Levski Sofia",
+"fr": "Levski Sofia",
+"it": "Levski Sofia",
+"pt": "Levski Sofia",
+"tr": "Levski Sofia"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports"
+],
+"CA": [
+"Fubo",
+"DAZN"
+],
+"DE": [
+"RTL+"
+],
+"DZ": [
+"beIN Sports"
+],
+"EG": [
+"beIN Sports"
+],
+"ES": [
+"M+ Liga de Campeones 3",
+"Movistar+ Dispositivos"
+],
+"FR": [
+"CANAL+ Live 8"
+],
+"GB": [
+"HBO Max"
+],
+"IQ": [
+"beIN Sports"
+],
+"IT": [
+"Sky Sport"
+],
+"JO": [
+"beIN Sports"
+],
+"LY": [
+"beIN Sports"
+],
+"MA": [
+"beIN Sports"
+],
+"OM": [
+"beIN Sports"
+],
+"QA": [
+"beIN Sports"
+],
+"SA": [
+"beIN Sports"
+],
+"TN": [
+"beIN Sports"
+],
+"US": [
+"Paramount+",
+"ViX"
+]
+},
+"competition": {
+"ar": "الدوري الأوروبي",
+"de": "UEFA Europa League",
+"en": "UEFA Europa League",
+"es": "Europa League",
+"fr": "Ligue Europa",
+"it": "UEFA Europa League",
+"pt": "Liga Europa",
+"tr": "UEFA Avrupa Ligi"
+},
+"competitionId": "europa",
+"home": "Viktoria Plzen",
+"homeNames": {
+"ar": "Viktoria Plzeň",
+"de": "Viktoria Plzeň",
+"en": "Viktoria Plzeň",
+"es": "Viktoria Plzeň",
+"fr": "Viktoria Plzeň",
+"it": "Viktoria Plzeň",
+"pt": "Viktoria Plzeň",
+"tr": "Viktoria Plzeň"
+},
+"id": "football-20261022-viktoria-plzen-levski-sofia",
+"kickoffUtc": "2026-10-22T19:00:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "viktoria-plzen-levski-sofia-2026-10-22"
+},
+"es:football-20261023-flamengo-estudiantes": {
+"lang": "es",
+"m": {
+"away": "Estudiantes",
+"awayNames": {
+"ar": "إستوديانتيس",
+"de": "Estudiantes",
+"en": "Estudiantes",
+"es": "Estudiantes de La Plata",
+"fr": "Estudiantes",
+"it": "Estudiantes",
+"pt": "Estudiantes",
+"tr": "Estudiantes"
+},
+"broadcasts": {
+"AR": [
+"Fox Sports",
+"ESPN"
+],
+"CL": [
+"ESPN",
+"Disney+",
+"Chilevisión"
+],
+"CO": [
+"ESPN",
+"Disney+"
+],
+"DE": [
+"Sportdigital1+",
+"Sportdigital+",
+"Sportdigital FUSSBALL",
+"DAZN",
+"OneFootball"
+],
+"EC": [
+"ESPN",
+"Disney+"
+],
+"ES": [
+"M+ Vamos",
+"M+ #Vamos Bar",
+"M+ Liga de Campeones"
+],
+"PE": [
+"ESPN",
+"Disney+"
+],
+"PT": [
+"Fanatiz",
+"Sport TV 2"
+],
+"PY": [
+"ESPN",
+"Disney+",
+"Paramount+"
+],
+"UY": [
+"ESPN",
+"Disney+"
+]
+},
+"competition": {
+"ar": "كأس ليبرتادوريس",
+"de": "Copa Libertadores",
+"en": "Copa Libertadores",
+"es": "Copa Libertadores",
+"fr": "Copa Libertadores",
+"it": "Copa Libertadores",
+"pt": "Copa Libertadores",
+"tr": "Copa Libertadores"
+},
+"competitionId": "libertadores",
+"home": "Flamengo",
+"homeNames": {
+"ar": "فلامنغو",
+"de": "Flamengo",
+"en": "Flamengo",
+"es": "Flamengo",
+"fr": "Flamengo",
+"it": "Flamengo",
+"pt": "Flamengo",
+"tr": "Flamengo"
+},
+"id": "football-20261023-flamengo-estudiantes",
+"kickoffUtc": "2026-10-23T00:30:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "flamengo-estudiantes-de-la-plata-2026-10-23"
 },
 "fr:basketball-20261020-detroit-pistons-boston-celtics": {
 "lang": "fr",
@@ -10087,6 +13922,260 @@
 },
 "slug": "washington-wizards-milwaukee-bucks-2026-10-22"
 },
+"fr:basketball-20261022-76ers-cavaliers": {
+"lang": "fr",
+"m": {
+"away": "Cavaliers",
+"awayNames": {
+"ar": "كليفلاند كافالييرز",
+"de": "Cleveland Cavaliers",
+"en": "Cleveland Cavaliers",
+"es": "Cleveland Cavaliers",
+"fr": "Cleveland Cavaliers",
+"it": "Cleveland Cavaliers",
+"pt": "Cleveland Cavaliers",
+"tr": "Cleveland Cavaliers"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"AR": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"AT": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"AU": [
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+],
+"BE": [
+"DAZN",
+"Prime Video",
+"NBA League Pass"
+],
+"BR": [
+"ESPN",
+"Disney+",
+"Prime Video",
+"NBA League Pass"
+],
+"CA": [
+"TSN",
+"Sportsnet",
+"Prime Video",
+"NBA League Pass"
+],
+"CH": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"CL": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"CO": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"CZ": [
+"Nova Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"DE": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"DZ": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"EC": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"EG": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"ES": [
+"DAZN",
+"Prime Video",
+"NBA League Pass"
+],
+"FR": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"GB": [
+"Sky Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"GH": [
+"ESPN",
+"Sporty TV",
+"NBA League Pass"
+],
+"HR": [
+"Sport Klub",
+"Prime Video",
+"NBA League Pass"
+],
+"IT": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"JP": [
+"Lemino",
+"Prime Video",
+"WOWOW"
+],
+"KR": [
+"Coupang Play",
+"Prime Video",
+"NBA League Pass"
+],
+"MA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"MX": [
+"ESPN",
+"Disney+",
+"Prime Video",
+"NBA League Pass"
+],
+"NG": [
+"ESPN",
+"Sporty TV",
+"NBA League Pass"
+],
+"NL": [
+"ESPN",
+"NBA League Pass"
+],
+"NO": [
+"HBO Max",
+"NBA League Pass"
+],
+"NZ": [
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+],
+"PE": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"PT": [
+"Sport TV",
+"Prime Video",
+"NBA League Pass"
+],
+"PY": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"QA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"SA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"SN": [
+"Canal+ Sport",
+"NBA League Pass"
+],
+"TN": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"TR": [
+"S Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"US": [
+"ESPN"
+],
+"UY": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"ZA": [
+"SuperSport",
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+]
+},
+"competition": {
+"ar": "دوري NBA",
+"de": "NBA",
+"en": "NBA",
+"es": "NBA",
+"fr": "NBA",
+"it": "NBA",
+"pt": "NBA",
+"tr": "NBA"
+},
+"competitionId": "nba",
+"home": "76ers",
+"homeNames": {
+"ar": "فيلادلفيا سفنتي سيكسرز",
+"de": "Philadelphia 76ers",
+"en": "Philadelphia 76ers",
+"es": "Philadelphia 76ers",
+"fr": "Philadelphia 76ers",
+"it": "Philadelphia 76ers",
+"pt": "Philadelphia 76ers",
+"tr": "Philadelphia 76ers"
+},
+"id": "basketball-20261022-76ers-cavaliers",
+"kickoffUtc": "2026-10-22T23:00:00Z",
+"sources": [
+"espn"
+],
+"sport": "basketball",
+"tier": "global"
+},
+"slug": "philadelphia-76ers-cleveland-cavaliers-2026-10-23"
+},
 "fr:basketball-20261022-clippers-kings": {
 "lang": "fr",
 "m": {
@@ -11610,6 +15699,260 @@
 "tier": "global"
 },
 "slug": "portland-trail-blazers-phoenix-suns-2026-10-22"
+},
+"fr:basketball-20261023-thunder-nuggets": {
+"lang": "fr",
+"m": {
+"away": "Nuggets",
+"awayNames": {
+"ar": "دنفر ناجتس",
+"de": "Denver Nuggets",
+"en": "Denver Nuggets",
+"es": "Denver Nuggets",
+"fr": "Denver Nuggets",
+"it": "Denver Nuggets",
+"pt": "Denver Nuggets",
+"tr": "Denver Nuggets"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"AR": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"AT": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"AU": [
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+],
+"BE": [
+"DAZN",
+"Prime Video",
+"NBA League Pass"
+],
+"BR": [
+"ESPN",
+"Disney+",
+"Prime Video",
+"NBA League Pass"
+],
+"CA": [
+"TSN",
+"Sportsnet",
+"Prime Video",
+"NBA League Pass"
+],
+"CH": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"CL": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"CO": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"CZ": [
+"Nova Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"DE": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"DZ": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"EC": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"EG": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"ES": [
+"DAZN",
+"Prime Video",
+"NBA League Pass"
+],
+"FR": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"GB": [
+"Sky Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"GH": [
+"ESPN",
+"Sporty TV",
+"NBA League Pass"
+],
+"HR": [
+"Sport Klub",
+"Prime Video",
+"NBA League Pass"
+],
+"IT": [
+"Sky Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"JP": [
+"Lemino",
+"Prime Video",
+"WOWOW"
+],
+"KR": [
+"Coupang Play",
+"Prime Video",
+"NBA League Pass"
+],
+"MA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"MX": [
+"ESPN",
+"Disney+",
+"Prime Video",
+"NBA League Pass"
+],
+"NG": [
+"ESPN",
+"Sporty TV",
+"NBA League Pass"
+],
+"NL": [
+"ESPN",
+"NBA League Pass"
+],
+"NO": [
+"HBO Max",
+"NBA League Pass"
+],
+"NZ": [
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+],
+"PE": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"PT": [
+"Sport TV",
+"Prime Video",
+"NBA League Pass"
+],
+"PY": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"QA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"SA": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"SN": [
+"Canal+ Sport",
+"NBA League Pass"
+],
+"TN": [
+"beIN Sports",
+"Prime Video",
+"NBA League Pass"
+],
+"TR": [
+"S Sport",
+"Prime Video",
+"NBA League Pass"
+],
+"US": [
+"ESPN"
+],
+"UY": [
+"ESPN",
+"Prime Video",
+"HBO Max",
+"NBA League Pass"
+],
+"ZA": [
+"SuperSport",
+"ESPN",
+"Prime Video",
+"NBA League Pass"
+]
+},
+"competition": {
+"ar": "دوري NBA",
+"de": "NBA",
+"en": "NBA",
+"es": "NBA",
+"fr": "NBA",
+"it": "NBA",
+"pt": "NBA",
+"tr": "NBA"
+},
+"competitionId": "nba",
+"home": "Thunder",
+"homeNames": {
+"ar": "أوكلاهوما سيتي ثاندر",
+"de": "Oklahoma City Thunder",
+"en": "Oklahoma City Thunder",
+"es": "Oklahoma City Thunder",
+"fr": "Oklahoma City Thunder",
+"it": "Oklahoma City Thunder",
+"pt": "Oklahoma City Thunder",
+"tr": "Oklahoma City Thunder"
+},
+"id": "basketball-20261023-thunder-nuggets",
+"kickoffUtc": "2026-10-23T01:30:00Z",
+"sources": [
+"espn"
+],
+"sport": "basketball",
+"tier": "global"
+},
+"slug": "oklahoma-city-thunder-denver-nuggets-2026-10-23"
 },
 "fr:football-20261019-getafe-rayo-vallecano": {
 "lang": "fr",
@@ -15142,5 +19485,3364 @@
 "tier": "global"
 },
 "slug": "sporting-cp-lask-2026-10-21"
+},
+"fr:football-20261022-agf-egnatia": {
+"lang": "fr",
+"m": {
+"away": "Egnatia",
+"awayNames": {
+"ar": "Egnatia",
+"de": "Egnatia",
+"en": "Egnatia",
+"es": "Egnatia",
+"fr": "Egnatia",
+"it": "Egnatia",
+"pt": "Egnatia",
+"tr": "Egnatia"
+},
+"broadcasts": {
+"DE": [
+"RTL+"
+],
+"ES": [
+"M+ Liga de Campeones 3",
+"Movistar+ Dispositivos"
+],
+"FR": [
+"CANAL+ Live 14"
+],
+"GB": [
+"HBO Max"
+],
+"IT": [
+"Sky Sport"
+],
+"US": [
+"Paramount+",
+"ViX"
+]
+},
+"competition": {
+"ar": "دوري المؤتمر الأوروبي",
+"de": "UEFA Conference League",
+"en": "UEFA Conference League",
+"es": "Conference League",
+"fr": "Ligue Europa Conférence",
+"it": "UEFA Conference League",
+"pt": "Liga Conferência",
+"tr": "UEFA Konferans Ligi"
+},
+"competitionId": "conference",
+"home": "AGF",
+"homeNames": {
+"ar": "AGF",
+"de": "AGF",
+"en": "AGF",
+"es": "AGF",
+"fr": "AGF",
+"it": "AGF",
+"pt": "AGF",
+"tr": "AGF"
+},
+"id": "football-20261022-agf-egnatia",
+"kickoffUtc": "2026-10-22T19:00:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "agf-egnatia-2026-10-22"
+},
+"fr:football-20261022-ajax-atalanta": {
+"lang": "fr",
+"m": {
+"away": "Atalanta",
+"awayNames": {
+"ar": "Atalanta",
+"de": "Atalanta",
+"en": "Atalanta",
+"es": "Atalanta",
+"fr": "Atalanta",
+"it": "Atalanta",
+"pt": "Atalanta",
+"tr": "Atalanta"
+},
+"broadcasts": {
+"DE": [
+"WOW",
+"RTL+",
+"Sky Sport 4"
+],
+"ES": [
+"M+ Liga de Campeones 3",
+"M+ Liga de Campeones 11"
+],
+"FR": [
+"CANAL+ Live 12"
+],
+"GB": [
+"TNT Sports 8",
+"HBO Max"
+],
+"IT": [
+"Sky Sport Arena"
+],
+"TR": [
+"tabii Spor 6"
+],
+"US": [
+"Paramount+",
+"ViX"
+]
+},
+"competition": {
+"ar": "دوري المؤتمر الأوروبي",
+"de": "UEFA Conference League",
+"en": "UEFA Conference League",
+"es": "Conference League",
+"fr": "Ligue Europa Conférence",
+"it": "UEFA Conference League",
+"pt": "Liga Conferência",
+"tr": "UEFA Konferans Ligi"
+},
+"competitionId": "conference",
+"home": "Ajax",
+"homeNames": {
+"ar": "أياكس",
+"de": "Ajax Amsterdam",
+"en": "Ajax",
+"es": "Ajax",
+"fr": "Ajax Amsterdam",
+"it": "Ajax",
+"pt": "Ajax",
+"tr": "Ajax"
+},
+"id": "football-20261022-ajax-atalanta",
+"kickoffUtc": "2026-10-22T19:00:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "ajax-amsterdam-atalanta-2026-10-22"
+},
+"fr:football-20261022-al-ahli-al-khaleej": {
+"lang": "fr",
+"m": {
+"away": "Al-Khaleej",
+"awayNames": {
+"ar": "Al-Khaleej",
+"de": "Al-Khaleej",
+"en": "Al-Khaleej",
+"es": "Al-Khaleej",
+"fr": "Al-Khaleej",
+"it": "Al-Khaleej",
+"pt": "Al-Khaleej",
+"tr": "Al-Khaleej"
+},
+"broadcasts": {
+"AT": [
+"DAZN"
+],
+"CH": [
+"DAZN"
+],
+"DE": [
+"DAZN"
+],
+"ES": [
+"OneFootball"
+],
+"FR": [
+"DAZN"
+],
+"PT": [
+"OneFootball"
+],
+"SA": [
+"Thmanyah",
+"STC TV"
+],
+"TR": [
+"HT Spor"
+]
+},
+"competition": {
+"ar": "دوري روشن السعودي",
+"de": "Saudi Pro League",
+"en": "Saudi Pro League",
+"es": "Liga Profesional Saudí",
+"fr": "Saudi Pro League",
+"it": "Saudi Pro League",
+"pt": "Liga Saudita",
+"tr": "Suudi Pro Lig"
+},
+"competitionId": "saudi_pl",
+"home": "Al-Ahli",
+"homeNames": {
+"ar": "Al-Ahli",
+"de": "Al-Ahli",
+"en": "Al-Ahli",
+"es": "Al-Ahli",
+"fr": "Al-Ahli",
+"it": "Al-Ahli",
+"pt": "Al-Ahli",
+"tr": "Al-Ahli"
+},
+"id": "football-20261022-al-ahli-al-khaleej",
+"kickoffUtc": "2026-10-22T18:00:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "al-ahli-al-khaleej-2026-10-22"
+},
+"fr:football-20261022-al-fateh-al-shabab": {
+"lang": "fr",
+"m": {
+"away": "Al Shabab",
+"awayNames": {
+"ar": "الشباب",
+"de": "Al-Shabab",
+"en": "Al-Shabab",
+"es": "Al-Shabab",
+"fr": "Al-Shabab",
+"it": "Al-Shabab",
+"pt": "Al-Shabab",
+"tr": "Al-Shabab"
+},
+"broadcasts": {
+"AT": [
+"DAZN"
+],
+"CH": [
+"DAZN"
+],
+"DE": [
+"DAZN"
+],
+"FR": [
+"DAZN"
+],
+"SA": [
+"Thmanyah",
+"STC TV"
+]
+},
+"competition": {
+"ar": "دوري روشن السعودي",
+"de": "Saudi Pro League",
+"en": "Saudi Pro League",
+"es": "Liga Profesional Saudí",
+"fr": "Saudi Pro League",
+"it": "Saudi Pro League",
+"pt": "Liga Saudita",
+"tr": "Suudi Pro Lig"
+},
+"competitionId": "saudi_pl",
+"home": "Al-Fateh",
+"homeNames": {
+"ar": "Al-Fateh",
+"de": "Al-Fateh",
+"en": "Al-Fateh",
+"es": "Al-Fateh",
+"fr": "Al-Fateh",
+"it": "Al-Fateh",
+"pt": "Al-Fateh",
+"tr": "Al-Fateh"
+},
+"id": "football-20261022-al-fateh-al-shabab",
+"kickoffUtc": "2026-10-22T14:45:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "al-fateh-al-shabab-2026-10-22"
+},
+"fr:football-20261022-al-hazem-al-fayha": {
+"lang": "fr",
+"m": {
+"away": "Al-Fayha",
+"awayNames": {
+"ar": "Al-Fayha",
+"de": "Al-Fayha",
+"en": "Al-Fayha",
+"es": "Al-Fayha",
+"fr": "Al-Fayha",
+"it": "Al-Fayha",
+"pt": "Al-Fayha",
+"tr": "Al-Fayha"
+},
+"broadcasts": {
+"AT": [
+"DAZN"
+],
+"CH": [
+"DAZN"
+],
+"DE": [
+"DAZN"
+],
+"FR": [
+"DAZN"
+],
+"SA": [
+"Thmanyah",
+"STC TV"
+]
+},
+"competition": {
+"ar": "دوري روشن السعودي",
+"de": "Saudi Pro League",
+"en": "Saudi Pro League",
+"es": "Liga Profesional Saudí",
+"fr": "Saudi Pro League",
+"it": "Saudi Pro League",
+"pt": "Liga Saudita",
+"tr": "Suudi Pro Lig"
+},
+"competitionId": "saudi_pl",
+"home": "Al Hazem",
+"homeNames": {
+"ar": "الحزم",
+"de": "Al-Hazem",
+"en": "Al Hazem",
+"es": "Al Hazem",
+"fr": "Al-Hazem",
+"it": "Al Hazem",
+"pt": "Al-Hazem",
+"tr": "Al Hazem"
+},
+"id": "football-20261022-al-hazem-al-fayha",
+"kickoffUtc": "2026-10-22T13:40:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "al-hazem-al-fayha-2026-10-22"
+},
+"fr:football-20261022-ararat-armenia-az-alkmaar": {
+"lang": "fr",
+"m": {
+"away": "AZ Alkmaar",
+"awayNames": {
+"ar": "آيه زد ألكمار",
+"de": "AZ Alkmaar",
+"en": "AZ Alkmaar",
+"es": "AZ Alkmaar",
+"fr": "AZ Alkmaar",
+"it": "AZ Alkmaar",
+"pt": "AZ Alkmaar",
+"tr": "AZ Alkmaar"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports"
+],
+"CA": [
+"Fubo",
+"DAZN"
+],
+"DE": [
+"RTL+"
+],
+"DZ": [
+"beIN Sports"
+],
+"EG": [
+"beIN Sports"
+],
+"ES": [
+"M+ Liga de Campeones 13",
+"M+ Liga de Campeones 3"
+],
+"FR": [
+"CANAL+ Live 14"
+],
+"GB": [
+"HBO Max"
+],
+"IQ": [
+"beIN Sports"
+],
+"IT": [
+"Sky Sport"
+],
+"JO": [
+"beIN Sports"
+],
+"LY": [
+"beIN Sports"
+],
+"MA": [
+"beIN Sports"
+],
+"OM": [
+"beIN Sports"
+],
+"QA": [
+"beIN Sports"
+],
+"SA": [
+"beIN Sports"
+],
+"TN": [
+"beIN Sports"
+],
+"TR": [
+"tabii Spor 6"
+],
+"US": [
+"Paramount+",
+"ViX"
+]
+},
+"competition": {
+"ar": "الدوري الأوروبي",
+"de": "UEFA Europa League",
+"en": "UEFA Europa League",
+"es": "Europa League",
+"fr": "Ligue Europa",
+"it": "UEFA Europa League",
+"pt": "Liga Europa",
+"tr": "UEFA Avrupa Ligi"
+},
+"competitionId": "europa",
+"home": "Ararat-Armenia",
+"homeNames": {
+"ar": "Ararat-Armenia",
+"de": "Ararat-Armenia",
+"en": "Ararat-Armenia",
+"es": "Ararat-Armenia",
+"fr": "Ararat-Armenia",
+"it": "Ararat-Armenia",
+"pt": "Ararat-Armenia",
+"tr": "Ararat-Armenia"
+},
+"id": "football-20261022-ararat-armenia-az-alkmaar",
+"kickoffUtc": "2026-10-22T16:45:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "ararat-armenia-az-alkmaar-2026-10-22"
+},
+"fr:football-20261022-besiktas-crystal-palace": {
+"lang": "fr",
+"m": {
+"away": "Crystal Palace",
+"awayNames": {
+"ar": "كريستال بالاس",
+"de": "Crystal Palace",
+"en": "Crystal Palace",
+"es": "Crystal Palace",
+"fr": "Crystal Palace",
+"it": "Crystal Palace",
+"pt": "Crystal Palace",
+"tr": "Crystal Palace"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports"
+],
+"CA": [
+"Fubo",
+"DAZN"
+],
+"DE": [
+"RTL+"
+],
+"DZ": [
+"beIN Sports"
+],
+"EG": [
+"beIN Sports"
+],
+"ES": [
+"M+ Liga de Campeones 3",
+"M+ Liga de Campeones 5"
+],
+"FR": [
+"CANAL+ Live 4"
+],
+"GB": [
+"TNT Sports 2",
+"HBO Max"
+],
+"IQ": [
+"beIN Sports"
+],
+"IT": [
+"Sky Sport Calcio"
+],
+"JO": [
+"beIN Sports"
+],
+"LY": [
+"beIN Sports"
+],
+"MA": [
+"beIN Sports"
+],
+"OM": [
+"beIN Sports"
+],
+"QA": [
+"beIN Sports"
+],
+"SA": [
+"beIN Sports"
+],
+"TN": [
+"beIN Sports"
+],
+"TR": [
+"TRT 1",
+"CBC Sport"
+],
+"US": [
+"Paramount+",
+"DAZN"
+]
+},
+"competition": {
+"ar": "الدوري الأوروبي",
+"de": "UEFA Europa League",
+"en": "UEFA Europa League",
+"es": "Europa League",
+"fr": "Ligue Europa",
+"it": "UEFA Europa League",
+"pt": "Liga Europa",
+"tr": "UEFA Avrupa Ligi"
+},
+"competitionId": "europa",
+"home": "Besiktas",
+"homeNames": {
+"ar": "Beşiktaş",
+"de": "Beşiktaş",
+"en": "Beşiktaş",
+"es": "Beşiktaş",
+"fr": "Beşiktaş",
+"it": "Beşiktaş",
+"pt": "Beşiktaş",
+"tr": "Beşiktaş"
+},
+"id": "football-20261022-besiktas-crystal-palace",
+"kickoffUtc": "2026-10-22T19:00:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "besiktas-crystal-palace-2026-10-22"
+},
+"fr:football-20261022-borac-banja-luka-kups": {
+"lang": "fr",
+"m": {
+"away": "KuPS",
+"awayNames": {
+"ar": "KuPS",
+"de": "KuPS",
+"en": "KuPS",
+"es": "KuPS",
+"fr": "KuPS",
+"it": "KuPS",
+"pt": "KuPS",
+"tr": "KuPS"
+},
+"broadcasts": {
+"DE": [
+"RTL+"
+],
+"ES": [
+"M+ Liga de Campeones 3",
+"Movistar+ Dispositivos"
+],
+"FR": [
+"CANAL+ Live 17"
+],
+"GB": [
+"HBO Max"
+],
+"IT": [
+"Sky Sport"
+],
+"US": [
+"Paramount+",
+"ViX"
+]
+},
+"competition": {
+"ar": "دوري المؤتمر الأوروبي",
+"de": "UEFA Conference League",
+"en": "UEFA Conference League",
+"es": "Conference League",
+"fr": "Ligue Europa Conférence",
+"it": "UEFA Conference League",
+"pt": "Liga Conferência",
+"tr": "UEFA Konferans Ligi"
+},
+"competitionId": "conference",
+"home": "Borac Banja Luka",
+"homeNames": {
+"ar": "Borac Banja Luka",
+"de": "Borac Banja Luka",
+"en": "Borac Banja Luka",
+"es": "Borac Banja Luka",
+"fr": "Borac Banja Luka",
+"it": "Borac Banja Luka",
+"pt": "Borac Banja Luka",
+"tr": "Borac Banja Luka"
+},
+"id": "football-20261022-borac-banja-luka-kups",
+"kickoffUtc": "2026-10-22T19:00:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "borac-banja-luka-kups-2026-10-22"
+},
+"fr:football-20261022-bournemouth-ac-milan": {
+"lang": "fr",
+"m": {
+"away": "AC Milan",
+"awayNames": {
+"ar": "ميلان",
+"de": "AC Mailand",
+"en": "AC Milan",
+"es": "AC Milan",
+"fr": "AC Milan",
+"it": "AC Milan",
+"pt": "AC Milan",
+"tr": "AC Milan"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports"
+],
+"CA": [
+"Fubo",
+"DAZN"
+],
+"DE": [
+"WOW",
+"Sky Sport 3",
+"RTL+"
+],
+"DZ": [
+"beIN Sports"
+],
+"EG": [
+"beIN Sports"
+],
+"ES": [
+"M+ Liga de Campeones 3",
+"M+ Liga de Campeones 4"
+],
+"FR": [
+"CANAL+ Live 2"
+],
+"GB": [
+"TNT Sports 1",
+"TNT Sports Ultimate",
+"HBO Max"
+],
+"IQ": [
+"beIN Sports"
+],
+"IT": [
+"Sky Sport 1"
+],
+"JO": [
+"beIN Sports"
+],
+"LY": [
+"beIN Sports"
+],
+"MA": [
+"beIN Sports"
+],
+"OM": [
+"beIN Sports"
+],
+"PT": [
+"DAZN 2"
+],
+"QA": [
+"beIN Sports"
+],
+"SA": [
+"beIN Sports"
+],
+"TN": [
+"beIN Sports"
+],
+"TR": [
+"tabii Spor",
+"İçtimai TV"
+],
+"US": [
+"CBS Sports Network",
+"UniMás",
+"TUDN",
+"Paramount+",
+"Fubo",
+"ViX"
+]
+},
+"competition": {
+"ar": "الدوري الأوروبي",
+"de": "UEFA Europa League",
+"en": "UEFA Europa League",
+"es": "Europa League",
+"fr": "Ligue Europa",
+"it": "UEFA Europa League",
+"pt": "Liga Europa",
+"tr": "UEFA Avrupa Ligi"
+},
+"competitionId": "europa",
+"home": "Bournemouth",
+"homeNames": {
+"ar": "بورنموث",
+"de": "Bournemouth",
+"en": "AFC Bournemouth",
+"es": "Bournemouth",
+"fr": "Bournemouth",
+"it": "Bournemouth",
+"pt": "Bournemouth",
+"tr": "Bournemouth"
+},
+"id": "football-20261022-bournemouth-ac-milan",
+"kickoffUtc": "2026-10-22T19:00:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "bournemouth-ac-milan-2026-10-22"
+},
+"fr:football-20261022-braga-gent": {
+"lang": "fr",
+"m": {
+"away": "Gent",
+"awayNames": {
+"ar": "Gent",
+"de": "Gent",
+"en": "Gent",
+"es": "Gent",
+"fr": "Gent",
+"it": "Gent",
+"pt": "Gent",
+"tr": "Gent"
+},
+"broadcasts": {
+"DE": [
+"RTL+"
+],
+"ES": [
+"M+ Liga de Campeones 13",
+"M+ Liga de Campeones 3"
+],
+"FR": [
+"CANAL+ Live 13"
+],
+"GB": [
+"HBO Max"
+],
+"IT": [
+"Sky Sport"
+],
+"PT": [
+"DAZN 1"
+],
+"US": [
+"Paramount+",
+"ViX"
+]
+},
+"competition": {
+"ar": "دوري المؤتمر الأوروبي",
+"de": "UEFA Conference League",
+"en": "UEFA Conference League",
+"es": "Conference League",
+"fr": "Ligue Europa Conférence",
+"it": "UEFA Conference League",
+"pt": "Liga Conferência",
+"tr": "UEFA Konferans Ligi"
+},
+"competitionId": "conference",
+"home": "Braga",
+"homeNames": {
+"ar": "براغا",
+"de": "SC Braga",
+"en": "SC Braga",
+"es": "Braga",
+"fr": "SC Braga",
+"it": "Braga",
+"pt": "Sporting Braga",
+"tr": "Braga"
+},
+"id": "football-20261022-braga-gent",
+"kickoffUtc": "2026-10-22T19:00:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "sc-braga-gent-2026-10-22"
+},
+"fr:football-20261022-celje-salzburg": {
+"lang": "fr",
+"m": {
+"away": "Salzburg",
+"awayNames": {
+"ar": "Salzburg",
+"de": "Salzburg",
+"en": "Salzburg",
+"es": "Salzburg",
+"fr": "Salzburg",
+"it": "Salzburg",
+"pt": "Salzburg",
+"tr": "Salzburg"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports"
+],
+"CA": [
+"Fubo",
+"DAZN"
+],
+"DE": [
+"WOW",
+"Sky Sport 5"
+],
+"DZ": [
+"beIN Sports"
+],
+"EG": [
+"beIN Sports"
+],
+"ES": [
+"M+ Liga de Campeones 3",
+"M+ Liga de Campeones 8"
+],
+"FR": [
+"CANAL+ Live 10"
+],
+"GB": [
+"HBO Max"
+],
+"IQ": [
+"beIN Sports"
+],
+"IT": [
+"Sky Sport"
+],
+"JO": [
+"beIN Sports"
+],
+"LY": [
+"beIN Sports"
+],
+"MA": [
+"beIN Sports"
+],
+"OM": [
+"beIN Sports"
+],
+"QA": [
+"beIN Sports"
+],
+"SA": [
+"beIN Sports"
+],
+"TN": [
+"beIN Sports"
+],
+"US": [
+"Paramount+",
+"ViX"
+]
+},
+"competition": {
+"ar": "الدوري الأوروبي",
+"de": "UEFA Europa League",
+"en": "UEFA Europa League",
+"es": "Europa League",
+"fr": "Ligue Europa",
+"it": "UEFA Europa League",
+"pt": "Liga Europa",
+"tr": "UEFA Avrupa Ligi"
+},
+"competitionId": "europa",
+"home": "Celje",
+"homeNames": {
+"ar": "Celje",
+"de": "Celje",
+"en": "Celje",
+"es": "Celje",
+"fr": "Celje",
+"it": "Celje",
+"pt": "Celje",
+"tr": "Celje"
+},
+"id": "football-20261022-celje-salzburg",
+"kickoffUtc": "2026-10-22T19:00:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "celje-salzburg-2026-10-22"
+},
+"fr:football-20261022-celtic-celta-vigo": {
+"lang": "fr",
+"m": {
+"away": "Celta Vigo",
+"awayNames": {
+"ar": "سيلتا فيغو",
+"de": "Celta Vigo",
+"en": "Celta Vigo",
+"es": "Celta de Vigo",
+"fr": "Celta Vigo",
+"it": "Celta Vigo",
+"pt": "Celta de Vigo",
+"tr": "Celta Vigo"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports"
+],
+"CA": [
+"Fubo",
+"DAZN"
+],
+"DE": [
+"RTL+"
+],
+"DZ": [
+"beIN Sports"
+],
+"EG": [
+"beIN Sports"
+],
+"ES": [
+"Movistar Plus+",
+"M+ Liga de Campeones",
+"M+ Liga de Campeones 3",
+"LaLiga TV Bar"
+],
+"FR": [
+"CANAL+ Live 5"
+],
+"GB": [
+"TNT Sports 3",
+"HBO Max"
+],
+"IQ": [
+"beIN Sports"
+],
+"IT": [
+"Sky Sport Mix"
+],
+"JO": [
+"beIN Sports"
+],
+"LY": [
+"beIN Sports"
+],
+"MA": [
+"beIN Sports"
+],
+"OM": [
+"beIN Sports"
+],
+"PT": [
+"DAZN 3"
+],
+"QA": [
+"beIN Sports"
+],
+"SA": [
+"beIN Sports"
+],
+"TN": [
+"beIN Sports"
+],
+"TR": [
+"tabii Spor 3"
+],
+"US": [
+"Paramount+",
+"ViX"
+]
+},
+"competition": {
+"ar": "الدوري الأوروبي",
+"de": "UEFA Europa League",
+"en": "UEFA Europa League",
+"es": "Europa League",
+"fr": "Ligue Europa",
+"it": "UEFA Europa League",
+"pt": "Liga Europa",
+"tr": "UEFA Avrupa Ligi"
+},
+"competitionId": "europa",
+"home": "Celtic",
+"homeNames": {
+"ar": "سلتيك",
+"de": "Celtic Glasgow",
+"en": "Celtic",
+"es": "Celtic",
+"fr": "Celtic",
+"it": "Celtic",
+"pt": "Celtic",
+"tr": "Celtic"
+},
+"id": "football-20261022-celtic-celta-vigo",
+"kickoffUtc": "2026-10-22T19:00:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "celtic-celta-vigo-2026-10-22"
+},
+"fr:football-20261022-crvena-zvezda-fc-copenhagen": {
+"lang": "fr",
+"m": {
+"away": "FC Copenhagen",
+"awayNames": {
+"ar": "FC Copenhagen",
+"de": "FC Copenhagen",
+"en": "FC Copenhagen",
+"es": "FC Copenhagen",
+"fr": "FC Copenhagen",
+"it": "FC Copenhagen",
+"pt": "FC Copenhagen",
+"tr": "FC Copenhagen"
+},
+"broadcasts": {
+"DE": [
+"RTL+"
+],
+"ES": [
+"M+ Liga de Campeones 3",
+"Movistar+ Dispositivos"
+],
+"FR": [
+"CANAL+ Live 9"
+],
+"GB": [
+"TNT Sports 9",
+"HBO Max"
+],
+"IT": [
+"Sky Sport"
+],
+"US": [
+"Paramount+",
+"ViX"
+]
+},
+"competition": {
+"ar": "دوري المؤتمر الأوروبي",
+"de": "UEFA Conference League",
+"en": "UEFA Conference League",
+"es": "Conference League",
+"fr": "Ligue Europa Conférence",
+"it": "UEFA Conference League",
+"pt": "Liga Conferência",
+"tr": "UEFA Konferans Ligi"
+},
+"competitionId": "conference",
+"home": "Crvena Zvezda",
+"homeNames": {
+"ar": "النجم الأحمر",
+"de": "Roter Stern Belgrad",
+"en": "Crvena Zvezda",
+"es": "Estrella Roja",
+"fr": "Étoile rouge de Belgrade",
+"it": "Stella Rossa",
+"pt": "Estrela Vermelha",
+"tr": "Kızılyıldız"
+},
+"id": "football-20261022-crvena-zvezda-fc-copenhagen",
+"kickoffUtc": "2026-10-22T16:45:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "etoile-rouge-de-belgrade-fc-copenhagen-2026-10-22"
+},
+"fr:football-20261022-dinamo-zagreb-nec-nijmegen": {
+"lang": "fr",
+"m": {
+"away": "NEC Nijmegen",
+"awayNames": {
+"ar": "NEC Nijmegen",
+"de": "NEC Nijmegen",
+"en": "NEC Nijmegen",
+"es": "NEC Nijmegen",
+"fr": "NEC Nijmegen",
+"it": "NEC Nijmegen",
+"pt": "NEC Nijmegen",
+"tr": "NEC Nijmegen"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports"
+],
+"CA": [
+"Fubo",
+"DAZN"
+],
+"DE": [
+"WOW",
+"RTL+",
+"Sky Sport 4"
+],
+"DZ": [
+"beIN Sports"
+],
+"EG": [
+"beIN Sports"
+],
+"ES": [
+"M+ Liga de Campeones 3",
+"M+ Liga de Campeones 8"
+],
+"FR": [
+"CANAL+ Live 8"
+],
+"GB": [
+"HBO Max"
+],
+"IQ": [
+"beIN Sports"
+],
+"IT": [
+"Sky Sport"
+],
+"JO": [
+"beIN Sports"
+],
+"LY": [
+"beIN Sports"
+],
+"MA": [
+"beIN Sports"
+],
+"OM": [
+"beIN Sports"
+],
+"QA": [
+"beIN Sports"
+],
+"SA": [
+"beIN Sports"
+],
+"TN": [
+"beIN Sports"
+],
+"TR": [
+"tabii Spor 5"
+],
+"US": [
+"Paramount+",
+"ViX"
+]
+},
+"competition": {
+"ar": "الدوري الأوروبي",
+"de": "UEFA Europa League",
+"en": "UEFA Europa League",
+"es": "Europa League",
+"fr": "Ligue Europa",
+"it": "UEFA Europa League",
+"pt": "Liga Europa",
+"tr": "UEFA Avrupa Ligi"
+},
+"competitionId": "europa",
+"home": "Dinamo Zagreb",
+"homeNames": {
+"ar": "Dinamo Zagreb",
+"de": "Dinamo Zagreb",
+"en": "Dinamo Zagreb",
+"es": "Dinamo Zagreb",
+"fr": "Dinamo Zagreb",
+"it": "Dinamo Zagreb",
+"pt": "Dinamo Zagreb",
+"tr": "Dinamo Zagreb"
+},
+"id": "football-20261022-dinamo-zagreb-nec-nijmegen",
+"kickoffUtc": "2026-10-22T16:45:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "dinamo-zagreb-nec-nijmegen-2026-10-22"
+},
+"fr:football-20261022-ferencvaros-torreense": {
+"lang": "fr",
+"m": {
+"away": "Torreense",
+"awayNames": {
+"ar": "توريينسي",
+"de": "Torreense",
+"en": "Torreense",
+"es": "Torreense",
+"fr": "Torreense",
+"it": "Torreense",
+"pt": "Torreense",
+"tr": "Torreense"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports"
+],
+"CA": [
+"Fubo",
+"DAZN"
+],
+"DE": [
+"RTL+"
+],
+"DZ": [
+"beIN Sports"
+],
+"EG": [
+"beIN Sports"
+],
+"ES": [
+"M+ Liga de Campeones 3",
+"M+ Liga de Campeones 7"
+],
+"FR": [
+"CANAL+ Live 5"
+],
+"GB": [
+"HBO Max"
+],
+"IQ": [
+"beIN Sports"
+],
+"IT": [
+"Sky Sport"
+],
+"JO": [
+"beIN Sports"
+],
+"LY": [
+"beIN Sports"
+],
+"MA": [
+"beIN Sports"
+],
+"OM": [
+"beIN Sports"
+],
+"PT": [
+"DAZN 1"
+],
+"QA": [
+"beIN Sports"
+],
+"SA": [
+"beIN Sports"
+],
+"TN": [
+"beIN Sports"
+],
+"TR": [
+"tabii Spor 3"
+],
+"US": [
+"Paramount+",
+"ViX"
+]
+},
+"competition": {
+"ar": "الدوري الأوروبي",
+"de": "UEFA Europa League",
+"en": "UEFA Europa League",
+"es": "Europa League",
+"fr": "Ligue Europa",
+"it": "UEFA Europa League",
+"pt": "Liga Europa",
+"tr": "UEFA Avrupa Ligi"
+},
+"competitionId": "europa",
+"home": "Ferencvaros",
+"homeNames": {
+"ar": "Ferencváros",
+"de": "Ferencváros",
+"en": "Ferencváros",
+"es": "Ferencváros",
+"fr": "Ferencváros",
+"it": "Ferencváros",
+"pt": "Ferencváros",
+"tr": "Ferencváros"
+},
+"id": "football-20261022-ferencvaros-torreense",
+"kickoffUtc": "2026-10-22T16:45:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "ferencvaros-torreense-2026-10-22"
+},
+"fr:football-20261022-getafe-lugano": {
+"lang": "fr",
+"m": {
+"away": "Lugano",
+"awayNames": {
+"ar": "Lugano",
+"de": "Lugano",
+"en": "Lugano",
+"es": "Lugano",
+"fr": "Lugano",
+"it": "Lugano",
+"pt": "Lugano",
+"tr": "Lugano"
+},
+"broadcasts": {
+"DE": [
+"RTL+"
+],
+"ES": [
+"M+ Liga de Campeones",
+"M+ Liga de Campeones 3",
+"LaLiga TV Bar"
+],
+"FR": [
+"CANAL+ Live 10"
+],
+"GB": [
+"HBO Max"
+],
+"IT": [
+"Sky Sport"
+],
+"US": [
+"Paramount+",
+"ViX"
+]
+},
+"competition": {
+"ar": "دوري المؤتمر الأوروبي",
+"de": "UEFA Conference League",
+"en": "UEFA Conference League",
+"es": "Conference League",
+"fr": "Ligue Europa Conférence",
+"it": "UEFA Conference League",
+"pt": "Liga Conferência",
+"tr": "UEFA Konferans Ligi"
+},
+"competitionId": "conference",
+"home": "Getafe",
+"homeNames": {
+"ar": "خيتافي",
+"de": "Getafe",
+"en": "Getafe",
+"es": "Getafe",
+"fr": "Getafe",
+"it": "Getafe",
+"pt": "Getafe",
+"tr": "Getafe"
+},
+"id": "football-20261022-getafe-lugano",
+"kickoffUtc": "2026-10-22T16:45:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "getafe-lugano-2026-10-22"
+},
+"fr:football-20261022-hoffenheim-lyon": {
+"lang": "fr",
+"m": {
+"away": "Lyon",
+"awayNames": {
+"ar": "أولمبيك ليون",
+"de": "Olympique Lyon",
+"en": "Olympique Lyonnais",
+"es": "Olympique de Lyon",
+"fr": "Olympique Lyonnais",
+"it": "Lione",
+"pt": "Lyon",
+"tr": "Lyon"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports"
+],
+"CA": [
+"Fubo",
+"DAZN"
+],
+"DE": [
+"WOW",
+"RTL+",
+"Sky Top Event",
+"Sky Sport 1"
+],
+"DZ": [
+"beIN Sports"
+],
+"EG": [
+"beIN Sports"
+],
+"ES": [
+"M+ Liga de Campeones 3",
+"M+ Liga de Campeones 10"
+],
+"FR": [
+"CANAL+"
+],
+"GB": [
+"TNT Sports 5",
+"HBO Max"
+],
+"IQ": [
+"beIN Sports"
+],
+"IT": [
+"Sky Sport"
+],
+"JO": [
+"beIN Sports"
+],
+"LY": [
+"beIN Sports"
+],
+"MA": [
+"beIN Sports"
+],
+"OM": [
+"beIN Sports"
+],
+"QA": [
+"beIN Sports"
+],
+"SA": [
+"beIN Sports"
+],
+"TN": [
+"beIN Sports"
+],
+"TR": [
+"tabii Spor 1"
+],
+"US": [
+"Paramount+",
+"DAZN"
+]
+},
+"competition": {
+"ar": "الدوري الأوروبي",
+"de": "UEFA Europa League",
+"en": "UEFA Europa League",
+"es": "Europa League",
+"fr": "Ligue Europa",
+"it": "UEFA Europa League",
+"pt": "Liga Europa",
+"tr": "UEFA Avrupa Ligi"
+},
+"competitionId": "europa",
+"home": "Hoffenheim",
+"homeNames": {
+"ar": "هوفنهايم",
+"de": "TSG Hoffenheim",
+"en": "Hoffenheim",
+"es": "Hoffenheim",
+"fr": "Hoffenheim",
+"it": "Hoffenheim",
+"pt": "Hoffenheim",
+"tr": "Hoffenheim"
+},
+"id": "football-20261022-hoffenheim-lyon",
+"kickoffUtc": "2026-10-22T19:00:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "hoffenheim-olympique-lyonnais-2026-10-22"
+},
+"fr:football-20261022-iberia-1999-mjallby": {
+"lang": "fr",
+"m": {
+"away": "Mjallby",
+"awayNames": {
+"ar": "Mjällby",
+"de": "Mjällby",
+"en": "Mjällby",
+"es": "Mjällby",
+"fr": "Mjällby",
+"it": "Mjällby",
+"pt": "Mjällby",
+"tr": "Mjällby"
+},
+"broadcasts": {
+"DE": [
+"RTL+"
+],
+"ES": [
+"M+ Liga de Campeones 3",
+"Movistar+ Dispositivos"
+],
+"FR": [
+"CANAL+ Live 15"
+],
+"GB": [
+"HBO Max"
+],
+"IT": [
+"Sky Sport"
+],
+"US": [
+"Paramount+",
+"ViX"
+]
+},
+"competition": {
+"ar": "دوري المؤتمر الأوروبي",
+"de": "UEFA Conference League",
+"en": "UEFA Conference League",
+"es": "Conference League",
+"fr": "Ligue Europa Conférence",
+"it": "UEFA Conference League",
+"pt": "Liga Conferência",
+"tr": "UEFA Konferans Ligi"
+},
+"competitionId": "conference",
+"home": "Iberia 1999",
+"homeNames": {
+"ar": "Iberia 1999",
+"de": "Iberia 1999",
+"en": "Iberia 1999",
+"es": "Iberia 1999",
+"fr": "Iberia 1999",
+"it": "Iberia 1999",
+"pt": "Iberia 1999",
+"tr": "Iberia 1999"
+},
+"id": "football-20261022-iberia-1999-mjallby",
+"kickoffUtc": "2026-10-22T16:45:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "iberia-1999-mjallby-2026-10-22"
+},
+"fr:football-20261022-inter-escaldes-universitatea-craiova": {
+"lang": "fr",
+"m": {
+"away": "Universitatea Craiova",
+"awayNames": {
+"ar": "Universitatea Craiova",
+"de": "Universitatea Craiova",
+"en": "Universitatea Craiova",
+"es": "Universitatea Craiova",
+"fr": "Universitatea Craiova",
+"it": "Universitatea Craiova",
+"pt": "Universitatea Craiova",
+"tr": "Universitatea Craiova"
+},
+"broadcasts": {
+"DE": [
+"RTL+"
+],
+"ES": [
+"M+ Liga de Campeones 12",
+"M+ Liga de Campeones 3"
+],
+"FR": [
+"CANAL+ Live 16"
+],
+"GB": [
+"HBO Max"
+],
+"IT": [
+"Sky Sport"
+],
+"US": [
+"Paramount+",
+"ViX"
+]
+},
+"competition": {
+"ar": "دوري المؤتمر الأوروبي",
+"de": "UEFA Conference League",
+"en": "UEFA Conference League",
+"es": "Conference League",
+"fr": "Ligue Europa Conférence",
+"it": "UEFA Conference League",
+"pt": "Liga Conferência",
+"tr": "UEFA Konferans Ligi"
+},
+"competitionId": "conference",
+"home": "Inter Escaldes",
+"homeNames": {
+"ar": "Inter Club d'Escaldes",
+"de": "Inter Club d'Escaldes",
+"en": "Inter Club d'Escaldes",
+"es": "Inter Club d'Escaldes",
+"fr": "Inter Club d'Escaldes",
+"it": "Inter Club d'Escaldes",
+"pt": "Inter Club d'Escaldes",
+"tr": "Inter Club d'Escaldes"
+},
+"id": "football-20261022-inter-escaldes-universitatea-craiova",
+"kickoffUtc": "2026-10-22T16:45:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "inter-club-d-escaldes-universitatea-craiova-2026-10-22"
+},
+"fr:football-20261022-jablonec-brighton": {
+"lang": "fr",
+"m": {
+"away": "Brighton",
+"awayNames": {
+"ar": "برايتون",
+"de": "Brighton",
+"en": "Brighton & Hove Albion",
+"es": "Brighton",
+"fr": "Brighton",
+"it": "Brighton",
+"pt": "Brighton",
+"tr": "Brighton"
+},
+"broadcasts": {
+"DE": [
+"RTL+"
+],
+"ES": [
+"M+ Liga de Campeones 3",
+"M+ Liga de Campeones 11"
+],
+"FR": [
+"CANAL+ Live 11"
+],
+"GB": [
+"TNT Sports 2",
+"HBO Max"
+],
+"IT": [
+"Sky Sport"
+],
+"US": [
+"Paramount+",
+"ViX"
+]
+},
+"competition": {
+"ar": "دوري المؤتمر الأوروبي",
+"de": "UEFA Conference League",
+"en": "UEFA Conference League",
+"es": "Conference League",
+"fr": "Ligue Europa Conférence",
+"it": "UEFA Conference League",
+"pt": "Liga Conferência",
+"tr": "UEFA Konferans Ligi"
+},
+"competitionId": "conference",
+"home": "Jablonec",
+"homeNames": {
+"ar": "Jablonec",
+"de": "Jablonec",
+"en": "Jablonec",
+"es": "Jablonec",
+"fr": "Jablonec",
+"it": "Jablonec",
+"pt": "Jablonec",
+"tr": "Jablonec"
+},
+"id": "football-20261022-jablonec-brighton",
+"kickoffUtc": "2026-10-22T16:45:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "jablonec-brighton-2026-10-22"
+},
+"fr:football-20261022-jagiellonia-bialystok-anderlecht": {
+"lang": "fr",
+"m": {
+"away": "Anderlecht",
+"awayNames": {
+"ar": "Anderlecht",
+"de": "Anderlecht",
+"en": "Anderlecht",
+"es": "Anderlecht",
+"fr": "Anderlecht",
+"it": "Anderlecht",
+"pt": "Anderlecht",
+"tr": "Anderlecht"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports"
+],
+"CA": [
+"Fubo",
+"DAZN"
+],
+"DE": [
+"RTL+"
+],
+"DZ": [
+"beIN Sports"
+],
+"EG": [
+"beIN Sports"
+],
+"ES": [
+"M+ Liga de Campeones 3",
+"M+ Liga de Campeones 9"
+],
+"FR": [
+"CANAL+ Live 9"
+],
+"GB": [
+"HBO Max"
+],
+"IQ": [
+"beIN Sports"
+],
+"IT": [
+"Sky Sport"
+],
+"JO": [
+"beIN Sports"
+],
+"LY": [
+"beIN Sports"
+],
+"MA": [
+"beIN Sports"
+],
+"OM": [
+"beIN Sports"
+],
+"QA": [
+"beIN Sports"
+],
+"SA": [
+"beIN Sports"
+],
+"TN": [
+"beIN Sports"
+],
+"US": [
+"Paramount+",
+"ViX"
+]
+},
+"competition": {
+"ar": "الدوري الأوروبي",
+"de": "UEFA Europa League",
+"en": "UEFA Europa League",
+"es": "Europa League",
+"fr": "Ligue Europa",
+"it": "UEFA Europa League",
+"pt": "Liga Europa",
+"tr": "UEFA Avrupa Ligi"
+},
+"competitionId": "europa",
+"home": "Jagiellonia Bialystok",
+"homeNames": {
+"ar": "ياغيلونيا",
+"de": "Jagiellonia Białystok",
+"en": "Jagiellonia Białystok",
+"es": "Jagiellonia Białystok",
+"fr": "Jagiellonia Białystok",
+"it": "Jagiellonia Białystok",
+"pt": "Jagiellonia Białystok",
+"tr": "Jagiellonia Białystok"
+},
+"id": "football-20261022-jagiellonia-bialystok-anderlecht",
+"kickoffUtc": "2026-10-22T19:00:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "jagiellonia-bialystok-anderlecht-2026-10-22"
+},
+"fr:football-20261022-juventus-rennes": {
+"lang": "fr",
+"m": {
+"away": "Rennes",
+"awayNames": {
+"ar": "رين",
+"de": "Stade Rennes",
+"en": "Stade Rennais",
+"es": "Rennes",
+"fr": "Rennes",
+"it": "Rennes",
+"pt": "Rennes",
+"tr": "Rennes"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports"
+],
+"CA": [
+"Fubo",
+"DAZN"
+],
+"DE": [
+"RTL+",
+"WOW",
+"Sky Sport 3"
+],
+"DZ": [
+"beIN Sports"
+],
+"EG": [
+"beIN Sports"
+],
+"ES": [
+"M+ Liga de Campeones 3",
+"M+ Liga de Campeones 4"
+],
+"FR": [
+"CANAL+ Sport"
+],
+"GB": [
+"TNT Sports 5",
+"HBO Max"
+],
+"IQ": [
+"beIN Sports"
+],
+"IT": [
+"Sky Sport 1"
+],
+"JO": [
+"beIN Sports"
+],
+"LY": [
+"beIN Sports"
+],
+"MA": [
+"beIN Sports"
+],
+"OM": [
+"beIN Sports"
+],
+"PT": [
+"DAZN 2"
+],
+"QA": [
+"beIN Sports"
+],
+"SA": [
+"beIN Sports"
+],
+"TN": [
+"beIN Sports"
+],
+"TR": [
+"tabii Spor",
+"CBC Sport"
+],
+"US": [
+"CBS Sports Network",
+"TUDN",
+"Paramount+",
+"Fubo",
+"ViX"
+]
+},
+"competition": {
+"ar": "الدوري الأوروبي",
+"de": "UEFA Europa League",
+"en": "UEFA Europa League",
+"es": "Europa League",
+"fr": "Ligue Europa",
+"it": "UEFA Europa League",
+"pt": "Liga Europa",
+"tr": "UEFA Avrupa Ligi"
+},
+"competitionId": "europa",
+"home": "Juventus",
+"homeNames": {
+"ar": "يوفنتوس",
+"de": "Juventus",
+"en": "Juventus",
+"es": "Juventus",
+"fr": "Juventus",
+"it": "Juventus",
+"pt": "Juventus",
+"tr": "Juventus"
+},
+"id": "football-20261022-juventus-rennes",
+"kickoffUtc": "2026-10-22T16:45:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "juventus-rennes-2026-10-22"
+},
+"fr:football-20261022-kairat-almaty-panathinaikos": {
+"lang": "fr",
+"m": {
+"away": "Panathinaikos",
+"awayNames": {
+"ar": "باناثينايكوس",
+"de": "Panathinaikos",
+"en": "Panathinaikos",
+"es": "Panathinaikos",
+"fr": "Panathinaikos",
+"it": "Panathinaikos",
+"pt": "Panathinaikos",
+"tr": "Panathinaikos"
+},
+"broadcasts": {
+"DE": [
+"RTL+"
+],
+"ES": [
+"M+ Liga de Campeones 2"
+],
+"FR": [
+"CANAL+ Live 14"
+],
+"GB": [
+"TNT Sports 9",
+"HBO Max"
+],
+"IT": [
+"Sky Sport Calcio"
+],
+"PT": [
+"DAZN 2"
+],
+"US": [
+"Paramount+",
+"ViX"
+]
+},
+"competition": {
+"ar": "دوري المؤتمر الأوروبي",
+"de": "UEFA Conference League",
+"en": "UEFA Conference League",
+"es": "Conference League",
+"fr": "Ligue Europa Conférence",
+"it": "UEFA Conference League",
+"pt": "Liga Conferência",
+"tr": "UEFA Konferans Ligi"
+},
+"competitionId": "conference",
+"home": "Kairat Almaty",
+"homeNames": {
+"ar": "Kairat Almaty",
+"de": "Kairat Almaty",
+"en": "Kairat Almaty",
+"es": "Kairat Almaty",
+"fr": "Kairat Almaty",
+"it": "Kairat Almaty",
+"pt": "Kairat Almaty",
+"tr": "Kairat Almaty"
+},
+"id": "football-20261022-kairat-almaty-panathinaikos",
+"kickoffUtc": "2026-10-22T14:30:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "kairat-almaty-panathinaikos-2026-10-22"
+},
+"fr:football-20261022-kauno-zalgiris-brann": {
+"lang": "fr",
+"m": {
+"away": "Brann",
+"awayNames": {
+"ar": "Brann",
+"de": "Brann",
+"en": "Brann",
+"es": "Brann",
+"fr": "Brann",
+"it": "Brann",
+"pt": "Brann",
+"tr": "Brann"
+},
+"broadcasts": {
+"DE": [
+"RTL+"
+],
+"ES": [
+"M+ Liga de Campeones 3",
+"Movistar+ Dispositivos"
+],
+"FR": [
+"CANAL+ Live 17"
+],
+"GB": [
+"HBO Max"
+],
+"IT": [
+"Sky Sport"
+],
+"US": [
+"Paramount+",
+"ViX"
+]
+},
+"competition": {
+"ar": "دوري المؤتمر الأوروبي",
+"de": "UEFA Conference League",
+"en": "UEFA Conference League",
+"es": "Conference League",
+"fr": "Ligue Europa Conférence",
+"it": "UEFA Conference League",
+"pt": "Liga Conferência",
+"tr": "UEFA Konferans Ligi"
+},
+"competitionId": "conference",
+"home": "Kauno Zalgiris",
+"homeNames": {
+"ar": "Kauno Žalgiris",
+"de": "Kauno Žalgiris",
+"en": "Kauno Žalgiris",
+"es": "Kauno Žalgiris",
+"fr": "Kauno Žalgiris",
+"it": "Kauno Žalgiris",
+"pt": "Kauno Žalgiris",
+"tr": "Kauno Žalgiris"
+},
+"id": "football-20261022-kauno-zalgiris-brann",
+"kickoffUtc": "2026-10-22T16:45:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "kauno-zalgiris-brann-2026-10-22"
+},
+"fr:football-20261022-lech-poznan-sunderland": {
+"lang": "fr",
+"m": {
+"away": "Sunderland",
+"awayNames": {
+"ar": "سندرلاند",
+"de": "AFC Sunderland",
+"en": "Sunderland",
+"es": "Sunderland",
+"fr": "Sunderland",
+"it": "Sunderland",
+"pt": "Sunderland",
+"tr": "Sunderland"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports"
+],
+"CA": [
+"Fubo",
+"DAZN"
+],
+"DE": [
+"WOW",
+"Sky Sport 2"
+],
+"DZ": [
+"beIN Sports"
+],
+"EG": [
+"beIN Sports"
+],
+"ES": [
+"M+ Liga de Campeones 3",
+"M+ Liga de Campeones 9"
+],
+"FR": [
+"CANAL+ Live 6"
+],
+"GB": [
+"TNT Sports 1",
+"HBO Max"
+],
+"IQ": [
+"beIN Sports"
+],
+"IT": [
+"Sky Sport Mix"
+],
+"JO": [
+"beIN Sports"
+],
+"LY": [
+"beIN Sports"
+],
+"MA": [
+"beIN Sports"
+],
+"OM": [
+"beIN Sports"
+],
+"PT": [
+"DAZN 3"
+],
+"QA": [
+"beIN Sports"
+],
+"SA": [
+"beIN Sports"
+],
+"TN": [
+"beIN Sports"
+],
+"TR": [
+"tabii Spor 2"
+],
+"US": [
+"Paramount+",
+"ViX"
+]
+},
+"competition": {
+"ar": "الدوري الأوروبي",
+"de": "UEFA Europa League",
+"en": "UEFA Europa League",
+"es": "Europa League",
+"fr": "Ligue Europa",
+"it": "UEFA Europa League",
+"pt": "Liga Europa",
+"tr": "UEFA Avrupa Ligi"
+},
+"competitionId": "europa",
+"home": "Lech Poznan",
+"homeNames": {
+"ar": "Lech Poznan",
+"de": "Lech Poznan",
+"en": "Lech Poznan",
+"es": "Lech Poznan",
+"fr": "Lech Poznan",
+"it": "Lech Poznan",
+"pt": "Lech Poznan",
+"tr": "Lech Poznan"
+},
+"id": "football-20261022-lech-poznan-sunderland",
+"kickoffUtc": "2026-10-22T16:45:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "lech-poznan-sunderland-2026-10-22"
+},
+"fr:football-20261022-lillestrom-real-sociedad": {
+"lang": "fr",
+"m": {
+"away": "Real Sociedad",
+"awayNames": {
+"ar": "ريال سوسيداد",
+"de": "Real Sociedad",
+"en": "Real Sociedad",
+"es": "Real Sociedad",
+"fr": "Real Sociedad",
+"it": "Real Sociedad",
+"pt": "Real Sociedad",
+"tr": "Real Sociedad"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports"
+],
+"CA": [
+"Fubo",
+"DAZN"
+],
+"DE": [
+"RTL+"
+],
+"DZ": [
+"beIN Sports"
+],
+"EG": [
+"beIN Sports"
+],
+"ES": [
+"M+ Liga de Campeones 2",
+"M+ Liga de Campeones 3"
+],
+"FR": [
+"CANAL+ Live 6"
+],
+"GB": [
+"TNT Sports 7",
+"HBO Max"
+],
+"IQ": [
+"beIN Sports"
+],
+"IT": [
+"Sky Sport"
+],
+"JO": [
+"beIN Sports"
+],
+"LY": [
+"beIN Sports"
+],
+"MA": [
+"beIN Sports"
+],
+"OM": [
+"beIN Sports"
+],
+"QA": [
+"beIN Sports"
+],
+"SA": [
+"beIN Sports"
+],
+"TN": [
+"beIN Sports"
+],
+"TR": [
+"tabii Spor 5"
+],
+"US": [
+"Paramount+",
+"DAZN"
+]
+},
+"competition": {
+"ar": "الدوري الأوروبي",
+"de": "UEFA Europa League",
+"en": "UEFA Europa League",
+"es": "Europa League",
+"fr": "Ligue Europa",
+"it": "UEFA Europa League",
+"pt": "Liga Europa",
+"tr": "UEFA Avrupa Ligi"
+},
+"competitionId": "europa",
+"home": "Lillestrom",
+"homeNames": {
+"ar": "Lillestrøm",
+"de": "Lillestrøm",
+"en": "Lillestrøm",
+"es": "Lillestrøm",
+"fr": "Lillestrøm",
+"it": "Lillestrøm",
+"pt": "Lillestrøm",
+"tr": "Lillestrøm"
+},
+"id": "football-20261022-lillestrom-real-sociedad",
+"kickoffUtc": "2026-10-22T19:00:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "lillestrom-real-sociedad-2026-10-22"
+},
+"fr:football-20261022-lincoln-red-imps-twente": {
+"lang": "fr",
+"m": {
+"away": "Twente",
+"awayNames": {
+"ar": "Twente",
+"de": "Twente",
+"en": "Twente",
+"es": "Twente",
+"fr": "Twente",
+"it": "Twente",
+"pt": "Twente",
+"tr": "Twente"
+},
+"broadcasts": {
+"DE": [
+"RTL+"
+],
+"ES": [
+"M+ Liga de Campeones 3",
+"Movistar+ Dispositivos"
+],
+"FR": [
+"CANAL+ Live 18"
+],
+"GB": [
+"HBO Max"
+],
+"IT": [
+"Sky Sport"
+],
+"US": [
+"Paramount+",
+"ViX"
+]
+},
+"competition": {
+"ar": "دوري المؤتمر الأوروبي",
+"de": "UEFA Conference League",
+"en": "UEFA Conference League",
+"es": "Conference League",
+"fr": "Ligue Europa Conférence",
+"it": "UEFA Conference League",
+"pt": "Liga Conferência",
+"tr": "UEFA Konferans Ligi"
+},
+"competitionId": "conference",
+"home": "Lincoln Red Imps",
+"homeNames": {
+"ar": "Lincoln Red Imps",
+"de": "Lincoln Red Imps",
+"en": "Lincoln Red Imps",
+"es": "Lincoln Red Imps",
+"fr": "Lincoln Red Imps",
+"it": "Lincoln Red Imps",
+"pt": "Lincoln Red Imps",
+"tr": "Lincoln Red Imps"
+},
+"id": "football-20261022-lincoln-red-imps-twente",
+"kickoffUtc": "2026-10-22T19:00:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "lincoln-red-imps-twente-2026-10-22"
+},
+"fr:football-20261022-midtjylland-sint-truiden": {
+"lang": "fr",
+"m": {
+"away": "Sint-Truiden",
+"awayNames": {
+"ar": "Sint-Truiden",
+"de": "Sint-Truiden",
+"en": "Sint-Truiden",
+"es": "Sint-Truiden",
+"fr": "Sint-Truiden",
+"it": "Sint-Truiden",
+"pt": "Sint-Truiden",
+"tr": "Sint-Truiden"
+},
+"broadcasts": {
+"DE": [
+"RTL+"
+],
+"ES": [
+"M+ Liga de Campeones 3",
+"Movistar+ Dispositivos"
+],
+"FR": [
+"CANAL+ Live 15"
+],
+"GB": [
+"HBO Max"
+],
+"IT": [
+"Sky Sport"
+],
+"US": [
+"Paramount+",
+"ViX"
+]
+},
+"competition": {
+"ar": "دوري المؤتمر الأوروبي",
+"de": "UEFA Conference League",
+"en": "UEFA Conference League",
+"es": "Conference League",
+"fr": "Ligue Europa Conférence",
+"it": "UEFA Conference League",
+"pt": "Liga Conferência",
+"tr": "UEFA Konferans Ligi"
+},
+"competitionId": "conference",
+"home": "Midtjylland",
+"homeNames": {
+"ar": "Midtjylland",
+"de": "Midtjylland",
+"en": "Midtjylland",
+"es": "Midtjylland",
+"fr": "Midtjylland",
+"it": "Midtjylland",
+"pt": "Midtjylland",
+"tr": "Midtjylland"
+},
+"id": "football-20261022-midtjylland-sint-truiden",
+"kickoffUtc": "2026-10-22T19:00:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "midtjylland-sint-truiden-2026-10-22"
+},
+"fr:football-20261022-monaco-freiburg": {
+"lang": "fr",
+"m": {
+"away": "Freiburg",
+"awayNames": {
+"ar": "SC Freiburg",
+"de": "SC Freiburg",
+"en": "SC Freiburg",
+"es": "SC Freiburg",
+"fr": "SC Freiburg",
+"it": "SC Freiburg",
+"pt": "SC Freiburg",
+"tr": "SC Freiburg"
+},
+"broadcasts": {
+"DE": [
+"WOW",
+"RTL+",
+"Sky Sport 2",
+"RTL"
+],
+"ES": [
+"M+ Liga de Campeones 12",
+"M+ Liga de Campeones 3"
+],
+"FR": [
+"CANAL+ Foot"
+],
+"GB": [
+"TNT Sports 9",
+"HBO Max"
+],
+"IT": [
+"Sky Sport"
+],
+"US": [
+"Paramount+",
+"ViX"
+]
+},
+"competition": {
+"ar": "دوري المؤتمر الأوروبي",
+"de": "UEFA Conference League",
+"en": "UEFA Conference League",
+"es": "Conference League",
+"fr": "Ligue Europa Conférence",
+"it": "UEFA Conference League",
+"pt": "Liga Conferência",
+"tr": "UEFA Konferans Ligi"
+},
+"competitionId": "conference",
+"home": "Monaco",
+"homeNames": {
+"ar": "موناكو",
+"de": "AS Monaco",
+"en": "AS Monaco",
+"es": "AS Mónaco",
+"fr": "AS Monaco",
+"it": "AS Monaco",
+"pt": "AS Monaco",
+"tr": "Monaco"
+},
+"id": "football-20261022-monaco-freiburg",
+"kickoffUtc": "2026-10-22T19:00:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "as-monaco-sc-freiburg-2026-10-22"
+},
+"fr:football-20261022-nordsjaelland-cska-sofia": {
+"lang": "fr",
+"m": {
+"away": "CSKA Sofia",
+"awayNames": {
+"ar": "CSKA Sofia",
+"de": "CSKA Sofia",
+"en": "CSKA Sofia",
+"es": "CSKA Sofia",
+"fr": "CSKA Sofia",
+"it": "CSKA Sofia",
+"pt": "CSKA Sofia",
+"tr": "CSKA Sofia"
+},
+"broadcasts": {
+"DE": [
+"RTL+"
+],
+"ES": [
+"M+ Liga de Campeones 3",
+"Movistar+ Dispositivos"
+],
+"FR": [
+"CANAL+ Live 18"
+],
+"GB": [
+"HBO Max"
+],
+"IT": [
+"Sky Sport"
+],
+"US": [
+"Paramount+",
+"ViX"
+]
+},
+"competition": {
+"ar": "دوري المؤتمر الأوروبي",
+"de": "UEFA Conference League",
+"en": "UEFA Conference League",
+"es": "Conference League",
+"fr": "Ligue Europa Conférence",
+"it": "UEFA Conference League",
+"pt": "Liga Conferência",
+"tr": "UEFA Konferans Ligi"
+},
+"competitionId": "conference",
+"home": "Nordsjaelland",
+"homeNames": {
+"ar": "Nordsjælland",
+"de": "Nordsjælland",
+"en": "Nordsjælland",
+"es": "Nordsjælland",
+"fr": "Nordsjælland",
+"it": "Nordsjælland",
+"pt": "Nordsjælland",
+"tr": "Nordsjælland"
+},
+"id": "football-20261022-nordsjaelland-cska-sofia",
+"kickoffUtc": "2026-10-22T16:45:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "nordsjaelland-cska-sofia-2026-10-22"
+},
+"fr:football-20261022-ofi-crete-leverkusen": {
+"lang": "fr",
+"m": {
+"away": "Leverkusen",
+"awayNames": {
+"ar": "باير ليفركوزن",
+"de": "Bayer 04 Leverkusen",
+"en": "Bayer Leverkusen",
+"es": "Bayer Leverkusen",
+"fr": "Bayer Leverkusen",
+"it": "Bayer Leverkusen",
+"pt": "Bayer Leverkusen",
+"tr": "Leverkusen"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports"
+],
+"CA": [
+"Fubo",
+"DAZN"
+],
+"DE": [
+"WOW",
+"RTL+",
+"Sky Top Event",
+"Sky Sport 1"
+],
+"DZ": [
+"beIN Sports"
+],
+"EG": [
+"beIN Sports"
+],
+"ES": [
+"M+ Liga de Campeones 3",
+"M+ Liga de Campeones 5"
+],
+"FR": [
+"CANAL+ Live 4"
+],
+"GB": [
+"TNT Sports 6",
+"HBO Max"
+],
+"IQ": [
+"beIN Sports"
+],
+"IT": [
+"Sky Sport Calcio"
+],
+"JO": [
+"beIN Sports"
+],
+"LY": [
+"beIN Sports"
+],
+"MA": [
+"beIN Sports"
+],
+"OM": [
+"beIN Sports"
+],
+"QA": [
+"beIN Sports"
+],
+"SA": [
+"beIN Sports"
+],
+"TN": [
+"beIN Sports"
+],
+"TR": [
+"tabii Spor 1"
+],
+"US": [
+"Paramount+",
+"ViX"
+]
+},
+"competition": {
+"ar": "الدوري الأوروبي",
+"de": "UEFA Europa League",
+"en": "UEFA Europa League",
+"es": "Europa League",
+"fr": "Ligue Europa",
+"it": "UEFA Europa League",
+"pt": "Liga Europa",
+"tr": "UEFA Avrupa Ligi"
+},
+"competitionId": "europa",
+"home": "OFI Crete",
+"homeNames": {
+"ar": "OFI Crete",
+"de": "OFI Crete",
+"en": "OFI Crete",
+"es": "OFI Crete",
+"fr": "OFI Crete",
+"it": "OFI Crete",
+"pt": "OFI Crete",
+"tr": "OFI Crete"
+},
+"id": "football-20261022-ofi-crete-leverkusen",
+"kickoffUtc": "2026-10-22T16:45:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "ofi-crete-bayer-leverkusen-2026-10-22"
+},
+"fr:football-20261022-olympiacos-sparta-prague": {
+"lang": "fr",
+"m": {
+"away": "Sparta Prague",
+"awayNames": {
+"ar": "Sparta Prague",
+"de": "Sparta Prague",
+"en": "Sparta Prague",
+"es": "Sparta Prague",
+"fr": "Sparta Prague",
+"it": "Sparta Prague",
+"pt": "Sparta Prague",
+"tr": "Sparta Prague"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports"
+],
+"CA": [
+"Fubo",
+"DAZN"
+],
+"DE": [
+"RTL+"
+],
+"DZ": [
+"beIN Sports"
+],
+"EG": [
+"beIN Sports"
+],
+"ES": [
+"M+ Liga de Campeones 3",
+"M+ Liga de Campeones 6"
+],
+"FR": [
+"CANAL+ Live 11"
+],
+"GB": [
+"HBO Max"
+],
+"IQ": [
+"beIN Sports"
+],
+"IT": [
+"Sky Sport"
+],
+"JO": [
+"beIN Sports"
+],
+"LY": [
+"beIN Sports"
+],
+"MA": [
+"beIN Sports"
+],
+"OM": [
+"beIN Sports"
+],
+"QA": [
+"beIN Sports"
+],
+"SA": [
+"beIN Sports"
+],
+"TN": [
+"beIN Sports"
+],
+"TR": [
+"tabii Spor 4"
+],
+"US": [
+"Paramount+",
+"ViX"
+]
+},
+"competition": {
+"ar": "الدوري الأوروبي",
+"de": "UEFA Europa League",
+"en": "UEFA Europa League",
+"es": "Europa League",
+"fr": "Ligue Europa",
+"it": "UEFA Europa League",
+"pt": "Liga Europa",
+"tr": "UEFA Avrupa Ligi"
+},
+"competitionId": "europa",
+"home": "Olympiacos",
+"homeNames": {
+"ar": "أولمبياكوس",
+"de": "Olympiakos",
+"en": "Olympiacos",
+"es": "Olympiacos",
+"fr": "Olympiakos",
+"it": "Olympiakos",
+"pt": "Olympiacos",
+"tr": "Olympiakos"
+},
+"id": "football-20261022-olympiacos-sparta-prague",
+"kickoffUtc": "2026-10-22T19:00:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "olympiakos-sparta-prague-2026-10-22"
+},
+"fr:football-20261022-omonia-nicosia-benfica": {
+"lang": "fr",
+"m": {
+"away": "Benfica",
+"awayNames": {
+"ar": "بنفيكا",
+"de": "Benfica Lissabon",
+"en": "Benfica",
+"es": "Benfica",
+"fr": "Benfica Lisbonne",
+"it": "Benfica",
+"pt": "Benfica",
+"tr": "Benfica"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports"
+],
+"CA": [
+"Fubo",
+"DAZN"
+],
+"DE": [
+"RTL+"
+],
+"DZ": [
+"beIN Sports"
+],
+"EG": [
+"beIN Sports"
+],
+"ES": [
+"M+ Liga de Campeones 3",
+"M+ Liga de Campeones 7"
+],
+"FR": [
+"CANAL+ Live 7"
+],
+"GB": [
+"TNT Sports 6",
+"HBO Max"
+],
+"IQ": [
+"beIN Sports"
+],
+"IT": [
+"Sky Sport"
+],
+"JO": [
+"beIN Sports"
+],
+"LY": [
+"beIN Sports"
+],
+"MA": [
+"beIN Sports"
+],
+"OM": [
+"beIN Sports"
+],
+"PT": [
+"Sport TV 5"
+],
+"QA": [
+"beIN Sports"
+],
+"SA": [
+"beIN Sports"
+],
+"TN": [
+"beIN Sports"
+],
+"TR": [
+"tabii Spor 2"
+],
+"US": [
+"Paramount+",
+"DAZN"
+]
+},
+"competition": {
+"ar": "الدوري الأوروبي",
+"de": "UEFA Europa League",
+"en": "UEFA Europa League",
+"es": "Europa League",
+"fr": "Ligue Europa",
+"it": "UEFA Europa League",
+"pt": "Liga Europa",
+"tr": "UEFA Avrupa Ligi"
+},
+"competitionId": "europa",
+"home": "Omonia Nicosia",
+"homeNames": {
+"ar": "Omonia Nicosia",
+"de": "Omonia Nicosia",
+"en": "Omonia Nicosia",
+"es": "Omonia Nicosia",
+"fr": "Omonia Nicosia",
+"it": "Omonia Nicosia",
+"pt": "Omonia Nicosia",
+"tr": "Omonia Nicosia"
+},
+"id": "football-20261022-omonia-nicosia-benfica",
+"kickoffUtc": "2026-10-22T19:00:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "omonia-nicosia-benfica-lisbonne-2026-10-22"
+},
+"fr:football-20261022-pafos-riga-fc": {
+"lang": "fr",
+"m": {
+"away": "Riga FC",
+"awayNames": {
+"ar": "Riga FC",
+"de": "Riga FC",
+"en": "Riga FC",
+"es": "Riga FC",
+"fr": "Riga FC",
+"it": "Riga FC",
+"pt": "Riga FC",
+"tr": "Riga FC"
+},
+"broadcasts": {
+"DE": [
+"RTL+"
+],
+"ES": [
+"M+ Liga de Campeones 3",
+"Movistar+ Dispositivos"
+],
+"FR": [
+"CANAL+ Live 13"
+],
+"GB": [
+"HBO Max"
+],
+"IT": [
+"Sky Sport"
+],
+"US": [
+"Paramount+",
+"ViX"
+]
+},
+"competition": {
+"ar": "دوري المؤتمر الأوروبي",
+"de": "UEFA Conference League",
+"en": "UEFA Conference League",
+"es": "Conference League",
+"fr": "Ligue Europa Conférence",
+"it": "UEFA Conference League",
+"pt": "Liga Conferência",
+"tr": "UEFA Konferans Ligi"
+},
+"competitionId": "conference",
+"home": "Pafos",
+"homeNames": {
+"ar": "Pafos",
+"de": "Pafos",
+"en": "Pafos",
+"es": "Pafos",
+"fr": "Pafos",
+"it": "Pafos",
+"pt": "Pafos",
+"tr": "Pafos"
+},
+"id": "football-20261022-pafos-riga-fc",
+"kickoffUtc": "2026-10-22T16:45:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "pafos-riga-fc-2026-10-22"
+},
+"fr:football-20261022-sturm-graz-marseille": {
+"lang": "fr",
+"m": {
+"away": "Marseille",
+"awayNames": {
+"ar": "مارسيليا",
+"de": "Marseille",
+"en": "Marseille",
+"es": "Marsella",
+"fr": "Olympique de Marseille",
+"it": "Marsiglia",
+"pt": "Marselha",
+"tr": "Marsilya"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports"
+],
+"CA": [
+"Fubo",
+"DAZN"
+],
+"DE": [
+"RTL+"
+],
+"DZ": [
+"beIN Sports"
+],
+"EG": [
+"beIN Sports"
+],
+"ES": [
+"M+ Liga de Campeones 3",
+"M+ Liga de Campeones 6"
+],
+"FR": [
+"CANAL+ Foot"
+],
+"GB": [
+"TNT Sports 7",
+"HBO Max"
+],
+"IQ": [
+"beIN Sports"
+],
+"IT": [
+"Sky Sport"
+],
+"JO": [
+"beIN Sports"
+],
+"LY": [
+"beIN Sports"
+],
+"MA": [
+"beIN Sports"
+],
+"OM": [
+"beIN Sports"
+],
+"QA": [
+"beIN Sports"
+],
+"SA": [
+"beIN Sports"
+],
+"TN": [
+"beIN Sports"
+],
+"TR": [
+"tabii Spor 4"
+],
+"US": [
+"Paramount+",
+"ViX"
+]
+},
+"competition": {
+"ar": "الدوري الأوروبي",
+"de": "UEFA Europa League",
+"en": "UEFA Europa League",
+"es": "Europa League",
+"fr": "Ligue Europa",
+"it": "UEFA Europa League",
+"pt": "Liga Europa",
+"tr": "UEFA Avrupa Ligi"
+},
+"competitionId": "europa",
+"home": "Sturm Graz",
+"homeNames": {
+"ar": "Sturm Graz",
+"de": "Sturm Graz",
+"en": "Sturm Graz",
+"es": "Sturm Graz",
+"fr": "Sturm Graz",
+"it": "Sturm Graz",
+"pt": "Sturm Graz",
+"tr": "Sturm Graz"
+},
+"id": "football-20261022-sturm-graz-marseille",
+"kickoffUtc": "2026-10-22T16:45:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "sturm-graz-olympique-de-marseille-2026-10-22"
+},
+"fr:football-20261022-thun-hajduk-split": {
+"lang": "fr",
+"m": {
+"away": "Hajduk Split",
+"awayNames": {
+"ar": "Hajduk Split",
+"de": "Hajduk Split",
+"en": "Hajduk Split",
+"es": "Hajduk Split",
+"fr": "Hajduk Split",
+"it": "Hajduk Split",
+"pt": "Hajduk Split",
+"tr": "Hajduk Split"
+},
+"broadcasts": {
+"DE": [
+"RTL+"
+],
+"ES": [
+"M+ Liga de Campeones 3",
+"Movistar+ Dispositivos"
+],
+"FR": [
+"CANAL+ Live 16"
+],
+"GB": [
+"HBO Max"
+],
+"IT": [
+"Sky Sport"
+],
+"US": [
+"Paramount+",
+"ViX"
+]
+},
+"competition": {
+"ar": "دوري المؤتمر الأوروبي",
+"de": "UEFA Conference League",
+"en": "UEFA Conference League",
+"es": "Conference League",
+"fr": "Ligue Europa Conférence",
+"it": "UEFA Conference League",
+"pt": "Liga Conferência",
+"tr": "UEFA Konferans Ligi"
+},
+"competitionId": "conference",
+"home": "Thun",
+"homeNames": {
+"ar": "Thun",
+"de": "Thun",
+"en": "Thun",
+"es": "Thun",
+"fr": "Thun",
+"it": "Thun",
+"pt": "Thun",
+"tr": "Thun"
+},
+"id": "football-20261022-thun-hajduk-split",
+"kickoffUtc": "2026-10-22T19:00:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "thun-hajduk-split-2026-10-22"
+},
+"fr:football-20261022-trabzonspor-hearts": {
+"lang": "fr",
+"m": {
+"away": "Hearts",
+"awayNames": {
+"ar": "Hearts",
+"de": "Hearts",
+"en": "Hearts",
+"es": "Hearts",
+"fr": "Hearts",
+"it": "Hearts",
+"pt": "Hearts",
+"tr": "Hearts"
+},
+"broadcasts": {
+"DE": [
+"RTL+"
+],
+"ES": [
+"M+ Liga de Campeones 3",
+"Movistar+ Dispositivos"
+],
+"FR": [
+"CANAL+ Live 12"
+],
+"GB": [
+"TNT Sports 3",
+"HBO Max"
+],
+"IT": [
+"Sky Sport"
+],
+"TR": [
+"TRT 1",
+"İçtimai TV"
+],
+"US": [
+"Paramount+",
+"ViX"
+]
+},
+"competition": {
+"ar": "دوري المؤتمر الأوروبي",
+"de": "UEFA Conference League",
+"en": "UEFA Conference League",
+"es": "Conference League",
+"fr": "Ligue Europa Conférence",
+"it": "UEFA Conference League",
+"pt": "Liga Conferência",
+"tr": "UEFA Konferans Ligi"
+},
+"competitionId": "conference",
+"home": "Trabzonspor",
+"homeNames": {
+"ar": "طرابزون",
+"de": "Trabzonspor",
+"en": "Trabzonspor",
+"es": "Trabzonspor",
+"fr": "Trabzonspor",
+"it": "Trabzonspor",
+"pt": "Trabzonspor",
+"tr": "Trabzonspor"
+},
+"id": "football-20261022-trabzonspor-hearts",
+"kickoffUtc": "2026-10-22T16:45:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "trabzonspor-hearts-2026-10-22"
+},
+"fr:football-20261022-union-sg-hapoel-beer-sheva": {
+"lang": "fr",
+"m": {
+"away": "Hapoel Beer Sheva",
+"awayNames": {
+"ar": "Hapoel Be'er Sheva",
+"de": "Hapoel Be'er Sheva",
+"en": "Hapoel Be'er Sheva",
+"es": "Hapoel Be'er Sheva",
+"fr": "Hapoel Be'er Sheva",
+"it": "Hapoel Be'er Sheva",
+"pt": "Hapoel Be'er Sheva",
+"tr": "Hapoel Be'er Sheva"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports"
+],
+"CA": [
+"Fubo",
+"DAZN"
+],
+"DE": [
+"RTL+"
+],
+"DZ": [
+"beIN Sports"
+],
+"EG": [
+"beIN Sports"
+],
+"ES": [
+"M+ Liga de Campeones 3",
+"M+ Liga de Campeones 10"
+],
+"FR": [
+"CANAL+ Live 7"
+],
+"GB": [
+"TNT Sports 8",
+"HBO Max"
+],
+"IQ": [
+"beIN Sports"
+],
+"IT": [
+"Sky Sport"
+],
+"JO": [
+"beIN Sports"
+],
+"LY": [
+"beIN Sports"
+],
+"MA": [
+"beIN Sports"
+],
+"OM": [
+"beIN Sports"
+],
+"QA": [
+"beIN Sports"
+],
+"SA": [
+"beIN Sports"
+],
+"TN": [
+"beIN Sports"
+],
+"US": [
+"Paramount+",
+"ViX"
+]
+},
+"competition": {
+"ar": "الدوري الأوروبي",
+"de": "UEFA Europa League",
+"en": "UEFA Europa League",
+"es": "Europa League",
+"fr": "Ligue Europa",
+"it": "UEFA Europa League",
+"pt": "Liga Europa",
+"tr": "UEFA Avrupa Ligi"
+},
+"competitionId": "europa",
+"home": "Union SG",
+"homeNames": {
+"ar": "Union Saint-Gilloise",
+"de": "Union Saint-Gilloise",
+"en": "Union Saint-Gilloise",
+"es": "Union Saint-Gilloise",
+"fr": "Union Saint-Gilloise",
+"it": "Union Saint-Gilloise",
+"pt": "Union Saint-Gilloise",
+"tr": "Union Saint-Gilloise"
+},
+"id": "football-20261022-union-sg-hapoel-beer-sheva",
+"kickoffUtc": "2026-10-22T16:45:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "union-saint-gilloise-hapoel-be-er-sheva-2026-10-22"
+},
+"fr:football-20261022-viktoria-plzen-levski-sofia": {
+"lang": "fr",
+"m": {
+"away": "Levski Sofia",
+"awayNames": {
+"ar": "Levski Sofia",
+"de": "Levski Sofia",
+"en": "Levski Sofia",
+"es": "Levski Sofia",
+"fr": "Levski Sofia",
+"it": "Levski Sofia",
+"pt": "Levski Sofia",
+"tr": "Levski Sofia"
+},
+"broadcasts": {
+"AE": [
+"beIN Sports"
+],
+"CA": [
+"Fubo",
+"DAZN"
+],
+"DE": [
+"RTL+"
+],
+"DZ": [
+"beIN Sports"
+],
+"EG": [
+"beIN Sports"
+],
+"ES": [
+"M+ Liga de Campeones 3",
+"Movistar+ Dispositivos"
+],
+"FR": [
+"CANAL+ Live 8"
+],
+"GB": [
+"HBO Max"
+],
+"IQ": [
+"beIN Sports"
+],
+"IT": [
+"Sky Sport"
+],
+"JO": [
+"beIN Sports"
+],
+"LY": [
+"beIN Sports"
+],
+"MA": [
+"beIN Sports"
+],
+"OM": [
+"beIN Sports"
+],
+"QA": [
+"beIN Sports"
+],
+"SA": [
+"beIN Sports"
+],
+"TN": [
+"beIN Sports"
+],
+"US": [
+"Paramount+",
+"ViX"
+]
+},
+"competition": {
+"ar": "الدوري الأوروبي",
+"de": "UEFA Europa League",
+"en": "UEFA Europa League",
+"es": "Europa League",
+"fr": "Ligue Europa",
+"it": "UEFA Europa League",
+"pt": "Liga Europa",
+"tr": "UEFA Avrupa Ligi"
+},
+"competitionId": "europa",
+"home": "Viktoria Plzen",
+"homeNames": {
+"ar": "Viktoria Plzeň",
+"de": "Viktoria Plzeň",
+"en": "Viktoria Plzeň",
+"es": "Viktoria Plzeň",
+"fr": "Viktoria Plzeň",
+"it": "Viktoria Plzeň",
+"pt": "Viktoria Plzeň",
+"tr": "Viktoria Plzeň"
+},
+"id": "football-20261022-viktoria-plzen-levski-sofia",
+"kickoffUtc": "2026-10-22T19:00:00Z",
+"sources": [],
+"sport": "football",
+"tier": "global"
+},
+"slug": "viktoria-plzen-levski-sofia-2026-10-22"
 }
 }
