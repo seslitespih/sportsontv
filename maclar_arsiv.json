@@ -1,258 +1,4 @@
 {
-"es:basketball-20261020-knicks-76ers": {
-"lang": "es",
-"m": {
-"away": "76ers",
-"awayNames": {
-"ar": "فيلادلفيا سفنتي سيكسرز",
-"de": "Philadelphia 76ers",
-"en": "Philadelphia 76ers",
-"es": "Philadelphia 76ers",
-"fr": "Philadelphia 76ers",
-"it": "Philadelphia 76ers",
-"pt": "Philadelphia 76ers",
-"tr": "Philadelphia 76ers"
-},
-"broadcasts": {
-"AE": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"AR": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"AT": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"AU": [
-"ESPN",
-"Prime Video",
-"NBA League Pass"
-],
-"BE": [
-"DAZN",
-"Prime Video",
-"NBA League Pass"
-],
-"BR": [
-"ESPN",
-"Disney+",
-"Prime Video",
-"NBA League Pass"
-],
-"CA": [
-"TSN",
-"Sportsnet",
-"Prime Video",
-"NBA League Pass"
-],
-"CH": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"CL": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"CO": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"CZ": [
-"Nova Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"DE": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"DZ": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"EC": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"EG": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"ES": [
-"DAZN",
-"Prime Video",
-"NBA League Pass"
-],
-"FR": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"GB": [
-"Sky Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"GH": [
-"ESPN",
-"Sporty TV",
-"NBA League Pass"
-],
-"HR": [
-"Sport Klub",
-"Prime Video",
-"NBA League Pass"
-],
-"IT": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"JP": [
-"Lemino",
-"Prime Video",
-"WOWOW"
-],
-"KR": [
-"Coupang Play",
-"Prime Video",
-"NBA League Pass"
-],
-"MA": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"MX": [
-"ESPN",
-"Disney+",
-"Prime Video",
-"NBA League Pass"
-],
-"NG": [
-"ESPN",
-"Sporty TV",
-"NBA League Pass"
-],
-"NL": [
-"ESPN",
-"NBA League Pass"
-],
-"NO": [
-"HBO Max",
-"NBA League Pass"
-],
-"NZ": [
-"ESPN",
-"Prime Video",
-"NBA League Pass"
-],
-"PE": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"PT": [
-"Sport TV",
-"Prime Video",
-"NBA League Pass"
-],
-"PY": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"QA": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"SA": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"SN": [
-"Canal+ Sport",
-"NBA League Pass"
-],
-"TN": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"TR": [
-"S Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"US": [
-"NBC"
-],
-"UY": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"ZA": [
-"SuperSport",
-"ESPN",
-"Prime Video",
-"NBA League Pass"
-]
-},
-"competition": {
-"ar": "دوري NBA",
-"de": "NBA",
-"en": "NBA",
-"es": "NBA",
-"fr": "NBA",
-"it": "NBA",
-"pt": "NBA",
-"tr": "NBA"
-},
-"competitionId": "nba",
-"home": "Knicks",
-"homeNames": {
-"ar": "نيويورك نيكس",
-"de": "New York Knicks",
-"en": "New York Knicks",
-"es": "New York Knicks",
-"fr": "New York Knicks",
-"it": "New York Knicks",
-"pt": "New York Knicks",
-"tr": "New York Knicks"
-},
-"id": "basketball-20261020-knicks-76ers",
-"kickoffUtc": "2026-10-20T23:00:00Z",
-"sources": [
-"espn"
-],
-"sport": "basketball",
-"tier": "global"
-},
-"slug": "new-york-knicks-philadelphia-76ers-2026-10-21"
-},
 "es:basketball-20261021-heat-timberwolves": {
 "lang": "es",
 "m": {
@@ -1268,260 +1014,6 @@
 "tier": "global"
 },
 "slug": "toronto-raptors-chicago-bulls-2026-10-22"
-},
-"es:basketball-20261021-spurs-thunder": {
-"lang": "es",
-"m": {
-"away": "Thunder",
-"awayNames": {
-"ar": "أوكلاهوما سيتي ثاندر",
-"de": "Oklahoma City Thunder",
-"en": "Oklahoma City Thunder",
-"es": "Oklahoma City Thunder",
-"fr": "Oklahoma City Thunder",
-"it": "Oklahoma City Thunder",
-"pt": "Oklahoma City Thunder",
-"tr": "Oklahoma City Thunder"
-},
-"broadcasts": {
-"AE": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"AR": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"AT": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"AU": [
-"ESPN",
-"Prime Video",
-"NBA League Pass"
-],
-"BE": [
-"DAZN",
-"Prime Video",
-"NBA League Pass"
-],
-"BR": [
-"ESPN",
-"Disney+",
-"Prime Video",
-"NBA League Pass"
-],
-"CA": [
-"TSN",
-"Sportsnet",
-"Prime Video",
-"NBA League Pass"
-],
-"CH": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"CL": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"CO": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"CZ": [
-"Nova Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"DE": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"DZ": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"EC": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"EG": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"ES": [
-"DAZN",
-"Prime Video",
-"NBA League Pass"
-],
-"FR": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"GB": [
-"Sky Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"GH": [
-"ESPN",
-"Sporty TV",
-"NBA League Pass"
-],
-"HR": [
-"Sport Klub",
-"Prime Video",
-"NBA League Pass"
-],
-"IT": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"JP": [
-"Lemino",
-"Prime Video",
-"WOWOW"
-],
-"KR": [
-"Coupang Play",
-"Prime Video",
-"NBA League Pass"
-],
-"MA": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"MX": [
-"ESPN",
-"Disney+",
-"Prime Video",
-"NBA League Pass"
-],
-"NG": [
-"ESPN",
-"Sporty TV",
-"NBA League Pass"
-],
-"NL": [
-"ESPN",
-"NBA League Pass"
-],
-"NO": [
-"HBO Max",
-"NBA League Pass"
-],
-"NZ": [
-"ESPN",
-"Prime Video",
-"NBA League Pass"
-],
-"PE": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"PT": [
-"Sport TV",
-"Prime Video",
-"NBA League Pass"
-],
-"PY": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"QA": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"SA": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"SN": [
-"Canal+ Sport",
-"NBA League Pass"
-],
-"TN": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"TR": [
-"S Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"US": [
-"NBC"
-],
-"UY": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"ZA": [
-"SuperSport",
-"ESPN",
-"Prime Video",
-"NBA League Pass"
-]
-},
-"competition": {
-"ar": "دوري NBA",
-"de": "NBA",
-"en": "NBA",
-"es": "NBA",
-"fr": "NBA",
-"it": "NBA",
-"pt": "NBA",
-"tr": "NBA"
-},
-"competitionId": "nba",
-"home": "Spurs",
-"homeNames": {
-"ar": "سان أنتونيو سبيرز",
-"de": "San Antonio Spurs",
-"en": "San Antonio Spurs",
-"es": "San Antonio Spurs",
-"fr": "San Antonio Spurs",
-"it": "San Antonio Spurs",
-"pt": "San Antonio Spurs",
-"tr": "San Antonio Spurs"
-},
-"id": "basketball-20261021-spurs-thunder",
-"kickoffUtc": "2026-10-21T01:30:00Z",
-"sources": [
-"espn"
-],
-"sport": "basketball",
-"tier": "global"
-},
-"slug": "san-antonio-spurs-oklahoma-city-thunder-2026-10-21"
 },
 "es:basketball-20261021-wizards-bucks": {
 "lang": "es",
@@ -9076,62 +8568,6 @@
 },
 "slug": "phoenix-suns-golden-state-warriors-2026-10-25"
 },
-"es:football-20261020-cucuta-atletico-nacional": {
-"lang": "es",
-"m": {
-"away": "Atletico Nacional",
-"awayNames": {
-"ar": "Atlético Nacional",
-"de": "Atlético Nacional",
-"en": "Atlético Nacional",
-"es": "Atlético Nacional",
-"fr": "Atlético Nacional",
-"it": "Atlético Nacional",
-"pt": "Atlético Nacional",
-"tr": "Atlético Nacional"
-},
-"broadcasts": {
-"CO": [
-"Win Sports",
-"Win Sports+"
-],
-"ES": [
-"RCN Nuestra Tele"
-],
-"PT": [
-"Fanatiz"
-]
-},
-"competition": {
-"ar": "الدوري الكولومبي",
-"de": "Liga BetPlay DIMAYOR",
-"en": "Liga BetPlay DIMAYOR",
-"es": "Liga BetPlay DIMAYOR",
-"fr": "Liga BetPlay DIMAYOR",
-"it": "Liga BetPlay DIMAYOR",
-"pt": "Liga BetPlay DIMAYOR",
-"tr": "Kolombiya Liga BetPlay"
-},
-"competitionId": "liga_dimayor",
-"home": "Cucuta",
-"homeNames": {
-"ar": "Cúcuta",
-"de": "Cúcuta",
-"en": "Cúcuta",
-"es": "Cúcuta",
-"fr": "Cúcuta",
-"it": "Cúcuta",
-"pt": "Cúcuta",
-"tr": "Cúcuta"
-},
-"id": "football-20261020-cucuta-atletico-nacional",
-"kickoffUtc": "2026-10-20T23:30:00Z",
-"sources": [],
-"sport": "football",
-"tier": "regional"
-},
-"slug": "cucuta-atletico-nacional-2026-10-21"
-},
 "es:football-20261021-aston-villa-viking": {
 "lang": "es",
 "m": {
@@ -9927,66 +9363,6 @@
 "tier": "global"
 },
 "slug": "como-manchester-united-2026-10-21"
-},
-"es:football-20261021-guadalajara-necaxa": {
-"lang": "es",
-"m": {
-"away": "Necaxa",
-"awayNames": {
-"ar": "نيكاكسا",
-"de": "Necaxa",
-"en": "Necaxa",
-"es": "Necaxa",
-"fr": "Necaxa",
-"it": "Necaxa",
-"pt": "Necaxa",
-"tr": "Necaxa"
-},
-"broadcasts": {
-"DE": [
-"OneFootball"
-],
-"ES": [
-"OneFootball"
-],
-"PT": [
-"OneFootball"
-],
-"US": [
-"Universo",
-"Fubo",
-"Peacock"
-]
-},
-"competition": {
-"ar": "الدوري المكسيكي",
-"de": "Liga MX",
-"en": "Liga MX",
-"es": "Liga MX",
-"fr": "Liga MX",
-"it": "Liga MX",
-"pt": "Liga MX",
-"tr": "Liga MX"
-},
-"competitionId": "liga_mx",
-"home": "Guadalajara",
-"homeNames": {
-"ar": "غوادالاخارا",
-"de": "Chivas Guadalajara",
-"en": "Guadalajara",
-"es": "Chivas de Guadalajara",
-"fr": "Chivas de Guadalajara",
-"it": "Guadalajara",
-"pt": "Chivas Guadalajara",
-"tr": "Guadalajara"
-},
-"id": "football-20261021-guadalajara-necaxa",
-"kickoffUtc": "2026-10-21T00:07:00Z",
-"sources": [],
-"sport": "football",
-"tier": "regional"
-},
-"slug": "chivas-de-guadalajara-necaxa-2026-10-21"
 },
 "es:football-20261021-inter-shakhtar-donetsk": {
 "lang": "es",
@@ -10944,105 +10320,6 @@
 "tier": "global"
 },
 "slug": "sporting-de-portugal-lask-2026-10-21"
-},
-"es:football-20261021-vasco-da-gama-boca-juniors": {
-"lang": "es",
-"m": {
-"away": "Boca Juniors",
-"awayNames": {
-"ar": "بوكا جونيورز",
-"de": "Boca Juniors",
-"en": "Boca Juniors",
-"es": "Boca Juniors",
-"fr": "Boca Juniors",
-"it": "Boca Juniors",
-"pt": "Boca Juniors",
-"tr": "Boca Juniors"
-},
-"broadcasts": {
-"AR": [
-"ESPN",
-"DSports"
-],
-"BR": [
-"SBT",
-"SBT Sports YouTube",
-"Paramount+"
-],
-"CL": [
-"ESPN",
-"Disney+"
-],
-"CO": [
-"ESPN",
-"Disney+"
-],
-"DE": [
-"Sportdigital FUSSBALL",
-"OneFootball",
-"Sportdigital+"
-],
-"EC": [
-"ESPN",
-"Disney+"
-],
-"ES": [
-"M+ Vamos",
-"M+ #Vamos Bar",
-"M+ Liga de Campeones"
-],
-"PE": [
-"ESPN",
-"Disney+"
-],
-"PT": [
-"Fanatiz",
-"Sport TV 1"
-],
-"PY": [
-"ESPN",
-"Disney+"
-],
-"US": [
-"beIN Sports",
-"beIN Sports en Español",
-"Fubo",
-"Fanatiz"
-],
-"UY": [
-"ESPN",
-"Disney+"
-]
-},
-"competition": {
-"ar": "كأس أمريكا الجنوبية",
-"de": "Copa Sudamericana",
-"en": "Copa Sudamericana",
-"es": "Copa Sudamericana",
-"fr": "Copa Sudamericana",
-"it": "Copa Sudamericana",
-"pt": "Copa Sul-Americana",
-"tr": "Copa Sudamericana"
-},
-"competitionId": "sudamericana",
-"home": "Vasco da Gama",
-"homeNames": {
-"ar": "فاسكو دا جاما",
-"de": "Vasco da Gama",
-"en": "Vasco da Gama",
-"es": "Vasco da Gama",
-"fr": "Vasco da Gama",
-"it": "Vasco da Gama",
-"pt": "Vasco da Gama",
-"tr": "Vasco da Gama"
-},
-"id": "football-20261021-vasco-da-gama-boca-juniors",
-"kickoffUtc": "2026-10-21T00:30:00Z",
-"sources": [],
-"sport": "football",
-"tier": "regional"
-},
-"slug": "vasco-da-gama-boca-juniors-2026-10-21"
 },
 "es:football-20261022-agf-egnatia": {
 "lang": "es",
@@ -16081,8 +15358,17 @@
 "tr": "Benevento"
 },
 "broadcasts": {
+"CL": [
+"OneFootball PPV"
+],
+"CO": [
+"OneFootball PPV"
+],
 "DE": [
 "OneFootball"
+],
+"EC": [
+"OneFootball PPV"
 ],
 "ES": [
 "OneFootball PPV"
@@ -16090,7 +15376,22 @@
 "GB": [
 "Destination Calcio"
 ],
+"IT": [
+"DAZN"
+],
+"MX": [
+"OneFootball PPV"
+],
+"PE": [
+"OneFootball PPV"
+],
 "PT": [
+"OneFootball PPV"
+],
+"PY": [
+"OneFootball PPV"
+],
+"UY": [
 "OneFootball PPV"
 ]
 },
@@ -16140,7 +15441,8 @@
 },
 "broadcasts": {
 "AE": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "AU": [
 "Stan Sport"
@@ -16157,26 +15459,28 @@
 "Canal+"
 ],
 "CL": [
-"ESPN",
-"Disney+"
+"Disney+ Premium",
+"ESPN"
 ],
 "CO": [
-"ESPN",
-"Disney+"
+"Disney+ Premium",
+"ESPN"
 ],
 "DE": [
 "Sky Sport Premier League",
 "WOW"
 ],
 "DZ": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "EC": [
-"ESPN",
-"Disney+"
+"Disney+ Premium",
+"ESPN"
 ],
 "EG": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "ES": [
 "DAZN",
@@ -16194,10 +15498,15 @@
 "TNT Sports"
 ],
 "IQ": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"TOD TV"
+],
+"IT": [
+"Sky Sport 1"
 ],
 "JO": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "JP": [
 "U-NEXT"
@@ -16206,43 +15515,53 @@
 "Coupang Play"
 ],
 "LY": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "MA": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "ML": [
 "Canal+"
+],
+"MX": [
+"FOX",
+"FOX One"
 ],
 "NG": [
 "SuperSport"
 ],
 "OM": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "PE": [
-"ESPN",
-"Disney+"
+"Disney+ Premium",
+"ESPN"
 ],
 "PT": [
 "DAZN",
 "DAZN 1"
 ],
 "PY": [
-"ESPN",
-"Disney+"
+"Disney+ Premium",
+"ESPN"
 ],
 "QA": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "SA": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "SN": [
 "Canal+"
 ],
 "TN": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "TR": [
 "beIN Sports 3",
@@ -16255,8 +15574,8 @@
 "Fubo"
 ],
 "UY": [
-"ESPN",
-"Disney+"
+"Disney+ Premium",
+"ESPN"
 ],
 "ZA": [
 "SuperSport"
@@ -16308,7 +15627,8 @@
 },
 "broadcasts": {
 "AE": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "AU": [
 "Stan Sport"
@@ -16325,12 +15645,12 @@
 "Canal+"
 ],
 "CL": [
-"ESPN",
-"Disney+"
+"Disney+ Premium",
+"ESPN"
 ],
 "CO": [
-"ESPN",
-"Disney+"
+"Disney+ Premium",
+"ESPN"
 ],
 "DE": [
 "Sky Sport Premier League",
@@ -16338,14 +15658,16 @@
 "WOW"
 ],
 "DZ": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "EC": [
-"ESPN",
-"Disney+"
+"Disney+ Premium",
+"ESPN"
 ],
 "EG": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "ES": [
 "DAZN",
@@ -16371,10 +15693,15 @@
 "TNT Sports"
 ],
 "IQ": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"TOD TV"
+],
+"IT": [
+"Sky Sport 1"
 ],
 "JO": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "JP": [
 "U-NEXT"
@@ -16383,43 +15710,54 @@
 "Coupang Play"
 ],
 "LY": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "MA": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "ML": [
 "Canal+"
+],
+"MX": [
+"HBO Max",
+"TNT",
+"TNT Sports"
 ],
 "NG": [
 "SuperSport"
 ],
 "OM": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "PE": [
-"ESPN",
-"Disney+"
+"Disney+ Premium",
+"ESPN"
 ],
 "PT": [
 "DAZN",
 "DAZN 1"
 ],
 "PY": [
-"ESPN",
-"Disney+"
+"Disney+ Premium",
+"ESPN"
 ],
 "QA": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "SA": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "SN": [
 "Canal+"
 ],
 "TN": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "TR": [
 "beIN Sports 3",
@@ -16432,8 +15770,8 @@
 "Fubo"
 ],
 "UY": [
-"ESPN",
-"Disney+"
+"Disney+ Premium",
+"ESPN"
 ],
 "ZA": [
 "SuperSport"
@@ -16490,7 +15828,16 @@
 "CA": [
 "MLS Season Pass (Apple TV)"
 ],
+"CL": [
+"Apple TV"
+],
+"CO": [
+"Apple TV"
+],
 "DE": [
+"Apple TV"
+],
+"EC": [
 "Apple TV"
 ],
 "ES": [
@@ -16499,7 +15846,16 @@
 "GB": [
 "Apple TV"
 ],
+"MX": [
+"Apple TV"
+],
+"PE": [
+"Apple TV"
+],
 "PT": [
+"Apple TV"
+],
+"PY": [
 "Apple TV"
 ],
 "US": [
@@ -16552,7 +15908,8 @@
 },
 "broadcasts": {
 "AE": [
-"beIN Sports"
+"beIN Sports MENA 2",
+"TOD TV"
 ],
 "BR": [
 "CazéTV"
@@ -16563,14 +15920,28 @@
 "CI": [
 "Canal+"
 ],
+"CL": [
+"Disney+ Premium",
+"ESPN"
+],
+"CO": [
+"Disney+ Premium",
+"ESPN"
+],
 "DE": [
 "DAZN"
 ],
 "DZ": [
-"beIN Sports"
+"beIN Sports MENA 2",
+"TOD TV"
+],
+"EC": [
+"Disney+ Premium",
+"ESPN"
 ],
 "EG": [
-"beIN Sports"
+"beIN Sports MENA 2",
+"TOD TV"
 ],
 "ES": [
 "M+ LaLiga",
@@ -16590,19 +15961,23 @@
 "SuperSport"
 ],
 "IQ": [
-"beIN Sports"
+"beIN Sports MENA 2",
+"TOD TV"
 ],
 "IT": [
 "DAZN"
 ],
 "JO": [
-"beIN Sports"
+"beIN Sports MENA 2",
+"TOD TV"
 ],
 "LY": [
-"beIN Sports"
+"beIN Sports MENA 2",
+"TOD TV"
 ],
 "MA": [
-"beIN Sports"
+"beIN Sports MENA 2",
+"TOD TV"
 ],
 "ML": [
 "Canal+"
@@ -16614,22 +15989,34 @@
 "SuperSport"
 ],
 "OM": [
-"beIN Sports"
+"beIN Sports MENA 2",
+"TOD TV"
+],
+"PE": [
+"Disney+ Premium",
+"ESPN"
 ],
 "PT": [
 "DAZN 1"
 ],
+"PY": [
+"Disney+ Premium",
+"ESPN"
+],
 "QA": [
-"beIN Sports"
+"beIN Sports MENA 2",
+"TOD TV"
 ],
 "SA": [
-"beIN Sports"
+"beIN Sports MENA 2",
+"TOD TV"
 ],
 "SN": [
 "Canal+"
 ],
 "TN": [
-"beIN Sports"
+"beIN Sports MENA 2",
+"TOD TV"
 ],
 "TR": [
 "S Sport Plus",
@@ -16640,6 +16027,10 @@
 "ESPN+",
 "ESPN Deportes",
 "Fubo"
+],
+"UY": [
+"Disney+ Premium",
+"ESPN"
 ],
 "ZA": [
 "SuperSport"
@@ -16690,6 +16081,10 @@
 "tr": "Union Berlin"
 },
 "broadcasts": {
+"AE": [
+"MBC Action",
+"MBC Shahid"
+],
 "BR": [
 "YouTube",
 "OneFootball PPV"
@@ -16699,9 +16094,26 @@
 "DAZN",
 "OneSoccer"
 ],
+"CL": [
+"Disney+ Premium"
+],
+"CO": [
+"Disney+ Premium"
+],
 "DE": [
 "Sky Bundesliga 5",
 "WOW"
+],
+"DZ": [
+"MBC Action",
+"MBC Shahid"
+],
+"EC": [
+"Disney+ Premium"
+],
+"EG": [
+"MBC Action",
+"MBC Shahid"
 ],
 "ES": [
 "DAZN"
@@ -16709,12 +16121,57 @@
 "FR": [
 "beIN Sports Max 5"
 ],
+"IQ": [
+"MBC Action",
+"MBC Shahid"
+],
+"JO": [
+"MBC Action",
+"MBC Shahid"
+],
+"LY": [
+"MBC Action",
+"MBC Shahid"
+],
+"MA": [
+"MBC Action",
+"MBC Shahid"
+],
+"MX": [
+"FOX One",
+"FOX+"
+],
+"OM": [
+"MBC Action",
+"MBC Shahid"
+],
+"PE": [
+"Disney+ Premium"
+],
+"PY": [
+"Disney+ Premium"
+],
+"QA": [
+"MBC Action",
+"MBC Shahid"
+],
+"SA": [
+"MBC Action",
+"MBC Shahid"
+],
+"TN": [
+"MBC Action",
+"MBC Shahid"
+],
 "TR": [
 "S Sport Plus"
 ],
 "US": [
 "Fandango",
 "Peacock"
+],
+"UY": [
+"Disney+ Premium"
 ]
 },
 "competition": {
@@ -16762,13 +16219,37 @@
 "tr": "Padova"
 },
 "broadcasts": {
+"CL": [
+"OneFootball PPV"
+],
+"CO": [
+"OneFootball PPV"
+],
 "DE": [
 "OneFootball"
+],
+"EC": [
+"OneFootball PPV"
 ],
 "ES": [
 "OneFootball PPV"
 ],
+"IT": [
+"DAZN"
+],
+"MX": [
+"OneFootball PPV"
+],
+"PE": [
+"OneFootball PPV"
+],
 "PT": [
+"OneFootball PPV"
+],
+"PY": [
+"OneFootball PPV"
+],
+"UY": [
 "OneFootball PPV"
 ]
 },
@@ -16818,7 +16299,8 @@
 },
 "broadcasts": {
 "AE": [
-"beIN Sports"
+"STARZPLAY",
+"Shasha"
 ],
 "AR": [
 "ESPN",
@@ -16836,25 +16318,22 @@
 "Canal+"
 ],
 "CL": [
-"ESPN",
-"Disney+"
+"Disney+ Premium"
 ],
 "CO": [
-"ESPN",
-"Disney+"
+"Disney+ Premium"
 ],
 "DE": [
 "DAZN"
 ],
 "DZ": [
-"beIN Sports"
+"STARZPLAY"
 ],
 "EC": [
-"ESPN",
-"Disney+"
+"Disney+ Premium"
 ],
 "EG": [
-"beIN Sports"
+"STARZPLAY"
 ],
 "ES": [
 "DAZN"
@@ -16867,50 +16346,48 @@
 "Disney+"
 ],
 "IQ": [
-"beIN Sports"
+"STARZPLAY"
 ],
 "IT": [
 "DAZN",
 "Sky Sport"
 ],
 "JO": [
-"beIN Sports"
+"STARZPLAY"
 ],
 "LY": [
-"beIN Sports"
+"STARZPLAY"
 ],
 "MA": [
-"beIN Sports"
+"STARZPLAY"
 ],
 "ML": [
 "Canal+"
 ],
 "MX": [
-"ESPN",
-"Disney+"
+"Disney+ Premium"
 ],
 "OM": [
-"beIN Sports"
+"STARZPLAY"
 ],
 "PE": [
-"ESPN",
-"Disney+"
+"Disney+ Premium"
 ],
 "PY": [
-"ESPN",
-"Disney+"
+"Disney+ Premium"
 ],
 "QA": [
-"beIN Sports"
+"STARZPLAY"
 ],
 "SA": [
-"beIN Sports"
+"STARZPLAY",
+"stc tv"
 ],
 "SN": [
 "Canal+"
 ],
 "TN": [
-"beIN Sports"
+"STARZPLAY"
 ],
 "TR": [
 "S Sport Plus"
@@ -16920,8 +16397,7 @@
 "Peacock"
 ],
 "UY": [
-"ESPN",
-"Disney+"
+"Disney+ Premium"
 ]
 },
 "competition": {
@@ -16969,13 +16445,37 @@
 "tr": "Ascoli"
 },
 "broadcasts": {
+"CL": [
+"OneFootball PPV"
+],
+"CO": [
+"OneFootball PPV"
+],
 "DE": [
 "OneFootball"
+],
+"EC": [
+"OneFootball PPV"
 ],
 "ES": [
 "OneFootball PPV"
 ],
+"IT": [
+"DAZN"
+],
+"MX": [
+"OneFootball PPV"
+],
+"PE": [
+"OneFootball PPV"
+],
 "PT": [
+"OneFootball PPV"
+],
+"PY": [
+"OneFootball PPV"
+],
+"UY": [
 "OneFootball PPV"
 ]
 },
@@ -17027,11 +16527,40 @@
 "BR": [
 "Disney+"
 ],
+"CL": [
+"Antel TV Internacional",
+"Disney+ Premium"
+],
+"CO": [
+"Antel TV Internacional",
+"Disney+ Premium"
+],
+"EC": [
+"Antel TV Internacional",
+"Disney+ Premium"
+],
 "ES": [
 "Antel TV Internacional"
 ],
+"MX": [
+"Antel TV Internacional",
+"Disney+ Premium"
+],
+"PE": [
+"Antel TV Internacional",
+"Disney+ Premium"
+],
 "PT": [
 "Antel TV Internacional"
+],
+"PY": [
+"Antel TV Internacional",
+"Disney+ Premium"
+],
+"UY": [
+"DSports Uruguay Premium",
+"Antel TV",
+"Disney+ Premium"
 ]
 },
 "competition": {
@@ -17085,7 +16614,16 @@
 "CA": [
 "Apple TV"
 ],
+"CL": [
+"Apple TV"
+],
+"CO": [
+"Apple TV"
+],
 "DE": [
+"Apple TV"
+],
+"EC": [
 "Apple TV"
 ],
 "ES": [
@@ -17094,7 +16632,16 @@
 "GB": [
 "Apple TV"
 ],
+"MX": [
+"Apple TV"
+],
+"PE": [
+"Apple TV"
+],
 "PT": [
+"Apple TV"
+],
+"PY": [
 "Apple TV"
 ],
 "US": [
@@ -17147,7 +16694,8 @@
 },
 "broadcasts": {
 "AE": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "AU": [
 "Stan Sport"
@@ -17164,26 +16712,28 @@
 "Canal+"
 ],
 "CL": [
-"ESPN",
-"Disney+"
+"Disney+ Premium",
+"ESPN"
 ],
 "CO": [
-"ESPN",
-"Disney+"
+"Disney+ Premium",
+"ESPN"
 ],
 "DE": [
 "Sky Sport Premier League",
 "WOW"
 ],
 "DZ": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "EC": [
-"ESPN",
-"Disney+"
+"Disney+ Premium",
+"ESPN"
 ],
 "EG": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "ES": [
 "DAZN",
@@ -17206,10 +16756,15 @@
 "TNT Sports"
 ],
 "IQ": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"TOD TV"
+],
+"IT": [
+"Sky Sport 1"
 ],
 "JO": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "JP": [
 "U-NEXT"
@@ -17218,43 +16773,52 @@
 "Coupang Play"
 ],
 "LY": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "MA": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "ML": [
 "Canal+"
+],
+"MX": [
+"HBO Max"
 ],
 "NG": [
 "SuperSport"
 ],
 "OM": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "PE": [
-"ESPN",
-"Disney+"
+"Disney+ Premium",
+"ESPN"
 ],
 "PT": [
 "DAZN",
 "DAZN 1"
 ],
 "PY": [
-"ESPN",
-"Disney+"
+"Disney+ Premium",
+"ESPN"
 ],
 "QA": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "SA": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "SN": [
 "Canal+"
 ],
 "TN": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "TR": [
 "beIN Sports 3",
@@ -17268,8 +16832,8 @@
 "Peacock"
 ],
 "UY": [
-"ESPN",
-"Disney+"
+"Disney+ Premium",
+"ESPN"
 ],
 "ZA": [
 "SuperSport"
@@ -17326,7 +16890,16 @@
 "CA": [
 "Apple TV"
 ],
+"CL": [
+"Apple TV"
+],
+"CO": [
+"Apple TV"
+],
 "DE": [
+"Apple TV"
+],
+"EC": [
 "Apple TV"
 ],
 "ES": [
@@ -17335,7 +16908,16 @@
 "GB": [
 "Apple TV"
 ],
+"MX": [
+"Apple TV"
+],
+"PE": [
+"Apple TV"
+],
 "PT": [
+"Apple TV"
+],
+"PY": [
 "Apple TV"
 ],
 "US": [
@@ -17388,7 +16970,8 @@
 },
 "broadcasts": {
 "AE": [
-"beIN Sports"
+"STARZPLAY",
+"Shasha"
 ],
 "AR": [
 "ESPN",
@@ -17406,25 +16989,25 @@
 "Canal+"
 ],
 "CL": [
-"ESPN",
-"Disney+"
+"Disney+ Premium",
+"ESPN 3"
 ],
 "CO": [
-"ESPN",
-"Disney+"
+"Disney+ Premium",
+"ESPN 3"
 ],
 "DE": [
 "DAZN"
 ],
 "DZ": [
-"beIN Sports"
+"STARZPLAY"
 ],
 "EC": [
-"ESPN",
-"Disney+"
+"Disney+ Premium",
+"ESPN 3"
 ],
 "EG": [
-"beIN Sports"
+"STARZPLAY"
 ],
 "ES": [
 "DAZN"
@@ -17437,53 +17020,54 @@
 "Disney+"
 ],
 "IQ": [
-"beIN Sports"
+"STARZPLAY"
 ],
 "IT": [
 "DAZN",
 "Sky Sport"
 ],
 "JO": [
-"beIN Sports"
+"STARZPLAY"
 ],
 "LY": [
-"beIN Sports"
+"STARZPLAY"
 ],
 "MA": [
-"beIN Sports"
+"STARZPLAY"
 ],
 "ML": [
 "Canal+"
 ],
 "MX": [
-"ESPN",
-"Disney+"
+"Disney+ Premium",
+"ESPN"
 ],
 "OM": [
-"beIN Sports"
+"STARZPLAY"
 ],
 "PE": [
-"ESPN",
-"Disney+"
+"Disney+ Premium",
+"ESPN 3"
 ],
 "PT": [
 "Sport TV 2"
 ],
 "PY": [
-"ESPN",
-"Disney+"
+"Disney+ Premium",
+"ESPN 3"
 ],
 "QA": [
-"beIN Sports"
+"STARZPLAY"
 ],
 "SA": [
-"beIN Sports"
+"STARZPLAY",
+"stc tv"
 ],
 "SN": [
 "Canal+"
 ],
 "TN": [
-"beIN Sports"
+"STARZPLAY"
 ],
 "TR": [
 "S Sport Plus",
@@ -17494,8 +17078,8 @@
 "Peacock"
 ],
 "UY": [
-"ESPN",
-"Disney+"
+"Disney+ Premium",
+"ESPN 3"
 ]
 },
 "competition": {
@@ -17548,6 +17132,9 @@
 "DAZN",
 "LaLiga TV M2"
 ],
+"MX": [
+"Sky Sports"
+],
 "US": [
 "ESPN+"
 ]
@@ -17598,7 +17185,8 @@
 },
 "broadcasts": {
 "AE": [
-"beIN Sports"
+"beIN Sports MENA 2",
+"TOD TV"
 ],
 "AU": [
 "Stan Sport"
@@ -17615,26 +17203,25 @@
 "Canal+"
 ],
 "CL": [
-"ESPN",
-"Disney+"
+"Disney+ Premium"
 ],
 "CO": [
-"ESPN",
-"Disney+"
+"Disney+ Premium"
 ],
 "DE": [
 "Sky Sport Mix",
 "WOW"
 ],
 "DZ": [
-"beIN Sports"
+"beIN Sports MENA 2",
+"TOD TV"
 ],
 "EC": [
-"ESPN",
-"Disney+"
+"Disney+ Premium"
 ],
 "EG": [
-"beIN Sports"
+"beIN Sports MENA 2",
+"TOD TV"
 ],
 "ES": [
 "DAZN"
@@ -17650,10 +17237,12 @@
 "TNT Sports"
 ],
 "IQ": [
-"beIN Sports"
+"beIN Sports MENA 2",
+"TOD TV"
 ],
 "JO": [
-"beIN Sports"
+"beIN Sports MENA 2",
+"TOD TV"
 ],
 "JP": [
 "U-NEXT"
@@ -17662,43 +17251,51 @@
 "Coupang Play"
 ],
 "LY": [
-"beIN Sports"
+"beIN Sports MENA 2",
+"TOD TV"
 ],
 "MA": [
-"beIN Sports"
+"beIN Sports MENA 2",
+"TOD TV"
 ],
 "ML": [
 "Canal+"
+],
+"MX": [
+"Tubi",
+"FOX One"
 ],
 "NG": [
 "SuperSport"
 ],
 "OM": [
-"beIN Sports"
+"beIN Sports MENA 2",
+"TOD TV"
 ],
 "PE": [
-"ESPN",
-"Disney+"
+"Disney+ Premium"
 ],
 "PT": [
 "DAZN",
 "DAZN 2"
 ],
 "PY": [
-"ESPN",
-"Disney+"
+"Disney+ Premium"
 ],
 "QA": [
-"beIN Sports"
+"beIN Sports MENA 2",
+"TOD TV"
 ],
 "SA": [
-"beIN Sports"
+"beIN Sports MENA 2",
+"TOD TV"
 ],
 "SN": [
 "Canal+"
 ],
 "TN": [
-"beIN Sports"
+"beIN Sports MENA 2",
+"TOD TV"
 ],
 "TR": [
 "beIN Sports 4"
@@ -17709,8 +17306,7 @@
 "Peacock"
 ],
 "UY": [
-"ESPN",
-"Disney+"
+"Disney+ Premium"
 ],
 "ZA": [
 "SuperSport"
@@ -17761,13 +17357,37 @@
 "tr": "Juve Stabia"
 },
 "broadcasts": {
+"CL": [
+"OneFootball PPV"
+],
+"CO": [
+"OneFootball PPV"
+],
 "DE": [
 "OneFootball"
+],
+"EC": [
+"OneFootball PPV"
 ],
 "ES": [
 "OneFootball PPV"
 ],
+"IT": [
+"DAZN"
+],
+"MX": [
+"OneFootball PPV"
+],
+"PE": [
+"OneFootball PPV"
+],
 "PT": [
+"OneFootball PPV"
+],
+"PY": [
+"OneFootball PPV"
+],
+"UY": [
 "OneFootball PPV"
 ]
 },
@@ -17819,10 +17439,33 @@
 "BR": [
 "Fanatiz"
 ],
+"CL": [
+"Fanatiz"
+],
+"CO": [
+"Fanatiz"
+],
+"EC": [
+"Fanatiz"
+],
 "ES": [
 "Fanatiz"
 ],
+"MX": [
+"Fanatiz"
+],
+"PE": [
+"Fanatiz",
+"L1 Max",
+"L1 Play"
+],
 "PT": [
+"Fanatiz"
+],
+"PY": [
+"Fanatiz"
+],
+"UY": [
 "Fanatiz"
 ]
 },
@@ -17877,7 +17520,16 @@
 "CA": [
 "MLS Season Pass (Apple TV)"
 ],
+"CL": [
+"Apple TV"
+],
+"CO": [
+"Apple TV"
+],
 "DE": [
+"Apple TV"
+],
+"EC": [
 "Apple TV"
 ],
 "ES": [
@@ -17886,7 +17538,16 @@
 "GB": [
 "Apple TV"
 ],
+"MX": [
+"Apple TV"
+],
+"PE": [
+"Apple TV"
+],
 "PT": [
+"Apple TV"
+],
+"PY": [
 "Apple TV"
 ],
 "US": [
@@ -17941,11 +17602,40 @@
 "BR": [
 "Disney+"
 ],
+"CL": [
+"Antel TV Internacional",
+"Disney+ Premium"
+],
+"CO": [
+"Antel TV Internacional",
+"Disney+ Premium"
+],
+"EC": [
+"Antel TV Internacional",
+"Disney+ Premium"
+],
 "ES": [
 "Antel TV Internacional"
 ],
+"MX": [
+"Antel TV Internacional",
+"Disney+ Premium"
+],
+"PE": [
+"Antel TV Internacional",
+"Disney+ Premium"
+],
 "PT": [
 "Antel TV Internacional"
+],
+"PY": [
+"Antel TV Internacional",
+"Disney+ Premium"
+],
+"UY": [
+"DSports Uruguay Premium",
+"Antel TV",
+"Disney+ Premium"
 ]
 },
 "competition": {
@@ -17996,11 +17686,40 @@
 "BR": [
 "Disney+"
 ],
+"CL": [
+"Antel TV Internacional",
+"Disney+ Premium"
+],
+"CO": [
+"Antel TV Internacional",
+"Disney+ Premium"
+],
+"EC": [
+"Antel TV Internacional",
+"Disney+ Premium"
+],
 "ES": [
 "Antel TV Internacional"
 ],
+"MX": [
+"Antel TV Internacional",
+"Disney+ Premium"
+],
+"PE": [
+"Antel TV Internacional",
+"Disney+ Premium"
+],
 "PT": [
 "Antel TV Internacional"
+],
+"PY": [
+"Antel TV Internacional",
+"Disney+ Premium"
+],
+"UY": [
+"DSports Uruguay Premium",
+"Antel TV",
+"Disney+ Premium"
 ]
 },
 "competition": {
@@ -18048,6 +17767,9 @@
 "tr": "Eintracht Frankfurt"
 },
 "broadcasts": {
+"AE": [
+"MBC Shahid"
+],
 "BR": [
 "SportyNet",
 "XSports",
@@ -18059,12 +17781,27 @@
 "DAZN",
 "OneSoccer"
 ],
+"CL": [
+"Disney+ Premium"
+],
+"CO": [
+"Disney+ Premium"
+],
 "DE": [
 "Sky Bundesliga 1",
 "Sky Bundesliga UHD",
 "Sky Bundesliga",
 "Sky Top Event",
 "WOW"
+],
+"DZ": [
+"MBC Shahid"
+],
+"EC": [
+"Disney+ Premium"
+],
+"EG": [
+"MBC Shahid"
 ],
 "ES": [
 "DAZN",
@@ -18079,8 +17816,42 @@
 "GB": [
 "Sky Sports+"
 ],
+"IQ": [
+"MBC Shahid"
+],
+"JO": [
+"MBC Shahid"
+],
+"LY": [
+"MBC Shahid"
+],
+"MA": [
+"MBC Shahid"
+],
+"MX": [
+"FOX One",
+"FOX"
+],
+"OM": [
+"MBC Shahid"
+],
+"PE": [
+"Disney+ Premium"
+],
 "PT": [
 "DAZN 4"
+],
+"PY": [
+"Disney+ Premium"
+],
+"QA": [
+"MBC Shahid"
+],
+"SA": [
+"MBC Shahid"
+],
+"TN": [
+"MBC Shahid"
 ],
 "TR": [
 "Idman TV YouTube",
@@ -18090,6 +17861,9 @@
 "USA Network",
 "Sling Blue",
 "Peacock"
+],
+"UY": [
+"Disney+ Premium"
 ]
 },
 "competition": {
@@ -18141,17 +17915,48 @@
 "ESPN 4",
 "Disney+"
 ],
+"CL": [
+"DGO",
+"Amazon Prime Video",
+"Paramount+",
+"DAZN",
+"DSports"
+],
+"CO": [
+"DGO",
+"Amazon Prime Video",
+"Paramount+",
+"DAZN",
+"DSports",
+"Win Play"
+],
 "DE": [
 "Sportdigital FUSSBALL",
 "OneFootball",
 "Sportdigital FUSSBALL2",
 "Sportdigital+"
 ],
+"EC": [
+"DGO",
+"Paramount+",
+"DAZN",
+"DSports"
+],
 "ES": [
 "DAZN"
 ],
 "FR": [
 "beIN Sports 2"
+],
+"MX": [
+"Claro Sports",
+"Claro Sports Premium YouTube"
+],
+"PE": [
+"DGO",
+"Paramount+",
+"DAZN",
+"DSports"
 ],
 "PT": [
 "Sport TV+",
@@ -18165,6 +17970,12 @@
 "beIN Sports en Español",
 "Fubo",
 "Fanatiz"
+],
+"UY": [
+"DGO",
+"Paramount+",
+"DAZN",
+"DSports"
 ]
 },
 "competition": {
@@ -18216,6 +18027,9 @@
 "LaLiga TV Hypermotion 2",
 "DAZN",
 "LaLiga TV M3"
+],
+"MX": [
+"Sky Sports"
 ]
 },
 "competition": {
@@ -18266,6 +18080,12 @@
 "BR": [
 "OneFootball PPV"
 ],
+"CL": [
+"OneFootball PPV"
+],
+"CO": [
+"OneFootball PPV"
+],
 "DE": [
 "Magenta Sport",
 "OneFootball",
@@ -18273,13 +18093,25 @@
 "ARD-Mediathek",
 "NDR"
 ],
+"EC": [
+"OneFootball PPV"
+],
 "ES": [
 "OneFootball PPV"
 ],
 "GB": [
 "DFB Play"
 ],
+"MX": [
+"OneFootball PPV"
+],
+"PE": [
+"OneFootball PPV"
+],
 "PT": [
+"OneFootball PPV"
+],
+"PY": [
 "OneFootball PPV"
 ],
 "TR": [
@@ -18287,6 +18119,9 @@
 ],
 "US": [
 "ESPN+"
+],
+"UY": [
+"OneFootball PPV"
 ]
 },
 "competition": {
@@ -18334,14 +18169,32 @@
 "tr": "Arminia Bielefeld"
 },
 "broadcasts": {
+"AE": [
+"MBC Shahid"
+],
 "BR": [
 "YouTube",
 "OneFootball PPV"
+],
+"CL": [
+"Disney+ Premium"
+],
+"CO": [
+"Disney+ Premium"
 ],
 "DE": [
 "Sky Bundesliga 3",
 "OneFootball",
 "WOW"
+],
+"DZ": [
+"MBC Shahid"
+],
+"EC": [
+"Disney+ Premium"
+],
+"EG": [
+"MBC Shahid"
 ],
 "ES": [
 "DAZN"
@@ -18353,11 +18206,44 @@
 "Bundesliga App",
 "Bundesliga YouTube"
 ],
+"IQ": [
+"MBC Shahid"
+],
+"JO": [
+"MBC Shahid"
+],
+"LY": [
+"MBC Shahid"
+],
+"MA": [
+"MBC Shahid"
+],
+"OM": [
+"MBC Shahid"
+],
+"PE": [
+"Disney+ Premium"
+],
 "PT": [
 "DAZN 2"
 ],
+"PY": [
+"Disney+ Premium"
+],
+"QA": [
+"MBC Shahid"
+],
+"SA": [
+"MBC Shahid"
+],
+"TN": [
+"MBC Shahid"
+],
 "TR": [
 "S Sport Plus"
+],
+"UY": [
+"Disney+ Premium"
 ]
 },
 "competition": {
@@ -18405,6 +18291,9 @@
 "tr": "Schalke 04"
 },
 "broadcasts": {
+"AE": [
+"MBC Shahid"
+],
 "BR": [
 "SportyNet",
 "YouTube",
@@ -18415,6 +18304,14 @@
 "DAZN",
 "OneSoccer"
 ],
+"CL": [
+"Disney+ Premium",
+"ESPN Premium"
+],
+"CO": [
+"Disney+ Premium",
+"ESPN 5"
+],
 "DE": [
 "WOW",
 "Sky Bundesliga",
@@ -18422,11 +18319,56 @@
 "Sky Bundesliga UHD",
 "Sky Bundesliga 1"
 ],
+"DZ": [
+"MBC Shahid"
+],
+"EC": [
+"Disney+ Premium",
+"ESPN 5"
+],
+"EG": [
+"MBC Shahid"
+],
 "ES": [
 "DAZN"
 ],
 "FR": [
 "beIN Sports Max 8"
+],
+"IQ": [
+"MBC Shahid"
+],
+"JO": [
+"MBC Shahid"
+],
+"LY": [
+"MBC Shahid"
+],
+"MA": [
+"MBC Shahid"
+],
+"MX": [
+"FOX One"
+],
+"OM": [
+"MBC Shahid"
+],
+"PE": [
+"Disney+ Premium",
+"ESPN 5"
+],
+"PY": [
+"Disney+ Premium",
+"ESPN 5"
+],
+"QA": [
+"MBC Shahid"
+],
+"SA": [
+"MBC Shahid"
+],
+"TN": [
+"MBC Shahid"
 ],
 "TR": [
 "Idman TV YouTube",
@@ -18435,6 +18377,10 @@
 "US": [
 "Fandango",
 "Peacock"
+],
+"UY": [
+"Disney+ Premium",
+"ESPN 5"
 ]
 },
 "competition": {
@@ -18483,7 +18429,8 @@
 },
 "broadcasts": {
 "AE": [
-"beIN Sports"
+"STARZPLAY",
+"Shasha"
 ],
 "AR": [
 "ESPN",
@@ -18501,25 +18448,25 @@
 "Canal+"
 ],
 "CL": [
-"ESPN",
-"Disney+"
+"Disney+ Premium",
+"ESPN 3"
 ],
 "CO": [
-"ESPN",
-"Disney+"
+"Disney+ Premium",
+"ESPN 3"
 ],
 "DE": [
 "DAZN"
 ],
 "DZ": [
-"beIN Sports"
+"STARZPLAY"
 ],
 "EC": [
-"ESPN",
-"Disney+"
+"Disney+ Premium",
+"ESPN 3"
 ],
 "EG": [
-"beIN Sports"
+"STARZPLAY"
 ],
 "ES": [
 "DAZN"
@@ -18535,53 +18482,54 @@
 "Disney+"
 ],
 "IQ": [
-"beIN Sports"
+"STARZPLAY"
 ],
 "IT": [
 "DAZN",
 "Sky Sport"
 ],
 "JO": [
-"beIN Sports"
+"STARZPLAY"
 ],
 "LY": [
-"beIN Sports"
+"STARZPLAY"
 ],
 "MA": [
-"beIN Sports"
+"STARZPLAY"
 ],
 "ML": [
 "Canal+"
 ],
 "MX": [
-"ESPN",
-"Disney+"
+"Disney+ Premium",
+"ESPN"
 ],
 "OM": [
-"beIN Sports"
+"STARZPLAY"
 ],
 "PE": [
-"ESPN",
-"Disney+"
+"Disney+ Premium",
+"ESPN 3"
 ],
 "PT": [
 "Sport TV 3"
 ],
 "PY": [
-"ESPN",
-"Disney+"
+"Disney+ Premium",
+"ESPN 3"
 ],
 "QA": [
-"beIN Sports"
+"STARZPLAY"
 ],
 "SA": [
-"beIN Sports"
+"STARZPLAY",
+"stc tv"
 ],
 "SN": [
 "Canal+"
 ],
 "TN": [
-"beIN Sports"
+"STARZPLAY"
 ],
 "TR": [
 "S Sport Plus",
@@ -18596,8 +18544,8 @@
 "Peacock"
 ],
 "UY": [
-"ESPN",
-"Disney+"
+"Disney+ Premium",
+"ESPN 3"
 ]
 },
 "competition": {
@@ -18651,6 +18599,9 @@
 "Orange Fútbol 2",
 "LaLiga TV M2"
 ],
+"MX": [
+"Sky Sports"
+],
 "US": [
 "ESPN+"
 ]
@@ -18701,7 +18652,7 @@
 },
 "broadcasts": {
 "AE": [
-"beIN Sports"
+"beIN Sports MENA 3"
 ],
 "BR": [
 "CazéTV"
@@ -18712,14 +18663,26 @@
 "CI": [
 "Canal+"
 ],
+"CL": [
+"Disney+ Premium",
+"ESPN 4"
+],
+"CO": [
+"Disney+ Premium",
+"ESPN 4"
+],
 "DE": [
 "DAZN"
 ],
 "DZ": [
-"beIN Sports"
+"beIN Sports MENA 3"
+],
+"EC": [
+"Disney+ Premium",
+"ESPN 4"
 ],
 "EG": [
-"beIN Sports"
+"beIN Sports MENA 3"
 ],
 "ES": [
 "DAZN",
@@ -18733,38 +18696,50 @@
 "Ligue 1+"
 ],
 "IQ": [
-"beIN Sports"
+"beIN Sports MENA 3"
 ],
 "JO": [
-"beIN Sports"
+"beIN Sports MENA 3"
 ],
 "LY": [
-"beIN Sports"
+"beIN Sports MENA 3"
 ],
 "MA": [
-"beIN Sports"
+"beIN Sports MENA 3"
 ],
 "ML": [
 "Canal+"
 ],
+"MX": [
+"FOX One",
+"FOX"
+],
 "OM": [
-"beIN Sports"
+"beIN Sports MENA 3"
+],
+"PE": [
+"Disney+ Premium",
+"ESPN 4"
 ],
 "PT": [
 "Fanatiz",
 "Sport TV 4"
 ],
+"PY": [
+"Disney+ Premium",
+"ESPN 4"
+],
 "QA": [
-"beIN Sports"
+"beIN Sports MENA 3"
 ],
 "SA": [
-"beIN Sports"
+"beIN Sports MENA 3"
 ],
 "SN": [
 "Canal+"
 ],
 "TN": [
-"beIN Sports"
+"beIN Sports MENA 3"
 ],
 "TR": [
 "beIN Sports 3"
@@ -18773,6 +18748,10 @@
 "beIN Sports",
 "Fubo",
 "Fanatiz"
+],
+"UY": [
+"Disney+ Premium",
+"ESPN 4"
 ]
 },
 "competition": {
@@ -18820,6 +18799,9 @@
 "tr": "Werder Bremen"
 },
 "broadcasts": {
+"AE": [
+"MBC Shahid"
+],
 "BR": [
 "OneFootball PPV",
 "Canal GOAT",
@@ -18830,9 +18812,24 @@
 "DAZN",
 "OneSoccer"
 ],
+"CL": [
+"Disney+ Premium"
+],
+"CO": [
+"Disney+ Premium"
+],
 "DE": [
 "WOW",
 "Sky Bundesliga 3"
+],
+"DZ": [
+"MBC Shahid"
+],
+"EC": [
+"Disney+ Premium"
+],
+"EG": [
+"MBC Shahid"
 ],
 "ES": [
 "DAZN"
@@ -18840,12 +18837,48 @@
 "FR": [
 "beIN Sports Max 7"
 ],
+"IQ": [
+"MBC Shahid"
+],
+"JO": [
+"MBC Shahid"
+],
+"LY": [
+"MBC Shahid"
+],
+"MA": [
+"MBC Shahid"
+],
+"MX": [
+"FOX One"
+],
+"OM": [
+"MBC Shahid"
+],
+"PE": [
+"Disney+ Premium"
+],
+"PY": [
+"Disney+ Premium"
+],
+"QA": [
+"MBC Shahid"
+],
+"SA": [
+"MBC Shahid"
+],
+"TN": [
+"MBC Shahid"
+],
 "TR": [
 "S Sport Plus"
 ],
 "US": [
 "Fandango",
 "Peacock"
+],
+"UY": [
+"Disney+ Premium"
 ]
 },
 "competition": {
@@ -18893,7 +18926,19 @@
 "tr": "Deportivo Cuenca"
 },
 "broadcasts": {
+"CO": [
+"Zapping Internacional"
+],
+"EC": [
+"Zapping Sports + Plus (canal 16)"
+],
 "ES": [
+"Zapping Internacional"
+],
+"PE": [
+"Zapping Internacional"
+],
+"UY": [
 "Zapping Internacional"
 ]
 },
@@ -18942,13 +18987,37 @@
 "tr": "Cesena"
 },
 "broadcasts": {
+"CL": [
+"OneFootball PPV"
+],
+"CO": [
+"OneFootball PPV"
+],
 "DE": [
 "OneFootball"
+],
+"EC": [
+"OneFootball PPV"
 ],
 "ES": [
 "OneFootball PPV"
 ],
+"IT": [
+"DAZN"
+],
+"MX": [
+"OneFootball PPV"
+],
+"PE": [
+"OneFootball PPV"
+],
 "PT": [
+"OneFootball PPV"
+],
+"PY": [
+"OneFootball PPV"
+],
+"UY": [
 "OneFootball PPV"
 ]
 },
@@ -18998,7 +19067,8 @@
 },
 "broadcasts": {
 "AE": [
-"beIN Sports"
+"STARZPLAY",
+"Shasha"
 ],
 "AR": [
 "ESPN",
@@ -19016,25 +19086,25 @@
 "Canal+"
 ],
 "CL": [
-"ESPN",
-"Disney+"
+"Disney+ Premium",
+"ESPN 3"
 ],
 "CO": [
-"ESPN",
-"Disney+"
+"Disney+ Premium",
+"ESPN 3"
 ],
 "DE": [
 "DAZN"
 ],
 "DZ": [
-"beIN Sports"
+"STARZPLAY"
 ],
 "EC": [
-"ESPN",
-"Disney+"
+"Disney+ Premium",
+"ESPN 3"
 ],
 "EG": [
-"beIN Sports"
+"STARZPLAY"
 ],
 "ES": [
 "DAZN"
@@ -19052,53 +19122,54 @@
 "Disney+"
 ],
 "IQ": [
-"beIN Sports"
+"STARZPLAY"
 ],
 "IT": [
 "DAZN",
 "Sky Sport"
 ],
 "JO": [
-"beIN Sports"
+"STARZPLAY"
 ],
 "LY": [
-"beIN Sports"
+"STARZPLAY"
 ],
 "MA": [
-"beIN Sports"
+"STARZPLAY"
 ],
 "ML": [
 "Canal+"
 ],
 "MX": [
-"ESPN",
-"Disney+"
+"Disney+ Premium",
+"ESPN"
 ],
 "OM": [
-"beIN Sports"
+"STARZPLAY"
 ],
 "PE": [
-"ESPN",
-"Disney+"
+"Disney+ Premium",
+"ESPN 3"
 ],
 "PT": [
 "Sport TV 3"
 ],
 "PY": [
-"ESPN",
-"Disney+"
+"Disney+ Premium",
+"ESPN 3"
 ],
 "QA": [
-"beIN Sports"
+"STARZPLAY"
 ],
 "SA": [
-"beIN Sports"
+"STARZPLAY",
+"stc tv"
 ],
 "SN": [
 "Canal+"
 ],
 "TN": [
-"beIN Sports"
+"STARZPLAY"
 ],
 "TR": [
 "S Sport Plus",
@@ -19113,8 +19184,8 @@
 "Peacock"
 ],
 "UY": [
-"ESPN",
-"Disney+"
+"Disney+ Premium",
+"ESPN 3"
 ]
 },
 "competition": {
@@ -19168,7 +19239,16 @@
 "CA": [
 "MLS Season Pass (Apple TV)"
 ],
+"CL": [
+"Apple TV"
+],
+"CO": [
+"Apple TV"
+],
 "DE": [
+"Apple TV"
+],
+"EC": [
 "Apple TV"
 ],
 "ES": [
@@ -19177,7 +19257,16 @@
 "GB": [
 "Apple TV"
 ],
+"MX": [
+"Apple TV"
+],
+"PE": [
+"Apple TV"
+],
 "PT": [
+"Apple TV"
+],
+"PY": [
 "Apple TV"
 ],
 "US": [
@@ -19229,8 +19318,17 @@
 "tr": "Kaiserslautern"
 },
 "broadcasts": {
+"AE": [
+"MBC Shahid"
+],
 "BR": [
 "OneFootball PPV"
+],
+"CL": [
+"Disney+ Premium"
+],
+"CO": [
+"Disney+ Premium"
 ],
 "DE": [
 "RTL Nitro",
@@ -19242,6 +19340,15 @@
 "OneFootball",
 "WOW"
 ],
+"DZ": [
+"MBC Shahid"
+],
+"EC": [
+"Disney+ Premium"
+],
+"EG": [
+"MBC Shahid"
+],
 "ES": [
 "DAZN"
 ],
@@ -19252,8 +19359,41 @@
 "Bundesliga App",
 "Bundesliga YouTube"
 ],
+"IQ": [
+"MBC Shahid"
+],
+"JO": [
+"MBC Shahid"
+],
+"LY": [
+"MBC Shahid"
+],
+"MA": [
+"MBC Shahid"
+],
+"OM": [
+"MBC Shahid"
+],
+"PE": [
+"Disney+ Premium"
+],
+"PY": [
+"Disney+ Premium"
+],
+"QA": [
+"MBC Shahid"
+],
+"SA": [
+"MBC Shahid"
+],
+"TN": [
+"MBC Shahid"
+],
 "TR": [
 "S Sport Plus"
+],
+"UY": [
+"Disney+ Premium"
 ]
 },
 "competition": {
@@ -19301,7 +19441,19 @@
 "tr": "Delfín SC"
 },
 "broadcasts": {
+"CO": [
+"Zapping Internacional"
+],
+"EC": [
+"Zapping Sports + Plus (canal 16)"
+],
 "ES": [
+"Zapping Internacional"
+],
+"PE": [
+"Zapping Internacional"
+],
+"UY": [
 "Zapping Internacional"
 ]
 },
@@ -19356,7 +19508,16 @@
 "CA": [
 "MLS Season Pass (Apple TV)"
 ],
+"CL": [
+"Apple TV"
+],
+"CO": [
+"Apple TV"
+],
 "DE": [
+"Apple TV"
+],
+"EC": [
 "Apple TV"
 ],
 "ES": [
@@ -19365,7 +19526,16 @@
 "GB": [
 "Apple TV"
 ],
+"MX": [
+"Apple TV"
+],
+"PE": [
+"Apple TV"
+],
 "PT": [
+"Apple TV"
+],
+"PY": [
 "Apple TV"
 ],
 "US": [
@@ -19420,10 +19590,19 @@
 "BR": [
 "Premiere"
 ],
+"CL": [
+"Fanatiz",
+"Fanatiz YouTube"
+],
 "DE": [
 "Sportdigital FUSSBALL",
 "OneFootball",
 "Sportdigital+"
+],
+"EC": [
+"ECDF App",
+"ECDF Web",
+"ECDF Partidos YouTube"
 ],
 "ES": [
 "M+ Vamos",
@@ -19432,6 +19611,15 @@
 ],
 "GB": [
 "Premier Sports 2"
+],
+"MX": [
+"Azteca Deportes Network",
+"Azteca Deportes App",
+"Fanatiz YouTube",
+"Disney+ Premium"
+],
+"PE": [
+"L1 Play"
 ],
 "PT": [
 "Canal 11"
@@ -19488,7 +19676,16 @@
 "CA": [
 "MLS Season Pass (Apple TV)"
 ],
+"CL": [
+"Apple TV"
+],
+"CO": [
+"Apple TV"
+],
 "DE": [
+"Apple TV"
+],
+"EC": [
 "Apple TV"
 ],
 "ES": [
@@ -19497,7 +19694,16 @@
 "GB": [
 "Apple TV"
 ],
+"MX": [
+"Apple TV"
+],
+"PE": [
+"Apple TV"
+],
 "PT": [
+"Apple TV"
+],
+"PY": [
 "Apple TV"
 ],
 "US": [
@@ -19550,7 +19756,8 @@
 },
 "broadcasts": {
 "AE": [
-"beIN Sports"
+"beIN Sports MENA 4",
+"TOD TV"
 ],
 "BR": [
 "CazéTV"
@@ -19561,14 +19768,28 @@
 "CI": [
 "Canal+"
 ],
+"CL": [
+"Disney+ Premium",
+"ESPN 2"
+],
+"CO": [
+"Disney+ Premium",
+"ESPN 2"
+],
 "DE": [
 "DAZN"
 ],
 "DZ": [
-"beIN Sports"
+"beIN Sports MENA 4",
+"TOD TV"
+],
+"EC": [
+"Disney+ Premium",
+"ESPN 2"
 ],
 "EG": [
-"beIN Sports"
+"beIN Sports MENA 4",
+"TOD TV"
 ],
 "ES": [
 "DAZN LaLiga",
@@ -19586,19 +19807,23 @@
 "SuperSport"
 ],
 "IQ": [
-"beIN Sports"
+"beIN Sports MENA 4",
+"TOD TV"
 ],
 "IT": [
 "DAZN"
 ],
 "JO": [
-"beIN Sports"
+"beIN Sports MENA 4",
+"TOD TV"
 ],
 "LY": [
-"beIN Sports"
+"beIN Sports MENA 4",
+"TOD TV"
 ],
 "MA": [
-"beIN Sports"
+"beIN Sports MENA 4",
+"TOD TV"
 ],
 "ML": [
 "Canal+"
@@ -19610,22 +19835,34 @@
 "SuperSport"
 ],
 "OM": [
-"beIN Sports"
+"beIN Sports MENA 4",
+"TOD TV"
+],
+"PE": [
+"Disney+ Premium",
+"ESPN 2"
 ],
 "PT": [
 "DAZN 3"
 ],
+"PY": [
+"Disney+ Premium",
+"ESPN 2"
+],
 "QA": [
-"beIN Sports"
+"beIN Sports MENA 4",
+"TOD TV"
 ],
 "SA": [
-"beIN Sports"
+"beIN Sports MENA 4",
+"TOD TV"
 ],
 "SN": [
 "Canal+"
 ],
 "TN": [
-"beIN Sports"
+"beIN Sports MENA 4",
+"TOD TV"
 ],
 "TR": [
 "S Sport Plus",
@@ -19635,6 +19872,10 @@
 "ESPN+",
 "ESPN Deportes",
 "Fubo"
+],
+"UY": [
+"Disney+ Premium",
+"ESPN 2"
 ],
 "ZA": [
 "SuperSport"
@@ -19686,7 +19927,8 @@
 },
 "broadcasts": {
 "AE": [
-"beIN Sports"
+"beIN Sports MENA 4",
+"TOD TV"
 ],
 "BR": [
 "CazéTV"
@@ -19697,14 +19939,28 @@
 "CI": [
 "Canal+"
 ],
+"CL": [
+"Disney+ Premium",
+"ESPN 2"
+],
+"CO": [
+"Disney+ Premium",
+"ESPN 2"
+],
 "DE": [
 "DAZN"
 ],
 "DZ": [
-"beIN Sports"
+"beIN Sports MENA 4",
+"TOD TV"
+],
+"EC": [
+"Disney+ Premium",
+"ESPN 2"
 ],
 "EG": [
-"beIN Sports"
+"beIN Sports MENA 4",
+"TOD TV"
 ],
 "ES": [
 "M+ LaLiga",
@@ -19722,19 +19978,23 @@
 "SuperSport"
 ],
 "IQ": [
-"beIN Sports"
+"beIN Sports MENA 4",
+"TOD TV"
 ],
 "IT": [
 "DAZN"
 ],
 "JO": [
-"beIN Sports"
+"beIN Sports MENA 4",
+"TOD TV"
 ],
 "LY": [
-"beIN Sports"
+"beIN Sports MENA 4",
+"TOD TV"
 ],
 "MA": [
-"beIN Sports"
+"beIN Sports MENA 4",
+"TOD TV"
 ],
 "ML": [
 "Canal+"
@@ -19746,22 +20006,34 @@
 "SuperSport"
 ],
 "OM": [
-"beIN Sports"
+"beIN Sports MENA 4",
+"TOD TV"
+],
+"PE": [
+"Disney+ Premium",
+"ESPN 2"
 ],
 "PT": [
 "DAZN 3"
 ],
+"PY": [
+"Disney+ Premium",
+"ESPN 2"
+],
 "QA": [
-"beIN Sports"
+"beIN Sports MENA 4",
+"TOD TV"
 ],
 "SA": [
-"beIN Sports"
+"beIN Sports MENA 4",
+"TOD TV"
 ],
 "SN": [
 "Canal+"
 ],
 "TN": [
-"beIN Sports"
+"beIN Sports MENA 4",
+"TOD TV"
 ],
 "TR": [
 "S Sport Plus",
@@ -19771,6 +20043,10 @@
 "ESPN+",
 "ESPN Deportes",
 "Fubo"
+],
+"UY": [
+"Disney+ Premium",
+"ESPN 2"
 ],
 "ZA": [
 "SuperSport"
@@ -19821,6 +20097,10 @@
 "tr": "SV Elversberg"
 },
 "broadcasts": {
+"AE": [
+"MBC Action",
+"MBC Shahid"
+],
 "BR": [
 "CazéTV",
 "OneFootball PPV"
@@ -19830,9 +20110,26 @@
 "DAZN",
 "OneSoccer"
 ],
+"CL": [
+"Disney+ Premium"
+],
+"CO": [
+"Disney+ Premium"
+],
 "DE": [
 "WOW",
 "Sky Bundesliga 2"
+],
+"DZ": [
+"MBC Action",
+"MBC Shahid"
+],
+"EC": [
+"Disney+ Premium"
+],
+"EG": [
+"MBC Action",
+"MBC Shahid"
 ],
 "ES": [
 "DAZN"
@@ -19840,8 +20137,52 @@
 "FR": [
 "beIN Sports Max 6"
 ],
+"IQ": [
+"MBC Action",
+"MBC Shahid"
+],
+"IT": [
+"Sky Sport Max"
+],
+"JO": [
+"MBC Action",
+"MBC Shahid"
+],
+"LY": [
+"MBC Action",
+"MBC Shahid"
+],
+"MA": [
+"MBC Action",
+"MBC Shahid"
+],
+"MX": [
+"FOX One"
+],
+"OM": [
+"MBC Action",
+"MBC Shahid"
+],
+"PE": [
+"Disney+ Premium"
+],
 "PT": [
 "DAZN 4"
+],
+"PY": [
+"Disney+ Premium"
+],
+"QA": [
+"MBC Action",
+"MBC Shahid"
+],
+"SA": [
+"MBC Action",
+"MBC Shahid"
+],
+"TN": [
+"MBC Action",
+"MBC Shahid"
 ],
 "TR": [
 "S Sport Plus"
@@ -19849,6 +20190,9 @@
 "US": [
 "Fandango",
 "Peacock"
+],
+"UY": [
+"Disney+ Premium"
 ]
 },
 "competition": {
@@ -19899,10 +20243,38 @@
 "BR": [
 "Disney+"
 ],
+"CL": [
+"Disney+ Premium",
+"Fanatiz"
+],
+"CO": [
+"Disney+ Premium",
+"Fanatiz"
+],
+"EC": [
+"Disney+ Premium",
+"Fanatiz"
+],
 "ES": [
 "Fanatiz"
 ],
+"MX": [
+"Disney+ Premium",
+"Fanatiz"
+],
+"PE": [
+"Disney+ Premium",
+"Fanatiz"
+],
 "PT": [
+"Fanatiz"
+],
+"PY": [
+"Disney+ Premium",
+"Fanatiz"
+],
+"UY": [
+"Disney+ Premium",
 "Fanatiz"
 ]
 },
@@ -19951,6 +20323,9 @@
 "tr": "Hamburger SV"
 },
 "broadcasts": {
+"AE": [
+"MBC Shahid"
+],
 "BR": [
 "Canal GOAT",
 "OneFootball PPV"
@@ -19960,9 +20335,24 @@
 "DAZN",
 "OneSoccer"
 ],
+"CL": [
+"Disney+ Premium"
+],
+"CO": [
+"Disney+ Premium"
+],
 "DE": [
 "WOW",
 "Sky Bundesliga 4"
+],
+"DZ": [
+"MBC Shahid"
+],
+"EC": [
+"Disney+ Premium"
+],
+"EG": [
+"MBC Shahid"
 ],
 "ES": [
 "DAZN"
@@ -19970,9 +20360,45 @@
 "FR": [
 "beIN Sports Max 9"
 ],
+"IQ": [
+"MBC Shahid"
+],
+"JO": [
+"MBC Shahid"
+],
+"LY": [
+"MBC Shahid"
+],
+"MA": [
+"MBC Shahid"
+],
+"MX": [
+"FOX One"
+],
+"OM": [
+"MBC Shahid"
+],
+"PE": [
+"Disney+ Premium"
+],
+"PY": [
+"Disney+ Premium"
+],
+"QA": [
+"MBC Shahid"
+],
+"SA": [
+"MBC Shahid"
+],
+"TN": [
+"MBC Shahid"
+],
 "US": [
 "Fandango",
 "Peacock"
+],
+"UY": [
+"Disney+ Premium"
 ]
 },
 "competition": {
@@ -20023,10 +20449,33 @@
 "BR": [
 "Fanatiz"
 ],
+"CL": [
+"Fanatiz"
+],
+"CO": [
+"Fanatiz"
+],
+"EC": [
+"Fanatiz"
+],
 "ES": [
 "Fanatiz"
 ],
+"MX": [
+"Fanatiz"
+],
+"PE": [
+"Fanatiz",
+"L1 Max",
+"L1 Play"
+],
 "PT": [
+"Fanatiz"
+],
+"PY": [
+"Fanatiz"
+],
+"UY": [
 "Fanatiz"
 ]
 },
@@ -20078,9 +20527,18 @@
 "BR": [
 "OneFootball PPV"
 ],
+"CL": [
+"OneFootball PPV"
+],
+"CO": [
+"OneFootball PPV"
+],
 "DE": [
 "Magenta Sport",
 "OneFootball"
+],
+"EC": [
+"OneFootball PPV"
 ],
 "ES": [
 "OneFootball PPV"
@@ -20088,7 +20546,16 @@
 "GB": [
 "DFB Play"
 ],
+"MX": [
+"OneFootball PPV"
+],
+"PE": [
+"OneFootball PPV"
+],
 "PT": [
+"OneFootball PPV"
+],
+"PY": [
 "OneFootball PPV"
 ],
 "TR": [
@@ -20096,6 +20563,9 @@
 ],
 "US": [
 "ESPN+"
+],
+"UY": [
+"OneFootball PPV"
 ]
 },
 "competition": {
@@ -20143,13 +20613,37 @@
 "tr": "Sampdoria"
 },
 "broadcasts": {
+"CL": [
+"OneFootball PPV"
+],
+"CO": [
+"OneFootball PPV"
+],
 "DE": [
 "OneFootball"
+],
+"EC": [
+"OneFootball PPV"
 ],
 "ES": [
 "OneFootball PPV"
 ],
+"IT": [
+"DAZN"
+],
+"MX": [
+"OneFootball PPV"
+],
+"PE": [
+"OneFootball PPV"
+],
 "PT": [
+"OneFootball PPV"
+],
+"PY": [
+"OneFootball PPV"
+],
+"UY": [
 "OneFootball PPV"
 ]
 },
@@ -20203,6 +20697,9 @@
 "DAZN",
 "Orange Fútbol 2",
 "LaLiga TV M2"
+],
+"MX": [
+"Sky Sports"
 ],
 "TR": [
 "S Sport Plus"
@@ -20260,6 +20757,9 @@
 "LaLiga TV Hypermotion",
 "DAZN",
 "LaLiga TV M2"
+],
+"MX": [
+"Sky Sports"
 ]
 },
 "competition": {
@@ -20308,7 +20808,8 @@
 },
 "broadcasts": {
 "AE": [
-"beIN Sports"
+"beIN Sports MENA 2",
+"TOD TV"
 ],
 "BR": [
 "CazéTV"
@@ -20319,14 +20820,37 @@
 "CI": [
 "Canal+"
 ],
+"CL": [
+"DGO",
+"Amazon Prime Video",
+"Paramount+",
+"DAZN",
+"DSports"
+],
+"CO": [
+"DGO",
+"DSports",
+"Amazon Prime Video",
+"Paramount+",
+"DAZN",
+"Win Play"
+],
 "DE": [
 "DAZN"
 ],
 "DZ": [
-"beIN Sports"
+"beIN Sports MENA 2",
+"TOD TV"
+],
+"EC": [
+"DGO",
+"DSports",
+"Paramount+",
+"DAZN"
 ],
 "EG": [
-"beIN Sports"
+"beIN Sports MENA 2",
+"TOD TV"
 ],
 "ES": [
 "M+ LaLiga 2",
@@ -20344,19 +20868,23 @@
 "SuperSport"
 ],
 "IQ": [
-"beIN Sports"
+"beIN Sports MENA 2",
+"TOD TV"
 ],
 "IT": [
 "DAZN"
 ],
 "JO": [
-"beIN Sports"
+"beIN Sports MENA 2",
+"TOD TV"
 ],
 "LY": [
-"beIN Sports"
+"beIN Sports MENA 2",
+"TOD TV"
 ],
 "MA": [
-"beIN Sports"
+"beIN Sports MENA 2",
+"TOD TV"
 ],
 "ML": [
 "Canal+"
@@ -20368,22 +20896,32 @@
 "SuperSport"
 ],
 "OM": [
-"beIN Sports"
+"beIN Sports MENA 2",
+"TOD TV"
+],
+"PE": [
+"DGO",
+"DSports",
+"Paramount+",
+"DAZN"
 ],
 "PT": [
 "DAZN 2"
 ],
 "QA": [
-"beIN Sports"
+"beIN Sports MENA 2",
+"TOD TV"
 ],
 "SA": [
-"beIN Sports"
+"beIN Sports MENA 2",
+"TOD TV"
 ],
 "SN": [
 "Canal+"
 ],
 "TN": [
-"beIN Sports"
+"beIN Sports MENA 2",
+"TOD TV"
 ],
 "TR": [
 "S Sport Plus",
@@ -20393,6 +20931,12 @@
 "ESPN+",
 "ESPN Deportes",
 "Fubo"
+],
+"UY": [
+"DGO",
+"DSports",
+"Paramount+",
+"DAZN"
 ],
 "ZA": [
 "SuperSport"
@@ -20443,13 +20987,37 @@
 "tr": "Mantova"
 },
 "broadcasts": {
+"CL": [
+"OneFootball PPV"
+],
+"CO": [
+"OneFootball PPV"
+],
 "DE": [
 "OneFootball"
+],
+"EC": [
+"OneFootball PPV"
 ],
 "ES": [
 "OneFootball PPV"
 ],
+"IT": [
+"DAZN"
+],
+"MX": [
+"OneFootball PPV"
+],
+"PE": [
+"OneFootball PPV"
+],
 "PT": [
+"OneFootball PPV"
+],
+"PY": [
+"OneFootball PPV"
+],
+"UY": [
 "OneFootball PPV"
 ]
 },
@@ -20503,10 +21071,21 @@
 "Premiere",
 "GE TV"
 ],
+"CL": [
+"Fanatiz"
+],
 "ES": [
 "M+ Vamos 2",
 "M+ #Vamos Bar 2",
 "M+ Liga de Campeones"
+],
+"MX": [
+"Azteca Deportes Network",
+"Azteca Deportes App",
+"Disney+ Premium"
+],
+"PE": [
+"L1 Play"
 ]
 },
 "competition": {
@@ -20560,7 +21139,16 @@
 "CA": [
 "MLS Season Pass (Apple TV)"
 ],
+"CL": [
+"Apple TV"
+],
+"CO": [
+"Apple TV"
+],
 "DE": [
+"Apple TV"
+],
+"EC": [
 "Apple TV"
 ],
 "ES": [
@@ -20569,7 +21157,16 @@
 "GB": [
 "Apple TV"
 ],
+"MX": [
+"Apple TV"
+],
+"PE": [
+"Apple TV"
+],
 "PT": [
+"Apple TV"
+],
+"PY": [
 "Apple TV"
 ],
 "US": [
@@ -20628,7 +21225,16 @@
 "CA": [
 "MLS Season Pass (Apple TV)"
 ],
+"CL": [
+"Apple TV"
+],
+"CO": [
+"Apple TV"
+],
 "DE": [
+"Apple TV"
+],
+"EC": [
 "Apple TV"
 ],
 "ES": [
@@ -20637,7 +21243,16 @@
 "GB": [
 "Apple TV"
 ],
+"MX": [
+"Apple TV"
+],
+"PE": [
+"Apple TV"
+],
 "PT": [
+"Apple TV"
+],
+"PY": [
 "Apple TV"
 ],
 "US": [
@@ -20695,7 +21310,16 @@
 "CA": [
 "MLS Season Pass (Apple TV)"
 ],
+"CL": [
+"Apple TV"
+],
+"CO": [
+"Apple TV"
+],
 "DE": [
+"Apple TV"
+],
+"EC": [
 "Apple TV"
 ],
 "ES": [
@@ -20704,7 +21328,16 @@
 "GB": [
 "Apple TV"
 ],
+"MX": [
+"Apple TV"
+],
+"PE": [
+"Apple TV"
+],
 "PT": [
+"Apple TV"
+],
+"PY": [
 "Apple TV"
 ],
 "US": [
@@ -20762,7 +21395,16 @@
 "CA": [
 "MLS Season Pass (Apple TV)"
 ],
+"CL": [
+"Apple TV"
+],
+"CO": [
+"Apple TV"
+],
 "DE": [
+"Apple TV"
+],
+"EC": [
 "Apple TV"
 ],
 "ES": [
@@ -20771,7 +21413,16 @@
 "GB": [
 "Apple TV"
 ],
+"MX": [
+"Apple TV"
+],
+"PE": [
+"Apple TV"
+],
 "PT": [
+"Apple TV"
+],
+"PY": [
 "Apple TV"
 ],
 "US": [
@@ -20829,7 +21480,16 @@
 "CA": [
 "MLS Season Pass (Apple TV)"
 ],
+"CL": [
+"Apple TV"
+],
+"CO": [
+"Apple TV"
+],
 "DE": [
+"Apple TV"
+],
+"EC": [
 "Apple TV"
 ],
 "ES": [
@@ -20838,7 +21498,16 @@
 "GB": [
 "Apple TV"
 ],
+"MX": [
+"Apple TV"
+],
+"PE": [
+"Apple TV"
+],
 "PT": [
+"Apple TV"
+],
+"PY": [
 "Apple TV"
 ],
 "US": [
@@ -20896,7 +21565,16 @@
 "CA": [
 "MLS Season Pass (Apple TV)"
 ],
+"CL": [
+"Apple TV"
+],
+"CO": [
+"Apple TV"
+],
 "DE": [
+"Apple TV"
+],
+"EC": [
 "Apple TV"
 ],
 "ES": [
@@ -20905,7 +21583,16 @@
 "GB": [
 "Apple TV"
 ],
+"MX": [
+"Apple TV"
+],
+"PE": [
+"Apple TV"
+],
 "PT": [
+"Apple TV"
+],
+"PY": [
 "Apple TV"
 ],
 "US": [
@@ -20963,7 +21650,16 @@
 "CA": [
 "MLS Season Pass (Apple TV)"
 ],
+"CL": [
+"Apple TV"
+],
+"CO": [
+"Apple TV"
+],
 "DE": [
+"Apple TV"
+],
+"EC": [
 "Apple TV"
 ],
 "ES": [
@@ -20972,7 +21668,16 @@
 "GB": [
 "Apple TV"
 ],
+"MX": [
+"Apple TV"
+],
+"PE": [
+"Apple TV"
+],
 "PT": [
+"Apple TV"
+],
+"PY": [
 "Apple TV"
 ],
 "US": [
@@ -21028,11 +21733,40 @@
 "YouTube",
 "Fanatiz"
 ],
+"CL": [
+"Fanatiz",
+"Fanatiz YouTube"
+],
+"CO": [
+"Fanatiz",
+"Fanatiz YouTube"
+],
+"EC": [
+"Fanatiz",
+"Fanatiz YouTube"
+],
 "ES": [
 "Fanatiz"
 ],
+"MX": [
+"Fanatiz",
+"Fanatiz YouTube"
+],
+"PE": [
+"Fanatiz",
+"L1 Max",
+"L1 Play"
+],
 "PT": [
 "Fanatiz"
+],
+"PY": [
+"Fanatiz",
+"Fanatiz YouTube"
+],
+"UY": [
+"Fanatiz",
+"Fanatiz YouTube"
 ]
 },
 "competition": {
@@ -21064,260 +21798,6 @@
 "tier": "regional"
 },
 "slug": "universitario-juan-pablo-ii-college-2026-10-25"
-},
-"fr:basketball-20261020-knicks-76ers": {
-"lang": "fr",
-"m": {
-"away": "76ers",
-"awayNames": {
-"ar": "فيلادلفيا سفنتي سيكسرز",
-"de": "Philadelphia 76ers",
-"en": "Philadelphia 76ers",
-"es": "Philadelphia 76ers",
-"fr": "Philadelphia 76ers",
-"it": "Philadelphia 76ers",
-"pt": "Philadelphia 76ers",
-"tr": "Philadelphia 76ers"
-},
-"broadcasts": {
-"AE": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"AR": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"AT": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"AU": [
-"ESPN",
-"Prime Video",
-"NBA League Pass"
-],
-"BE": [
-"DAZN",
-"Prime Video",
-"NBA League Pass"
-],
-"BR": [
-"ESPN",
-"Disney+",
-"Prime Video",
-"NBA League Pass"
-],
-"CA": [
-"TSN",
-"Sportsnet",
-"Prime Video",
-"NBA League Pass"
-],
-"CH": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"CL": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"CO": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"CZ": [
-"Nova Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"DE": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"DZ": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"EC": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"EG": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"ES": [
-"DAZN",
-"Prime Video",
-"NBA League Pass"
-],
-"FR": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"GB": [
-"Sky Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"GH": [
-"ESPN",
-"Sporty TV",
-"NBA League Pass"
-],
-"HR": [
-"Sport Klub",
-"Prime Video",
-"NBA League Pass"
-],
-"IT": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"JP": [
-"Lemino",
-"Prime Video",
-"WOWOW"
-],
-"KR": [
-"Coupang Play",
-"Prime Video",
-"NBA League Pass"
-],
-"MA": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"MX": [
-"ESPN",
-"Disney+",
-"Prime Video",
-"NBA League Pass"
-],
-"NG": [
-"ESPN",
-"Sporty TV",
-"NBA League Pass"
-],
-"NL": [
-"ESPN",
-"NBA League Pass"
-],
-"NO": [
-"HBO Max",
-"NBA League Pass"
-],
-"NZ": [
-"ESPN",
-"Prime Video",
-"NBA League Pass"
-],
-"PE": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"PT": [
-"Sport TV",
-"Prime Video",
-"NBA League Pass"
-],
-"PY": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"QA": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"SA": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"SN": [
-"Canal+ Sport",
-"NBA League Pass"
-],
-"TN": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"TR": [
-"S Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"US": [
-"NBC"
-],
-"UY": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"ZA": [
-"SuperSport",
-"ESPN",
-"Prime Video",
-"NBA League Pass"
-]
-},
-"competition": {
-"ar": "دوري NBA",
-"de": "NBA",
-"en": "NBA",
-"es": "NBA",
-"fr": "NBA",
-"it": "NBA",
-"pt": "NBA",
-"tr": "NBA"
-},
-"competitionId": "nba",
-"home": "Knicks",
-"homeNames": {
-"ar": "نيويورك نيكس",
-"de": "New York Knicks",
-"en": "New York Knicks",
-"es": "New York Knicks",
-"fr": "New York Knicks",
-"it": "New York Knicks",
-"pt": "New York Knicks",
-"tr": "New York Knicks"
-},
-"id": "basketball-20261020-knicks-76ers",
-"kickoffUtc": "2026-10-20T23:00:00Z",
-"sources": [
-"espn"
-],
-"sport": "basketball",
-"tier": "global"
-},
-"slug": "new-york-knicks-philadelphia-76ers-2026-10-21"
 },
 "fr:basketball-20261021-heat-timberwolves": {
 "lang": "fr",
@@ -22334,260 +22814,6 @@
 "tier": "global"
 },
 "slug": "toronto-raptors-chicago-bulls-2026-10-22"
-},
-"fr:basketball-20261021-spurs-thunder": {
-"lang": "fr",
-"m": {
-"away": "Thunder",
-"awayNames": {
-"ar": "أوكلاهوما سيتي ثاندر",
-"de": "Oklahoma City Thunder",
-"en": "Oklahoma City Thunder",
-"es": "Oklahoma City Thunder",
-"fr": "Oklahoma City Thunder",
-"it": "Oklahoma City Thunder",
-"pt": "Oklahoma City Thunder",
-"tr": "Oklahoma City Thunder"
-},
-"broadcasts": {
-"AE": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"AR": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"AT": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"AU": [
-"ESPN",
-"Prime Video",
-"NBA League Pass"
-],
-"BE": [
-"DAZN",
-"Prime Video",
-"NBA League Pass"
-],
-"BR": [
-"ESPN",
-"Disney+",
-"Prime Video",
-"NBA League Pass"
-],
-"CA": [
-"TSN",
-"Sportsnet",
-"Prime Video",
-"NBA League Pass"
-],
-"CH": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"CL": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"CO": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"CZ": [
-"Nova Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"DE": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"DZ": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"EC": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"EG": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"ES": [
-"DAZN",
-"Prime Video",
-"NBA League Pass"
-],
-"FR": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"GB": [
-"Sky Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"GH": [
-"ESPN",
-"Sporty TV",
-"NBA League Pass"
-],
-"HR": [
-"Sport Klub",
-"Prime Video",
-"NBA League Pass"
-],
-"IT": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"JP": [
-"Lemino",
-"Prime Video",
-"WOWOW"
-],
-"KR": [
-"Coupang Play",
-"Prime Video",
-"NBA League Pass"
-],
-"MA": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"MX": [
-"ESPN",
-"Disney+",
-"Prime Video",
-"NBA League Pass"
-],
-"NG": [
-"ESPN",
-"Sporty TV",
-"NBA League Pass"
-],
-"NL": [
-"ESPN",
-"NBA League Pass"
-],
-"NO": [
-"HBO Max",
-"NBA League Pass"
-],
-"NZ": [
-"ESPN",
-"Prime Video",
-"NBA League Pass"
-],
-"PE": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"PT": [
-"Sport TV",
-"Prime Video",
-"NBA League Pass"
-],
-"PY": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"QA": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"SA": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"SN": [
-"Canal+ Sport",
-"NBA League Pass"
-],
-"TN": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"TR": [
-"S Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"US": [
-"NBC"
-],
-"UY": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"ZA": [
-"SuperSport",
-"ESPN",
-"Prime Video",
-"NBA League Pass"
-]
-},
-"competition": {
-"ar": "دوري NBA",
-"de": "NBA",
-"en": "NBA",
-"es": "NBA",
-"fr": "NBA",
-"it": "NBA",
-"pt": "NBA",
-"tr": "NBA"
-},
-"competitionId": "nba",
-"home": "Spurs",
-"homeNames": {
-"ar": "سان أنتونيو سبيرز",
-"de": "San Antonio Spurs",
-"en": "San Antonio Spurs",
-"es": "San Antonio Spurs",
-"fr": "San Antonio Spurs",
-"it": "San Antonio Spurs",
-"pt": "San Antonio Spurs",
-"tr": "San Antonio Spurs"
-},
-"id": "basketball-20261021-spurs-thunder",
-"kickoffUtc": "2026-10-21T01:30:00Z",
-"sources": [
-"espn"
-],
-"sport": "basketball",
-"tier": "global"
-},
-"slug": "san-antonio-spurs-oklahoma-city-thunder-2026-10-21"
 },
 "fr:basketball-20261021-wizards-bucks": {
 "lang": "fr",
@@ -36509,7 +36735,8 @@
 },
 "broadcasts": {
 "AE": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "AU": [
 "Stan Sport"
@@ -36526,26 +36753,28 @@
 "Canal+"
 ],
 "CL": [
-"ESPN",
-"Disney+"
+"Disney+ Premium",
+"ESPN"
 ],
 "CO": [
-"ESPN",
-"Disney+"
+"Disney+ Premium",
+"ESPN"
 ],
 "DE": [
 "Sky Sport Premier League",
 "WOW"
 ],
 "DZ": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "EC": [
-"ESPN",
-"Disney+"
+"Disney+ Premium",
+"ESPN"
 ],
 "EG": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "ES": [
 "DAZN",
@@ -36563,10 +36792,15 @@
 "TNT Sports"
 ],
 "IQ": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"TOD TV"
+],
+"IT": [
+"Sky Sport 1"
 ],
 "JO": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "JP": [
 "U-NEXT"
@@ -36575,43 +36809,53 @@
 "Coupang Play"
 ],
 "LY": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "MA": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "ML": [
 "Canal+"
+],
+"MX": [
+"FOX",
+"FOX One"
 ],
 "NG": [
 "SuperSport"
 ],
 "OM": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "PE": [
-"ESPN",
-"Disney+"
+"Disney+ Premium",
+"ESPN"
 ],
 "PT": [
 "DAZN",
 "DAZN 1"
 ],
 "PY": [
-"ESPN",
-"Disney+"
+"Disney+ Premium",
+"ESPN"
 ],
 "QA": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "SA": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "SN": [
 "Canal+"
 ],
 "TN": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "TR": [
 "beIN Sports 3",
@@ -36624,8 +36868,8 @@
 "Fubo"
 ],
 "UY": [
-"ESPN",
-"Disney+"
+"Disney+ Premium",
+"ESPN"
 ],
 "ZA": [
 "SuperSport"
@@ -36677,7 +36921,8 @@
 },
 "broadcasts": {
 "AE": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "AU": [
 "Stan Sport"
@@ -36694,12 +36939,12 @@
 "Canal+"
 ],
 "CL": [
-"ESPN",
-"Disney+"
+"Disney+ Premium",
+"ESPN"
 ],
 "CO": [
-"ESPN",
-"Disney+"
+"Disney+ Premium",
+"ESPN"
 ],
 "DE": [
 "Sky Sport Premier League",
@@ -36707,14 +36952,16 @@
 "WOW"
 ],
 "DZ": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "EC": [
-"ESPN",
-"Disney+"
+"Disney+ Premium",
+"ESPN"
 ],
 "EG": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "ES": [
 "DAZN",
@@ -36740,10 +36987,15 @@
 "TNT Sports"
 ],
 "IQ": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"TOD TV"
+],
+"IT": [
+"Sky Sport 1"
 ],
 "JO": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "JP": [
 "U-NEXT"
@@ -36752,43 +37004,54 @@
 "Coupang Play"
 ],
 "LY": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "MA": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "ML": [
 "Canal+"
+],
+"MX": [
+"HBO Max",
+"TNT",
+"TNT Sports"
 ],
 "NG": [
 "SuperSport"
 ],
 "OM": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "PE": [
-"ESPN",
-"Disney+"
+"Disney+ Premium",
+"ESPN"
 ],
 "PT": [
 "DAZN",
 "DAZN 1"
 ],
 "PY": [
-"ESPN",
-"Disney+"
+"Disney+ Premium",
+"ESPN"
 ],
 "QA": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "SA": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "SN": [
 "Canal+"
 ],
 "TN": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "TR": [
 "beIN Sports 3",
@@ -36801,8 +37064,8 @@
 "Fubo"
 ],
 "UY": [
-"ESPN",
-"Disney+"
+"Disney+ Premium",
+"ESPN"
 ],
 "ZA": [
 "SuperSport"
@@ -36854,7 +37117,8 @@
 },
 "broadcasts": {
 "AE": [
-"beIN Sports"
+"beIN Sports MENA 2",
+"TOD TV"
 ],
 "BR": [
 "CazéTV"
@@ -36865,14 +37129,28 @@
 "CI": [
 "Canal+"
 ],
+"CL": [
+"Disney+ Premium",
+"ESPN"
+],
+"CO": [
+"Disney+ Premium",
+"ESPN"
+],
 "DE": [
 "DAZN"
 ],
 "DZ": [
-"beIN Sports"
+"beIN Sports MENA 2",
+"TOD TV"
+],
+"EC": [
+"Disney+ Premium",
+"ESPN"
 ],
 "EG": [
-"beIN Sports"
+"beIN Sports MENA 2",
+"TOD TV"
 ],
 "ES": [
 "M+ LaLiga",
@@ -36892,19 +37170,23 @@
 "SuperSport"
 ],
 "IQ": [
-"beIN Sports"
+"beIN Sports MENA 2",
+"TOD TV"
 ],
 "IT": [
 "DAZN"
 ],
 "JO": [
-"beIN Sports"
+"beIN Sports MENA 2",
+"TOD TV"
 ],
 "LY": [
-"beIN Sports"
+"beIN Sports MENA 2",
+"TOD TV"
 ],
 "MA": [
-"beIN Sports"
+"beIN Sports MENA 2",
+"TOD TV"
 ],
 "ML": [
 "Canal+"
@@ -36916,22 +37198,34 @@
 "SuperSport"
 ],
 "OM": [
-"beIN Sports"
+"beIN Sports MENA 2",
+"TOD TV"
+],
+"PE": [
+"Disney+ Premium",
+"ESPN"
 ],
 "PT": [
 "DAZN 1"
 ],
+"PY": [
+"Disney+ Premium",
+"ESPN"
+],
 "QA": [
-"beIN Sports"
+"beIN Sports MENA 2",
+"TOD TV"
 ],
 "SA": [
-"beIN Sports"
+"beIN Sports MENA 2",
+"TOD TV"
 ],
 "SN": [
 "Canal+"
 ],
 "TN": [
-"beIN Sports"
+"beIN Sports MENA 2",
+"TOD TV"
 ],
 "TR": [
 "S Sport Plus",
@@ -36942,6 +37236,10 @@
 "ESPN+",
 "ESPN Deportes",
 "Fubo"
+],
+"UY": [
+"Disney+ Premium",
+"ESPN"
 ],
 "ZA": [
 "SuperSport"
@@ -36992,6 +37290,10 @@
 "tr": "Union Berlin"
 },
 "broadcasts": {
+"AE": [
+"MBC Action",
+"MBC Shahid"
+],
 "BR": [
 "YouTube",
 "OneFootball PPV"
@@ -37001,9 +37303,26 @@
 "DAZN",
 "OneSoccer"
 ],
+"CL": [
+"Disney+ Premium"
+],
+"CO": [
+"Disney+ Premium"
+],
 "DE": [
 "Sky Bundesliga 5",
 "WOW"
+],
+"DZ": [
+"MBC Action",
+"MBC Shahid"
+],
+"EC": [
+"Disney+ Premium"
+],
+"EG": [
+"MBC Action",
+"MBC Shahid"
 ],
 "ES": [
 "DAZN"
@@ -37011,12 +37330,57 @@
 "FR": [
 "beIN Sports Max 5"
 ],
+"IQ": [
+"MBC Action",
+"MBC Shahid"
+],
+"JO": [
+"MBC Action",
+"MBC Shahid"
+],
+"LY": [
+"MBC Action",
+"MBC Shahid"
+],
+"MA": [
+"MBC Action",
+"MBC Shahid"
+],
+"MX": [
+"FOX One",
+"FOX+"
+],
+"OM": [
+"MBC Action",
+"MBC Shahid"
+],
+"PE": [
+"Disney+ Premium"
+],
+"PY": [
+"Disney+ Premium"
+],
+"QA": [
+"MBC Action",
+"MBC Shahid"
+],
+"SA": [
+"MBC Action",
+"MBC Shahid"
+],
+"TN": [
+"MBC Action",
+"MBC Shahid"
+],
 "TR": [
 "S Sport Plus"
 ],
 "US": [
 "Fandango",
 "Peacock"
+],
+"UY": [
+"Disney+ Premium"
 ]
 },
 "competition": {
@@ -37065,7 +37429,8 @@
 },
 "broadcasts": {
 "AE": [
-"beIN Sports"
+"STARZPLAY",
+"Shasha"
 ],
 "AR": [
 "ESPN",
@@ -37083,25 +37448,22 @@
 "Canal+"
 ],
 "CL": [
-"ESPN",
-"Disney+"
+"Disney+ Premium"
 ],
 "CO": [
-"ESPN",
-"Disney+"
+"Disney+ Premium"
 ],
 "DE": [
 "DAZN"
 ],
 "DZ": [
-"beIN Sports"
+"STARZPLAY"
 ],
 "EC": [
-"ESPN",
-"Disney+"
+"Disney+ Premium"
 ],
 "EG": [
-"beIN Sports"
+"STARZPLAY"
 ],
 "ES": [
 "DAZN"
@@ -37114,50 +37476,48 @@
 "Disney+"
 ],
 "IQ": [
-"beIN Sports"
+"STARZPLAY"
 ],
 "IT": [
 "DAZN",
 "Sky Sport"
 ],
 "JO": [
-"beIN Sports"
+"STARZPLAY"
 ],
 "LY": [
-"beIN Sports"
+"STARZPLAY"
 ],
 "MA": [
-"beIN Sports"
+"STARZPLAY"
 ],
 "ML": [
 "Canal+"
 ],
 "MX": [
-"ESPN",
-"Disney+"
+"Disney+ Premium"
 ],
 "OM": [
-"beIN Sports"
+"STARZPLAY"
 ],
 "PE": [
-"ESPN",
-"Disney+"
+"Disney+ Premium"
 ],
 "PY": [
-"ESPN",
-"Disney+"
+"Disney+ Premium"
 ],
 "QA": [
-"beIN Sports"
+"STARZPLAY"
 ],
 "SA": [
-"beIN Sports"
+"STARZPLAY",
+"stc tv"
 ],
 "SN": [
 "Canal+"
 ],
 "TN": [
-"beIN Sports"
+"STARZPLAY"
 ],
 "TR": [
 "S Sport Plus"
@@ -37167,8 +37527,7 @@
 "Peacock"
 ],
 "UY": [
-"ESPN",
-"Disney+"
+"Disney+ Premium"
 ]
 },
 "competition": {
@@ -37216,9 +37575,33 @@
 "tr": "Norwich City"
 },
 "broadcasts": {
+"AE": [
+"beIN Sports MENA 2",
+"TOD TV"
+],
 "BR": [
 "ESPN 4",
 "Disney+"
+],
+"CL": [
+"Disney+ Premium",
+"ESPN 5"
+],
+"CO": [
+"Disney+ Premium",
+"ESPN 5"
+],
+"DZ": [
+"beIN Sports MENA 2",
+"TOD TV"
+],
+"EC": [
+"Disney+ Premium",
+"ESPN 5"
+],
+"EG": [
+"beIN Sports MENA 2",
+"TOD TV"
 ],
 "FR": [
 "beIN Sports Max 10"
@@ -37228,13 +37611,61 @@
 "Sky Sports Football",
 "Sky Sports Ultra HDR"
 ],
+"IQ": [
+"beIN Sports MENA 2",
+"TOD TV"
+],
+"JO": [
+"beIN Sports MENA 2",
+"TOD TV"
+],
+"LY": [
+"beIN Sports MENA 2",
+"TOD TV"
+],
+"MA": [
+"beIN Sports MENA 2",
+"TOD TV"
+],
+"MX": [
+"Disney+ Premium",
+"ESPN 2"
+],
+"OM": [
+"beIN Sports MENA 2",
+"TOD TV"
+],
+"PE": [
+"Disney+ Premium",
+"ESPN 5"
+],
 "PT": [
 "Sport TV 4"
+],
+"PY": [
+"Disney+ Premium",
+"ESPN 5"
+],
+"QA": [
+"beIN Sports MENA 2",
+"TOD TV"
+],
+"SA": [
+"beIN Sports MENA 2",
+"TOD TV"
+],
+"TN": [
+"beIN Sports MENA 2",
+"TOD TV"
 ],
 "US": [
 "CBS Sports Golazo Network",
 "Paramount+",
 "Amazon Prime Video"
+],
+"UY": [
+"Disney+ Premium",
+"ESPN 5"
 ]
 },
 "competition": {
@@ -37283,7 +37714,8 @@
 },
 "broadcasts": {
 "AE": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "AU": [
 "Stan Sport"
@@ -37300,26 +37732,28 @@
 "Canal+"
 ],
 "CL": [
-"ESPN",
-"Disney+"
+"Disney+ Premium",
+"ESPN"
 ],
 "CO": [
-"ESPN",
-"Disney+"
+"Disney+ Premium",
+"ESPN"
 ],
 "DE": [
 "Sky Sport Premier League",
 "WOW"
 ],
 "DZ": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "EC": [
-"ESPN",
-"Disney+"
+"Disney+ Premium",
+"ESPN"
 ],
 "EG": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "ES": [
 "DAZN",
@@ -37342,10 +37776,15 @@
 "TNT Sports"
 ],
 "IQ": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"TOD TV"
+],
+"IT": [
+"Sky Sport 1"
 ],
 "JO": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "JP": [
 "U-NEXT"
@@ -37354,43 +37793,52 @@
 "Coupang Play"
 ],
 "LY": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "MA": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "ML": [
 "Canal+"
+],
+"MX": [
+"HBO Max"
 ],
 "NG": [
 "SuperSport"
 ],
 "OM": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "PE": [
-"ESPN",
-"Disney+"
+"Disney+ Premium",
+"ESPN"
 ],
 "PT": [
 "DAZN",
 "DAZN 1"
 ],
 "PY": [
-"ESPN",
-"Disney+"
+"Disney+ Premium",
+"ESPN"
 ],
 "QA": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "SA": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "SN": [
 "Canal+"
 ],
 "TN": [
-"beIN Sports"
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "TR": [
 "beIN Sports 3",
@@ -37404,8 +37852,8 @@
 "Peacock"
 ],
 "UY": [
-"ESPN",
-"Disney+"
+"Disney+ Premium",
+"ESPN"
 ],
 "ZA": [
 "SuperSport"
@@ -37457,7 +37905,8 @@
 },
 "broadcasts": {
 "AE": [
-"beIN Sports"
+"STARZPLAY",
+"Shasha"
 ],
 "AR": [
 "ESPN",
@@ -37475,25 +37924,25 @@
 "Canal+"
 ],
 "CL": [
-"ESPN",
-"Disney+"
+"Disney+ Premium",
+"ESPN 3"
 ],
 "CO": [
-"ESPN",
-"Disney+"
+"Disney+ Premium",
+"ESPN 3"
 ],
 "DE": [
 "DAZN"
 ],
 "DZ": [
-"beIN Sports"
+"STARZPLAY"
 ],
 "EC": [
-"ESPN",
-"Disney+"
+"Disney+ Premium",
+"ESPN 3"
 ],
 "EG": [
-"beIN Sports"
+"STARZPLAY"
 ],
 "ES": [
 "DAZN"
@@ -37506,53 +37955,54 @@
 "Disney+"
 ],
 "IQ": [
-"beIN Sports"
+"STARZPLAY"
 ],
 "IT": [
 "DAZN",
 "Sky Sport"
 ],
 "JO": [
-"beIN Sports"
+"STARZPLAY"
 ],
 "LY": [
-"beIN Sports"
+"STARZPLAY"
 ],
 "MA": [
-"beIN Sports"
+"STARZPLAY"
 ],
 "ML": [
 "Canal+"
 ],
 "MX": [
-"ESPN",
-"Disney+"
+"Disney+ Premium",
+"ESPN"
 ],
 "OM": [
-"beIN Sports"
+"STARZPLAY"
 ],
 "PE": [
-"ESPN",
-"Disney+"
+"Disney+ Premium",
+"ESPN 3"
 ],
 "PT": [
 "Sport TV 2"
 ],
 "PY": [
-"ESPN",
-"Disney+"
+"Disney+ Premium",
+"ESPN 3"
 ],
 "QA": [
-"beIN Sports"
+"STARZPLAY"
 ],
 "SA": [
-"beIN Sports"
+"STARZPLAY",
+"stc tv"
 ],
 "SN": [
 "Canal+"
 ],
 "TN": [
-"beIN Sports"
+"STARZPLAY"
 ],
 "TR": [
 "S Sport Plus",
@@ -37563,8 +38013,8 @@
 "Peacock"
 ],
 "UY": [
-"ESPN",
-"Disney+"
+"Disney+ Premium",
+"ESPN 3"
 ]
 },
 "competition": {
@@ -37613,7 +38063,8 @@
 },
 "broadcasts": {
 "AE": [
-"beIN Sports"
+"beIN Sports MENA 2",
+"TOD TV"
 ],
 "AU": [
 "Stan Sport"
@@ -37630,26 +38081,25 @@
 "Canal+"
 ],
 "CL": [
-"ESPN",
-"Disney+"
+"Disney+ Premium"
 ],
 "CO": [
-"ESPN",
-"Disney+"
+"Disney+ Premium"
 ],
 "DE": [
 "Sky Sport Mix",
 "WOW"
 ],
 "DZ": [
-"beIN Sports"
+"beIN Sports MENA 2",
+"TOD TV"
 ],
 "EC": [
-"ESPN",
-"Disney+"
+"Disney+ Premium"
 ],
 "EG": [
-"beIN Sports"
+"beIN Sports MENA 2",
+"TOD TV"
 ],
 "ES": [
 "DAZN"
@@ -37665,10 +38115,12 @@
 "TNT Sports"
 ],
 "IQ": [
-"beIN Sports"
+"beIN Sports MENA 2",
+"TOD TV"
 ],
 "JO": [
-"beIN Sports"
+"beIN Sports MENA 2",
+"TOD TV"
 ],
 "JP": [
 "U-NEXT"
@@ -37677,43 +38129,51 @@
 "Coupang Play"
 ],
 "LY": [
-"beIN Sports"
+"beIN Sports MENA 2",
+"TOD TV"
 ],
 "MA": [
-"beIN Sports"
+"beIN Sports MENA 2",
+"TOD TV"
 ],
 "ML": [
 "Canal+"
+],
+"MX": [
+"Tubi",
+"FOX One"
 ],
 "NG": [
 "SuperSport"
 ],
 "OM": [
-"beIN Sports"
+"beIN Sports MENA 2",
+"TOD TV"
 ],
 "PE": [
-"ESPN",
-"Disney+"
+"Disney+ Premium"
 ],
 "PT": [
 "DAZN",
 "DAZN 2"
 ],
 "PY": [
-"ESPN",
-"Disney+"
+"Disney+ Premium"
 ],
 "QA": [
-"beIN Sports"
+"beIN Sports MENA 2",
+"TOD TV"
 ],
 "SA": [
-"beIN Sports"
+"beIN Sports MENA 2",
+"TOD TV"
 ],
 "SN": [
 "Canal+"
 ],
 "TN": [
-"beIN Sports"
+"beIN Sports MENA 2",
+"TOD TV"
 ],
 "TR": [
 "beIN Sports 4"
@@ -37724,8 +38184,7 @@
 "Peacock"
 ],
 "UY": [
-"ESPN",
-"Disney+"
+"Disney+ Premium"
 ],
 "ZA": [
 "SuperSport"
@@ -37825,6 +38284,9 @@
 "tr": "Eintracht Frankfurt"
 },
 "broadcasts": {
+"AE": [
+"MBC Shahid"
+],
 "BR": [
 "SportyNet",
 "XSports",
@@ -37836,12 +38298,27 @@
 "DAZN",
 "OneSoccer"
 ],
+"CL": [
+"Disney+ Premium"
+],
+"CO": [
+"Disney+ Premium"
+],
 "DE": [
 "Sky Bundesliga 1",
 "Sky Bundesliga UHD",
 "Sky Bundesliga",
 "Sky Top Event",
 "WOW"
+],
+"DZ": [
+"MBC Shahid"
+],
+"EC": [
+"Disney+ Premium"
+],
+"EG": [
+"MBC Shahid"
 ],
 "ES": [
 "DAZN",
@@ -37856,8 +38333,42 @@
 "GB": [
 "Sky Sports+"
 ],
+"IQ": [
+"MBC Shahid"
+],
+"JO": [
+"MBC Shahid"
+],
+"LY": [
+"MBC Shahid"
+],
+"MA": [
+"MBC Shahid"
+],
+"MX": [
+"FOX One",
+"FOX"
+],
+"OM": [
+"MBC Shahid"
+],
+"PE": [
+"Disney+ Premium"
+],
 "PT": [
 "DAZN 4"
+],
+"PY": [
+"Disney+ Premium"
+],
+"QA": [
+"MBC Shahid"
+],
+"SA": [
+"MBC Shahid"
+],
+"TN": [
+"MBC Shahid"
 ],
 "TR": [
 "Idman TV YouTube",
@@ -37867,6 +38378,9 @@
 "USA Network",
 "Sling Blue",
 "Peacock"
+],
+"UY": [
+"Disney+ Premium"
 ]
 },
 "competition": {
@@ -37914,12 +38428,45 @@
 "tr": "Kasımpaşa"
 },
 "broadcasts": {
+"AE": [
+"TOD TV"
+],
 "DE": [
 "Digiturk Euro"
+],
+"DZ": [
+"TOD TV"
+],
+"EG": [
+"TOD TV"
 ],
 "FR": [
 "beIN Sports",
 "beIN Sports Connect"
+],
+"IQ": [
+"TOD TV"
+],
+"JO": [
+"TOD TV"
+],
+"LY": [
+"TOD TV"
+],
+"MA": [
+"TOD TV"
+],
+"OM": [
+"TOD TV"
+],
+"QA": [
+"TOD TV"
+],
+"SA": [
+"TOD TV"
+],
+"TN": [
+"TOD TV"
 ],
 "TR": [
 "beIN Sports 1"
@@ -37970,12 +38517,45 @@
 "tr": "Erzurumspor FK"
 },
 "broadcasts": {
+"AE": [
+"TOD TV"
+],
 "DE": [
 "Digiturk Euro"
+],
+"DZ": [
+"TOD TV"
+],
+"EG": [
+"TOD TV"
 ],
 "FR": [
 "beIN Sports",
 "beIN Sports Connect"
+],
+"IQ": [
+"TOD TV"
+],
+"JO": [
+"TOD TV"
+],
+"LY": [
+"TOD TV"
+],
+"MA": [
+"TOD TV"
+],
+"OM": [
+"TOD TV"
+],
+"QA": [
+"TOD TV"
+],
+"SA": [
+"TOD TV"
+],
+"TN": [
+"TOD TV"
 ],
 "TR": [
 "beIN Sports 1"
@@ -38030,17 +38610,48 @@
 "ESPN 4",
 "Disney+"
 ],
+"CL": [
+"DGO",
+"Amazon Prime Video",
+"Paramount+",
+"DAZN",
+"DSports"
+],
+"CO": [
+"DGO",
+"Amazon Prime Video",
+"Paramount+",
+"DAZN",
+"DSports",
+"Win Play"
+],
 "DE": [
 "Sportdigital FUSSBALL",
 "OneFootball",
 "Sportdigital FUSSBALL2",
 "Sportdigital+"
 ],
+"EC": [
+"DGO",
+"Paramount+",
+"DAZN",
+"DSports"
+],
 "ES": [
 "DAZN"
 ],
 "FR": [
 "beIN Sports 2"
+],
+"MX": [
+"Claro Sports",
+"Claro Sports Premium YouTube"
+],
+"PE": [
+"DGO",
+"Paramount+",
+"DAZN",
+"DSports"
 ],
 "PT": [
 "Sport TV+",
@@ -38054,6 +38665,12 @@
 "beIN Sports en Español",
 "Fubo",
 "Fanatiz"
+],
+"UY": [
+"DGO",
+"Paramount+",
+"DAZN",
+"DSports"
 ]
 },
 "competition": {
@@ -38101,14 +38718,32 @@
 "tr": "Arminia Bielefeld"
 },
 "broadcasts": {
+"AE": [
+"MBC Shahid"
+],
 "BR": [
 "YouTube",
 "OneFootball PPV"
+],
+"CL": [
+"Disney+ Premium"
+],
+"CO": [
+"Disney+ Premium"
 ],
 "DE": [
 "Sky Bundesliga 3",
 "OneFootball",
 "WOW"
+],
+"DZ": [
+"MBC Shahid"
+],
+"EC": [
+"Disney+ Premium"
+],
+"EG": [
+"MBC Shahid"
 ],
 "ES": [
 "DAZN"
@@ -38120,11 +38755,44 @@
 "Bundesliga App",
 "Bundesliga YouTube"
 ],
+"IQ": [
+"MBC Shahid"
+],
+"JO": [
+"MBC Shahid"
+],
+"LY": [
+"MBC Shahid"
+],
+"MA": [
+"MBC Shahid"
+],
+"OM": [
+"MBC Shahid"
+],
+"PE": [
+"Disney+ Premium"
+],
 "PT": [
 "DAZN 2"
 ],
+"PY": [
+"Disney+ Premium"
+],
+"QA": [
+"MBC Shahid"
+],
+"SA": [
+"MBC Shahid"
+],
+"TN": [
+"MBC Shahid"
+],
 "TR": [
 "S Sport Plus"
+],
+"UY": [
+"Disney+ Premium"
 ]
 },
 "competition": {
@@ -38172,6 +38840,9 @@
 "tr": "Schalke 04"
 },
 "broadcasts": {
+"AE": [
+"MBC Shahid"
+],
 "BR": [
 "SportyNet",
 "YouTube",
@@ -38182,6 +38853,14 @@
 "DAZN",
 "OneSoccer"
 ],
+"CL": [
+"Disney+ Premium",
+"ESPN Premium"
+],
+"CO": [
+"Disney+ Premium",
+"ESPN 5"
+],
 "DE": [
 "WOW",
 "Sky Bundesliga",
@@ -38189,11 +38868,56 @@
 "Sky Bundesliga UHD",
 "Sky Bundesliga 1"
 ],
+"DZ": [
+"MBC Shahid"
+],
+"EC": [
+"Disney+ Premium",
+"ESPN 5"
+],
+"EG": [
+"MBC Shahid"
+],
 "ES": [
 "DAZN"
 ],
 "FR": [
 "beIN Sports Max 8"
+],
+"IQ": [
+"MBC Shahid"
+],
+"JO": [
+"MBC Shahid"
+],
+"LY": [
+"MBC Shahid"
+],
+"MA": [
+"MBC Shahid"
+],
+"MX": [
+"FOX One"
+],
+"OM": [
+"MBC Shahid"
+],
+"PE": [
+"Disney+ Premium",
+"ESPN 5"
+],
+"PY": [
+"Disney+ Premium",
+"ESPN 5"
+],
+"QA": [
+"MBC Shahid"
+],
+"SA": [
+"MBC Shahid"
+],
+"TN": [
+"MBC Shahid"
 ],
 "TR": [
 "Idman TV YouTube",
@@ -38202,6 +38926,10 @@
 "US": [
 "Fandango",
 "Peacock"
+],
+"UY": [
+"Disney+ Premium",
+"ESPN 5"
 ]
 },
 "competition": {
@@ -38250,7 +38978,8 @@
 },
 "broadcasts": {
 "AE": [
-"beIN Sports"
+"STARZPLAY",
+"Shasha"
 ],
 "AR": [
 "ESPN",
@@ -38268,25 +38997,25 @@
 "Canal+"
 ],
 "CL": [
-"ESPN",
-"Disney+"
+"Disney+ Premium",
+"ESPN 3"
 ],
 "CO": [
-"ESPN",
-"Disney+"
+"Disney+ Premium",
+"ESPN 3"
 ],
 "DE": [
 "DAZN"
 ],
 "DZ": [
-"beIN Sports"
+"STARZPLAY"
 ],
 "EC": [
-"ESPN",
-"Disney+"
+"Disney+ Premium",
+"ESPN 3"
 ],
 "EG": [
-"beIN Sports"
+"STARZPLAY"
 ],
 "ES": [
 "DAZN"
@@ -38302,53 +39031,54 @@
 "Disney+"
 ],
 "IQ": [
-"beIN Sports"
+"STARZPLAY"
 ],
 "IT": [
 "DAZN",
 "Sky Sport"
 ],
 "JO": [
-"beIN Sports"
+"STARZPLAY"
 ],
 "LY": [
-"beIN Sports"
+"STARZPLAY"
 ],
 "MA": [
-"beIN Sports"
+"STARZPLAY"
 ],
 "ML": [
 "Canal+"
 ],
 "MX": [
-"ESPN",
-"Disney+"
+"Disney+ Premium",
+"ESPN"
 ],
 "OM": [
-"beIN Sports"
+"STARZPLAY"
 ],
 "PE": [
-"ESPN",
-"Disney+"
+"Disney+ Premium",
+"ESPN 3"
 ],
 "PT": [
 "Sport TV 3"
 ],
 "PY": [
-"ESPN",
-"Disney+"
+"Disney+ Premium",
+"ESPN 3"
 ],
 "QA": [
-"beIN Sports"
+"STARZPLAY"
 ],
 "SA": [
-"beIN Sports"
+"STARZPLAY",
+"stc tv"
 ],
 "SN": [
 "Canal+"
 ],
 "TN": [
-"beIN Sports"
+"STARZPLAY"
 ],
 "TR": [
 "S Sport Plus",
@@ -38363,8 +39093,8 @@
 "Peacock"
 ],
 "UY": [
-"ESPN",
-"Disney+"
+"Disney+ Premium",
+"ESPN 3"
 ]
 },
 "competition": {
@@ -38413,7 +39143,7 @@
 },
 "broadcasts": {
 "AE": [
-"beIN Sports"
+"beIN Sports MENA 3"
 ],
 "BR": [
 "CazéTV"
@@ -38424,14 +39154,26 @@
 "CI": [
 "Canal+"
 ],
+"CL": [
+"Disney+ Premium",
+"ESPN 4"
+],
+"CO": [
+"Disney+ Premium",
+"ESPN 4"
+],
 "DE": [
 "DAZN"
 ],
 "DZ": [
-"beIN Sports"
+"beIN Sports MENA 3"
+],
+"EC": [
+"Disney+ Premium",
+"ESPN 4"
 ],
 "EG": [
-"beIN Sports"
+"beIN Sports MENA 3"
 ],
 "ES": [
 "DAZN",
@@ -38445,38 +39187,50 @@
 "Ligue 1+"
 ],
 "IQ": [
-"beIN Sports"
+"beIN Sports MENA 3"
 ],
 "JO": [
-"beIN Sports"
+"beIN Sports MENA 3"
 ],
 "LY": [
-"beIN Sports"
+"beIN Sports MENA 3"
 ],
 "MA": [
-"beIN Sports"
+"beIN Sports MENA 3"
 ],
 "ML": [
 "Canal+"
 ],
+"MX": [
+"FOX One",
+"FOX"
+],
 "OM": [
-"beIN Sports"
+"beIN Sports MENA 3"
+],
+"PE": [
+"Disney+ Premium",
+"ESPN 4"
 ],
 "PT": [
 "Fanatiz",
 "Sport TV 4"
 ],
+"PY": [
+"Disney+ Premium",
+"ESPN 4"
+],
 "QA": [
-"beIN Sports"
+"beIN Sports MENA 3"
 ],
 "SA": [
-"beIN Sports"
+"beIN Sports MENA 3"
 ],
 "SN": [
 "Canal+"
 ],
 "TN": [
-"beIN Sports"
+"beIN Sports MENA 3"
 ],
 "TR": [
 "beIN Sports 3"
@@ -38485,6 +39239,10 @@
 "beIN Sports",
 "Fubo",
 "Fanatiz"
+],
+"UY": [
+"Disney+ Premium",
+"ESPN 4"
 ]
 },
 "competition": {
@@ -38532,6 +39290,9 @@
 "tr": "Werder Bremen"
 },
 "broadcasts": {
+"AE": [
+"MBC Shahid"
+],
 "BR": [
 "OneFootball PPV",
 "Canal GOAT",
@@ -38542,9 +39303,24 @@
 "DAZN",
 "OneSoccer"
 ],
+"CL": [
+"Disney+ Premium"
+],
+"CO": [
+"Disney+ Premium"
+],
 "DE": [
 "WOW",
 "Sky Bundesliga 3"
+],
+"DZ": [
+"MBC Shahid"
+],
+"EC": [
+"Disney+ Premium"
+],
+"EG": [
+"MBC Shahid"
 ],
 "ES": [
 "DAZN"
@@ -38552,12 +39328,48 @@
 "FR": [
 "beIN Sports Max 7"
 ],
+"IQ": [
+"MBC Shahid"
+],
+"JO": [
+"MBC Shahid"
+],
+"LY": [
+"MBC Shahid"
+],
+"MA": [
+"MBC Shahid"
+],
+"MX": [
+"FOX One"
+],
+"OM": [
+"MBC Shahid"
+],
+"PE": [
+"Disney+ Premium"
+],
+"PY": [
+"Disney+ Premium"
+],
+"QA": [
+"MBC Shahid"
+],
+"SA": [
+"MBC Shahid"
+],
+"TN": [
+"MBC Shahid"
+],
 "TR": [
 "S Sport Plus"
 ],
 "US": [
 "Fandango",
 "Peacock"
+],
+"UY": [
+"Disney+ Premium"
 ]
 },
 "competition": {
@@ -38606,7 +39418,8 @@
 },
 "broadcasts": {
 "AE": [
-"beIN Sports"
+"STARZPLAY",
+"Shasha"
 ],
 "AR": [
 "ESPN",
@@ -38624,25 +39437,25 @@
 "Canal+"
 ],
 "CL": [
-"ESPN",
-"Disney+"
+"Disney+ Premium",
+"ESPN 3"
 ],
 "CO": [
-"ESPN",
-"Disney+"
+"Disney+ Premium",
+"ESPN 3"
 ],
 "DE": [
 "DAZN"
 ],
 "DZ": [
-"beIN Sports"
+"STARZPLAY"
 ],
 "EC": [
-"ESPN",
-"Disney+"
+"Disney+ Premium",
+"ESPN 3"
 ],
 "EG": [
-"beIN Sports"
+"STARZPLAY"
 ],
 "ES": [
 "DAZN"
@@ -38660,53 +39473,54 @@
 "Disney+"
 ],
 "IQ": [
-"beIN Sports"
+"STARZPLAY"
 ],
 "IT": [
 "DAZN",
 "Sky Sport"
 ],
 "JO": [
-"beIN Sports"
+"STARZPLAY"
 ],
 "LY": [
-"beIN Sports"
+"STARZPLAY"
 ],
 "MA": [
-"beIN Sports"
+"STARZPLAY"
 ],
 "ML": [
 "Canal+"
 ],
 "MX": [
-"ESPN",
-"Disney+"
+"Disney+ Premium",
+"ESPN"
 ],
 "OM": [
-"beIN Sports"
+"STARZPLAY"
 ],
 "PE": [
-"ESPN",
-"Disney+"
+"Disney+ Premium",
+"ESPN 3"
 ],
 "PT": [
 "Sport TV 3"
 ],
 "PY": [
-"ESPN",
-"Disney+"
+"Disney+ Premium",
+"ESPN 3"
 ],
 "QA": [
-"beIN Sports"
+"STARZPLAY"
 ],
 "SA": [
-"beIN Sports"
+"STARZPLAY",
+"stc tv"
 ],
 "SN": [
 "Canal+"
 ],
 "TN": [
-"beIN Sports"
+"STARZPLAY"
 ],
 "TR": [
 "S Sport Plus",
@@ -38721,8 +39535,8 @@
 "Peacock"
 ],
 "UY": [
-"ESPN",
-"Disney+"
+"Disney+ Premium",
+"ESPN 3"
 ]
 },
 "competition": {
@@ -38835,8 +39649,17 @@
 "tr": "Kaiserslautern"
 },
 "broadcasts": {
+"AE": [
+"MBC Shahid"
+],
 "BR": [
 "OneFootball PPV"
+],
+"CL": [
+"Disney+ Premium"
+],
+"CO": [
+"Disney+ Premium"
 ],
 "DE": [
 "RTL Nitro",
@@ -38848,6 +39671,15 @@
 "OneFootball",
 "WOW"
 ],
+"DZ": [
+"MBC Shahid"
+],
+"EC": [
+"Disney+ Premium"
+],
+"EG": [
+"MBC Shahid"
+],
 "ES": [
 "DAZN"
 ],
@@ -38858,8 +39690,41 @@
 "Bundesliga App",
 "Bundesliga YouTube"
 ],
+"IQ": [
+"MBC Shahid"
+],
+"JO": [
+"MBC Shahid"
+],
+"LY": [
+"MBC Shahid"
+],
+"MA": [
+"MBC Shahid"
+],
+"OM": [
+"MBC Shahid"
+],
+"PE": [
+"Disney+ Premium"
+],
+"PY": [
+"Disney+ Premium"
+],
+"QA": [
+"MBC Shahid"
+],
+"SA": [
+"MBC Shahid"
+],
+"TN": [
+"MBC Shahid"
+],
 "TR": [
 "S Sport Plus"
+],
+"UY": [
+"Disney+ Premium"
 ]
 },
 "competition": {
@@ -38907,11 +39772,76 @@
 "tr": "West Bromwich Albion"
 },
 "broadcasts": {
+"AE": [
+"beIN Sports MENA 3",
+"TOD TV"
+],
+"CL": [
+"Disney+ Premium"
+],
+"CO": [
+"Disney+ Premium"
+],
+"DZ": [
+"beIN Sports MENA 3",
+"TOD TV"
+],
+"EC": [
+"Disney+ Premium"
+],
+"EG": [
+"beIN Sports MENA 3",
+"TOD TV"
+],
 "FR": [
 "beIN Sports Max 10"
 ],
+"IQ": [
+"beIN Sports MENA 3",
+"TOD TV"
+],
+"JO": [
+"beIN Sports MENA 3",
+"TOD TV"
+],
+"LY": [
+"beIN Sports MENA 3",
+"TOD TV"
+],
+"MA": [
+"beIN Sports MENA 3",
+"TOD TV"
+],
+"MX": [
+"Disney+ Premium"
+],
+"OM": [
+"beIN Sports MENA 3",
+"TOD TV"
+],
+"PE": [
+"Disney+ Premium"
+],
+"PY": [
+"Disney+ Premium"
+],
+"QA": [
+"beIN Sports MENA 3",
+"TOD TV"
+],
+"SA": [
+"beIN Sports MENA 3",
+"TOD TV"
+],
+"TN": [
+"beIN Sports MENA 3",
+"TOD TV"
+],
 "US": [
 "Paramount+"
+],
+"UY": [
+"Disney+ Premium"
 ]
 },
 "competition": {
@@ -38960,7 +39890,8 @@
 },
 "broadcasts": {
 "AE": [
-"beIN Sports"
+"beIN Sports MENA 4",
+"TOD TV"
 ],
 "BR": [
 "CazéTV"
@@ -38971,14 +39902,28 @@
 "CI": [
 "Canal+"
 ],
+"CL": [
+"Disney+ Premium",
+"ESPN 2"
+],
+"CO": [
+"Disney+ Premium",
+"ESPN 2"
+],
 "DE": [
 "DAZN"
 ],
 "DZ": [
-"beIN Sports"
+"beIN Sports MENA 4",
+"TOD TV"
+],
+"EC": [
+"Disney+ Premium",
+"ESPN 2"
 ],
 "EG": [
-"beIN Sports"
+"beIN Sports MENA 4",
+"TOD TV"
 ],
 "ES": [
 "DAZN LaLiga",
@@ -38996,19 +39941,23 @@
 "SuperSport"
 ],
 "IQ": [
-"beIN Sports"
+"beIN Sports MENA 4",
+"TOD TV"
 ],
 "IT": [
 "DAZN"
 ],
 "JO": [
-"beIN Sports"
+"beIN Sports MENA 4",
+"TOD TV"
 ],
 "LY": [
-"beIN Sports"
+"beIN Sports MENA 4",
+"TOD TV"
 ],
 "MA": [
-"beIN Sports"
+"beIN Sports MENA 4",
+"TOD TV"
 ],
 "ML": [
 "Canal+"
@@ -39020,22 +39969,34 @@
 "SuperSport"
 ],
 "OM": [
-"beIN Sports"
+"beIN Sports MENA 4",
+"TOD TV"
+],
+"PE": [
+"Disney+ Premium",
+"ESPN 2"
 ],
 "PT": [
 "DAZN 3"
 ],
+"PY": [
+"Disney+ Premium",
+"ESPN 2"
+],
 "QA": [
-"beIN Sports"
+"beIN Sports MENA 4",
+"TOD TV"
 ],
 "SA": [
-"beIN Sports"
+"beIN Sports MENA 4",
+"TOD TV"
 ],
 "SN": [
 "Canal+"
 ],
 "TN": [
-"beIN Sports"
+"beIN Sports MENA 4",
+"TOD TV"
 ],
 "TR": [
 "S Sport Plus",
@@ -39045,6 +40006,10 @@
 "ESPN+",
 "ESPN Deportes",
 "Fubo"
+],
+"UY": [
+"Disney+ Premium",
+"ESPN 2"
 ],
 "ZA": [
 "SuperSport"
@@ -39096,7 +40061,8 @@
 },
 "broadcasts": {
 "AE": [
-"beIN Sports"
+"beIN Sports MENA 4",
+"TOD TV"
 ],
 "BR": [
 "CazéTV"
@@ -39107,14 +40073,28 @@
 "CI": [
 "Canal+"
 ],
+"CL": [
+"Disney+ Premium",
+"ESPN 2"
+],
+"CO": [
+"Disney+ Premium",
+"ESPN 2"
+],
 "DE": [
 "DAZN"
 ],
 "DZ": [
-"beIN Sports"
+"beIN Sports MENA 4",
+"TOD TV"
+],
+"EC": [
+"Disney+ Premium",
+"ESPN 2"
 ],
 "EG": [
-"beIN Sports"
+"beIN Sports MENA 4",
+"TOD TV"
 ],
 "ES": [
 "M+ LaLiga",
@@ -39132,19 +40112,23 @@
 "SuperSport"
 ],
 "IQ": [
-"beIN Sports"
+"beIN Sports MENA 4",
+"TOD TV"
 ],
 "IT": [
 "DAZN"
 ],
 "JO": [
-"beIN Sports"
+"beIN Sports MENA 4",
+"TOD TV"
 ],
 "LY": [
-"beIN Sports"
+"beIN Sports MENA 4",
+"TOD TV"
 ],
 "MA": [
-"beIN Sports"
+"beIN Sports MENA 4",
+"TOD TV"
 ],
 "ML": [
 "Canal+"
@@ -39156,22 +40140,34 @@
 "SuperSport"
 ],
 "OM": [
-"beIN Sports"
+"beIN Sports MENA 4",
+"TOD TV"
+],
+"PE": [
+"Disney+ Premium",
+"ESPN 2"
 ],
 "PT": [
 "DAZN 3"
 ],
+"PY": [
+"Disney+ Premium",
+"ESPN 2"
+],
 "QA": [
-"beIN Sports"
+"beIN Sports MENA 4",
+"TOD TV"
 ],
 "SA": [
-"beIN Sports"
+"beIN Sports MENA 4",
+"TOD TV"
 ],
 "SN": [
 "Canal+"
 ],
 "TN": [
-"beIN Sports"
+"beIN Sports MENA 4",
+"TOD TV"
 ],
 "TR": [
 "S Sport Plus",
@@ -39181,6 +40177,10 @@
 "ESPN+",
 "ESPN Deportes",
 "Fubo"
+],
+"UY": [
+"Disney+ Premium",
+"ESPN 2"
 ],
 "ZA": [
 "SuperSport"
@@ -39231,6 +40231,10 @@
 "tr": "SV Elversberg"
 },
 "broadcasts": {
+"AE": [
+"MBC Action",
+"MBC Shahid"
+],
 "BR": [
 "CazéTV",
 "OneFootball PPV"
@@ -39240,9 +40244,26 @@
 "DAZN",
 "OneSoccer"
 ],
+"CL": [
+"Disney+ Premium"
+],
+"CO": [
+"Disney+ Premium"
+],
 "DE": [
 "WOW",
 "Sky Bundesliga 2"
+],
+"DZ": [
+"MBC Action",
+"MBC Shahid"
+],
+"EC": [
+"Disney+ Premium"
+],
+"EG": [
+"MBC Action",
+"MBC Shahid"
 ],
 "ES": [
 "DAZN"
@@ -39250,8 +40271,52 @@
 "FR": [
 "beIN Sports Max 6"
 ],
+"IQ": [
+"MBC Action",
+"MBC Shahid"
+],
+"IT": [
+"Sky Sport Max"
+],
+"JO": [
+"MBC Action",
+"MBC Shahid"
+],
+"LY": [
+"MBC Action",
+"MBC Shahid"
+],
+"MA": [
+"MBC Action",
+"MBC Shahid"
+],
+"MX": [
+"FOX One"
+],
+"OM": [
+"MBC Action",
+"MBC Shahid"
+],
+"PE": [
+"Disney+ Premium"
+],
 "PT": [
 "DAZN 4"
+],
+"PY": [
+"Disney+ Premium"
+],
+"QA": [
+"MBC Action",
+"MBC Shahid"
+],
+"SA": [
+"MBC Action",
+"MBC Shahid"
+],
+"TN": [
+"MBC Action",
+"MBC Shahid"
 ],
 "TR": [
 "S Sport Plus"
@@ -39259,6 +40324,9 @@
 "US": [
 "Fandango",
 "Peacock"
+],
+"UY": [
+"Disney+ Premium"
 ]
 },
 "competition": {
@@ -39311,6 +40379,9 @@
 ],
 "FR": [
 "beIN Sports 1"
+],
+"PT": [
+"Fanatiz"
 ],
 "TR": [
 "beIN Sports Max 1"
@@ -39369,12 +40440,45 @@
 "tr": "Amed SK"
 },
 "broadcasts": {
+"AE": [
+"TOD TV"
+],
 "DE": [
 "Digiturk Euro"
+],
+"DZ": [
+"TOD TV"
+],
+"EG": [
+"TOD TV"
 ],
 "FR": [
 "beIN Sports",
 "beIN Sports Connect"
+],
+"IQ": [
+"TOD TV"
+],
+"JO": [
+"TOD TV"
+],
+"LY": [
+"TOD TV"
+],
+"MA": [
+"TOD TV"
+],
+"OM": [
+"TOD TV"
+],
+"QA": [
+"TOD TV"
+],
+"SA": [
+"TOD TV"
+],
+"TN": [
+"TOD TV"
 ],
 "TR": [
 "beIN Sports 1"
@@ -39425,6 +40529,9 @@
 "tr": "Hamburger SV"
 },
 "broadcasts": {
+"AE": [
+"MBC Shahid"
+],
 "BR": [
 "Canal GOAT",
 "OneFootball PPV"
@@ -39434,9 +40541,24 @@
 "DAZN",
 "OneSoccer"
 ],
+"CL": [
+"Disney+ Premium"
+],
+"CO": [
+"Disney+ Premium"
+],
 "DE": [
 "WOW",
 "Sky Bundesliga 4"
+],
+"DZ": [
+"MBC Shahid"
+],
+"EC": [
+"Disney+ Premium"
+],
+"EG": [
+"MBC Shahid"
 ],
 "ES": [
 "DAZN"
@@ -39444,9 +40566,45 @@
 "FR": [
 "beIN Sports Max 9"
 ],
+"IQ": [
+"MBC Shahid"
+],
+"JO": [
+"MBC Shahid"
+],
+"LY": [
+"MBC Shahid"
+],
+"MA": [
+"MBC Shahid"
+],
+"MX": [
+"FOX One"
+],
+"OM": [
+"MBC Shahid"
+],
+"PE": [
+"Disney+ Premium"
+],
+"PY": [
+"Disney+ Premium"
+],
+"QA": [
+"MBC Shahid"
+],
+"SA": [
+"MBC Shahid"
+],
+"TN": [
+"MBC Shahid"
+],
 "US": [
 "Fandango",
 "Peacock"
+],
+"UY": [
+"Disney+ Premium"
 ]
 },
 "competition": {
@@ -39495,7 +40653,8 @@
 },
 "broadcasts": {
 "AE": [
-"beIN Sports"
+"beIN Sports MENA 2",
+"TOD TV"
 ],
 "BR": [
 "CazéTV"
@@ -39506,14 +40665,37 @@
 "CI": [
 "Canal+"
 ],
+"CL": [
+"DGO",
+"Amazon Prime Video",
+"Paramount+",
+"DAZN",
+"DSports"
+],
+"CO": [
+"DGO",
+"DSports",
+"Amazon Prime Video",
+"Paramount+",
+"DAZN",
+"Win Play"
+],
 "DE": [
 "DAZN"
 ],
 "DZ": [
-"beIN Sports"
+"beIN Sports MENA 2",
+"TOD TV"
+],
+"EC": [
+"DGO",
+"DSports",
+"Paramount+",
+"DAZN"
 ],
 "EG": [
-"beIN Sports"
+"beIN Sports MENA 2",
+"TOD TV"
 ],
 "ES": [
 "M+ LaLiga 2",
@@ -39531,19 +40713,23 @@
 "SuperSport"
 ],
 "IQ": [
-"beIN Sports"
+"beIN Sports MENA 2",
+"TOD TV"
 ],
 "IT": [
 "DAZN"
 ],
 "JO": [
-"beIN Sports"
+"beIN Sports MENA 2",
+"TOD TV"
 ],
 "LY": [
-"beIN Sports"
+"beIN Sports MENA 2",
+"TOD TV"
 ],
 "MA": [
-"beIN Sports"
+"beIN Sports MENA 2",
+"TOD TV"
 ],
 "ML": [
 "Canal+"
@@ -39555,22 +40741,32 @@
 "SuperSport"
 ],
 "OM": [
-"beIN Sports"
+"beIN Sports MENA 2",
+"TOD TV"
+],
+"PE": [
+"DGO",
+"DSports",
+"Paramount+",
+"DAZN"
 ],
 "PT": [
 "DAZN 2"
 ],
 "QA": [
-"beIN Sports"
+"beIN Sports MENA 2",
+"TOD TV"
 ],
 "SA": [
-"beIN Sports"
+"beIN Sports MENA 2",
+"TOD TV"
 ],
 "SN": [
 "Canal+"
 ],
 "TN": [
-"beIN Sports"
+"beIN Sports MENA 2",
+"TOD TV"
 ],
 "TR": [
 "S Sport Plus",
@@ -39580,6 +40776,12 @@
 "ESPN+",
 "ESPN Deportes",
 "Fubo"
+],
+"UY": [
+"DGO",
+"DSports",
+"Paramount+",
+"DAZN"
 ],
 "ZA": [
 "SuperSport"
