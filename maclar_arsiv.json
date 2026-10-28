@@ -7144,6 +7144,9 @@
 "DAZN",
 "HBO Max"
 ],
+"GH": [
+"SuperSport Kickoff"
+],
 "HR": [
 "MAXtv To Go",
 "Arena Sport 1"
@@ -7789,23 +7792,11 @@
 "AE": [
 "MBC Shahid"
 ],
-"AR": [
-"Canal por confirmar"
-],
 "BR": [
 "Disney+ Premium"
 ],
-"CL": [
-"Canal por confirmar"
-],
-"CO": [
-"Canal por confirmar"
-],
 "DZ": [
 "MBC Shahid"
-],
-"EC": [
-"Canal por confirmar"
 ],
 "EG": [
 "MBC Shahid"
@@ -7833,12 +7824,6 @@
 "OM": [
 "MBC Shahid"
 ],
-"PE": [
-"Canal por confirmar"
-],
-"PY": [
-"Canal por confirmar"
-],
 "QA": [
 "MBC Shahid"
 ],
@@ -7850,9 +7835,6 @@
 ],
 "US": [
 "ESPN+"
-],
-"UY": [
-"Canal por confirmar"
 ]
 },
 "competition": {
@@ -7905,23 +7887,11 @@
 "AE": [
 "MBC Shahid"
 ],
-"AR": [
-"Canal por confirmar"
-],
 "BR": [
 "Disney+ Premium"
 ],
-"CL": [
-"Canal por confirmar"
-],
-"CO": [
-"Canal por confirmar"
-],
 "DZ": [
 "MBC Shahid"
-],
-"EC": [
-"Canal por confirmar"
 ],
 "EG": [
 "MBC Shahid"
@@ -7945,12 +7915,6 @@
 "OM": [
 "MBC Shahid"
 ],
-"PE": [
-"Canal por confirmar"
-],
-"PY": [
-"Canal por confirmar"
-],
 "QA": [
 "MBC Shahid"
 ],
@@ -7962,9 +7926,6 @@
 ],
 "US": [
 "ESPN+"
-],
-"UY": [
-"Canal por confirmar"
 ]
 },
 "competition": {
@@ -8017,11 +7978,11 @@
 "AE": [
 "MBC Shahid"
 ],
-"AR": [
-"Canal por confirmar"
-],
 "AT": [
 "DAZN"
+],
+"BH": [
+"MBC Shahid"
 ],
 "BR": [
 "Disney+ Premium"
@@ -8029,17 +7990,8 @@
 "CH": [
 "DAZN"
 ],
-"CL": [
-"Canal por confirmar"
-],
-"CO": [
-"Canal por confirmar"
-],
 "DZ": [
 "MBC Shahid"
-],
-"EC": [
-"Canal por confirmar"
 ],
 "EG": [
 "MBC Shahid"
@@ -8059,6 +8011,9 @@
 "JO": [
 "MBC Shahid"
 ],
+"KW": [
+"MBC Shahid"
+],
 "LY": [
 "MBC Shahid"
 ],
@@ -8067,12 +8022,6 @@
 ],
 "OM": [
 "MBC Shahid"
-],
-"PE": [
-"Canal por confirmar"
-],
-"PY": [
-"Canal por confirmar"
 ],
 "QA": [
 "MBC Shahid"
@@ -8085,9 +8034,6 @@
 ],
 "US": [
 "ESPN+"
-],
-"UY": [
-"Canal por confirmar"
 ]
 },
 "competition": {
@@ -8140,23 +8086,14 @@
 "AE": [
 "MBC Shahid"
 ],
-"AR": [
-"Canal por confirmar"
+"BH": [
+"MBC Shahid"
 ],
 "BR": [
 "Disney+ Premium"
 ],
-"CL": [
-"Canal por confirmar"
-],
-"CO": [
-"Canal por confirmar"
-],
 "DZ": [
 "MBC Shahid"
-],
-"EC": [
-"Canal por confirmar"
 ],
 "EG": [
 "MBC Shahid"
@@ -8174,6 +8111,9 @@
 "JP": [
 "U-NEXT"
 ],
+"KW": [
+"MBC Shahid"
+],
 "LY": [
 "MBC Shahid"
 ],
@@ -8186,12 +8126,6 @@
 "OM": [
 "MBC Shahid"
 ],
-"PE": [
-"Canal por confirmar"
-],
-"PY": [
-"Canal por confirmar"
-],
 "QA": [
 "MBC Shahid"
 ],
@@ -8203,9 +8137,6 @@
 ],
 "US": [
 "ESPN+"
-],
-"UY": [
-"Canal por confirmar"
 ]
 },
 "competition": {
@@ -8479,6 +8410,9 @@
 ],
 "NO": [
 "VG TV"
+],
+"NZ": [
+"DAZN New Zealand"
 ],
 "OM": [
 "Abu Dhabi Sports 2"
@@ -8892,6 +8826,9 @@
 ],
 "GB": [
 "DAZN"
+],
+"GH": [
+"SuperSport Football"
 ],
 "HR": [
 "MAXtv To Go",
@@ -9574,6 +9511,10 @@
 "BE": [
 "DAZN (BE)"
 ],
+"BH": [
+"Abu Dhabi Sports 2",
+"beIN Sports MAX 5"
+],
 "CA": [
 "DAZN Canada"
 ],
@@ -9620,6 +9561,10 @@
 ],
 "JP": [
 "GAORAオンデマンド"
+],
+"KW": [
+"Abu Dhabi Sports 2",
+"beIN Sports MAX 5"
 ],
 "LY": [
 "Abu Dhabi Sports 2"
@@ -10780,23 +10725,11 @@
 "AE": [
 "MBC Shahid"
 ],
-"AR": [
-"Canal por confirmar"
-],
 "BR": [
 "Disney+ Premium"
 ],
-"CL": [
-"Canal por confirmar"
-],
-"CO": [
-"Canal por confirmar"
-],
 "DZ": [
 "MBC Shahid"
-],
-"EC": [
-"Canal por confirmar"
 ],
 "EG": [
 "MBC Shahid"
@@ -10820,12 +10753,6 @@
 "OM": [
 "MBC Shahid"
 ],
-"PE": [
-"Canal por confirmar"
-],
-"PY": [
-"Canal por confirmar"
-],
 "QA": [
 "MBC Shahid"
 ],
@@ -10837,9 +10764,6 @@
 ],
 "US": [
 "ESPN+"
-],
-"UY": [
-"Canal por confirmar"
 ]
 },
 "competition": {
@@ -11251,13 +11175,37 @@
 "tr": "D.C. United"
 },
 "broadcasts": {
+"AR": [
+"Apple TV"
+],
+"AT": [
+"Apple TV"
+],
+"AU": [
+"Apple TV"
+],
+"BE": [
+"Apple TV (BE)"
+],
 "BR": [
+"Apple TV"
+],
+"CA": [
+"Apple TV (US)",
+"TSN+",
+"RDS",
+"TSN3"
+],
+"CH": [
 "Apple TV"
 ],
 "CL": [
 "Apple TV"
 ],
 "CO": [
+"Apple TV"
+],
+"CZ": [
 "Apple TV"
 ],
 "DE": [
@@ -11269,11 +11217,45 @@
 "ES": [
 "Apple TV"
 ],
+"FR": [
+"Apple TV (FR)"
+],
 "GB": [
+"Apple TV"
+],
+"GH": [
+"MLS Pass on Apple TV"
+],
+"HR": [
+"Apple TV"
+],
+"IT": [
+"Apple TV (IT)"
+],
+"JP": [
+"Apple TV"
+],
+"KR": [
+"MLS Pass on Apple TV"
+],
+"MA": [
 "Apple TV"
 ],
 "MX": [
 "Apple TV"
+],
+"NG": [
+"MLS Season Pass",
+"Apple TV"
+],
+"NL": [
+"Apple TV (NL)"
+],
+"NO": [
+"Apple TV (NO)"
+],
+"NZ": [
+"MLS Pass on Apple TV"
 ],
 "PE": [
 "Apple TV"
@@ -11284,7 +11266,13 @@
 "PY": [
 "Apple TV"
 ],
+"TR": [
+"Apple TV"
+],
 "US": [
+"Apple TV"
+],
+"ZA": [
 "Apple TV"
 ]
 },
@@ -11396,6 +11384,9 @@
 ],
 "GB": [
 "DAZN"
+],
+"GH": [
+"SuperSport Football"
 ],
 "HR": [
 "MAXtv To Go",
@@ -12254,13 +12245,34 @@
 "tr": "Sporting Kansas City"
 },
 "broadcasts": {
+"AR": [
+"Apple TV"
+],
+"AT": [
+"Apple TV"
+],
+"AU": [
+"Apple TV"
+],
+"BE": [
+"Apple TV (BE)"
+],
 "BR": [
+"Apple TV"
+],
+"CA": [
+"Apple TV (US)"
+],
+"CH": [
 "Apple TV"
 ],
 "CL": [
 "Apple TV"
 ],
 "CO": [
+"Apple TV"
+],
+"CZ": [
 "Apple TV"
 ],
 "DE": [
@@ -12272,11 +12284,45 @@
 "ES": [
 "Apple TV"
 ],
+"FR": [
+"Apple TV (FR)"
+],
 "GB": [
+"Apple TV"
+],
+"GH": [
+"MLS Pass on Apple TV"
+],
+"HR": [
+"Apple TV"
+],
+"IT": [
+"Apple TV (IT)"
+],
+"JP": [
+"Apple TV"
+],
+"KR": [
+"MLS Pass on Apple TV"
+],
+"MA": [
 "Apple TV"
 ],
 "MX": [
 "Apple TV"
+],
+"NG": [
+"MLS Season Pass",
+"Apple TV"
+],
+"NL": [
+"Apple TV (NL)"
+],
+"NO": [
+"Apple TV (NO)"
+],
+"NZ": [
+"MLS Pass on Apple TV"
 ],
 "PE": [
 "Apple TV"
@@ -12287,7 +12333,13 @@
 "PY": [
 "Apple TV"
 ],
+"TR": [
+"Apple TV"
+],
 "US": [
+"Apple TV"
+],
+"ZA": [
 "Apple TV"
 ]
 },
@@ -19815,6 +19867,9 @@
 "DAZN",
 "HBO Max"
 ],
+"GH": [
+"SuperSport Kickoff"
+],
 "HR": [
 "MAXtv To Go",
 "Arena Sport 1"
@@ -19949,6 +20004,11 @@
 "AR": [
 "Disney+ Premium"
 ],
+"BH": [
+"beIN Sports MENA 6",
+"TOD TV",
+"beIN Sports MAX 7"
+],
 "BR": [
 "Disney+"
 ],
@@ -19978,6 +20038,9 @@
 "GB": [
 "Sky Sports+"
 ],
+"GH": [
+"SuperSport Kickoff"
+],
 "HR": [
 "MAXtv To Go",
 "Arena Sport 6"
@@ -19995,6 +20058,11 @@
 ],
 "KR": [
 "Coupang Play"
+],
+"KW": [
+"beIN Sports MENA 6",
+"TOD TV",
+"beIN Sports MAX 7"
 ],
 "LY": [
 "beIN Sports MENA 6",
@@ -20508,6 +20576,9 @@
 "NO": [
 "VG TV"
 ],
+"NZ": [
+"DAZN New Zealand"
+],
 "OM": [
 "Abu Dhabi Sports 2"
 ],
@@ -20586,6 +20657,10 @@
 "AR": [
 "Disney+ Premium"
 ],
+"BH": [
+"beIN Sports MENA 9",
+"beIN Sports MAX 8"
+],
 "BR": [
 "Disney+"
 ],
@@ -20624,6 +20699,10 @@
 ],
 "KR": [
 "Coupang Play"
+],
+"KW": [
+"beIN Sports MENA 9",
+"beIN Sports MAX 8"
 ],
 "LY": [
 "beIN Sports MENA 9"
@@ -20779,6 +20858,9 @@
 ],
 "GB": [
 "DAZN"
+],
+"GH": [
+"SuperSport Football"
 ],
 "HR": [
 "MAXtv To Go",
@@ -21270,6 +21352,10 @@
 "BE": [
 "DAZN (BE)"
 ],
+"BH": [
+"Abu Dhabi Sports 2",
+"beIN Sports MAX 5"
+],
 "CA": [
 "DAZN Canada"
 ],
@@ -21316,6 +21402,10 @@
 ],
 "JP": [
 "GAORAオンデマンド"
+],
+"KW": [
+"Abu Dhabi Sports 2",
+"beIN Sports MAX 5"
 ],
 "LY": [
 "Abu Dhabi Sports 2"
@@ -21422,6 +21512,10 @@
 "AU": [
 "beIN Sports 3"
 ],
+"BH": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
 "BR": [
 "ESPN",
 "Disney+"
@@ -21490,6 +21584,10 @@
 ],
 "KR": [
 "Coupang Play"
+],
+"KW": [
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "LY": [
 "beIN Sports MENA 1",
@@ -22828,6 +22926,11 @@
 "AR": [
 "Disney+ Premium"
 ],
+"BH": [
+"beIN Sports MENA 5",
+"TOD TV",
+"beIN Sports MAX 9"
+],
 "BR": [
 "Disney+"
 ],
@@ -22878,6 +22981,11 @@
 ],
 "KR": [
 "Coupang Play"
+],
+"KW": [
+"beIN Sports MENA 5",
+"TOD TV",
+"beIN Sports MAX 9"
 ],
 "LY": [
 "beIN Sports MENA 5",
@@ -22969,6 +23077,152 @@
 },
 "slug": "sunderland-brentford-2026-10-28"
 },
+"fr:football-20261028-toronto-fc-d-c-united": {
+"lang": "fr",
+"m": {
+"away": "D.C. United",
+"awayNames": {
+"ar": "D.C. United",
+"de": "D.C. United",
+"en": "D.C. United",
+"es": "D.C. United",
+"fr": "D.C. United",
+"it": "D.C. United",
+"pt": "D.C. United",
+"tr": "D.C. United"
+},
+"broadcasts": {
+"AR": [
+"Apple TV"
+],
+"AT": [
+"Apple TV"
+],
+"AU": [
+"Apple TV"
+],
+"BE": [
+"Apple TV (BE)"
+],
+"BR": [
+"Apple TV"
+],
+"CA": [
+"Apple TV (US)",
+"TSN+",
+"RDS",
+"TSN3"
+],
+"CH": [
+"Apple TV"
+],
+"CL": [
+"Apple TV"
+],
+"CO": [
+"Apple TV"
+],
+"CZ": [
+"Apple TV"
+],
+"DE": [
+"Apple TV"
+],
+"EC": [
+"Apple TV"
+],
+"ES": [
+"Apple TV"
+],
+"FR": [
+"Apple TV (FR)"
+],
+"GB": [
+"Apple TV"
+],
+"GH": [
+"MLS Pass on Apple TV"
+],
+"HR": [
+"Apple TV"
+],
+"IT": [
+"Apple TV (IT)"
+],
+"JP": [
+"Apple TV"
+],
+"KR": [
+"MLS Pass on Apple TV"
+],
+"MA": [
+"Apple TV"
+],
+"MX": [
+"Apple TV"
+],
+"NG": [
+"MLS Season Pass",
+"Apple TV"
+],
+"NL": [
+"Apple TV (NL)"
+],
+"NO": [
+"Apple TV (NO)"
+],
+"NZ": [
+"MLS Pass on Apple TV"
+],
+"PE": [
+"Apple TV"
+],
+"PT": [
+"Apple TV"
+],
+"PY": [
+"Apple TV"
+],
+"TR": [
+"Apple TV"
+],
+"US": [
+"Apple TV"
+],
+"ZA": [
+"Apple TV"
+]
+},
+"competition": {
+"ar": "الدوري الأمريكي (MLS)",
+"de": "MLS",
+"en": "MLS",
+"es": "MLS",
+"fr": "MLS",
+"it": "MLS",
+"pt": "MLS",
+"tr": "MLS"
+},
+"competitionId": "mls",
+"home": "Toronto FC",
+"homeNames": {
+"ar": "تورونتو",
+"de": "Toronto FC",
+"en": "Toronto FC",
+"es": "Toronto FC",
+"fr": "Toronto FC",
+"it": "Toronto FC",
+"pt": "Toronto FC",
+"tr": "Toronto FC"
+},
+"id": "football-20261028-toronto-fc-d-c-united",
+"kickoffUtc": "2026-10-28T23:30:00Z",
+"sources": [],
+"sport": "football",
+"tier": "regional"
+},
+"slug": "toronto-fc-d-c-united-2026-10-29"
+},
 "fr:football-20261028-venezia-inter": {
 "lang": "fr",
 "m": {
@@ -23047,6 +23301,9 @@
 ],
 "GB": [
 "DAZN"
+],
+"GH": [
+"SuperSport Football"
 ],
 "HR": [
 "MAXtv To Go",
@@ -23597,6 +23854,149 @@
 "tier": "regional"
 },
 "slug": "fc-dallas-columbus-crew-2026-10-29"
+},
+"fr:football-20261029-minnesota-united-fc-sporting-kansas-city": {
+"lang": "fr",
+"m": {
+"away": "Sporting Kansas City",
+"awayNames": {
+"ar": "سبورتينغ كانساس سيتي",
+"de": "Sporting Kansas City",
+"en": "Sporting Kansas City",
+"es": "Sporting Kansas City",
+"fr": "Sporting Kansas City",
+"it": "Sporting Kansas City",
+"pt": "Sporting Kansas City",
+"tr": "Sporting Kansas City"
+},
+"broadcasts": {
+"AR": [
+"Apple TV"
+],
+"AT": [
+"Apple TV"
+],
+"AU": [
+"Apple TV"
+],
+"BE": [
+"Apple TV (BE)"
+],
+"BR": [
+"Apple TV"
+],
+"CA": [
+"Apple TV (US)"
+],
+"CH": [
+"Apple TV"
+],
+"CL": [
+"Apple TV"
+],
+"CO": [
+"Apple TV"
+],
+"CZ": [
+"Apple TV"
+],
+"DE": [
+"Apple TV"
+],
+"EC": [
+"Apple TV"
+],
+"ES": [
+"Apple TV"
+],
+"FR": [
+"Apple TV (FR)"
+],
+"GB": [
+"Apple TV"
+],
+"GH": [
+"MLS Pass on Apple TV"
+],
+"HR": [
+"Apple TV"
+],
+"IT": [
+"Apple TV (IT)"
+],
+"JP": [
+"Apple TV"
+],
+"KR": [
+"MLS Pass on Apple TV"
+],
+"MA": [
+"Apple TV"
+],
+"MX": [
+"Apple TV"
+],
+"NG": [
+"MLS Season Pass",
+"Apple TV"
+],
+"NL": [
+"Apple TV (NL)"
+],
+"NO": [
+"Apple TV (NO)"
+],
+"NZ": [
+"MLS Pass on Apple TV"
+],
+"PE": [
+"Apple TV"
+],
+"PT": [
+"Apple TV"
+],
+"PY": [
+"Apple TV"
+],
+"TR": [
+"Apple TV"
+],
+"US": [
+"Apple TV"
+],
+"ZA": [
+"Apple TV"
+]
+},
+"competition": {
+"ar": "الدوري الأمريكي (MLS)",
+"de": "MLS",
+"en": "MLS",
+"es": "MLS",
+"fr": "MLS",
+"it": "MLS",
+"pt": "MLS",
+"tr": "MLS"
+},
+"competitionId": "mls",
+"home": "Minnesota United FC",
+"homeNames": {
+"ar": "Minnesota United FC",
+"de": "Minnesota United FC",
+"en": "Minnesota United FC",
+"es": "Minnesota United FC",
+"fr": "Minnesota United FC",
+"it": "Minnesota United FC",
+"pt": "Minnesota United FC",
+"tr": "Minnesota United FC"
+},
+"id": "football-20261029-minnesota-united-fc-sporting-kansas-city",
+"kickoffUtc": "2026-10-29T00:30:00Z",
+"sources": [],
+"sport": "football",
+"tier": "regional"
+},
+"slug": "minnesota-united-fc-sporting-kansas-city-2026-10-29"
 },
 "fr:football-20261029-nashville-sc-philadelphia-union": {
 "lang": "fr",
