@@ -12438,8 +12438,14 @@
 "tr": "Athletic Club"
 },
 "broadcasts": {
+"AE": [
+"MBC Shahid"
+],
 "AT": [
 "DAZN"
+],
+"BH": [
+"MBC Shahid"
 ],
 "BR": [
 "Disney+ Premium"
@@ -12447,13 +12453,46 @@
 "CH": [
 "DAZN"
 ],
+"DZ": [
+"MBC Shahid"
+],
+"EG": [
+"MBC Shahid"
+],
 "ES": [
 "RTVE Play",
 "Esport3",
 "Teledeporte"
 ],
+"IQ": [
+"MBC Shahid"
+],
+"JO": [
+"MBC Shahid"
+],
+"KW": [
+"MBC Shahid"
+],
+"LY": [
+"MBC Shahid"
+],
+"MA": [
+"MBC Shahid"
+],
 "MX": [
 "SKY Sports"
+],
+"OM": [
+"MBC Shahid"
+],
+"QA": [
+"MBC Shahid"
+],
+"SA": [
+"MBC Shahid"
+],
+"TN": [
+"MBC Shahid"
 ],
 "US": [
 "ESPN Unlimited",
@@ -12507,6 +12546,9 @@
 "tr": "Al Kholood"
 },
 "broadcasts": {
+"AE": [
+"Thmanyah"
+],
 "AR": [
 "OneFootball",
 "Somos FOX YouTube"
@@ -12518,6 +12560,9 @@
 ],
 "AU": [
 "OneFootball"
+],
+"BH": [
+"Thmanyah"
 ],
 "BR": [
 "Canal GOAT",
@@ -12544,9 +12589,15 @@
 "Sportdigital FUSSBALL",
 "Sportdigital+"
 ],
+"DZ": [
+"Thmanyah"
+],
 "EC": [
 "OneFootball",
 "Somos FOX YouTube"
+],
+"EG": [
+"Thmanyah"
 ],
 "ES": [
 "M+ Liga de Campeones",
@@ -12561,8 +12612,23 @@
 "GH": [
 "ESPN 2 Africa"
 ],
+"IQ": [
+"Thmanyah"
+],
+"JO": [
+"Thmanyah"
+],
 "JP": [
 "OneFootball"
+],
+"KW": [
+"Thmanyah"
+],
+"LY": [
+"Thmanyah"
+],
+"MA": [
+"Thmanyah"
 ],
 "MX": [
 "OneFootball",
@@ -12571,6 +12637,9 @@
 ],
 "NG": [
 "ESPN 2 Africa"
+],
+"OM": [
+"Thmanyah"
 ],
 "PE": [
 "OneFootball",
@@ -12583,6 +12652,15 @@
 "PY": [
 "OneFootball",
 "Somos FOX YouTube"
+],
+"QA": [
+"Thmanyah"
+],
+"SA": [
+"Thmanyah"
+],
+"TN": [
+"Thmanyah"
 ],
 "TR": [
 "S Sport"
@@ -12732,12 +12810,51 @@
 "tr": "Osasuna"
 },
 "broadcasts": {
+"AE": [
+"MBC Shahid"
+],
+"BH": [
+"MBC Shahid"
+],
 "BR": [
 "Disney+ Premium"
+],
+"DZ": [
+"MBC Shahid"
+],
+"EG": [
+"MBC Shahid"
 ],
 "ES": [
 "LaLiga TV Bar",
 "M+ LALIGA 2"
+],
+"IQ": [
+"MBC Shahid"
+],
+"JO": [
+"MBC Shahid"
+],
+"KW": [
+"MBC Shahid"
+],
+"LY": [
+"MBC Shahid"
+],
+"MA": [
+"MBC Shahid"
+],
+"OM": [
+"MBC Shahid"
+],
+"QA": [
+"MBC Shahid"
+],
+"SA": [
+"MBC Shahid"
+],
+"TN": [
+"MBC Shahid"
 ],
 "US": [
 "ESPN Unlimited",
@@ -15557,12 +15674,51 @@
 "tr": "Getafe"
 },
 "broadcasts": {
+"AE": [
+"MBC Shahid"
+],
+"BH": [
+"MBC Shahid"
+],
 "BR": [
 "Disney+ Premium"
+],
+"DZ": [
+"MBC Shahid"
+],
+"EG": [
+"MBC Shahid"
 ],
 "ES": [
 "LaLiga TV M2",
 "M+ LALIGA 3"
+],
+"IQ": [
+"MBC Shahid"
+],
+"JO": [
+"MBC Shahid"
+],
+"KW": [
+"MBC Shahid"
+],
+"LY": [
+"MBC Shahid"
+],
+"MA": [
+"MBC Shahid"
+],
+"OM": [
+"MBC Shahid"
+],
+"QA": [
+"MBC Shahid"
+],
+"SA": [
+"MBC Shahid"
+],
+"TN": [
+"MBC Shahid"
 ],
 "US": [
 "ESPN Select",
@@ -27421,6 +27577,9 @@
 "tr": "Al Kholood"
 },
 "broadcasts": {
+"AE": [
+"Thmanyah"
+],
 "AR": [
 "OneFootball",
 "Somos FOX YouTube"
@@ -27432,6 +27591,9 @@
 ],
 "AU": [
 "OneFootball"
+],
+"BH": [
+"Thmanyah"
 ],
 "BR": [
 "Canal GOAT",
@@ -27458,9 +27620,15 @@
 "Sportdigital FUSSBALL",
 "Sportdigital+"
 ],
+"DZ": [
+"Thmanyah"
+],
 "EC": [
 "OneFootball",
 "Somos FOX YouTube"
+],
+"EG": [
+"Thmanyah"
 ],
 "ES": [
 "M+ Liga de Campeones",
@@ -27475,8 +27643,23 @@
 "GH": [
 "ESPN 2 Africa"
 ],
+"IQ": [
+"Thmanyah"
+],
+"JO": [
+"Thmanyah"
+],
 "JP": [
 "OneFootball"
+],
+"KW": [
+"Thmanyah"
+],
+"LY": [
+"Thmanyah"
+],
+"MA": [
+"Thmanyah"
 ],
 "MX": [
 "OneFootball",
@@ -27485,6 +27668,9 @@
 ],
 "NG": [
 "ESPN 2 Africa"
+],
+"OM": [
+"Thmanyah"
 ],
 "PE": [
 "OneFootball",
@@ -27497,6 +27683,15 @@
 "PY": [
 "OneFootball",
 "Somos FOX YouTube"
+],
+"QA": [
+"Thmanyah"
+],
+"SA": [
+"Thmanyah"
+],
+"TN": [
+"Thmanyah"
 ],
 "TR": [
 "S Sport"
@@ -27562,6 +27757,9 @@
 "tr": "Al Qadsiah"
 },
 "broadcasts": {
+"AE": [
+"Thmanyah"
+],
 "AR": [
 "Somos FOX YouTube"
 ],
@@ -27570,6 +27768,9 @@
 ],
 "AU": [
 "OneFootball PPV"
+],
+"BH": [
+"Thmanyah"
 ],
 "BR": [
 "Canal GOAT",
@@ -27589,22 +27790,55 @@
 "Sportdigital FUSSBALL2",
 "Sportdigital+"
 ],
+"DZ": [
+"Thmanyah"
+],
 "EC": [
 "Somos FOX YouTube"
+],
+"EG": [
+"Thmanyah"
 ],
 "FR": [
 "DAZN.com (FR)",
 "DAZN 1 (FR)"
 ],
+"IQ": [
+"Thmanyah"
+],
+"JO": [
+"Thmanyah"
+],
+"KW": [
+"Thmanyah"
+],
+"LY": [
+"Thmanyah"
+],
+"MA": [
+"Thmanyah"
+],
 "MX": [
 "FOX",
 "FOX One"
+],
+"OM": [
+"Thmanyah"
 ],
 "PE": [
 "Somos FOX YouTube"
 ],
 "PY": [
 "Somos FOX YouTube"
+],
+"QA": [
+"Thmanyah"
+],
+"SA": [
+"Thmanyah"
+],
+"TN": [
+"Thmanyah"
 ],
 "UY": [
 "Somos FOX YouTube"
@@ -27949,6 +28183,10 @@
 "tr": "Newcastle United"
 },
 "broadcasts": {
+"AE": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
 "AR": [
 "ESPN",
 "Disney+ Premium"
@@ -27959,6 +28197,10 @@
 ],
 "AU": [
 "beIN Sports 3"
+],
+"BH": [
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "BR": [
 "ESPN",
@@ -27982,9 +28224,17 @@
 "Sky Sport Premier League",
 "WOW"
 ],
+"DZ": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
 "EC": [
 "ESPN",
 "Disney+ Premium"
+],
+"EG": [
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "FR": [
 "beIN Sports 1 (FR)"
@@ -28004,11 +28254,27 @@
 "MAXtv To Go",
 "Arena Sport 1"
 ],
+"IQ": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
+"JO": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
 "JP": [
 "DAZN"
 ],
 "KR": [
 "Coupang Play"
+],
+"KW": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
+"LY": [
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "MA": [
 "beIN Sports 1",
@@ -28038,6 +28304,10 @@
 "beIN CONNECT",
 "beIN Sports Connect New Zealand"
 ],
+"OM": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
 "PE": [
 "ESPN",
 "Disney+ Premium"
@@ -28048,6 +28318,18 @@
 "PY": [
 "ESPN",
 "Disney+ Premium"
+],
+"QA": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
+"SA": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
+"TN": [
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "TR": [
 "S Sport"

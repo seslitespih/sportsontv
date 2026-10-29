@@ -852,6 +852,10 @@
     <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/new-england-revolution-new-york-red-bulls-2026-10-29/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/new-england-revolution-new-york-red-bulls-2026-10-29/"/>
   </url>
+  <url><loc>https://sportstvtoday.com/es/partido/new-england-revolution-red-bull-new-york-2026-10-29/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/new-england-revolution-red-bull-new-york-2026-10-29/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/new-england-revolution-red-bull-new-york-2026-10-29/"/>
+  </url>
   <url><loc>https://sportstvtoday.com/es/partido/toronto-fc-d-c-united-2026-10-29/</loc>
     <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/toronto-fc-d-c-united-2026-10-29/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/toronto-fc-d-c-united-2026-10-29/"/>
@@ -868,17 +872,13 @@
     <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/new-england-revolution-new-york-red-bulls-2026-10-29/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/new-england-revolution-new-york-red-bulls-2026-10-29/"/>
   </url>
-  <url><loc>https://sportstvtoday.com/fr/match/toronto-fc-d-c-united-2026-10-29/</loc>
-    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/toronto-fc-d-c-united-2026-10-29/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/toronto-fc-d-c-united-2026-10-29/"/>
-  </url>
-  <url><loc>https://sportstvtoday.com/es/partido/new-england-revolution-red-bull-new-york-2026-10-29/</loc>
-    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/new-england-revolution-red-bull-new-york-2026-10-29/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/new-england-revolution-red-bull-new-york-2026-10-29/"/>
-  </url>
   <url><loc>https://sportstvtoday.com/fr/match/new-england-revolution-red-bull-new-york-2026-10-29/</loc>
     <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/new-england-revolution-red-bull-new-york-2026-10-29/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/new-england-revolution-red-bull-new-york-2026-10-29/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/fr/match/toronto-fc-d-c-united-2026-10-29/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/toronto-fc-d-c-united-2026-10-29/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/toronto-fc-d-c-united-2026-10-29/"/>
   </url>
   <url><loc>https://sportstvtoday.com/es/partido/charlotte-fc-cf-montreal-2026-10-29/</loc>
     <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/charlotte-fc-cf-montreal-2026-10-29/"/>
@@ -948,11 +948,19 @@
     <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/minnesota-united-fc-sporting-kansas-city-2026-10-29/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/minnesota-united-fc-sporting-kansas-city-2026-10-29/"/>
   </url>
+  <url><loc>https://sportstvtoday.com/es/partido/minnesota-united-sporting-kansas-city-2026-10-29/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/minnesota-united-sporting-kansas-city-2026-10-29/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/minnesota-united-sporting-kansas-city-2026-10-29/"/>
+  </url>
   <url><loc>https://sportstvtoday.com/es/partido/nashville-sc-philadelphia-union-2026-10-29/</loc>
     <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/nashville-sc-philadelphia-union-2026-10-29/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/nashville-sc-philadelphia-union-2026-10-29/"/>
   </url>
   <url><loc>https://sportstvtoday.com/es/partido/remo-botafogo-2026-10-29/</loc>
+  </url>
+  <url><loc>https://sportstvtoday.com/es/partido/st-louis-city-portland-timbers-2026-10-29/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/st-louis-city-portland-timbers-2026-10-29/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/st-louis-city-portland-timbers-2026-10-29/"/>
   </url>
   <url><loc>https://sportstvtoday.com/es/partido/st-louis-city-sc-portland-timbers-2026-10-29/</loc>
     <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/st-louis-city-sc-portland-timbers-2026-10-29/"/>
@@ -974,29 +982,21 @@
     <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/minnesota-united-fc-sporting-kansas-city-2026-10-29/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/minnesota-united-fc-sporting-kansas-city-2026-10-29/"/>
   </url>
-  <url><loc>https://sportstvtoday.com/fr/match/nashville-sc-philadelphia-union-2026-10-29/</loc>
-    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/nashville-sc-philadelphia-union-2026-10-29/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/nashville-sc-philadelphia-union-2026-10-29/"/>
-  </url>
-  <url><loc>https://sportstvtoday.com/fr/match/st-louis-city-sc-portland-timbers-2026-10-29/</loc>
-    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/st-louis-city-sc-portland-timbers-2026-10-29/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/st-louis-city-sc-portland-timbers-2026-10-29/"/>
-  </url>
-  <url><loc>https://sportstvtoday.com/es/partido/minnesota-united-sporting-kansas-city-2026-10-29/</loc>
-    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/minnesota-united-sporting-kansas-city-2026-10-29/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/minnesota-united-sporting-kansas-city-2026-10-29/"/>
-  </url>
   <url><loc>https://sportstvtoday.com/fr/match/minnesota-united-sporting-kansas-city-2026-10-29/</loc>
     <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/minnesota-united-sporting-kansas-city-2026-10-29/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/minnesota-united-sporting-kansas-city-2026-10-29/"/>
   </url>
-  <url><loc>https://sportstvtoday.com/es/partido/st-louis-city-portland-timbers-2026-10-29/</loc>
-    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/st-louis-city-portland-timbers-2026-10-29/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/st-louis-city-portland-timbers-2026-10-29/"/>
+  <url><loc>https://sportstvtoday.com/fr/match/nashville-sc-philadelphia-union-2026-10-29/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/nashville-sc-philadelphia-union-2026-10-29/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/nashville-sc-philadelphia-union-2026-10-29/"/>
   </url>
   <url><loc>https://sportstvtoday.com/fr/match/st-louis-city-portland-timbers-2026-10-29/</loc>
     <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/st-louis-city-portland-timbers-2026-10-29/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/st-louis-city-portland-timbers-2026-10-29/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/fr/match/st-louis-city-sc-portland-timbers-2026-10-29/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/st-louis-city-sc-portland-timbers-2026-10-29/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/st-louis-city-sc-portland-timbers-2026-10-29/"/>
   </url>
   <url><loc>https://sportstvtoday.com/es/partido/utah-jazz-san-antonio-spurs-2026-10-29/</loc>
     <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/utah-jazz-san-antonio-spurs-2026-10-29/"/>
@@ -1036,6 +1036,10 @@
     <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/vancouver-whitecaps-fc-san-diego-fc-2026-10-29/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/vancouver-whitecaps-fc-san-diego-fc-2026-10-29/"/>
   </url>
+  <url><loc>https://sportstvtoday.com/es/partido/vancouver-whitecaps-san-diego-fc-2026-10-29/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/vancouver-whitecaps-san-diego-fc-2026-10-29/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/vancouver-whitecaps-san-diego-fc-2026-10-29/"/>
+  </url>
   <url><loc>https://sportstvtoday.com/fr/match/la-clippers-los-angeles-lakers-2026-10-29/</loc>
     <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/la-clippers-los-angeles-lakers-2026-10-29/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/la-clippers-los-angeles-lakers-2026-10-29/"/>
@@ -1051,10 +1055,6 @@
   <url><loc>https://sportstvtoday.com/fr/match/vancouver-whitecaps-fc-san-diego-fc-2026-10-29/</loc>
     <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/vancouver-whitecaps-fc-san-diego-fc-2026-10-29/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/vancouver-whitecaps-fc-san-diego-fc-2026-10-29/"/>
-  </url>
-  <url><loc>https://sportstvtoday.com/es/partido/vancouver-whitecaps-san-diego-fc-2026-10-29/</loc>
-    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/vancouver-whitecaps-san-diego-fc-2026-10-29/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/vancouver-whitecaps-san-diego-fc-2026-10-29/"/>
   </url>
   <url><loc>https://sportstvtoday.com/fr/match/vancouver-whitecaps-san-diego-fc-2026-10-29/</loc>
     <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/vancouver-whitecaps-san-diego-fc-2026-10-29/"/>
@@ -1072,33 +1072,33 @@
     <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/al-nassr-fc-al-kholood-2026-10-29/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/al-nassr-fc-al-kholood-2026-10-29/"/>
   </url>
+  <url><loc>https://sportstvtoday.com/es/partido/atletico-calatayud-osasuna-2026-10-29/</loc>
+  </url>
+  <url><loc>https://sportstvtoday.com/es/partido/los-chankas-cusco-fc-2026-10-29/</loc>
+  </url>
+  <url><loc>https://sportstvtoday.com/es/partido/ub-lebrijana-getafe-2026-10-29/</loc>
+  </url>
   <url><loc>https://sportstvtoday.com/fr/match/al-nassr-fc-al-kholood-2026-10-29/</loc>
     <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/al-nassr-fc-al-kholood-2026-10-29/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/al-nassr-fc-al-kholood-2026-10-29/"/>
   </url>
   <url><loc>https://sportstvtoday.com/fr/match/al-riyadh-al-qadsiah-2026-10-29/</loc>
   </url>
-  <url><loc>https://sportstvtoday.com/es/partido/atletico-calatayud-osasuna-2026-10-29/</loc>
-  </url>
-  <url><loc>https://sportstvtoday.com/es/partido/ub-lebrijana-getafe-2026-10-29/</loc>
-  </url>
-  <url><loc>https://sportstvtoday.com/es/partido/los-chankas-cusco-fc-2026-10-29/</loc>
-  </url>
   <url><loc>https://sportstvtoday.com/es/partido/fiorentina-atalanta-2026-10-29/</loc>
-    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/fiorentina-atalanta-2026-10-29/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/fiorentina-atalanta-2026-10-29/"/>
-  </url>
-  <url><loc>https://sportstvtoday.com/fr/match/fiorentina-atalanta-2026-10-29/</loc>
     <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/fiorentina-atalanta-2026-10-29/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/fiorentina-atalanta-2026-10-29/"/>
   </url>
   <url><loc>https://sportstvtoday.com/fr/match/everton-newcastle-united-2026-10-29/</loc>
   </url>
+  <url><loc>https://sportstvtoday.com/fr/match/fiorentina-atalanta-2026-10-29/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/fiorentina-atalanta-2026-10-29/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/fiorentina-atalanta-2026-10-29/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/es/partido/ae-prat-athletic-club-2026-10-29/</loc>
+  </url>
   <url><loc>https://sportstvtoday.com/es/partido/auriense-deportivo-a-coruna-2026-10-29/</loc>
   </url>
   <url><loc>https://sportstvtoday.com/es/partido/ribadesella-cf-racing-de-santander-2026-10-29/</loc>
-  </url>
-  <url><loc>https://sportstvtoday.com/es/partido/ae-prat-athletic-club-2026-10-29/</loc>
   </url>
   <url><loc>https://sportstvtoday.com/es/partido/sporting-hortaleza-sevilla-fc-2026-10-29/</loc>
   </url>
@@ -1114,21 +1114,21 @@
     <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/atlanta-hawks-cleveland-cavaliers-2026-10-30/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/atlanta-hawks-cleveland-cavaliers-2026-10-30/"/>
   </url>
-  <url><loc>https://sportstvtoday.com/fr/match/atlanta-hawks-cleveland-cavaliers-2026-10-30/</loc>
-    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/atlanta-hawks-cleveland-cavaliers-2026-10-30/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/atlanta-hawks-cleveland-cavaliers-2026-10-30/"/>
-  </url>
   <url><loc>https://sportstvtoday.com/es/partido/new-orleans-pelicans-sacramento-kings-2026-10-30/</loc>
     <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/new-orleans-pelicans-sacramento-kings-2026-10-30/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/new-orleans-pelicans-sacramento-kings-2026-10-30/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/fr/match/atlanta-hawks-cleveland-cavaliers-2026-10-30/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/atlanta-hawks-cleveland-cavaliers-2026-10-30/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/atlanta-hawks-cleveland-cavaliers-2026-10-30/"/>
   </url>
   <url><loc>https://sportstvtoday.com/fr/match/new-orleans-pelicans-sacramento-kings-2026-10-30/</loc>
     <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/new-orleans-pelicans-sacramento-kings-2026-10-30/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/new-orleans-pelicans-sacramento-kings-2026-10-30/"/>
   </url>
-  <url><loc>https://sportstvtoday.com/es/partido/gremio-athletico-paranaense-2026-10-30/</loc>
-  </url>
   <url><loc>https://sportstvtoday.com/es/partido/fbc-melgar-comerciantes-unidos-2026-10-30/</loc>
+  </url>
+  <url><loc>https://sportstvtoday.com/es/partido/gremio-athletico-paranaense-2026-10-30/</loc>
   </url>
   <url><loc>https://sportstvtoday.com/es/partido/atletico-nacional-santa-fe-2026-10-30/</loc>
   </url>
