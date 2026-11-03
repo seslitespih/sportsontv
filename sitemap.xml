@@ -528,20 +528,6 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://sportstvtoday.com/ar/about/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://sportstvtoday.com/about/"/>
   </url>
-  <url><loc>https://sportstvtoday.com/es/partido/liviy-bereh-bukovyna-chernivtsi-2026-10-31/</loc>
-  </url>
-  <url><loc>https://sportstvtoday.com/es/partido/veres-rivne-chornomorets-odesa-2026-10-31/</loc>
-  </url>
-  <url><loc>https://sportstvtoday.com/es/partido/kaiserslautern-hertha-bsc-2026-10-31/</loc>
-    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/kaiserslautern-hertha-bsc-2026-10-31/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/kaiserslautern-hertha-bsc-2026-10-31/"/>
-  </url>
-  <url><loc>https://sportstvtoday.com/fr/match/kaiserslautern-hertha-bsc-2026-10-31/</loc>
-    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/kaiserslautern-hertha-bsc-2026-10-31/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/kaiserslautern-hertha-bsc-2026-10-31/"/>
-  </url>
-  <url><loc>https://sportstvtoday.com/fr/match/wolfsburg-vfl-osnabruck-2026-10-31/</loc>
-  </url>
   <url><loc>https://sportstvtoday.com/es/partido/chelsea-manchester-united-2026-10-31/</loc>
     <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/chelsea-manchester-united-2026-10-31/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/chelsea-manchester-united-2026-10-31/"/>
@@ -1457,6 +1443,8 @@
   <url><loc>https://sportstvtoday.com/fr/match/chakhtar-donetsk-sporting-cp-2026-11-03/</loc>
     <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/shakhtar-donetsk-sporting-de-portugal-2026-11-03/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/chakhtar-donetsk-sporting-cp-2026-11-03/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/es/partido/anaitasuna-ft-deportivo-alaves-2026-11-03/</loc>
   </url>
   <url><loc>https://sportstvtoday.com/es/partido/al-hilal-shabab-al-ahli-dubai-fc-2026-11-03/</loc>
   </url>

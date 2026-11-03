@@ -11354,181 +11354,6 @@
 },
 "slug": "hull-city-ipswich-town-2026-10-31"
 },
-"es:football-20261031-kaiserslautern-hertha-bsc": {
-"lang": "es",
-"m": {
-"away": "Hertha BSC",
-"awayNames": {
-"ar": "Hertha BSC",
-"de": "Hertha BSC",
-"en": "Hertha BSC",
-"es": "Hertha BSC",
-"fr": "Hertha BSC",
-"it": "Hertha BSC",
-"pt": "Hertha BSC",
-"tr": "Hertha BSC"
-},
-"broadcasts": {
-"AE": [
-"MBC Shahid",
-"beIN Sports MAX 6"
-],
-"AR": [
-"FOX Sports",
-"Disney+ Premium"
-],
-"AT": [
-"Sky Sport Bundesliga 2",
-"Sky Sport Bundesliga 5",
-"Sky Sport Bundesliga 7",
-"Sky Sport Top Event"
-],
-"BH": [
-"MBC Shahid",
-"beIN Sports MAX 6"
-],
-"BR": [
-"OneFootball",
-"OneFootball PPV"
-],
-"CA": [
-"DAZN Canada"
-],
-"CH": [
-"Sky Sport Bundesliga 5",
-"Sky Sport Bundesliga 3",
-"OneFootball PPV"
-],
-"CL": [
-"Disney+ Premium"
-],
-"CO": [
-"Disney+ Premium"
-],
-"CZ": [
-"Nova Sport 3"
-],
-"DE": [
-"Sky Bundesliga 3",
-"OneFootball Deutschland",
-"WOW"
-],
-"DZ": [
-"MBC Shahid",
-"beIN Sports MAX 6"
-],
-"EC": [
-"Disney+ Premium"
-],
-"EG": [
-"MBC Shahid",
-"beIN Sports MAX 6"
-],
-"ES": [
-"DAZN"
-],
-"FR": [
-"beIN Sports MAX 6 (FR)"
-],
-"IQ": [
-"MBC Shahid",
-"beIN Sports MAX 6"
-],
-"JO": [
-"MBC Shahid",
-"beIN Sports MAX 6"
-],
-"KW": [
-"MBC Shahid",
-"beIN Sports MAX 6"
-],
-"LY": [
-"MBC Shahid",
-"beIN Sports MAX 6"
-],
-"MA": [
-"MBC Shahid",
-"beIN Sports MAX 6"
-],
-"MX": [
-"Bundesliga YouTube"
-],
-"NL": [
-"Viaplay NL"
-],
-"NO": [
-"TV 2 Play (NO)",
-"V sport + NO",
-"Viaplay NO"
-],
-"NZ": [
-"beIN Sports Connect New Zealand"
-],
-"OM": [
-"MBC Shahid",
-"beIN Sports MAX 6"
-],
-"PE": [
-"Disney+ Premium"
-],
-"PT": [
-"DAZN 3"
-],
-"PY": [
-"Disney+ Premium"
-],
-"QA": [
-"MBC Shahid",
-"beIN Sports MAX 6"
-],
-"SA": [
-"MBC Shahid",
-"beIN Sports MAX 6"
-],
-"TN": [
-"MBC Shahid",
-"beIN Sports MAX 6"
-],
-"TR": [
-"S Sport",
-"S Sport Plus"
-],
-"UY": [
-"Disney+ Premium"
-]
-},
-"competition": {
-"ar": "الدوري الألماني الدرجة الثانية",
-"de": "2. Bundesliga",
-"en": "2. Bundesliga",
-"es": "2. Bundesliga",
-"fr": "2. Bundesliga",
-"it": "2. Bundesliga",
-"pt": "2. Bundesliga",
-"tr": "Almanya 2. Bundesliga"
-},
-"competitionId": "bundesliga2",
-"home": "Kaiserslautern",
-"homeNames": {
-"ar": "كايزرسلاوترن",
-"de": "1. FC Kaiserslautern",
-"en": "Kaiserslautern",
-"es": "Kaiserslautern",
-"fr": "Kaiserslautern",
-"it": "Kaiserslautern",
-"pt": "Kaiserslautern",
-"tr": "Kaiserslautern"
-},
-"id": "football-20261031-kaiserslautern-hertha-bsc",
-"kickoffUtc": "2026-10-31T12:00:00Z",
-"sources": [
-"fotmob"
-],
-"sport": "football",
-"tier": "regional"
-},
-"slug": "kaiserslautern-hertha-bsc-2026-10-31"
-},
 "es:football-20261031-la-galaxy-austin-fc": {
 "lang": "es",
 "m": {
@@ -12206,99 +12031,6 @@
 "tier": "global"
 },
 "slug": "bayer-leverkusen-vfb-stuttgart-2026-10-31"
-},
-"es:football-20261031-liviy-bereh-bukovyna-chernivtsi": {
-"lang": "es",
-"m": {
-"away": "Bukovyna Chernivtsi",
-"awayNames": {
-"ar": "Bukovyna Chernivtsi",
-"de": "Bukovyna Chernivtsi",
-"en": "Bukovyna Chernivtsi",
-"es": "Bukovyna Chernivtsi",
-"fr": "Bukovyna Chernivtsi",
-"it": "Bukovyna Chernivtsi",
-"pt": "Bukovyna Chernivtsi",
-"tr": "Bukovyna Chernivtsi"
-},
-"broadcasts": {
-"AR": [
-"OneFootball PPV"
-],
-"AT": [
-"OneFootball PPV"
-],
-"AU": [
-"OneFootball PPV"
-],
-"BR": [
-"OneFootball PPV"
-],
-"CH": [
-"OneFootball PPV"
-],
-"CL": [
-"OneFootball PPV"
-],
-"CO": [
-"OneFootball PPV"
-],
-"EC": [
-"OneFootball PPV"
-],
-"ES": [
-"OneFootball PPV"
-],
-"JP": [
-"OneFootball PPV"
-],
-"MX": [
-"OneFootball PPV"
-],
-"PE": [
-"OneFootball PPV"
-],
-"PT": [
-"OneFootball PPV"
-],
-"PY": [
-"OneFootball PPV"
-],
-"UY": [
-"OneFootball PPV"
-]
-},
-"competition": {
-"ar": "الدوري الأوكراني",
-"de": "Ukrainische Premier League",
-"en": "Ukrainian Premier League",
-"es": "Liga Premier de Ucrania",
-"fr": "Premier League ukrainienne",
-"it": "Premier League ucraina",
-"pt": "Liga Premier da Ucrânia",
-"tr": "Ukrayna Premier Ligi"
-},
-"competitionId": "ukr_pl",
-"home": "Liviy Bereh",
-"homeNames": {
-"ar": "Liviy Bereh",
-"de": "Liviy Bereh",
-"en": "Liviy Bereh",
-"es": "Liviy Bereh",
-"fr": "Liviy Bereh",
-"it": "Liviy Bereh",
-"pt": "Liviy Bereh",
-"tr": "Liviy Bereh"
-},
-"id": "football-20261031-liviy-bereh-bukovyna-chernivtsi",
-"kickoffUtc": "2026-10-31T11:00:00Z",
-"sources": [
-"fotmob"
-],
-"sport": "football",
-"tier": "regional"
-},
-"slug": "liviy-bereh-bukovyna-chernivtsi-2026-10-31"
 },
 "es:football-20261031-llaneros-fc-junior-fc": {
 "lang": "es",
@@ -14876,99 +14608,6 @@
 "tier": "regional"
 },
 "slug": "velez-sarsfield-san-lorenzo-2026-10-31"
-},
-"es:football-20261031-veres-rivne-chornomorets-odesa": {
-"lang": "es",
-"m": {
-"away": "Chornomorets Odesa",
-"awayNames": {
-"ar": "Chornomorets Odesa",
-"de": "Chornomorets Odesa",
-"en": "Chornomorets Odesa",
-"es": "Chornomorets Odesa",
-"fr": "Chornomorets Odesa",
-"it": "Chornomorets Odesa",
-"pt": "Chornomorets Odesa",
-"tr": "Chornomorets Odesa"
-},
-"broadcasts": {
-"AR": [
-"OneFootball PPV"
-],
-"AT": [
-"OneFootball PPV"
-],
-"AU": [
-"OneFootball PPV"
-],
-"BR": [
-"OneFootball PPV"
-],
-"CH": [
-"OneFootball PPV"
-],
-"CL": [
-"OneFootball PPV"
-],
-"CO": [
-"OneFootball PPV"
-],
-"EC": [
-"OneFootball PPV"
-],
-"ES": [
-"OneFootball PPV"
-],
-"JP": [
-"OneFootball PPV"
-],
-"MX": [
-"OneFootball PPV"
-],
-"PE": [
-"OneFootball PPV"
-],
-"PT": [
-"OneFootball PPV"
-],
-"PY": [
-"OneFootball PPV"
-],
-"UY": [
-"OneFootball PPV"
-]
-},
-"competition": {
-"ar": "الدوري الأوكراني",
-"de": "Ukrainische Premier League",
-"en": "Ukrainian Premier League",
-"es": "Liga Premier de Ucrania",
-"fr": "Premier League ukrainienne",
-"it": "Premier League ucraina",
-"pt": "Liga Premier da Ucrânia",
-"tr": "Ukrayna Premier Ligi"
-},
-"competitionId": "ukr_pl",
-"home": "Veres Rivne",
-"homeNames": {
-"ar": "فيريس ريفني",
-"de": "Veres Rivne",
-"en": "Veres Rivne",
-"es": "Veres Rivne",
-"fr": "Veres Rivne",
-"it": "Veres Rivne",
-"pt": "Veres Rivne",
-"tr": "Veres Rivne"
-},
-"id": "football-20261031-veres-rivne-chornomorets-odesa",
-"kickoffUtc": "2026-10-31T11:00:00Z",
-"sources": [
-"fotmob"
-],
-"sport": "football",
-"tier": "regional"
-},
-"slug": "veres-rivne-chornomorets-odesa-2026-10-31"
 },
 "es:football-20261031-werder-bremen-hoffenheim": {
 "lang": "es",
@@ -25241,6 +24880,9 @@
 "tr": "Shabab Al-Ahli Dubai FC"
 },
 "broadcasts": {
+"AE": [
+"beIN Sports MENA 2"
+],
 "AR": [
 "Disney+ Premium"
 ],
@@ -25251,6 +24893,9 @@
 ],
 "AU": [
 "Paramount+"
+],
+"BH": [
+"beIN Sports MENA 2"
 ],
 "BR": [
 "ESPN",
@@ -25271,21 +24916,42 @@
 "Sportdigital+",
 "Sportdigital1+"
 ],
+"DZ": [
+"beIN Sports MENA 2"
+],
 "EC": [
 "Disney+ Premium"
+],
+"EG": [
+"beIN Sports MENA 2"
 ],
 "ES": [
 "The AFC Hub YouTube"
 ],
+"GB": [
+"Youtube UK"
+],
 "HR": [
 "MAXtv To Go",
 "Sport Klub 6 HR"
+],
+"IQ": [
+"beIN Sports MENA 2"
+],
+"JO": [
+"beIN Sports MENA 2"
 ],
 "JP": [
 "DAZN"
 ],
 "KR": [
 "Coupang Play"
+],
+"KW": [
+"beIN Sports MENA 2"
+],
+"LY": [
+"beIN Sports MENA 2"
 ],
 "MA": [
 "beIN Sports 2",
@@ -25300,11 +24966,24 @@
 "ESPN NL",
 "ESPN Watch NL"
 ],
+"OM": [
+"beIN Sports MENA 2"
+],
 "PE": [
 "Disney+ Premium"
 ],
 "PY": [
 "Disney+ Premium"
+],
+"QA": [
+"beIN Sports MENA 2",
+"ALKASS Five"
+],
+"SA": [
+"beIN Sports MENA 2"
+],
+"TN": [
+"beIN Sports MENA 2"
 ],
 "UY": [
 "Disney+ Premium"
@@ -25342,6 +25021,104 @@
 },
 "slug": "al-hilal-shabab-al-ahli-dubai-fc-2026-11-03"
 },
+"es:football-20261103-anaitasuna-ft-deportivo-alaves": {
+"lang": "es",
+"m": {
+"away": "Deportivo Alaves",
+"awayNames": {
+"ar": "Deportivo Alavés",
+"de": "Deportivo Alavés",
+"en": "Deportivo Alavés",
+"es": "Deportivo Alavés",
+"fr": "Deportivo Alavés",
+"it": "Deportivo Alavés",
+"pt": "Deportivo Alavés",
+"tr": "Deportivo Alavés"
+},
+"broadcasts": {
+"AE": [
+"MBC Shahid"
+],
+"BH": [
+"MBC Shahid"
+],
+"DZ": [
+"MBC Shahid"
+],
+"EG": [
+"MBC Shahid"
+],
+"ES": [
+"LaLiga TV M2"
+],
+"HR": [
+"Arena Sport 6",
+"MAXtv To Go"
+],
+"IQ": [
+"MBC Shahid"
+],
+"JO": [
+"MBC Shahid"
+],
+"KW": [
+"MBC Shahid"
+],
+"LY": [
+"MBC Shahid"
+],
+"MA": [
+"MBC Shahid"
+],
+"OM": [
+"MBC Shahid"
+],
+"QA": [
+"MBC Shahid"
+],
+"SA": [
+"MBC Shahid"
+],
+"TN": [
+"MBC Shahid"
+],
+"US": [
+"ESPN Select",
+"ESPN Unlimited"
+]
+},
+"competition": {
+"ar": "كأس ملك إسبانيا",
+"de": "Copa del Rey",
+"en": "Copa del Rey",
+"es": "Copa del Rey",
+"fr": "Coupe du Roi",
+"it": "Coppa del Re",
+"pt": "Copa do Rei",
+"tr": "İspanya Kral Kupası"
+},
+"competitionId": "copa_del_rey",
+"home": "Anaitasuna FT",
+"homeNames": {
+"ar": "Anaitasuna FT",
+"de": "Anaitasuna FT",
+"en": "Anaitasuna FT",
+"es": "Anaitasuna FT",
+"fr": "Anaitasuna FT",
+"it": "Anaitasuna FT",
+"pt": "Anaitasuna FT",
+"tr": "Anaitasuna FT"
+},
+"id": "football-20261103-anaitasuna-ft-deportivo-alaves",
+"kickoffUtc": "2026-11-03T18:00:00Z",
+"sources": [
+"fotmob"
+],
+"sport": "football",
+"tier": "regional"
+},
+"slug": "anaitasuna-ft-deportivo-alaves-2026-11-03"
+},
 "es:football-20261103-atletico-bayern-munich": {
 "lang": "es",
 "m": {
@@ -25377,6 +25154,10 @@
 "VTM 2",
 "Pickx+ Sports 2",
 "VTM GO"
+],
+"BH": [
+"beIN Sports MENA 5",
+"TOD TV"
 ],
 "BR": [
 "Space",
@@ -25458,6 +25239,10 @@
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"beIN Sports MENA 5",
+"TOD TV"
 ],
 "LY": [
 "beIN Sports"
@@ -25702,6 +25487,10 @@
 "Play Sports",
 "Play Sports 3"
 ],
+"BH": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
 "BR": [
 "TNT",
 "SBT",
@@ -25786,6 +25575,10 @@
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "LY": [
 "beIN Sports"
@@ -25925,6 +25718,9 @@
 "Play Sports 6",
 "Pickx+ Sports 7"
 ],
+"BH": [
+"beIN Sports MENA 9"
+],
 "BR": [
 "HBO Max"
 ],
@@ -26000,6 +25796,9 @@
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"beIN Sports MENA 9"
 ],
 "LY": [
 "beIN Sports"
@@ -26412,18 +26211,45 @@
 "tr": "Kyoto Sanga FC"
 },
 "broadcasts": {
+"AE": [
+"beIN Sports MENA 2",
+"TOD TV"
+],
 "AU": [
 "Paramount+"
+],
+"BH": [
+"beIN Sports MENA 2",
+"TOD TV"
 ],
 "BR": [
 "Disney+ Premium"
 ],
+"DZ": [
+"beIN Sports MENA 2",
+"TOD TV"
+],
+"EG": [
+"beIN Sports MENA 2",
+"TOD TV"
+],
 "ES": [
 "The AFC Hub YouTube"
+],
+"GB": [
+"Youtube UK"
 ],
 "HR": [
 "MAXtv To Go",
 "Sport Klub 3 HR"
+],
+"IQ": [
+"beIN Sports MENA 2",
+"TOD TV"
+],
+"JO": [
+"beIN Sports MENA 2",
+"TOD TV"
 ],
 "JP": [
 "DAZN"
@@ -26431,10 +26257,34 @@
 "KR": [
 "Coupang Play"
 ],
+"KW": [
+"beIN Sports MENA 2",
+"TOD TV"
+],
+"LY": [
+"beIN Sports MENA 2",
+"TOD TV"
+],
 "MA": [
 "beIN Sports 2",
 "beIN CONNECT",
 "TOD"
+],
+"OM": [
+"beIN Sports MENA 2",
+"TOD TV"
+],
+"QA": [
+"beIN Sports MENA 2",
+"TOD TV"
+],
+"SA": [
+"beIN Sports MENA 2",
+"TOD TV"
+],
+"TN": [
+"beIN Sports MENA 2",
+"TOD TV"
 ]
 },
 "competition": {
@@ -26644,18 +26494,39 @@
 "tr": "Al-Shamal"
 },
 "broadcasts": {
+"AE": [
+"beIN Sports MENA 2"
+],
 "AU": [
 "Paramount+"
+],
+"BH": [
+"beIN Sports MENA 2"
 ],
 "BR": [
 "Disney+ Premium"
 ],
+"DZ": [
+"beIN Sports MENA 2"
+],
+"EG": [
+"beIN Sports MENA 2"
+],
 "ES": [
 "The AFC Hub YouTube"
+],
+"GB": [
+"Youtube UK"
 ],
 "HR": [
 "MAXtv To Go",
 "Sportklub 1 Croatia"
+],
+"IQ": [
+"beIN Sports MENA 2"
+],
+"JO": [
+"beIN Sports MENA 2"
 ],
 "JP": [
 "DAZN"
@@ -26663,10 +26534,29 @@
 "KR": [
 "Coupang Play"
 ],
+"KW": [
+"beIN Sports MENA 2"
+],
+"LY": [
+"beIN Sports MENA 2"
+],
 "MA": [
 "beIN Sports 2",
 "TOD",
 "beIN CONNECT"
+],
+"OM": [
+"beIN Sports MENA 2"
+],
+"QA": [
+"beIN Sports MENA 2",
+"ALKASS Five"
+],
+"SA": [
+"beIN Sports MENA 2"
+],
+"TN": [
+"beIN Sports MENA 2"
 ]
 },
 "competition": {
@@ -26736,6 +26626,9 @@
 "Pickx+ Sports 6",
 "Play Sports",
 "Play Sports 5"
+],
+"BH": [
+"beIN Sports MENA 8"
 ],
 "BR": [
 "HBO Max"
@@ -26810,6 +26703,9 @@
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"beIN Sports MENA 8"
 ],
 "LY": [
 "beIN Sports"
@@ -26947,6 +26843,10 @@
 "Pickx+ Sports 2",
 "Play Sports"
 ],
+"BH": [
+"beIN Sports MENA 3",
+"TOD TV"
+],
 "BR": [
 "Space",
 "HBO Max"
@@ -27027,6 +26927,10 @@
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"beIN Sports MENA 3",
+"TOD TV"
 ],
 "LY": [
 "beIN Sports"
@@ -27149,18 +27053,39 @@
 "tr": "Johor Darul Ta'zim"
 },
 "broadcasts": {
+"AE": [
+"beIN Sports MENA 4"
+],
 "AU": [
 "Paramount+"
+],
+"BH": [
+"beIN Sports MENA 4"
 ],
 "BR": [
 "Disney+ Premium"
 ],
+"DZ": [
+"beIN Sports MENA 4"
+],
+"EG": [
+"beIN Sports MENA 4"
+],
 "ES": [
 "The AFC Hub YouTube"
+],
+"GB": [
+"Youtube UK"
 ],
 "HR": [
 "Sport Klub 3 HR",
 "MAXtv To Go"
+],
+"IQ": [
+"beIN Sports MENA 4"
+],
+"JO": [
+"beIN Sports MENA 4"
 ],
 "JP": [
 "DAZN"
@@ -27168,10 +27093,28 @@
 "KR": [
 "Coupang Play"
 ],
+"KW": [
+"beIN Sports MENA 4"
+],
+"LY": [
+"beIN Sports MENA 4"
+],
 "MA": [
 "beIN Sports 4",
 "beIN CONNECT",
 "TOD"
+],
+"OM": [
+"beIN Sports MENA 4"
+],
+"QA": [
+"beIN Sports MENA 4"
+],
+"SA": [
+"beIN Sports MENA 4"
+],
+"TN": [
+"beIN Sports MENA 4"
 ]
 },
 "competition": {
@@ -27221,18 +27164,39 @@
 "tr": "Daejeon Hana Citizen"
 },
 "broadcasts": {
+"AE": [
+"beIN Sports MENA 2"
+],
 "AU": [
 "Paramount+"
+],
+"BH": [
+"beIN Sports MENA 2"
 ],
 "BR": [
 "Disney+ Premium"
 ],
+"DZ": [
+"beIN Sports MENA 2"
+],
+"EG": [
+"beIN Sports MENA 2"
+],
 "ES": [
 "The AFC Hub YouTube"
+],
+"GB": [
+"Youtube UK"
 ],
 "HR": [
 "Sportklub 1 Croatia",
 "MAXtv To Go"
+],
+"IQ": [
+"beIN Sports MENA 2"
+],
+"JO": [
+"beIN Sports MENA 2"
 ],
 "JP": [
 "DAZN"
@@ -27240,10 +27204,28 @@
 "KR": [
 "Coupang Play"
 ],
+"KW": [
+"beIN Sports MENA 2"
+],
+"LY": [
+"beIN Sports MENA 2"
+],
 "MA": [
 "beIN Sports 2",
 "beIN CONNECT",
 "TOD"
+],
+"OM": [
+"beIN Sports MENA 2"
+],
+"QA": [
+"beIN Sports MENA 2"
+],
+"SA": [
+"beIN Sports MENA 2"
+],
+"TN": [
+"beIN Sports MENA 2"
 ]
 },
 "competition": {
@@ -27311,6 +27293,9 @@
 "BE": [
 "Play Sports 7",
 "Pickx+ Sports 8"
+],
+"BH": [
+"TOD TV"
 ],
 "BR": [
 "HBO Max"
@@ -27386,6 +27371,9 @@
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"TOD TV"
 ],
 "LY": [
 "beIN Sports"
@@ -27522,6 +27510,10 @@
 "Play Sports",
 "Play Sports 4"
 ],
+"BH": [
+"beIN Sports MENA 4",
+"TOD TV"
+],
 "BR": [
 "ESPN",
 "TNT Sports YouTube",
@@ -27604,6 +27596,10 @@
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"beIN Sports MENA 4",
+"TOD TV"
 ],
 "LY": [
 "beIN Sports"
@@ -27858,18 +27854,45 @@
 "tr": "Beijing Guoan"
 },
 "broadcasts": {
+"AE": [
+"beIN Sports MENA 3",
+"TOD TV"
+],
 "AU": [
 "Paramount+"
+],
+"BH": [
+"beIN Sports MENA 3",
+"TOD TV"
 ],
 "BR": [
 "Disney+ Premium"
 ],
+"DZ": [
+"beIN Sports MENA 3",
+"TOD TV"
+],
+"EG": [
+"beIN Sports MENA 3",
+"TOD TV"
+],
 "ES": [
 "The AFC Hub YouTube"
+],
+"GB": [
+"Youtube UK"
 ],
 "HR": [
 "MAXtv To Go",
 "Sportklub 1 Croatia"
+],
+"IQ": [
+"beIN Sports MENA 3",
+"TOD TV"
+],
+"JO": [
+"beIN Sports MENA 3",
+"TOD TV"
 ],
 "JP": [
 "DAZN"
@@ -27877,10 +27900,34 @@
 "KR": [
 "Coupang Play"
 ],
+"KW": [
+"beIN Sports MENA 3",
+"TOD TV"
+],
+"LY": [
+"beIN Sports MENA 3",
+"TOD TV"
+],
 "MA": [
 "beIN Sports 3",
 "beIN CONNECT",
 "TOD"
+],
+"OM": [
+"beIN Sports MENA 3",
+"TOD TV"
+],
+"QA": [
+"beIN Sports MENA 3",
+"TOD TV"
+],
+"SA": [
+"beIN Sports MENA 3",
+"TOD TV"
+],
+"TN": [
+"beIN Sports MENA 3",
+"TOD TV"
 ]
 },
 "competition": {
@@ -27950,6 +27997,10 @@
 "Play Sports 4",
 "Play Sports",
 "Pickx+ Sports 3"
+],
+"BH": [
+"beIN Sports MENA 4",
+"TOD TV"
 ],
 "BR": [
 "TNT",
@@ -28033,6 +28084,10 @@
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"beIN Sports MENA 4",
+"TOD TV"
 ],
 "LY": [
 "beIN Sports"
@@ -28170,6 +28225,9 @@
 "BE": [
 "Pickx+ Sports 5"
 ],
+"BH": [
+"beIN Sports MENA 3"
+],
 "BR": [
 "HBO Max"
 ],
@@ -28244,6 +28302,9 @@
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"beIN Sports MENA 3"
 ],
 "LY": [
 "beIN Sports"
@@ -28362,18 +28423,39 @@
 "tr": "Ratchaburi FC"
 },
 "broadcasts": {
+"AE": [
+"beIN Sports MENA 3"
+],
 "AU": [
 "Paramount+"
+],
+"BH": [
+"beIN Sports MENA 3"
 ],
 "BR": [
 "Disney+ Premium"
 ],
+"DZ": [
+"beIN Sports MENA 3"
+],
+"EG": [
+"beIN Sports MENA 3"
+],
 "ES": [
 "The AFC Hub YouTube"
+],
+"GB": [
+"Youtube UK"
 ],
 "HR": [
 "Sport Klub 6 HR",
 "MAXtv To Go"
+],
+"IQ": [
+"beIN Sports MENA 3"
+],
+"JO": [
+"beIN Sports MENA 3"
 ],
 "JP": [
 "DAZN"
@@ -28381,10 +28463,28 @@
 "KR": [
 "Coupang Play"
 ],
+"KW": [
+"beIN Sports MENA 3"
+],
+"LY": [
+"beIN Sports MENA 3"
+],
 "MA": [
 "beIN Sports 3",
 "beIN CONNECT",
 "TOD"
+],
+"OM": [
+"beIN Sports MENA 3"
+],
+"QA": [
+"beIN Sports MENA 3"
+],
+"SA": [
+"beIN Sports MENA 3"
+],
+"TN": [
+"beIN Sports MENA 3"
 ]
 },
 "competition": {
@@ -39025,181 +39125,6 @@
 },
 "slug": "hull-city-ipswich-town-2026-10-31"
 },
-"fr:football-20261031-kaiserslautern-hertha-bsc": {
-"lang": "fr",
-"m": {
-"away": "Hertha BSC",
-"awayNames": {
-"ar": "Hertha BSC",
-"de": "Hertha BSC",
-"en": "Hertha BSC",
-"es": "Hertha BSC",
-"fr": "Hertha BSC",
-"it": "Hertha BSC",
-"pt": "Hertha BSC",
-"tr": "Hertha BSC"
-},
-"broadcasts": {
-"AE": [
-"MBC Shahid",
-"beIN Sports MAX 6"
-],
-"AR": [
-"FOX Sports",
-"Disney+ Premium"
-],
-"AT": [
-"Sky Sport Bundesliga 2",
-"Sky Sport Bundesliga 5",
-"Sky Sport Bundesliga 7",
-"Sky Sport Top Event"
-],
-"BH": [
-"MBC Shahid",
-"beIN Sports MAX 6"
-],
-"BR": [
-"OneFootball",
-"OneFootball PPV"
-],
-"CA": [
-"DAZN Canada"
-],
-"CH": [
-"Sky Sport Bundesliga 5",
-"Sky Sport Bundesliga 3",
-"OneFootball PPV"
-],
-"CL": [
-"Disney+ Premium"
-],
-"CO": [
-"Disney+ Premium"
-],
-"CZ": [
-"Nova Sport 3"
-],
-"DE": [
-"Sky Bundesliga 3",
-"OneFootball Deutschland",
-"WOW"
-],
-"DZ": [
-"MBC Shahid",
-"beIN Sports MAX 6"
-],
-"EC": [
-"Disney+ Premium"
-],
-"EG": [
-"MBC Shahid",
-"beIN Sports MAX 6"
-],
-"ES": [
-"DAZN"
-],
-"FR": [
-"beIN Sports MAX 6 (FR)"
-],
-"IQ": [
-"MBC Shahid",
-"beIN Sports MAX 6"
-],
-"JO": [
-"MBC Shahid",
-"beIN Sports MAX 6"
-],
-"KW": [
-"MBC Shahid",
-"beIN Sports MAX 6"
-],
-"LY": [
-"MBC Shahid",
-"beIN Sports MAX 6"
-],
-"MA": [
-"MBC Shahid",
-"beIN Sports MAX 6"
-],
-"MX": [
-"Bundesliga YouTube"
-],
-"NL": [
-"Viaplay NL"
-],
-"NO": [
-"TV 2 Play (NO)",
-"V sport + NO",
-"Viaplay NO"
-],
-"NZ": [
-"beIN Sports Connect New Zealand"
-],
-"OM": [
-"MBC Shahid",
-"beIN Sports MAX 6"
-],
-"PE": [
-"Disney+ Premium"
-],
-"PT": [
-"DAZN 3"
-],
-"PY": [
-"Disney+ Premium"
-],
-"QA": [
-"MBC Shahid",
-"beIN Sports MAX 6"
-],
-"SA": [
-"MBC Shahid",
-"beIN Sports MAX 6"
-],
-"TN": [
-"MBC Shahid",
-"beIN Sports MAX 6"
-],
-"TR": [
-"S Sport",
-"S Sport Plus"
-],
-"UY": [
-"Disney+ Premium"
-]
-},
-"competition": {
-"ar": "الدوري الألماني الدرجة الثانية",
-"de": "2. Bundesliga",
-"en": "2. Bundesliga",
-"es": "2. Bundesliga",
-"fr": "2. Bundesliga",
-"it": "2. Bundesliga",
-"pt": "2. Bundesliga",
-"tr": "Almanya 2. Bundesliga"
-},
-"competitionId": "bundesliga2",
-"home": "Kaiserslautern",
-"homeNames": {
-"ar": "كايزرسلاوترن",
-"de": "1. FC Kaiserslautern",
-"en": "Kaiserslautern",
-"es": "Kaiserslautern",
-"fr": "Kaiserslautern",
-"it": "Kaiserslautern",
-"pt": "Kaiserslautern",
-"tr": "Kaiserslautern"
-},
-"id": "football-20261031-kaiserslautern-hertha-bsc",
-"kickoffUtc": "2026-10-31T12:00:00Z",
-"sources": [
-"fotmob"
-],
-"sport": "football",
-"tier": "regional"
-},
-"slug": "kaiserslautern-hertha-bsc-2026-10-31"
-},
 "fr:football-20261031-la-galaxy-austin-fc": {
 "lang": "fr",
 "m": {
@@ -42364,115 +42289,6 @@
 "tier": "global"
 },
 "slug": "werder-breme-hoffenheim-2026-10-31"
-},
-"fr:football-20261031-wolfsburg-vfl-osnabruck": {
-"lang": "fr",
-"m": {
-"away": "VFL Osnabruck",
-"awayNames": {
-"ar": "VFL Osnabruck",
-"de": "VFL Osnabruck",
-"en": "VFL Osnabruck",
-"es": "VFL Osnabruck",
-"fr": "VFL Osnabruck",
-"it": "VFL Osnabruck",
-"pt": "VFL Osnabruck",
-"tr": "VFL Osnabruck"
-},
-"broadcasts": {
-"AR": [
-"Disney+ Premium"
-],
-"AT": [
-"Sky Sport Bundesliga 2",
-"Sky Sport Bundesliga 3",
-"Sky Sport Bundesliga 7",
-"Sky Sport Top Event"
-],
-"BR": [
-"Canal GOAT",
-"OneFootball",
-"OneFootball PPV"
-],
-"CH": [
-"Sky Sport Bundesliga 5",
-"Sky Sport Bundesliga 3",
-"OneFootball PPV"
-],
-"CL": [
-"Disney+ Premium"
-],
-"CO": [
-"Disney+ Premium"
-],
-"CZ": [
-"Nova Sport 5"
-],
-"DE": [
-"Sky Bundesliga 5",
-"OneFootball Deutschland",
-"WOW"
-],
-"EC": [
-"Disney+ Premium"
-],
-"FR": [
-"beIN Sports MAX 5 (FR)"
-],
-"MX": [
-"Bundesliga YouTube"
-],
-"NL": [
-"Viaplay NL"
-],
-"NO": [
-"TV 2 Play (NO)",
-"Viaplay NO"
-],
-"NZ": [
-"beIN Sports Connect New Zealand"
-],
-"PE": [
-"Disney+ Premium"
-],
-"PY": [
-"Disney+ Premium"
-],
-"UY": [
-"Disney+ Premium"
-]
-},
-"competition": {
-"ar": "الدوري الألماني الدرجة الثانية",
-"de": "2. Bundesliga",
-"en": "2. Bundesliga",
-"es": "2. Bundesliga",
-"fr": "2. Bundesliga",
-"it": "2. Bundesliga",
-"pt": "2. Bundesliga",
-"tr": "Almanya 2. Bundesliga"
-},
-"competitionId": "bundesliga2",
-"home": "Wolfsburg",
-"homeNames": {
-"ar": "فولفسبورغ",
-"de": "VfL Wolfsburg",
-"en": "VfL Wolfsburg",
-"es": "VfL Wolfsburgo",
-"fr": "Wolfsburg",
-"it": "Wolfsburg",
-"pt": "Wolfsburg",
-"tr": "Wolfsburg"
-},
-"id": "football-20261031-wolfsburg-vfl-osnabruck",
-"kickoffUtc": "2026-10-31T12:00:00Z",
-"sources": [
-"fotmob"
-],
-"sport": "football",
-"tier": "regional"
-},
-"slug": "wolfsburg-vfl-osnabruck-2026-10-31"
 },
 "fr:football-20261101-athletic-club-real-sociedad": {
 "lang": "fr",
@@ -48551,6 +48367,10 @@
 "Pickx+ Sports 2",
 "VTM GO"
 ],
+"BH": [
+"beIN Sports MENA 5",
+"TOD TV"
+],
 "BR": [
 "Space",
 "HBO Max"
@@ -48631,6 +48451,10 @@
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"beIN Sports MENA 5",
+"TOD TV"
 ],
 "LY": [
 "beIN Sports"
@@ -48764,6 +48588,10 @@
 "Play Sports",
 "Play Sports 3"
 ],
+"BH": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
 "BR": [
 "TNT",
 "SBT",
@@ -48848,6 +48676,10 @@
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "LY": [
 "beIN Sports"
@@ -48987,6 +48819,9 @@
 "Play Sports 6",
 "Pickx+ Sports 7"
 ],
+"BH": [
+"beIN Sports MENA 9"
+],
 "BR": [
 "HBO Max"
 ],
@@ -49062,6 +48897,9 @@
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"beIN Sports MENA 9"
 ],
 "LY": [
 "beIN Sports"
@@ -49202,6 +49040,9 @@
 "Play Sports",
 "Play Sports 5"
 ],
+"BH": [
+"beIN Sports MENA 8"
+],
 "BR": [
 "HBO Max"
 ],
@@ -49275,6 +49116,9 @@
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"beIN Sports MENA 8"
 ],
 "LY": [
 "beIN Sports"
@@ -49412,6 +49256,10 @@
 "Pickx+ Sports 2",
 "Play Sports"
 ],
+"BH": [
+"beIN Sports MENA 3",
+"TOD TV"
+],
 "BR": [
 "Space",
 "HBO Max"
@@ -49492,6 +49340,10 @@
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"beIN Sports MENA 3",
+"TOD TV"
 ],
 "LY": [
 "beIN Sports"
@@ -49633,6 +49485,9 @@
 "Play Sports 7",
 "Pickx+ Sports 8"
 ],
+"BH": [
+"TOD TV"
+],
 "BR": [
 "HBO Max"
 ],
@@ -49707,6 +49562,9 @@
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"TOD TV"
 ],
 "LY": [
 "beIN Sports"
@@ -49843,6 +49701,10 @@
 "Play Sports",
 "Play Sports 4"
 ],
+"BH": [
+"beIN Sports MENA 4",
+"TOD TV"
+],
 "BR": [
 "ESPN",
 "TNT Sports YouTube",
@@ -49925,6 +49787,10 @@
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"beIN Sports MENA 4",
+"TOD TV"
 ],
 "LY": [
 "beIN Sports"
@@ -50062,6 +49928,10 @@
 "Play Sports",
 "Pickx+ Sports 3"
 ],
+"BH": [
+"beIN Sports MENA 4",
+"TOD TV"
+],
 "BR": [
 "TNT",
 "HBO Max"
@@ -50144,6 +50014,10 @@
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"beIN Sports MENA 4",
+"TOD TV"
 ],
 "LY": [
 "beIN Sports"
@@ -50281,6 +50155,9 @@
 "BE": [
 "Pickx+ Sports 5"
 ],
+"BH": [
+"beIN Sports MENA 3"
+],
 "BR": [
 "HBO Max"
 ],
@@ -50355,6 +50232,9 @@
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"beIN Sports MENA 3"
 ],
 "LY": [
 "beIN Sports"
@@ -50473,11 +50353,17 @@
 "tr": "Southampton"
 },
 "broadcasts": {
+"AE": [
+"TOD TV"
+],
 "AR": [
 "Disney+ Premium"
 ],
 "AU": [
 "beIN Sports 3"
+],
+"BH": [
+"TOD TV"
 ],
 "BR": [
 "ESPN 4",
@@ -50492,8 +50378,14 @@
 "CO": [
 "Disney+ Premium"
 ],
+"DZ": [
+"TOD TV"
+],
 "EC": [
 "Disney+ Premium"
+],
+"EG": [
+"TOD TV"
 ],
 "FR": [
 "beIN Sports MAX 5 (FR)"
@@ -50511,8 +50403,20 @@
 "MAXtv To Go",
 "Arena Sport 6"
 ],
+"IQ": [
+"TOD TV"
+],
+"JO": [
+"TOD TV"
+],
 "JP": [
 "DAZN"
+],
+"KW": [
+"TOD TV"
+],
+"LY": [
+"TOD TV"
 ],
 "MA": [
 "beIN Sports XTRA 2",
@@ -50534,6 +50438,9 @@
 "NZ": [
 "beIN Sports Connect New Zealand"
 ],
+"OM": [
+"TOD TV"
+],
 "PE": [
 "Disney+ Premium"
 ],
@@ -50542,6 +50449,15 @@
 ],
 "PY": [
 "Disney+ Premium"
+],
+"QA": [
+"TOD TV"
+],
+"SA": [
+"TOD TV"
+],
+"TN": [
+"TOD TV"
 ],
 "TR": [
 "S Sport"
