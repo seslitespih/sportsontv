@@ -9250,169 +9250,6 @@
 },
 "slug": "club-deportivo-moquegua-los-chankas-2026-11-01"
 },
-"es:football-20261101-como-venezia": {
-"lang": "es",
-"m": {
-"away": "Venezia",
-"awayNames": {
-"ar": "Venezia",
-"de": "Venezia",
-"en": "Venezia",
-"es": "Venezia",
-"fr": "Venezia",
-"it": "Venezia",
-"pt": "Venezia",
-"tr": "Venezia"
-},
-"broadcasts": {
-"AR": [
-"ESPN",
-"Disney+ Premium"
-],
-"AT": [
-"DAZN"
-],
-"AU": [
-"beIN Sports 2",
-"beIN CONNECT"
-],
-"BE": [
-"DAZN (BE)"
-],
-"BR": [
-"Disney+ Premium"
-],
-"CA": [
-"DAZN Canada"
-],
-"CH": [
-"DAZN"
-],
-"CL": [
-"ESPN 3",
-"Disney+ Premium"
-],
-"CO": [
-"ESPN 3",
-"Disney+ Premium"
-],
-"CZ": [
-"Sport 1"
-],
-"DE": [
-"DAZN Deutschland"
-],
-"EC": [
-"ESPN 3",
-"Disney+ Premium"
-],
-"ES": [
-"DAZN"
-],
-"FR": [
-"DAZN.com (FR)",
-"DAZN 1 (FR)"
-],
-"GB": [
-"DAZN UK"
-],
-"GH": [
-"SuperSport Football",
-"SuperSport Kickoff"
-],
-"HR": [
-"MAXtv To Go",
-"Arena Sport 1"
-],
-"IT": [
-"DAZN Italia"
-],
-"JP": [
-"DAZN"
-],
-"KR": [
-"SPOTV NOW"
-],
-"MA": [
-"STARZPLAY"
-],
-"MX": [
-"ESPN",
-"Disney+ Premium"
-],
-"NG": [
-"SuperSport Football",
-"SuperSport Kickoff"
-],
-"NL": [
-"Ziggo Sport 2"
-],
-"NO": [
-"VG TV"
-],
-"NZ": [
-"beIN Sports Connect New Zealand"
-],
-"PE": [
-"ESPN 3",
-"Disney+ Premium"
-],
-"PT": [
-"Sport TV 2"
-],
-"PY": [
-"ESPN 3",
-"Disney+ Premium"
-],
-"TR": [
-"S Sport",
-"S Sport 2",
-"S Sport Plus"
-],
-"US": [
-"Paramount+ (US)",
-"Peacock (Español)"
-],
-"UY": [
-"ESPN 3",
-"Disney+ Premium"
-],
-"ZA": [
-"SuperSport Football"
-]
-},
-"competition": {
-"ar": "الدوري الإيطالي",
-"de": "Serie A",
-"en": "Serie A",
-"es": "Serie A",
-"fr": "Serie A",
-"it": "Serie A",
-"pt": "Serie A",
-"tr": "İtalya Serie A"
-},
-"competitionId": "seriea",
-"home": "Como",
-"homeNames": {
-"ar": "كومو",
-"de": "Como",
-"en": "Como",
-"es": "Como",
-"fr": "Como",
-"it": "Como",
-"pt": "Como",
-"tr": "Como"
-},
-"id": "football-20261101-como-venezia",
-"kickoffUtc": "2026-11-01T11:30:00Z",
-"sources": [
-"fotmob"
-],
-"sport": "football",
-"tier": "global"
-},
-"slug": "como-venezia-2026-11-01"
-},
 "es:football-20261101-cusco-fc-sport-boys": {
 "lang": "es",
 "m": {
@@ -10076,99 +9913,6 @@
 "tier": "regional"
 },
 "slug": "empoli-juve-stabia-2026-11-01"
-},
-"es:football-20261101-fc-kolos-kovalivka-polissya-zhytomyr": {
-"lang": "es",
-"m": {
-"away": "Polissya Zhytomyr",
-"awayNames": {
-"ar": "Polissya Zhytomyr",
-"de": "Polissya Zhytomyr",
-"en": "Polissya Zhytomyr",
-"es": "Polissya Zhytomyr",
-"fr": "Polissya Zhytomyr",
-"it": "Polissya Zhytomyr",
-"pt": "Polissya Zhytomyr",
-"tr": "Polissya Zhytomyr"
-},
-"broadcasts": {
-"AR": [
-"OneFootball PPV"
-],
-"AT": [
-"OneFootball PPV"
-],
-"AU": [
-"OneFootball PPV"
-],
-"BR": [
-"OneFootball PPV"
-],
-"CH": [
-"OneFootball PPV"
-],
-"CL": [
-"OneFootball PPV"
-],
-"CO": [
-"OneFootball PPV"
-],
-"EC": [
-"OneFootball PPV"
-],
-"ES": [
-"OneFootball PPV"
-],
-"JP": [
-"OneFootball PPV"
-],
-"MX": [
-"OneFootball PPV"
-],
-"PE": [
-"OneFootball PPV"
-],
-"PT": [
-"OneFootball PPV"
-],
-"PY": [
-"OneFootball PPV"
-],
-"UY": [
-"OneFootball PPV"
-]
-},
-"competition": {
-"ar": "الدوري الأوكراني",
-"de": "Ukrainische Premier League",
-"en": "Ukrainian Premier League",
-"es": "Liga Premier de Ucrania",
-"fr": "Premier League ukrainienne",
-"it": "Premier League ucraina",
-"pt": "Liga Premier da Ucrânia",
-"tr": "Ukrayna Premier Ligi"
-},
-"competitionId": "ukr_pl",
-"home": "FC Kolos Kovalivka",
-"homeNames": {
-"ar": "FC Kolos Kovalivka",
-"de": "FC Kolos Kovalivka",
-"en": "FC Kolos Kovalivka",
-"es": "FC Kolos Kovalivka",
-"fr": "FC Kolos Kovalivka",
-"it": "FC Kolos Kovalivka",
-"pt": "FC Kolos Kovalivka",
-"tr": "FC Kolos Kovalivka"
-},
-"id": "football-20261101-fc-kolos-kovalivka-polissya-zhytomyr",
-"kickoffUtc": "2026-11-01T11:00:00Z",
-"sources": [
-"fotmob"
-],
-"sport": "football",
-"tier": "regional"
-},
-"slug": "fc-kolos-kovalivka-polissya-zhytomyr-2026-11-01"
 },
 "es:football-20261101-frankfurt-hamburger-sv": {
 "lang": "es",
@@ -11827,99 +11571,6 @@
 "tier": "regional"
 },
 "slug": "liverpool-fc-juventud-de-las-piedras-2026-11-02"
-},
-"es:football-20261101-lnz-cherkasy-fc-kharkiv": {
-"lang": "es",
-"m": {
-"away": "FC Kharkiv",
-"awayNames": {
-"ar": "FC Kharkiv",
-"de": "FC Kharkiv",
-"en": "FC Kharkiv",
-"es": "FC Kharkiv",
-"fr": "FC Kharkiv",
-"it": "FC Kharkiv",
-"pt": "FC Kharkiv",
-"tr": "FC Kharkiv"
-},
-"broadcasts": {
-"AR": [
-"OneFootball PPV"
-],
-"AT": [
-"OneFootball PPV"
-],
-"AU": [
-"OneFootball PPV"
-],
-"BR": [
-"OneFootball PPV"
-],
-"CH": [
-"OneFootball PPV"
-],
-"CL": [
-"OneFootball PPV"
-],
-"CO": [
-"OneFootball PPV"
-],
-"EC": [
-"OneFootball PPV"
-],
-"ES": [
-"OneFootball PPV"
-],
-"JP": [
-"OneFootball PPV"
-],
-"MX": [
-"OneFootball PPV"
-],
-"PE": [
-"OneFootball PPV"
-],
-"PT": [
-"OneFootball PPV"
-],
-"PY": [
-"OneFootball PPV"
-],
-"UY": [
-"OneFootball PPV"
-]
-},
-"competition": {
-"ar": "الدوري الأوكراني",
-"de": "Ukrainische Premier League",
-"en": "Ukrainian Premier League",
-"es": "Liga Premier de Ucrania",
-"fr": "Premier League ukrainienne",
-"it": "Premier League ucraina",
-"pt": "Liga Premier da Ucrânia",
-"tr": "Ukrayna Premier Ligi"
-},
-"competitionId": "ukr_pl",
-"home": "LNZ Cherkasy",
-"homeNames": {
-"ar": "LNZ Cherkasy",
-"de": "LNZ Cherkasy",
-"en": "LNZ Cherkasy",
-"es": "LNZ Cherkasy",
-"fr": "LNZ Cherkasy",
-"it": "LNZ Cherkasy",
-"pt": "LNZ Cherkasy",
-"tr": "LNZ Cherkasy"
-},
-"id": "football-20261101-lnz-cherkasy-fc-kharkiv",
-"kickoffUtc": "2026-11-01T11:00:00Z",
-"sources": [
-"fotmob"
-],
-"sport": "football",
-"tier": "regional"
-},
-"slug": "lnz-cherkasy-fc-kharkiv-2026-11-01"
 },
 "es:football-20261101-lyon-angers": {
 "lang": "es",
@@ -21454,6 +21105,10 @@
 "Play Sports",
 "Pickx+ Sports 3"
 ],
+"BH": [
+"beIN Sports MENA 2",
+"TOD TV"
+],
 "BR": [
 "TNT",
 "HBO Max"
@@ -21537,6 +21192,10 @@
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"beIN Sports MENA 2",
+"TOD TV"
 ],
 "LY": [
 "beIN Sports"
@@ -21871,6 +21530,10 @@
 "tr": "Kashima Antlers"
 },
 "broadcasts": {
+"AE": [
+"beIN Sports MENA 3",
+"TOD TV"
+],
 "AR": [
 "Disney+ Premium"
 ],
@@ -21881,6 +21544,10 @@
 ],
 "AU": [
 "Paramount+"
+],
+"BH": [
+"beIN Sports MENA 3",
+"TOD TV"
 ],
 "BR": [
 "Disney+ Premium"
@@ -21900,8 +21567,16 @@
 "Sportdigital+",
 "Sportdigital1+"
 ],
+"DZ": [
+"beIN Sports MENA 3",
+"TOD TV"
+],
 "EC": [
 "Disney+ Premium"
+],
+"EG": [
+"beIN Sports MENA 3",
+"TOD TV"
 ],
 "ES": [
 "The AFC Hub YouTube"
@@ -21913,11 +21588,27 @@
 "MAXtv To Go",
 "Sportklub 1 Croatia"
 ],
+"IQ": [
+"beIN Sports MENA 3",
+"TOD TV"
+],
+"JO": [
+"beIN Sports MENA 3",
+"TOD TV"
+],
 "JP": [
 "DAZN"
 ],
 "KR": [
 "Coupang Play"
+],
+"KW": [
+"beIN Sports MENA 3",
+"TOD TV"
+],
+"LY": [
+"beIN Sports MENA 3",
+"TOD TV"
 ],
 "MA": [
 "beIN Sports 3",
@@ -21927,6 +21618,10 @@
 "MX": [
 "Disney+ Premium"
 ],
+"OM": [
+"beIN Sports MENA 3",
+"TOD TV"
+],
 "PE": [
 "Disney+ Premium"
 ],
@@ -21935,6 +21630,18 @@
 ],
 "PY": [
 "Disney+ Premium"
+],
+"QA": [
+"beIN Sports MENA 3",
+"TOD TV"
+],
+"SA": [
+"beIN Sports MENA 3",
+"TOD TV"
+],
+"TN": [
+"beIN Sports MENA 3",
+"TOD TV"
 ],
 "UY": [
 "Disney+ Premium"
@@ -22085,6 +21792,10 @@
 "BE": [
 "Pickx+ Sports 5"
 ],
+"BH": [
+"beIN Sports MENA 5",
+"TOD TV"
+],
 "BR": [
 "TNT Sports YouTube",
 "Space",
@@ -22165,6 +21876,10 @@
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"beIN Sports MENA 5",
+"TOD TV"
 ],
 "LY": [
 "beIN Sports"
@@ -22304,6 +22019,10 @@
 "Pickx+ Sports 2",
 "Play Sports"
 ],
+"BH": [
+"beIN Sports MENA 4",
+"TOD TV"
+],
 "BR": [
 "Space",
 "HBO Max"
@@ -22383,6 +22102,10 @@
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"beIN Sports MENA 4",
+"TOD TV"
 ],
 "LY": [
 "beIN Sports"
@@ -22727,6 +22450,9 @@
 "Play Sports 6",
 "Pickx+ Sports 7"
 ],
+"BH": [
+"beIN Sports MENA 9"
+],
 "BR": [
 "HBO Max"
 ],
@@ -22807,6 +22533,9 @@
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"beIN Sports MENA 9"
 ],
 "LY": [
 "beIN Sports"
@@ -22925,11 +22654,27 @@
 "tr": "Gamba Osaka"
 },
 "broadcasts": {
+"AE": [
+"beIN Sports MENA 3",
+"TOD TV"
+],
 "AU": [
 "Paramount+"
 ],
+"BH": [
+"beIN Sports MENA 3",
+"TOD TV"
+],
 "BR": [
 "Disney+ Premium"
+],
+"DZ": [
+"beIN Sports MENA 3",
+"TOD TV"
+],
+"EG": [
+"beIN Sports MENA 3",
+"TOD TV"
 ],
 "ES": [
 "The AFC Hub YouTube"
@@ -22941,13 +22686,45 @@
 "MAXtv To Go",
 "Sportklub 1 Croatia"
 ],
+"IQ": [
+"beIN Sports MENA 3",
+"TOD TV"
+],
+"JO": [
+"beIN Sports MENA 3",
+"TOD TV"
+],
 "KR": [
 "Coupang Play"
+],
+"KW": [
+"beIN Sports MENA 3",
+"TOD TV"
+],
+"LY": [
+"beIN Sports MENA 3",
+"TOD TV"
 ],
 "MA": [
 "beIN Sports 3",
 "TOD",
 "beIN CONNECT"
+],
+"OM": [
+"beIN Sports MENA 3",
+"TOD TV"
+],
+"QA": [
+"beIN Sports MENA 3",
+"TOD TV"
+],
+"SA": [
+"beIN Sports MENA 3",
+"TOD TV"
+],
+"TN": [
+"beIN Sports MENA 3",
+"TOD TV"
 ],
 "TR": [
 "D-Smart GO"
@@ -23020,6 +22797,10 @@
 "Pickx+ Sports 3",
 "Play Sports",
 "Play Sports 5"
+],
+"BH": [
+"beIN Sports MENA 4",
+"TOD TV"
 ],
 "BR": [
 "HBO Max"
@@ -23100,6 +22881,10 @@
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"beIN Sports MENA 4",
+"TOD TV"
 ],
 "LY": [
 "beIN Sports"
@@ -23241,6 +23026,9 @@
 "VTM GO",
 "VTM 2"
 ],
+"BH": [
+"beIN Sports MENA 8"
+],
 "BR": [
 "HBO Max"
 ],
@@ -23318,6 +23106,9 @@
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"beIN Sports MENA 8"
 ],
 "LY": [
 "beIN Sports"
@@ -23452,6 +23243,10 @@
 "Play Sports",
 "Play Sports 3"
 ],
+"BH": [
+"beIN Sports MENA 3",
+"TOD TV"
+],
 "BR": [
 "HBO Max"
 ],
@@ -23533,6 +23328,10 @@
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"beIN Sports MENA 3",
+"TOD TV"
 ],
 "LY": [
 "beIN Sports"
@@ -23666,6 +23465,10 @@
 "BE": [
 "Play Sports"
 ],
+"BH": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
 "BR": [
 "CazeTV"
 ],
@@ -23734,12 +23537,20 @@
 "KR": [
 "SPOTV NOW"
 ],
+"KW": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
 "LY": [
 "beIN Sports"
 ],
 "MA": [
 "beIN Sports 1",
 "beIN CONNECT"
+],
+"MX": [
+"Claro Sports",
+"Claro Sports Premium YouTube"
 ],
 "NO": [
 "Viaplay NO",
@@ -23848,6 +23659,10 @@
 "Pickx+ Sports 6",
 "Play Sports"
 ],
+"BH": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
 "BR": [
 "TNT",
 "HBO Max"
@@ -23929,6 +23744,10 @@
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "LY": [
 "beIN Sports"
@@ -24070,6 +23889,9 @@
 "Play Sports 7",
 "Pickx+ Sports 8"
 ],
+"BH": [
+"TOD TV"
+],
 "BR": [
 "HBO Max"
 ],
@@ -24142,6 +23964,9 @@
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"TOD TV"
 ],
 "LY": [
 "beIN Sports"
@@ -33024,169 +32849,6 @@
 },
 "slug": "sc-braga-famalicao-2026-11-01"
 },
-"fr:football-20261101-como-venezia": {
-"lang": "fr",
-"m": {
-"away": "Venezia",
-"awayNames": {
-"ar": "Venezia",
-"de": "Venezia",
-"en": "Venezia",
-"es": "Venezia",
-"fr": "Venezia",
-"it": "Venezia",
-"pt": "Venezia",
-"tr": "Venezia"
-},
-"broadcasts": {
-"AR": [
-"ESPN",
-"Disney+ Premium"
-],
-"AT": [
-"DAZN"
-],
-"AU": [
-"beIN Sports 2",
-"beIN CONNECT"
-],
-"BE": [
-"DAZN (BE)"
-],
-"BR": [
-"Disney+ Premium"
-],
-"CA": [
-"DAZN Canada"
-],
-"CH": [
-"DAZN"
-],
-"CL": [
-"ESPN 3",
-"Disney+ Premium"
-],
-"CO": [
-"ESPN 3",
-"Disney+ Premium"
-],
-"CZ": [
-"Sport 1"
-],
-"DE": [
-"DAZN Deutschland"
-],
-"EC": [
-"ESPN 3",
-"Disney+ Premium"
-],
-"ES": [
-"DAZN"
-],
-"FR": [
-"DAZN.com (FR)",
-"DAZN 1 (FR)"
-],
-"GB": [
-"DAZN UK"
-],
-"GH": [
-"SuperSport Football",
-"SuperSport Kickoff"
-],
-"HR": [
-"MAXtv To Go",
-"Arena Sport 1"
-],
-"IT": [
-"DAZN Italia"
-],
-"JP": [
-"DAZN"
-],
-"KR": [
-"SPOTV NOW"
-],
-"MA": [
-"STARZPLAY"
-],
-"MX": [
-"ESPN",
-"Disney+ Premium"
-],
-"NG": [
-"SuperSport Football",
-"SuperSport Kickoff"
-],
-"NL": [
-"Ziggo Sport 2"
-],
-"NO": [
-"VG TV"
-],
-"NZ": [
-"beIN Sports Connect New Zealand"
-],
-"PE": [
-"ESPN 3",
-"Disney+ Premium"
-],
-"PT": [
-"Sport TV 2"
-],
-"PY": [
-"ESPN 3",
-"Disney+ Premium"
-],
-"TR": [
-"S Sport",
-"S Sport 2",
-"S Sport Plus"
-],
-"US": [
-"Paramount+ (US)",
-"Peacock (Español)"
-],
-"UY": [
-"ESPN 3",
-"Disney+ Premium"
-],
-"ZA": [
-"SuperSport Football"
-]
-},
-"competition": {
-"ar": "الدوري الإيطالي",
-"de": "Serie A",
-"en": "Serie A",
-"es": "Serie A",
-"fr": "Serie A",
-"it": "Serie A",
-"pt": "Serie A",
-"tr": "İtalya Serie A"
-},
-"competitionId": "seriea",
-"home": "Como",
-"homeNames": {
-"ar": "كومو",
-"de": "Como",
-"en": "Como",
-"es": "Como",
-"fr": "Como",
-"it": "Como",
-"pt": "Como",
-"tr": "Como"
-},
-"id": "football-20261101-como-venezia",
-"kickoffUtc": "2026-11-01T11:30:00Z",
-"sources": [
-"fotmob"
-],
-"sport": "football",
-"tier": "global"
-},
-"slug": "como-venezia-2026-11-01"
-},
 "fr:football-20261101-elche-valencia": {
 "lang": "fr",
 "m": {
@@ -40670,6 +40332,10 @@
 "Play Sports",
 "Pickx+ Sports 3"
 ],
+"BH": [
+"beIN Sports MENA 2",
+"TOD TV"
+],
 "BR": [
 "TNT",
 "HBO Max"
@@ -40753,6 +40419,10 @@
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"beIN Sports MENA 2",
+"TOD TV"
 ],
 "LY": [
 "beIN Sports"
@@ -40872,11 +40542,17 @@
 "tr": "Wolverhampton Wanderers"
 },
 "broadcasts": {
+"AE": [
+"TOD TV"
+],
 "AR": [
 "Disney+ Premium"
 ],
 "AU": [
 "beIN Sports 3"
+],
+"BH": [
+"TOD TV"
 ],
 "BR": [
 "ESPN 4",
@@ -40891,8 +40567,14 @@
 "CO": [
 "Disney+ Premium"
 ],
+"DZ": [
+"TOD TV"
+],
 "EC": [
 "Disney+ Premium"
+],
+"EG": [
+"TOD TV"
 ],
 "FR": [
 "beIN Sports MAX 6 (FR)",
@@ -40912,8 +40594,20 @@
 "MAX To Go",
 "MAXtv To Go"
 ],
+"IQ": [
+"TOD TV"
+],
+"JO": [
+"TOD TV"
+],
 "JP": [
 "DAZN"
+],
+"KW": [
+"TOD TV"
+],
+"LY": [
+"TOD TV"
 ],
 "MA": [
 "beIN Sports XTRA 2",
@@ -40935,6 +40629,9 @@
 "NZ": [
 "beIN Sports Connect New Zealand"
 ],
+"OM": [
+"TOD TV"
+],
 "PE": [
 "Disney+ Premium"
 ],
@@ -40943,6 +40640,15 @@
 ],
 "PY": [
 "Disney+ Premium"
+],
+"QA": [
+"TOD TV"
+],
+"SA": [
+"TOD TV"
+],
+"TN": [
+"TOD TV"
 ],
 "TR": [
 "S Sport",
@@ -41020,6 +40726,10 @@
 ],
 "BE": [
 "Pickx+ Sports 5"
+],
+"BH": [
+"beIN Sports MENA 5",
+"TOD TV"
 ],
 "BR": [
 "TNT Sports YouTube",
@@ -41101,6 +40811,10 @@
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"beIN Sports MENA 5",
+"TOD TV"
 ],
 "LY": [
 "beIN Sports"
@@ -41240,6 +40954,10 @@
 "Pickx+ Sports 2",
 "Play Sports"
 ],
+"BH": [
+"beIN Sports MENA 4",
+"TOD TV"
+],
 "BR": [
 "Space",
 "HBO Max"
@@ -41319,6 +41037,10 @@
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"beIN Sports MENA 4",
+"TOD TV"
 ],
 "LY": [
 "beIN Sports"
@@ -41460,6 +41182,9 @@
 "Play Sports 6",
 "Pickx+ Sports 7"
 ],
+"BH": [
+"beIN Sports MENA 9"
+],
 "BR": [
 "HBO Max"
 ],
@@ -41540,6 +41265,9 @@
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"beIN Sports MENA 9"
 ],
 "LY": [
 "beIN Sports"
@@ -41679,6 +41407,10 @@
 "Play Sports",
 "Play Sports 5"
 ],
+"BH": [
+"beIN Sports MENA 4",
+"TOD TV"
+],
 "BR": [
 "HBO Max"
 ],
@@ -41758,6 +41490,10 @@
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"beIN Sports MENA 4",
+"TOD TV"
 ],
 "LY": [
 "beIN Sports"
@@ -41899,6 +41635,9 @@
 "VTM GO",
 "VTM 2"
 ],
+"BH": [
+"beIN Sports MENA 8"
+],
 "BR": [
 "HBO Max"
 ],
@@ -41976,6 +41715,9 @@
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"beIN Sports MENA 8"
 ],
 "LY": [
 "beIN Sports"
@@ -42110,6 +41852,10 @@
 "Play Sports",
 "Play Sports 3"
 ],
+"BH": [
+"beIN Sports MENA 3",
+"TOD TV"
+],
 "BR": [
 "HBO Max"
 ],
@@ -42191,6 +41937,10 @@
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"beIN Sports MENA 3",
+"TOD TV"
 ],
 "LY": [
 "beIN Sports"
@@ -42324,6 +42074,10 @@
 "BE": [
 "Play Sports"
 ],
+"BH": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
 "BR": [
 "CazeTV"
 ],
@@ -42392,12 +42146,20 @@
 "KR": [
 "SPOTV NOW"
 ],
+"KW": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
 "LY": [
 "beIN Sports"
 ],
 "MA": [
 "beIN Sports 1",
 "beIN CONNECT"
+],
+"MX": [
+"Claro Sports",
+"Claro Sports Premium YouTube"
 ],
 "NO": [
 "Viaplay NO",
@@ -42506,6 +42268,10 @@
 "Pickx+ Sports 6",
 "Play Sports"
 ],
+"BH": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
 "BR": [
 "TNT",
 "HBO Max"
@@ -42587,6 +42353,10 @@
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "LY": [
 "beIN Sports"
@@ -42728,6 +42498,9 @@
 "Play Sports 7",
 "Pickx+ Sports 8"
 ],
+"BH": [
+"TOD TV"
+],
 "BR": [
 "HBO Max"
 ],
@@ -42800,6 +42573,9 @@
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"TOD TV"
 ],
 "LY": [
 "beIN Sports"
