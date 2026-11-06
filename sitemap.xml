@@ -528,12 +528,6 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://sportstvtoday.com/ar/about/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://sportstvtoday.com/about/"/>
   </url>
-  <url><loc>https://sportstvtoday.com/es/partido/jeonbuk-hyundai-motors-fc-johor-darul-ta-zim-2026-11-03/</loc>
-  </url>
-  <url><loc>https://sportstvtoday.com/es/partido/kashiwa-reysol-daejeon-hana-citizen-2026-11-03/</loc>
-  </url>
-  <url><loc>https://sportstvtoday.com/es/partido/vissel-kobe-ratchaburi-fc-2026-11-03/</loc>
-  </url>
   <url><loc>https://sportstvtoday.com/es/partido/cong-an-ha-noi-kyoto-sanga-fc-2026-11-03/</loc>
   </url>
   <url><loc>https://sportstvtoday.com/es/partido/port-fc-beijing-guoan-2026-11-03/</loc>
@@ -1190,6 +1184,8 @@
   </url>
   <url><loc>https://sportstvtoday.com/fr/match/al-ittihad-neom-sc-2026-11-06/</loc>
   </url>
+  <url><loc>https://sportstvtoday.com/es/partido/barracas-central-racing-club-2026-11-06/</loc>
+  </url>
   <url><loc>https://sportstvtoday.com/fr/match/boulogne-annecy-fc-2026-11-06/</loc>
   </url>
   <url><loc>https://sportstvtoday.com/fr/match/dijon-red-star-fc-2026-11-06/</loc>
@@ -1245,6 +1241,10 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/seville-fc-deportivo-alaves-2026-11-06/"/>
   </url>
   <url><loc>https://sportstvtoday.com/es/partido/san-lorenzo-club-atletico-platense-2026-11-06/</loc>
+  </url>
+  <url><loc>https://sportstvtoday.com/es/partido/union-santa-fe-velez-sarsfield-2026-11-06/</loc>
+  </url>
+  <url><loc>https://sportstvtoday.com/es/partido/independiente-deportivo-riestra-2026-11-06/</loc>
   </url>
   <url><loc>https://sportstvtoday.com/es/partido/chico-fc-internacional-de-bogota-2026-11-07/</loc>
   </url>
@@ -1307,6 +1307,10 @@
   <url><loc>https://sportstvtoday.com/fr/match/new-orleans-pelicans-minnesota-timberwolves-2026-11-07/</loc>
     <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/new-orleans-pelicans-minnesota-timberwolves-2026-11-07/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/new-orleans-pelicans-minnesota-timberwolves-2026-11-07/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/es/partido/banfield-atletico-tucuman-2026-11-07/</loc>
+  </url>
+  <url><loc>https://sportstvtoday.com/es/partido/tigre-sarmiento-2026-11-07/</loc>
   </url>
   <url><loc>https://sportstvtoday.com/es/laliga/</loc>
     <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/laliga/"/>

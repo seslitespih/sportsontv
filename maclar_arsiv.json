@@ -7857,228 +7857,6 @@
 },
 "slug": "galatasaray-vfb-stuttgart-2026-11-03"
 },
-"es:football-20261103-jeonbuk-hyundai-motors-fc-johor-darul-ta-zim": {
-"lang": "es",
-"m": {
-"away": "Johor Darul Ta'zim",
-"awayNames": {
-"ar": "Johor Darul Ta'zim",
-"de": "Johor Darul Ta'zim",
-"en": "Johor Darul Ta'zim",
-"es": "Johor Darul Ta'zim",
-"fr": "Johor Darul Ta'zim",
-"it": "Johor Darul Ta'zim",
-"pt": "Johor Darul Ta'zim",
-"tr": "Johor Darul Ta'zim"
-},
-"broadcasts": {
-"AE": [
-"beIN Sports MENA 4"
-],
-"AU": [
-"Paramount+"
-],
-"BH": [
-"beIN Sports MENA 4"
-],
-"BR": [
-"Disney+ Premium"
-],
-"DZ": [
-"beIN Sports MENA 4"
-],
-"EG": [
-"beIN Sports MENA 4"
-],
-"ES": [
-"The AFC Hub YouTube"
-],
-"GB": [
-"Youtube UK"
-],
-"HR": [
-"Sport Klub 3 HR",
-"MAXtv To Go"
-],
-"IQ": [
-"beIN Sports MENA 4"
-],
-"JO": [
-"beIN Sports MENA 4"
-],
-"JP": [
-"DAZN"
-],
-"KR": [
-"Coupang Play"
-],
-"KW": [
-"beIN Sports MENA 4"
-],
-"LY": [
-"beIN Sports MENA 4"
-],
-"MA": [
-"beIN Sports 4",
-"beIN CONNECT",
-"TOD"
-],
-"OM": [
-"beIN Sports MENA 4"
-],
-"QA": [
-"beIN Sports MENA 4"
-],
-"SA": [
-"beIN Sports MENA 4"
-],
-"TN": [
-"beIN Sports MENA 4"
-]
-},
-"competition": {
-"ar": "دوري أبطال آسيا للنخبة",
-"de": "AFC Champions League Elite",
-"en": "AFC Champions League Elite",
-"es": "Liga de Campeones de la AFC Elite",
-"fr": "Ligue des champions de l'AFC Elite",
-"it": "AFC Champions League Elite",
-"pt": "Liga dos Campeões da AFC Elite",
-"tr": "AFC Şampiyonlar Ligi Elit"
-},
-"competitionId": "afc_cl",
-"home": "Jeonbuk Hyundai Motors FC",
-"homeNames": {
-"ar": "Jeonbuk Hyundai Motors FC",
-"de": "Jeonbuk Hyundai Motors FC",
-"en": "Jeonbuk Hyundai Motors FC",
-"es": "Jeonbuk Hyundai Motors FC",
-"fr": "Jeonbuk Hyundai Motors FC",
-"it": "Jeonbuk Hyundai Motors FC",
-"pt": "Jeonbuk Hyundai Motors FC",
-"tr": "Jeonbuk Hyundai Motors FC"
-},
-"id": "football-20261103-jeonbuk-hyundai-motors-fc-johor-darul-ta-zim",
-"kickoffUtc": "2026-11-03T10:00:00Z",
-"sources": [
-"fotmob"
-],
-"sport": "football",
-"tier": "global"
-},
-"slug": "jeonbuk-hyundai-motors-fc-johor-darul-ta-zim-2026-11-03"
-},
-"es:football-20261103-kashiwa-reysol-daejeon-hana-citizen": {
-"lang": "es",
-"m": {
-"away": "Daejeon Hana Citizen",
-"awayNames": {
-"ar": "Daejeon Hana Citizen",
-"de": "Daejeon Hana Citizen",
-"en": "Daejeon Hana Citizen",
-"es": "Daejeon Hana Citizen",
-"fr": "Daejeon Hana Citizen",
-"it": "Daejeon Hana Citizen",
-"pt": "Daejeon Hana Citizen",
-"tr": "Daejeon Hana Citizen"
-},
-"broadcasts": {
-"AE": [
-"beIN Sports MENA 2"
-],
-"AU": [
-"Paramount+"
-],
-"BH": [
-"beIN Sports MENA 2"
-],
-"BR": [
-"Disney+ Premium"
-],
-"DZ": [
-"beIN Sports MENA 2"
-],
-"EG": [
-"beIN Sports MENA 2"
-],
-"ES": [
-"The AFC Hub YouTube"
-],
-"GB": [
-"Youtube UK"
-],
-"HR": [
-"Sportklub 1 Croatia",
-"MAXtv To Go"
-],
-"IQ": [
-"beIN Sports MENA 2"
-],
-"JO": [
-"beIN Sports MENA 2"
-],
-"JP": [
-"DAZN"
-],
-"KR": [
-"Coupang Play"
-],
-"KW": [
-"beIN Sports MENA 2"
-],
-"LY": [
-"beIN Sports MENA 2"
-],
-"MA": [
-"beIN Sports 2",
-"beIN CONNECT",
-"TOD"
-],
-"OM": [
-"beIN Sports MENA 2"
-],
-"QA": [
-"beIN Sports MENA 2"
-],
-"SA": [
-"beIN Sports MENA 2"
-],
-"TN": [
-"beIN Sports MENA 2"
-]
-},
-"competition": {
-"ar": "دوري أبطال آسيا للنخبة",
-"de": "AFC Champions League Elite",
-"en": "AFC Champions League Elite",
-"es": "Liga de Campeones de la AFC Elite",
-"fr": "Ligue des champions de l'AFC Elite",
-"it": "AFC Champions League Elite",
-"pt": "Liga dos Campeões da AFC Elite",
-"tr": "AFC Şampiyonlar Ligi Elit"
-},
-"competitionId": "afc_cl",
-"home": "Kashiwa Reysol",
-"homeNames": {
-"ar": "Kashiwa Reysol",
-"de": "Kashiwa Reysol",
-"en": "Kashiwa Reysol",
-"es": "Kashiwa Reysol",
-"fr": "Kashiwa Reysol",
-"it": "Kashiwa Reysol",
-"pt": "Kashiwa Reysol",
-"tr": "Kashiwa Reysol"
-},
-"id": "football-20261103-kashiwa-reysol-daejeon-hana-citizen",
-"kickoffUtc": "2026-11-03T10:00:00Z",
-"sources": [
-"fotmob"
-],
-"sport": "football",
-"tier": "global"
-},
-"slug": "kashiwa-reysol-daejeon-hana-citizen-2026-11-03"
-},
 "es:football-20261103-lask-slovan-bratislava": {
 "lang": "es",
 "m": {
@@ -9154,117 +8932,6 @@
 "tier": "global"
 },
 "slug": "villarreal-cf-psg-2026-11-03"
-},
-"es:football-20261103-vissel-kobe-ratchaburi-fc": {
-"lang": "es",
-"m": {
-"away": "Ratchaburi FC",
-"awayNames": {
-"ar": "Ratchaburi FC",
-"de": "Ratchaburi FC",
-"en": "Ratchaburi FC",
-"es": "Ratchaburi FC",
-"fr": "Ratchaburi FC",
-"it": "Ratchaburi FC",
-"pt": "Ratchaburi FC",
-"tr": "Ratchaburi FC"
-},
-"broadcasts": {
-"AE": [
-"beIN Sports MENA 3"
-],
-"AU": [
-"Paramount+"
-],
-"BH": [
-"beIN Sports MENA 3"
-],
-"BR": [
-"Disney+ Premium"
-],
-"DZ": [
-"beIN Sports MENA 3"
-],
-"EG": [
-"beIN Sports MENA 3"
-],
-"ES": [
-"The AFC Hub YouTube"
-],
-"GB": [
-"Youtube UK"
-],
-"HR": [
-"Sport Klub 6 HR",
-"MAXtv To Go"
-],
-"IQ": [
-"beIN Sports MENA 3"
-],
-"JO": [
-"beIN Sports MENA 3"
-],
-"JP": [
-"DAZN"
-],
-"KR": [
-"Coupang Play"
-],
-"KW": [
-"beIN Sports MENA 3"
-],
-"LY": [
-"beIN Sports MENA 3"
-],
-"MA": [
-"beIN Sports 3",
-"beIN CONNECT",
-"TOD"
-],
-"OM": [
-"beIN Sports MENA 3"
-],
-"QA": [
-"beIN Sports MENA 3"
-],
-"SA": [
-"beIN Sports MENA 3"
-],
-"TN": [
-"beIN Sports MENA 3"
-]
-},
-"competition": {
-"ar": "دوري أبطال آسيا للنخبة",
-"de": "AFC Champions League Elite",
-"en": "AFC Champions League Elite",
-"es": "Liga de Campeones de la AFC Elite",
-"fr": "Ligue des champions de l'AFC Elite",
-"it": "AFC Champions League Elite",
-"pt": "Liga dos Campeões da AFC Elite",
-"tr": "AFC Şampiyonlar Ligi Elit"
-},
-"competitionId": "afc_cl",
-"home": "Vissel Kobe",
-"homeNames": {
-"ar": "Vissel Kobe",
-"de": "Vissel Kobe",
-"en": "Vissel Kobe",
-"es": "Vissel Kobe",
-"fr": "Vissel Kobe",
-"it": "Vissel Kobe",
-"pt": "Vissel Kobe",
-"tr": "Vissel Kobe"
-},
-"id": "football-20261103-vissel-kobe-ratchaburi-fc",
-"kickoffUtc": "2026-11-03T10:00:00Z",
-"sources": [
-"fotmob"
-],
-"sport": "football",
-"tier": "global"
-},
-"slug": "vissel-kobe-ratchaburi-fc-2026-11-03"
 },
 "es:football-20261104-aek-athens-real-madrid": {
 "lang": "es",
@@ -19554,6 +19221,103 @@
 },
 "slug": "atletico-grau-cusco-fc-2026-11-06"
 },
+"es:football-20261106-barracas-central-racing-club": {
+"lang": "es",
+"m": {
+"away": "Racing Club",
+"awayNames": {
+"ar": "Racing Club",
+"de": "Racing Club",
+"en": "Racing Club",
+"es": "Racing Club",
+"fr": "Racing Club",
+"it": "Racing Club",
+"pt": "Racing Club",
+"tr": "Racing Club"
+},
+"broadcasts": {
+"AR": [
+"ESPN Premium"
+],
+"AT": [
+"Fanatiz"
+],
+"AU": [
+"Fanatiz"
+],
+"CH": [
+"Fanatiz"
+],
+"CL": [
+"TyC Sports Internacional"
+],
+"CO": [
+"TyC Sports Internacional",
+"Win Play"
+],
+"EC": [
+"TyC Sports Internacional"
+],
+"ES": [
+"Fanatiz"
+],
+"JP": [
+"Fanatiz"
+],
+"MX": [
+"TyC Sports Internacional"
+],
+"PE": [
+"TyC Sports Internacional"
+],
+"PT": [
+"Fanatiz"
+],
+"PY": [
+"TyC Sports Internacional"
+],
+"US": [
+"Fanatiz",
+"FOX Deportes",
+"ViX",
+"Fox Sports online"
+],
+"UY": [
+"TyC Sports Internacional"
+]
+},
+"competition": {
+"ar": "الدوري الأرجنتيني",
+"de": "Argentinische Primera División",
+"en": "Argentine Primera División",
+"es": "Primera División de Argentina",
+"fr": "Primera División argentine",
+"it": "Primera División argentina",
+"pt": "Primeira Divisão Argentina",
+"tr": "Arjantin Primera División"
+},
+"competitionId": "arg_primera",
+"home": "Barracas Central",
+"homeNames": {
+"ar": "باراكاس سنترال",
+"de": "Barracas Central",
+"en": "Barracas Central",
+"es": "Barracas Central",
+"fr": "Barracas Central",
+"it": "Barracas Central",
+"pt": "Barracas Central",
+"tr": "Barracas Central"
+},
+"id": "football-20261106-barracas-central-racing-club",
+"kickoffUtc": "2026-11-06T18:00:00Z",
+"sources": [
+"fotmob"
+],
+"sport": "football",
+"tier": "regional"
+},
+"slug": "barracas-central-racing-club-2026-11-06"
+},
 "es:football-20261106-castellon-eibar": {
 "lang": "es",
 "m": {
@@ -19845,6 +19609,10 @@
 "Play Sports",
 "Play Sports 1"
 ],
+"BH": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
 "BR": [
 "ESPN",
 "Disney+ Premium"
@@ -19926,6 +19694,10 @@
 ],
 "KR": [
 "Coupang Play"
+],
+"KW": [
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "LY": [
 "beIN Sports"
@@ -20049,6 +19821,9 @@
 "tr": "Borussia Mönchengladbach"
 },
 "broadcasts": {
+"AE": [
+"MBC Shahid"
+],
 "AR": [
 "Disney+ Premium"
 ],
@@ -20064,6 +19839,9 @@
 "BE": [
 "Play Sports 2",
 "Play Sports"
+],
+"BH": [
+"MBC Shahid"
 ],
 "BR": [
 "Canal GOAT",
@@ -20098,9 +19876,15 @@
 "Sky Bundesliga",
 "Sky Bundesliga 1"
 ],
+"DZ": [
+"MBC Shahid"
+],
 "EC": [
 "ESPN 5",
 "Disney+ Premium"
+],
+"EG": [
+"MBC Shahid"
 ],
 "ES": [
 "DAZN"
@@ -20113,11 +19897,23 @@
 "Youtube UK",
 "BBC Sport online"
 ],
+"IQ": [
+"MBC Shahid"
+],
+"JO": [
+"MBC Shahid"
+],
 "JP": [
 "DAZN"
 ],
 "KR": [
 "Coupang Play"
+],
+"KW": [
+"MBC Shahid"
+],
+"LY": [
+"MBC Shahid"
 ],
 "MA": [
 "beIN CONNECT",
@@ -20136,6 +19932,9 @@
 "V sport 2 NO",
 "TV 2 Play (NO)"
 ],
+"OM": [
+"MBC Shahid"
+],
 "PE": [
 "ESPN 5",
 "Disney+ Premium"
@@ -20146,6 +19945,15 @@
 "PY": [
 "ESPN 5",
 "Disney+ Premium"
+],
+"QA": [
+"MBC Shahid"
+],
+"SA": [
+"MBC Shahid"
+],
+"TN": [
+"MBC Shahid"
 ],
 "TR": [
 "S Sport",
@@ -20192,6 +20000,98 @@
 },
 "slug": "hamburger-sv-borussia-monchengladbach-2026-11-06"
 },
+"es:football-20261106-independiente-deportivo-riestra": {
+"lang": "es",
+"m": {
+"away": "Deportivo Riestra",
+"awayNames": {
+"ar": "ديبورتيفو ريسترا",
+"de": "Deportivo Riestra",
+"en": "Deportivo Riestra",
+"es": "Deportivo Riestra",
+"fr": "Deportivo Riestra",
+"it": "Deportivo Riestra",
+"pt": "Deportivo Riestra",
+"tr": "Deportivo Riestra"
+},
+"broadcasts": {
+"AR": [
+"TNT Sports Premium",
+"TNT Sports en HBO MAX"
+],
+"AT": [
+"Fanatiz"
+],
+"AU": [
+"Fanatiz"
+],
+"CH": [
+"Fanatiz"
+],
+"CO": [
+"Fanatiz"
+],
+"EC": [
+"Fanatiz"
+],
+"ES": [
+"Fanatiz"
+],
+"JP": [
+"Fanatiz"
+],
+"MX": [
+"Fanatiz"
+],
+"PE": [
+"Fanatiz"
+],
+"PT": [
+"Fanatiz"
+],
+"PY": [
+"Fanatiz"
+],
+"US": [
+"ViX",
+"Fanatiz"
+],
+"UY": [
+"Fanatiz"
+]
+},
+"competition": {
+"ar": "الدوري الأرجنتيني",
+"de": "Argentinische Primera División",
+"en": "Argentine Primera División",
+"es": "Primera División de Argentina",
+"fr": "Primera División argentine",
+"it": "Primera División argentina",
+"pt": "Primeira Divisão Argentina",
+"tr": "Arjantin Primera División"
+},
+"competitionId": "arg_primera",
+"home": "Independiente",
+"homeNames": {
+"ar": "إندبندينتي",
+"de": "Independiente",
+"en": "Independiente",
+"es": "Independiente",
+"fr": "Independiente",
+"it": "Independiente",
+"pt": "Independiente",
+"tr": "Independiente"
+},
+"id": "football-20261106-independiente-deportivo-riestra",
+"kickoffUtc": "2026-11-06T22:15:00Z",
+"sources": [
+"fotmob"
+],
+"sport": "football",
+"tier": "regional"
+},
+"slug": "independiente-deportivo-riestra-2026-11-06"
+},
 "es:football-20261106-san-lorenzo-club-atletico-platense": {
 "lang": "es",
 "m": {
@@ -20210,6 +20110,15 @@
 "AR": [
 "ESPN Premium"
 ],
+"AT": [
+"Fanatiz"
+],
+"AU": [
+"Fanatiz"
+],
+"CH": [
+"Fanatiz"
+],
 "CL": [
 "TyC Sports Internacional"
 ],
@@ -20223,11 +20132,17 @@
 "ES": [
 "M+ Liga de Campeones"
 ],
+"JP": [
+"Fanatiz"
+],
 "MX": [
 "TyC Sports Internacional"
 ],
 "PE": [
 "TyC Sports Internacional"
+],
+"PT": [
+"Fanatiz"
 ],
 "PY": [
 "TyC Sports Internacional"
@@ -20304,6 +20219,10 @@
 ],
 "BE": [
 "DAZN (BE)"
+],
+"BH": [
+"beIN Sports MENA 3",
+"TOD TV"
 ],
 "BR": [
 "CazéTV YouTube",
@@ -20389,6 +20308,10 @@
 ],
 "KR": [
 "Coupang Play"
+],
+"KW": [
+"beIN Sports MENA 3",
+"TOD TV"
 ],
 "LY": [
 "beIN Sports"
@@ -20527,6 +20450,9 @@
 "BE": [
 "DAZN (BE)"
 ],
+"BH": [
+"TOD TV"
+],
 "BR": [
 "CazéTV YouTube",
 "CazeTV",
@@ -20594,6 +20520,9 @@
 ],
 "KR": [
 "Coupang Play"
+],
+"KW": [
+"TOD TV"
 ],
 "LY": [
 "beIN Sports"
@@ -20697,6 +20626,97 @@
 "tier": "global"
 },
 "slug": "toulouse-estrasburgo-2026-11-06"
+},
+"es:football-20261106-union-velez-sarsfield": {
+"lang": "es",
+"m": {
+"away": "Velez Sarsfield",
+"awayNames": {
+"ar": "فيليز سارسفيلد",
+"de": "Vélez Sarsfield",
+"en": "Vélez Sarsfield",
+"es": "Vélez Sarsfield",
+"fr": "Vélez Sarsfield",
+"it": "Vélez Sarsfield",
+"pt": "Vélez Sarsfield",
+"tr": "Vélez Sarsfield"
+},
+"broadcasts": {
+"AR": [
+"ESPN"
+],
+"AT": [
+"Fanatiz"
+],
+"AU": [
+"Fanatiz"
+],
+"CH": [
+"Fanatiz"
+],
+"CO": [
+"Fanatiz"
+],
+"EC": [
+"Fanatiz"
+],
+"ES": [
+"Fanatiz"
+],
+"JP": [
+"Fanatiz"
+],
+"MX": [
+"Fanatiz"
+],
+"PE": [
+"Fanatiz"
+],
+"PT": [
+"Fanatiz"
+],
+"PY": [
+"Fanatiz"
+],
+"US": [
+"ViX",
+"Fanatiz"
+],
+"UY": [
+"Fanatiz"
+]
+},
+"competition": {
+"ar": "الدوري الأرجنتيني",
+"de": "Argentinische Primera División",
+"en": "Argentine Primera División",
+"es": "Primera División de Argentina",
+"fr": "Primera División argentine",
+"it": "Primera División argentina",
+"pt": "Primeira Divisão Argentina",
+"tr": "Arjantin Primera División"
+},
+"competitionId": "arg_primera",
+"home": "Union",
+"homeNames": {
+"ar": "Unión Santa Fe",
+"de": "Unión Santa Fe",
+"en": "Unión Santa Fe",
+"es": "Unión Santa Fe",
+"fr": "Unión Santa Fe",
+"it": "Unión Santa Fe",
+"pt": "Unión Santa Fe",
+"tr": "Unión Santa Fe"
+},
+"id": "football-20261106-union-velez-sarsfield",
+"kickoffUtc": "2026-11-06T22:15:00Z",
+"sources": [
+"fotmob"
+],
+"sport": "football",
+"tier": "regional"
+},
+"slug": "union-santa-fe-velez-sarsfield-2026-11-06"
 },
 "es:football-20261106-vitoria-fluminense": {
 "lang": "es",
@@ -20805,6 +20825,102 @@
 },
 "slug": "vitoria-fluminense-2026-11-07"
 },
+"es:football-20261107-banfield-atletico-tucuman": {
+"lang": "es",
+"m": {
+"away": "Atletico Tucuman",
+"awayNames": {
+"ar": "أتلتيكو توكومان",
+"de": "Atlético Tucumán",
+"en": "Atlético Tucumán",
+"es": "Atlético Tucumán",
+"fr": "Atlético Tucumán",
+"it": "Atlético Tucumán",
+"pt": "Atlético Tucumán",
+"tr": "Atlético Tucumán"
+},
+"broadcasts": {
+"AR": [
+"TNT Sports Premium",
+"TNT Sports en HBO MAX"
+],
+"AT": [
+"Fanatiz"
+],
+"AU": [
+"Fanatiz"
+],
+"CH": [
+"Fanatiz"
+],
+"CL": [
+"TyC Sports Internacional"
+],
+"CO": [
+"TyC Sports Internacional",
+"Win Play"
+],
+"EC": [
+"TyC Sports Internacional"
+],
+"ES": [
+"Fanatiz"
+],
+"JP": [
+"Fanatiz"
+],
+"MX": [
+"TyC Sports Internacional"
+],
+"PE": [
+"TyC Sports Internacional"
+],
+"PT": [
+"Fanatiz"
+],
+"PY": [
+"TyC Sports Internacional"
+],
+"US": [
+"Fanatiz",
+"ViX"
+],
+"UY": [
+"TyC Sports Internacional"
+]
+},
+"competition": {
+"ar": "الدوري الأرجنتيني",
+"de": "Argentinische Primera División",
+"en": "Argentine Primera División",
+"es": "Primera División de Argentina",
+"fr": "Primera División argentine",
+"it": "Primera División argentina",
+"pt": "Primeira Divisão Argentina",
+"tr": "Arjantin Primera División"
+},
+"competitionId": "arg_primera",
+"home": "Banfield",
+"homeNames": {
+"ar": "بانفيلد",
+"de": "Banfield",
+"en": "Banfield",
+"es": "Banfield",
+"fr": "Banfield",
+"it": "Banfield",
+"pt": "Banfield",
+"tr": "Banfield"
+},
+"id": "football-20261107-banfield-atletico-tucuman",
+"kickoffUtc": "2026-11-07T01:00:00Z",
+"sources": [
+"fotmob"
+],
+"sport": "football",
+"tier": "regional"
+},
+"slug": "banfield-atletico-tucuman-2026-11-07"
+},
 "es:football-20261107-fortaleza-fc-independiente-medellin": {
 "lang": "es",
 "m": {
@@ -20883,6 +20999,109 @@
 "tier": "regional"
 },
 "slug": "fortaleza-fc-independiente-medellin-2026-11-07"
+},
+"es:football-20261107-tigre-sarmiento": {
+"lang": "es",
+"m": {
+"away": "Sarmiento",
+"awayNames": {
+"ar": "سارمينتو",
+"de": "Sarmiento",
+"en": "Sarmiento",
+"es": "Sarmiento",
+"fr": "Sarmiento",
+"it": "Sarmiento",
+"pt": "Sarmiento",
+"tr": "Sarmiento"
+},
+"broadcasts": {
+"AR": [
+"ESPN Premium"
+],
+"AT": [
+"Fanatiz"
+],
+"AU": [
+"Fanatiz"
+],
+"BR": [
+"Disney+ Premium"
+],
+"CH": [
+"Fanatiz"
+],
+"CL": [
+"ESPN 7",
+"Disney+ Premium"
+],
+"CO": [
+"ESPN 7",
+"Disney+ Premium"
+],
+"EC": [
+"ESPN 7",
+"Disney+ Premium"
+],
+"ES": [
+"Fanatiz"
+],
+"JP": [
+"Fanatiz"
+],
+"MX": [
+"Disney+ Premium"
+],
+"PE": [
+"ESPN 7",
+"Disney+ Premium"
+],
+"PT": [
+"Fanatiz"
+],
+"PY": [
+"ESPN 7",
+"Disney+ Premium"
+],
+"US": [
+"Fanatiz",
+"ViX"
+],
+"UY": [
+"ESPN 7",
+"Disney+ Premium"
+]
+},
+"competition": {
+"ar": "الدوري الأرجنتيني",
+"de": "Argentinische Primera División",
+"en": "Argentine Primera División",
+"es": "Primera División de Argentina",
+"fr": "Primera División argentine",
+"it": "Primera División argentina",
+"pt": "Primeira Divisão Argentina",
+"tr": "Arjantin Primera División"
+},
+"competitionId": "arg_primera",
+"home": "Tigre",
+"homeNames": {
+"ar": "تيغر",
+"de": "Tigre",
+"en": "Tigre",
+"es": "Tigre",
+"fr": "Tigre",
+"it": "Tigre",
+"pt": "Tigre",
+"tr": "Tigre"
+},
+"id": "football-20261107-tigre-sarmiento",
+"kickoffUtc": "2026-11-07T01:00:00Z",
+"sources": [
+"fotmob"
+],
+"sport": "football",
+"tier": "regional"
+},
+"slug": "tigre-sarmiento-2026-11-07"
 },
 "fr:basketball-20261105-celtics-bucks": {
 "lang": "fr",
@@ -37895,8 +38114,47 @@
 "tr": "Annecy FC"
 },
 "broadcasts": {
+"AE": [
+"beIN Sports MAX 7"
+],
+"BH": [
+"beIN Sports MAX 7"
+],
+"DZ": [
+"beIN Sports MAX 7"
+],
+"EG": [
+"beIN Sports MAX 7"
+],
 "FR": [
 "beIN Sports MAX 7 (FR)"
+],
+"IQ": [
+"beIN Sports MAX 7"
+],
+"JO": [
+"beIN Sports MAX 7"
+],
+"KW": [
+"beIN Sports MAX 7"
+],
+"LY": [
+"beIN Sports MAX 7"
+],
+"MA": [
+"beIN Sports MAX 7"
+],
+"OM": [
+"beIN Sports MAX 7"
+],
+"QA": [
+"beIN Sports MAX 7"
+],
+"SA": [
+"beIN Sports MAX 7"
+],
+"TN": [
+"beIN Sports MAX 7"
 ]
 },
 "competition": {
@@ -37946,6 +38204,10 @@
 "tr": "Bolton Wanderers"
 },
 "broadcasts": {
+"AE": [
+"beIN Sports MENA 2",
+"TOD TV"
+],
 "AR": [
 "FOX Sports 2",
 "Disney+ Premium"
@@ -37956,6 +38218,10 @@
 ],
 "AU": [
 "beIN Sports 3"
+],
+"BH": [
+"beIN Sports MENA 2",
+"TOD TV"
 ],
 "BR": [
 "Disney+ Premium"
@@ -37978,9 +38244,17 @@
 "Sky Sport Mix",
 "WOW"
 ],
+"DZ": [
+"beIN Sports MENA 2",
+"TOD TV"
+],
 "EC": [
 "ESPN 7",
 "Disney+ Premium"
+],
+"EG": [
+"beIN Sports MENA 2",
+"TOD TV"
 ],
 "FR": [
 "beIN Sports MAX 10 (FR)"
@@ -37999,8 +38273,24 @@
 "MAXtv To Go",
 "Arena Sport 6"
 ],
+"IQ": [
+"beIN Sports MENA 2",
+"TOD TV"
+],
+"JO": [
+"beIN Sports MENA 2",
+"TOD TV"
+],
 "JP": [
 "DAZN"
+],
+"KW": [
+"beIN Sports MENA 2",
+"TOD TV"
+],
+"LY": [
+"beIN Sports MENA 2",
+"TOD TV"
 ],
 "MA": [
 "beIN Sports 2",
@@ -38025,6 +38315,10 @@
 "NZ": [
 "beIN Sports Connect New Zealand"
 ],
+"OM": [
+"beIN Sports MENA 2",
+"TOD TV"
+],
 "PE": [
 "ESPN 7",
 "Disney+ Premium"
@@ -38032,6 +38326,18 @@
 "PY": [
 "ESPN 7",
 "Disney+ Premium"
+],
+"QA": [
+"beIN Sports MENA 2",
+"TOD TV"
+],
+"SA": [
+"beIN Sports MENA 2",
+"TOD TV"
+],
+"TN": [
+"beIN Sports MENA 2",
+"TOD TV"
 ],
 "US": [
 "Paramount+ (US)",
@@ -38094,8 +38400,47 @@
 "tr": "Red Star"
 },
 "broadcasts": {
+"AE": [
+"beIN Sports MAX 6"
+],
+"BH": [
+"beIN Sports MAX 6"
+],
+"DZ": [
+"beIN Sports MAX 6"
+],
+"EG": [
+"beIN Sports MAX 6"
+],
 "FR": [
 "beIN Sports MAX 6 (FR)"
+],
+"IQ": [
+"beIN Sports MAX 6"
+],
+"JO": [
+"beIN Sports MAX 6"
+],
+"KW": [
+"beIN Sports MAX 6"
+],
+"LY": [
+"beIN Sports MAX 6"
+],
+"MA": [
+"beIN Sports MAX 6"
+],
+"OM": [
+"beIN Sports MAX 6"
+],
+"QA": [
+"beIN Sports MAX 6"
+],
+"SA": [
+"beIN Sports MAX 6"
+],
+"TN": [
+"beIN Sports MAX 6"
 ]
 },
 "competition": {
@@ -38145,8 +38490,47 @@
 "tr": "Guingamp"
 },
 "broadcasts": {
+"AE": [
+"beIN Sports MENA Max 4"
+],
+"BH": [
+"beIN Sports MENA Max 4"
+],
+"DZ": [
+"beIN Sports MENA Max 4"
+],
+"EG": [
+"beIN Sports MENA Max 4"
+],
 "FR": [
 "beIN Sports MAX 4 (FR)"
+],
+"IQ": [
+"beIN Sports MENA Max 4"
+],
+"JO": [
+"beIN Sports MENA Max 4"
+],
+"KW": [
+"beIN Sports MENA Max 4"
+],
+"LY": [
+"beIN Sports MENA Max 4"
+],
+"MA": [
+"beIN Sports MENA Max 4"
+],
+"OM": [
+"beIN Sports MENA Max 4"
+],
+"QA": [
+"beIN Sports MENA Max 4"
+],
+"SA": [
+"beIN Sports MENA Max 4"
+],
+"TN": [
+"beIN Sports MENA Max 4"
 ]
 },
 "competition": {
@@ -38213,6 +38597,10 @@
 "BE": [
 "Play Sports",
 "Play Sports 1"
+],
+"BH": [
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "BR": [
 "ESPN",
@@ -38295,6 +38683,10 @@
 ],
 "KR": [
 "Coupang Play"
+],
+"KW": [
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "LY": [
 "beIN Sports"
@@ -38476,8 +38868,47 @@
 "tr": "Reims"
 },
 "broadcasts": {
+"AE": [
+"beIN Sports MAX 8"
+],
+"BH": [
+"beIN Sports MAX 8"
+],
+"DZ": [
+"beIN Sports MAX 8"
+],
+"EG": [
+"beIN Sports MAX 8"
+],
 "FR": [
 "beIN Sports MAX 8 (FR)"
+],
+"IQ": [
+"beIN Sports MAX 8"
+],
+"JO": [
+"beIN Sports MAX 8"
+],
+"KW": [
+"beIN Sports MAX 8"
+],
+"LY": [
+"beIN Sports MAX 8"
+],
+"MA": [
+"beIN Sports MAX 8"
+],
+"OM": [
+"beIN Sports MAX 8"
+],
+"QA": [
+"beIN Sports MAX 8"
+],
+"SA": [
+"beIN Sports MAX 8"
+],
+"TN": [
+"beIN Sports MAX 8"
 ]
 },
 "competition": {
@@ -38527,6 +38958,9 @@
 "tr": "Borussia Mönchengladbach"
 },
 "broadcasts": {
+"AE": [
+"MBC Shahid"
+],
 "AR": [
 "Disney+ Premium"
 ],
@@ -38542,6 +38976,9 @@
 "BE": [
 "Play Sports 2",
 "Play Sports"
+],
+"BH": [
+"MBC Shahid"
 ],
 "BR": [
 "Canal GOAT",
@@ -38576,9 +39013,15 @@
 "Sky Bundesliga",
 "Sky Bundesliga 1"
 ],
+"DZ": [
+"MBC Shahid"
+],
 "EC": [
 "ESPN 5",
 "Disney+ Premium"
+],
+"EG": [
+"MBC Shahid"
 ],
 "ES": [
 "DAZN"
@@ -38591,11 +39034,23 @@
 "Youtube UK",
 "BBC Sport online"
 ],
+"IQ": [
+"MBC Shahid"
+],
+"JO": [
+"MBC Shahid"
+],
 "JP": [
 "DAZN"
 ],
 "KR": [
 "Coupang Play"
+],
+"KW": [
+"MBC Shahid"
+],
+"LY": [
+"MBC Shahid"
 ],
 "MA": [
 "beIN CONNECT",
@@ -38614,6 +39069,9 @@
 "V sport 2 NO",
 "TV 2 Play (NO)"
 ],
+"OM": [
+"MBC Shahid"
+],
 "PE": [
 "ESPN 5",
 "Disney+ Premium"
@@ -38624,6 +39082,15 @@
 "PY": [
 "ESPN 5",
 "Disney+ Premium"
+],
+"QA": [
+"MBC Shahid"
+],
+"SA": [
+"MBC Shahid"
+],
+"TN": [
+"MBC Shahid"
 ],
 "TR": [
 "S Sport",
@@ -38685,17 +39152,29 @@
 "tr": "Metz"
 },
 "broadcasts": {
+"AE": [
+"beIN Sports MENA 5"
+],
 "AT": [
 "DAZN"
 ],
 "BE": [
 "DAZN (BE)"
 ],
+"BH": [
+"beIN Sports MENA 5"
+],
 "CH": [
 "DAZN"
 ],
 "DE": [
 "DAZN Deutschland"
+],
+"DZ": [
+"beIN Sports MENA 5"
+],
+"EG": [
+"beIN Sports MENA 5"
 ],
 "FR": [
 "beIN Sports 1 (FR)"
@@ -38704,8 +39183,20 @@
 "MAXtv To Go",
 "Arena Sport 7"
 ],
+"IQ": [
+"beIN Sports MENA 5"
+],
+"JO": [
+"beIN Sports MENA 5"
+],
 "JP": [
 "DAZN"
+],
+"KW": [
+"beIN Sports MENA 5"
+],
+"LY": [
+"beIN Sports MENA 5"
 ],
 "MA": [
 "beIN Sports 5",
@@ -38720,8 +39211,20 @@
 "Viaplay NO",
 "TV 2 Play (NO)"
 ],
+"OM": [
+"beIN Sports MENA 5"
+],
 "PT": [
 "Fanatiz"
+],
+"QA": [
+"beIN Sports MENA 5"
+],
+"SA": [
+"beIN Sports MENA 5"
+],
+"TN": [
+"beIN Sports MENA 5"
 ],
 "TR": [
 "beIN Sports 5",
@@ -38780,8 +39283,47 @@
 "tr": "Sochaux"
 },
 "broadcasts": {
+"AE": [
+"beIN Sports MAX 5"
+],
+"BH": [
+"beIN Sports MAX 5"
+],
+"DZ": [
+"beIN Sports MAX 5"
+],
+"EG": [
+"beIN Sports MAX 5"
+],
 "FR": [
 "beIN Sports MAX 5 (FR)"
+],
+"IQ": [
+"beIN Sports MAX 5"
+],
+"JO": [
+"beIN Sports MAX 5"
+],
+"KW": [
+"beIN Sports MAX 5"
+],
+"LY": [
+"beIN Sports MAX 5"
+],
+"MA": [
+"beIN Sports MAX 5"
+],
+"OM": [
+"beIN Sports MAX 5"
+],
+"QA": [
+"beIN Sports MAX 5"
+],
+"SA": [
+"beIN Sports MAX 5"
+],
+"TN": [
+"beIN Sports MAX 5"
 ]
 },
 "competition": {
@@ -38848,6 +39390,10 @@
 ],
 "BE": [
 "DAZN (BE)"
+],
+"BH": [
+"beIN Sports MENA 3",
+"TOD TV"
 ],
 "BR": [
 "CazéTV YouTube",
@@ -38933,6 +39479,10 @@
 ],
 "KR": [
 "Coupang Play"
+],
+"KW": [
+"beIN Sports MENA 3",
+"TOD TV"
 ],
 "LY": [
 "beIN Sports"
@@ -39071,6 +39621,9 @@
 "BE": [
 "DAZN (BE)"
 ],
+"BH": [
+"TOD TV"
+],
 "BR": [
 "CazéTV YouTube",
 "CazeTV",
@@ -39138,6 +39691,9 @@
 ],
 "KR": [
 "Coupang Play"
+],
+"KW": [
+"TOD TV"
 ],
 "LY": [
 "beIN Sports"
