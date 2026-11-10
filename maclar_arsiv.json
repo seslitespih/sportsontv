@@ -5184,8 +5184,50 @@
 "tr": "Deportivo Alavés"
 },
 "broadcasts": {
+"AE": [
+"MBC Shahid"
+],
+"BH": [
+"MBC Shahid"
+],
+"BR": [
+"Disney+ Premium"
+],
+"DZ": [
+"MBC Shahid"
+],
+"EG": [
+"MBC Shahid"
+],
 "ES": [
 "M+ LALIGA"
+],
+"IQ": [
+"MBC Shahid"
+],
+"JO": [
+"MBC Shahid"
+],
+"KW": [
+"MBC Shahid"
+],
+"LY": [
+"MBC Shahid"
+],
+"MA": [
+"MBC Shahid"
+],
+"OM": [
+"MBC Shahid"
+],
+"QA": [
+"MBC Shahid"
+],
+"SA": [
+"MBC Shahid"
+],
+"TN": [
+"MBC Shahid"
 ],
 "US": [
 "ESPN Select",
@@ -5320,12 +5362,19 @@
 "tr": "Valencia"
 },
 "broadcasts": {
+"BR": [
+"ESPN 2",
+"Disney+ Premium"
+],
 "ES": [
 "LaLiga TV Bar",
 "M+ LALIGA"
 ],
 "JP": [
 "U-NEXT"
+],
+"MX": [
+"SKY Sports"
 ],
 "US": [
 "ESPN Unlimited",
