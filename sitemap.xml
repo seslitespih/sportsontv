@@ -528,12 +528,6 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://sportstvtoday.com/ar/about/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://sportstvtoday.com/about/"/>
   </url>
-  <url><loc>https://sportstvtoday.com/es/partido/mushuc-runa-delfin-2026-11-09/</loc>
-  </url>
-  <url><loc>https://sportstvtoday.com/es/partido/ce-sabadell-real-sociedad-b-2026-11-09/</loc>
-  </url>
-  <url><loc>https://sportstvtoday.com/es/partido/tecnico-universitario-manta-fc-2026-11-09/</loc>
-  </url>
   <url><loc>https://sportstvtoday.com/es/partido/atlanta-hawks-los-angeles-lakers-2026-11-10/</loc>
     <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/atlanta-hawks-los-angeles-lakers-2026-11-10/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/atlanta-hawks-los-angeles-lakers-2026-11-10/"/>
@@ -806,9 +800,9 @@
     <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/san-marino-bielorrusia-2026-11-12/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/saint-marin-bielorussie-2026-11-12/"/>
   </url>
-  <url><loc>https://sportstvtoday.com/es/partido/deportivo-pasto-junior-fc-2026-11-12/</loc>
-  </url>
   <url><loc>https://sportstvtoday.com/es/partido/cerro-largo-club-atletico-progreso-2026-11-13/</loc>
+  </url>
+  <url><loc>https://sportstvtoday.com/es/partido/deportivo-pasto-junior-fc-2026-11-12/</loc>
   </url>
   <url><loc>https://sportstvtoday.com/es/partido/philadelphia-76ers-toronto-raptors-2026-11-13/</loc>
     <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/philadelphia-76ers-toronto-raptors-2026-11-13/"/>
@@ -817,8 +811,6 @@
   <url><loc>https://sportstvtoday.com/es/partido/washington-wizards-detroit-pistons-2026-11-13/</loc>
     <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/washington-wizards-detroit-pistons-2026-11-13/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/washington-wizards-detroit-pistons-2026-11-13/"/>
-  </url>
-  <url><loc>https://sportstvtoday.com/es/partido/curazao-panama-2026-11-13/</loc>
   </url>
   <url><loc>https://sportstvtoday.com/es/partido/llaneros-fc-chico-fc-2026-11-13/</loc>
   </url>
@@ -829,6 +821,8 @@
   <url><loc>https://sportstvtoday.com/fr/match/washington-wizards-detroit-pistons-2026-11-13/</loc>
     <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/washington-wizards-detroit-pistons-2026-11-13/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/washington-wizards-detroit-pistons-2026-11-13/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/es/partido/curazao-panama-2026-11-13/</loc>
   </url>
   <url><loc>https://sportstvtoday.com/es/partido/minnesota-timberwolves-dallas-mavericks-2026-11-13/</loc>
     <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/minnesota-timberwolves-dallas-mavericks-2026-11-13/"/>
@@ -845,6 +839,160 @@
   <url><loc>https://sportstvtoday.com/fr/match/phoenix-suns-charlotte-hornets-2026-11-13/</loc>
     <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/phoenix-suns-charlotte-hornets-2026-11-13/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/phoenix-suns-charlotte-hornets-2026-11-13/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/fr/match/tunisie-libye-2026-11-13/</loc>
+  </url>
+  <url><loc>https://sportstvtoday.com/fr/match/nigeria-tanzanie-2026-11-13/</loc>
+  </url>
+  <url><loc>https://sportstvtoday.com/es/partido/moldavia-kazajistan-2026-11-13/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/moldavia-kazajistan-2026-11-13/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/moldavie-kazakhstan-2026-11-13/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/fr/match/moldavie-kazakhstan-2026-11-13/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/moldavia-kazajistan-2026-11-13/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/moldavie-kazakhstan-2026-11-13/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/fr/match/egypte-malawi-2026-11-13/</loc>
+  </url>
+  <url><loc>https://sportstvtoday.com/es/partido/leganes-burgos-cf-2026-11-13/</loc>
+  </url>
+  <url><loc>https://sportstvtoday.com/es/partido/escocia-macedonia-del-norte-2026-11-13/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/escocia-macedonia-del-norte-2026-11-13/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/ecosse-macedoine-du-nord-2026-11-13/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/fr/match/ecosse-macedoine-du-nord-2026-11-13/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/escocia-macedonia-del-norte-2026-11-13/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/ecosse-macedoine-du-nord-2026-11-13/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/fr/match/slovenie-suisse-2026-11-13/</loc>
+  </url>
+  <url><loc>https://sportstvtoday.com/es/partido/paises-bajos-grecia-2026-11-13/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/paises-bajos-grecia-2026-11-13/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/pays-bas-grece-2026-11-13/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/fr/match/pays-bas-grece-2026-11-13/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/paises-bajos-grecia-2026-11-13/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/pays-bas-grece-2026-11-13/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/es/partido/serbia-alemania-2026-11-13/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/serbia-alemania-2026-11-13/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/serbie-allemagne-2026-11-13/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/fr/match/serbie-allemagne-2026-11-13/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/serbia-alemania-2026-11-13/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/serbie-allemagne-2026-11-13/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/es/partido/andorra-gibraltar-2026-11-13/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/andorra-gibraltar-2026-11-13/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/andorre-gibraltar-2026-11-13/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/fr/match/andorre-gibraltar-2026-11-13/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/andorra-gibraltar-2026-11-13/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/andorre-gibraltar-2026-11-13/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/es/partido/liechtenstein-azerbaiyan-2026-11-13/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/liechtenstein-azerbaiyan-2026-11-13/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/liechtenstein-azerbaidjan-2026-11-13/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/fr/match/liechtenstein-azerbaidjan-2026-11-13/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/liechtenstein-azerbaiyan-2026-11-13/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/liechtenstein-azerbaidjan-2026-11-13/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/es/partido/eslovaquia-islas-feroe-2026-11-13/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/eslovaquia-islas-feroe-2026-11-13/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/slovaquie-iles-feroe-2026-11-13/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/fr/match/slovaquie-iles-feroe-2026-11-13/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/eslovaquia-islas-feroe-2026-11-13/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/slovaquie-iles-feroe-2026-11-13/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/es/partido/bulgaria-islandia-2026-11-13/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/bulgaria-islandia-2026-11-13/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/bulgarie-islande-2026-11-13/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/fr/match/bulgarie-islande-2026-11-13/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/bulgaria-islandia-2026-11-13/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/bulgarie-islande-2026-11-13/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/es/partido/luxemburgo-estonia-2026-11-13/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/luxemburgo-estonia-2026-11-13/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/luxembourg-estonie-2026-11-13/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/fr/match/luxembourg-estonie-2026-11-13/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/luxemburgo-estonia-2026-11-13/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/luxembourg-estonie-2026-11-13/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/fr/match/maroc-niger-2026-11-13/</loc>
+  </url>
+  <url><loc>https://sportstvtoday.com/es/partido/salamanca-cf-uds-celta-de-vigo-2026-11-13/</loc>
+  </url>
+  <url><loc>https://sportstvtoday.com/es/partido/montevideo-city-torque-racing-2026-11-13/</loc>
+  </url>
+  <url><loc>https://sportstvtoday.com/es/partido/argentina-uruguay-2026-11-14/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/argentina-uruguay-2026-11-14/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/argentine-uruguay-2026-11-14/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/fr/match/argentine-uruguay-2026-11-14/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/argentina-uruguay-2026-11-14/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/argentine-uruguay-2026-11-14/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/es/partido/indiana-pacers-new-york-knicks-2026-11-14/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/indiana-pacers-new-york-knicks-2026-11-14/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/indiana-pacers-new-york-knicks-2026-11-14/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/fr/match/indiana-pacers-new-york-knicks-2026-11-14/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/indiana-pacers-new-york-knicks-2026-11-14/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/indiana-pacers-new-york-knicks-2026-11-14/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/es/partido/orlando-magic-milwaukee-bucks-2026-11-14/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/orlando-magic-milwaukee-bucks-2026-11-14/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/orlando-magic-milwaukee-bucks-2026-11-14/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/fr/match/orlando-magic-milwaukee-bucks-2026-11-14/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/orlando-magic-milwaukee-bucks-2026-11-14/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/orlando-magic-milwaukee-bucks-2026-11-14/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/es/partido/miami-heat-cleveland-cavaliers-2026-11-14/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/miami-heat-cleveland-cavaliers-2026-11-14/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/miami-heat-cleveland-cavaliers-2026-11-14/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/fr/match/miami-heat-cleveland-cavaliers-2026-11-14/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/miami-heat-cleveland-cavaliers-2026-11-14/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/miami-heat-cleveland-cavaliers-2026-11-14/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/es/partido/chicago-bulls-atlanta-hawks-2026-11-14/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/chicago-bulls-atlanta-hawks-2026-11-14/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/chicago-bulls-atlanta-hawks-2026-11-14/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/fr/match/chicago-bulls-atlanta-hawks-2026-11-14/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/chicago-bulls-atlanta-hawks-2026-11-14/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/chicago-bulls-atlanta-hawks-2026-11-14/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/es/partido/new-orleans-pelicans-memphis-grizzlies-2026-11-14/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/new-orleans-pelicans-memphis-grizzlies-2026-11-14/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/new-orleans-pelicans-memphis-grizzlies-2026-11-14/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/fr/match/new-orleans-pelicans-memphis-grizzlies-2026-11-14/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/new-orleans-pelicans-memphis-grizzlies-2026-11-14/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/new-orleans-pelicans-memphis-grizzlies-2026-11-14/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/es/partido/houston-rockets-utah-jazz-2026-11-14/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/houston-rockets-utah-jazz-2026-11-14/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/houston-rockets-utah-jazz-2026-11-14/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/fr/match/houston-rockets-utah-jazz-2026-11-14/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/houston-rockets-utah-jazz-2026-11-14/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/houston-rockets-utah-jazz-2026-11-14/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/es/partido/guatemala-canada-2026-11-14/</loc>
+  </url>
+  <url><loc>https://sportstvtoday.com/es/partido/san-antonio-spurs-golden-state-warriors-2026-11-14/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/san-antonio-spurs-golden-state-warriors-2026-11-14/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/san-antonio-spurs-golden-state-warriors-2026-11-14/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/fr/match/san-antonio-spurs-golden-state-warriors-2026-11-14/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/san-antonio-spurs-golden-state-warriors-2026-11-14/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/san-antonio-spurs-golden-state-warriors-2026-11-14/"/>
   </url>
   <url><loc>https://sportstvtoday.com/es/laliga/</loc>
     <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/laliga/"/>
