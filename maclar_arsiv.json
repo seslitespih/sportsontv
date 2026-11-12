@@ -7623,6 +7623,9 @@
 "tr": "Finlandiya"
 },
 "broadcasts": {
+"AE": [
+"TOD TV"
+],
 "AR": [
 "Disney+ Premium"
 ],
@@ -7631,6 +7634,9 @@
 ],
 "BE": [
 "DAZN (BE)"
+],
+"BH": [
+"TOD TV"
 ],
 "BR": [
 "Disney+ Premium"
@@ -7650,8 +7656,14 @@
 "DE": [
 "DAZN Deutschland"
 ],
+"DZ": [
+"TOD TV"
+],
 "EC": [
 "Disney+ Premium"
+],
+"EG": [
+"TOD TV"
 ],
 "ES": [
 "DAZN"
@@ -7668,11 +7680,23 @@
 "MAXtv To Go",
 "Sportklub 4 Croatia"
 ],
+"IQ": [
+"TOD TV"
+],
+"JO": [
+"TOD TV"
+],
 "JP": [
 "DAZN"
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"TOD TV"
+],
+"LY": [
+"TOD TV"
 ],
 "MA": [
 "TOD",
@@ -7692,6 +7716,9 @@
 "NZ": [
 "beIN Sports Connect New Zealand"
 ],
+"OM": [
+"TOD TV"
+],
 "PE": [
 "Disney+ Premium"
 ],
@@ -7700,6 +7727,15 @@
 ],
 "PY": [
 "Disney+ Premium"
+],
+"QA": [
+"TOD TV"
+],
+"SA": [
+"TOD TV"
+],
+"TN": [
+"TOD TV"
 ],
 "TR": [
 "S Sport"
@@ -7765,6 +7801,9 @@
 "tr": "Güney Kıbrıs"
 },
 "broadcasts": {
+"AE": [
+"beIN Sports MENA 4"
+],
 "AR": [
 "Disney+ Premium"
 ],
@@ -7776,6 +7815,9 @@
 ],
 "BE": [
 "DAZN (BE)"
+],
+"BH": [
+"beIN Sports MENA 4"
 ],
 "BR": [
 "ESPN 3",
@@ -7799,8 +7841,14 @@
 "DE": [
 "DAZN Deutschland"
 ],
+"DZ": [
+"beIN Sports MENA 4"
+],
 "EC": [
 "Disney+ Premium"
+],
+"EG": [
+"beIN Sports MENA 4"
 ],
 "ES": [
 "DAZN",
@@ -7817,11 +7865,23 @@
 "MAXtv To Go",
 "Sport Klub 3 HR"
 ],
+"IQ": [
+"beIN Sports MENA 4"
+],
+"JO": [
+"beIN Sports MENA 4"
+],
 "JP": [
 "DAZN"
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"beIN Sports MENA 4"
+],
+"LY": [
+"beIN Sports MENA 4"
 ],
 "MA": [
 "TOD",
@@ -7837,6 +7897,9 @@
 "NZ": [
 "beIN Sports Connect New Zealand"
 ],
+"OM": [
+"beIN Sports MENA 4"
+],
 "PE": [
 "Disney+ Premium"
 ],
@@ -7845,6 +7908,15 @@
 ],
 "PY": [
 "Disney+ Premium"
+],
+"QA": [
+"beIN Sports MENA 4"
+],
+"SA": [
+"beIN Sports MENA 4"
+],
+"TN": [
+"beIN Sports MENA 4"
 ],
 "TR": [
 "S Sport"
@@ -7906,12 +7978,51 @@
 "tr": "Levante"
 },
 "broadcasts": {
+"AE": [
+"MBC Shahid"
+],
+"BH": [
+"MBC Shahid"
+],
 "BR": [
 "Disney+ Premium"
+],
+"DZ": [
+"MBC Shahid"
+],
+"EG": [
+"MBC Shahid"
 ],
 "ES": [
 "LaLiga TV M2",
 "M+ LALIGA 2"
+],
+"IQ": [
+"MBC Shahid"
+],
+"JO": [
+"MBC Shahid"
+],
+"KW": [
+"MBC Shahid"
+],
+"LY": [
+"MBC Shahid"
+],
+"MA": [
+"MBC Shahid"
+],
+"OM": [
+"MBC Shahid"
+],
+"QA": [
+"MBC Shahid"
+],
+"SA": [
+"MBC Shahid"
+],
+"TN": [
+"MBC Shahid"
 ],
 "US": [
 "ESPN Select",
@@ -8068,6 +8179,9 @@
 "tr": "İspanya"
 },
 "broadcasts": {
+"AE": [
+"beIN Sports MENA 4"
+],
 "AR": [
 "ESPN 3",
 "Disney+ Premium"
@@ -8077,6 +8191,9 @@
 ],
 "BE": [
 "DAZN (BE)"
+],
+"BH": [
+"beIN Sports MENA 4"
 ],
 "BR": [
 "SporTV"
@@ -8101,9 +8218,15 @@
 "DE": [
 "DAZN Deutschland"
 ],
+"DZ": [
+"beIN Sports MENA 4"
+],
 "EC": [
 "ESPN 3",
 "Disney+ Premium"
+],
+"EG": [
+"beIN Sports MENA 4"
 ],
 "ES": [
 "RTVE Play",
@@ -8123,11 +8246,23 @@
 "Sport Klub 6 HR",
 "MAXtv To Go"
 ],
+"IQ": [
+"beIN Sports MENA 4"
+],
+"JO": [
+"beIN Sports MENA 4"
+],
 "JP": [
 "DAZN"
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"beIN Sports MENA 4"
+],
+"LY": [
+"beIN Sports MENA 4"
 ],
 "MA": [
 "TOD",
@@ -8150,6 +8285,9 @@
 "NZ": [
 "beIN Sports Connect New Zealand"
 ],
+"OM": [
+"beIN Sports MENA 4"
+],
 "PE": [
 "ESPN 3",
 "Disney+ Premium"
@@ -8160,6 +8298,15 @@
 "PY": [
 "ESPN 3",
 "Disney+ Premium"
+],
+"QA": [
+"beIN Sports MENA 4"
+],
+"SA": [
+"beIN Sports MENA 4"
+],
+"TN": [
+"beIN Sports MENA 4"
 ],
 "TR": [
 "S Sport"
@@ -8304,6 +8451,9 @@
 "tr": "Hırvatistan"
 },
 "broadcasts": {
+"AE": [
+"beIN Sports MENA 3"
+],
 "AR": [
 "ESPN 2",
 "Disney+ Premium"
@@ -8316,6 +8466,9 @@
 ],
 "BE": [
 "DAZN (BE)"
+],
+"BH": [
+"beIN Sports MENA 3"
 ],
 "BR": [
 "ESPN 4",
@@ -8342,9 +8495,15 @@
 "DE": [
 "DAZN Deutschland"
 ],
+"DZ": [
+"beIN Sports MENA 3"
+],
 "EC": [
 "ESPN 2",
 "Disney+ Premium"
+],
+"EG": [
+"beIN Sports MENA 3"
 ],
 "ES": [
 "DAZN",
@@ -8364,15 +8523,27 @@
 "Supersport Grandstand ROA",
 "SuperSport Premier League ROA"
 ],
+"IQ": [
+"beIN Sports MENA 3"
+],
 "IT": [
 "Sky Sport Uno",
 "NOW TV (IT)"
+],
+"JO": [
+"beIN Sports MENA 3"
 ],
 "JP": [
 "DAZN"
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"beIN Sports MENA 3"
+],
+"LY": [
+"beIN Sports MENA 3"
 ],
 "MA": [
 "TOD",
@@ -8396,6 +8567,9 @@
 "NZ": [
 "beIN Sports Connect New Zealand"
 ],
+"OM": [
+"beIN Sports MENA 3"
+],
 "PE": [
 "ESPN 2",
 "Disney+ Premium"
@@ -8406,6 +8580,15 @@
 "PY": [
 "ESPN 2",
 "Disney+ Premium"
+],
+"QA": [
+"beIN Sports MENA 3"
+],
+"SA": [
+"beIN Sports MENA 3"
+],
+"TN": [
+"beIN Sports MENA 3"
 ],
 "TR": [
 "S Sport"
@@ -8470,6 +8653,10 @@
 "tr": "Fransa"
 },
 "broadcasts": {
+"AE": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
 "AR": [
 "ESPN",
 "Disney+ Premium"
@@ -8483,6 +8670,10 @@
 ],
 "BE": [
 "DAZN (BE)"
+],
+"BH": [
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "BR": [
 "ESPN",
@@ -8512,9 +8703,17 @@
 "DE": [
 "DAZN Deutschland"
 ],
+"DZ": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
 "EC": [
 "ESPN",
 "Disney+ Premium"
+],
+"EG": [
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "ES": [
 "DAZN",
@@ -8534,11 +8733,27 @@
 "HR": [
 "MAXtv To Go"
 ],
+"IQ": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
+"JO": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
 "JP": [
 "DAZN"
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
+"LY": [
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "MA": [
 "beIN CONNECT",
@@ -8561,6 +8776,10 @@
 "NZ": [
 "beIN Sports Connect New Zealand"
 ],
+"OM": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
 "PE": [
 "ESPN",
 "Disney+ Premium"
@@ -8571,6 +8790,18 @@
 "PY": [
 "ESPN",
 "Disney+ Premium"
+],
+"QA": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
+"SA": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
+"TN": [
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "TR": [
 "S Sport"
@@ -8637,6 +8868,9 @@
 "tr": "Eswatini"
 },
 "broadcasts": {
+"AR": [
+"Disney+ Premium"
+],
 "AT": [
 "DAZN"
 ],
@@ -8649,8 +8883,17 @@
 "CH": [
 "DAZN"
 ],
+"CL": [
+"Disney+ Premium"
+],
+"CO": [
+"Disney+ Premium"
+],
 "DE": [
 "DAZN Deutschland"
+],
+"EC": [
+"Disney+ Premium"
 ],
 "ES": [
 "DAZN",
@@ -8669,8 +8912,17 @@
 "NZ": [
 "beIN Sports Connect New Zealand"
 ],
+"PE": [
+"Disney+ Premium"
+],
+"PY": [
+"Disney+ Premium"
+],
 "US": [
 "ViX"
+],
+"UY": [
+"Disney+ Premium"
 ]
 },
 "competition": {
@@ -8720,6 +8972,9 @@
 "tr": "Letonya"
 },
 "broadcasts": {
+"AE": [
+"beIN Sports MENA 8"
+],
 "AR": [
 "Disney+ Premium"
 ],
@@ -8728,6 +8983,9 @@
 ],
 "BE": [
 "DAZN (BE)"
+],
+"BH": [
+"beIN Sports MENA 8"
 ],
 "BR": [
 "Disney+ Premium"
@@ -8747,8 +9005,14 @@
 "DE": [
 "DAZN Deutschland"
 ],
+"DZ": [
+"beIN Sports MENA 8"
+],
 "EC": [
 "Disney+ Premium"
+],
+"EG": [
+"beIN Sports MENA 8"
 ],
 "ES": [
 "DAZN"
@@ -8765,11 +9029,23 @@
 "HR": [
 "MAXtv To Go"
 ],
+"IQ": [
+"beIN Sports MENA 8"
+],
+"JO": [
+"beIN Sports MENA 8"
+],
 "JP": [
 "DAZN"
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"beIN Sports MENA 8"
+],
+"LY": [
+"beIN Sports MENA 8"
 ],
 "MA": [
 "beIN CONNECT"
@@ -8788,11 +9064,23 @@
 "NZ": [
 "beIN Sports Connect New Zealand"
 ],
+"OM": [
+"beIN Sports MENA 8"
+],
 "PE": [
 "Disney+ Premium"
 ],
 "PY": [
 "Disney+ Premium"
+],
+"QA": [
+"beIN Sports MENA 8"
+],
+"SA": [
+"beIN Sports MENA 8"
+],
+"TN": [
+"beIN Sports MENA 8"
 ],
 "TR": [
 "S Sport"
@@ -8856,13 +9144,52 @@
 "tr": "Betis"
 },
 "broadcasts": {
+"AE": [
+"MBC Shahid"
+],
+"BH": [
+"MBC Shahid"
+],
 "BR": [
 "Disney+ Premium"
+],
+"DZ": [
+"MBC Shahid"
+],
+"EG": [
+"MBC Shahid"
 ],
 "ES": [
 "Movistar Plus+",
 "LaLiga TV Bar",
 "M+ LALIGA"
+],
+"IQ": [
+"MBC Shahid"
+],
+"JO": [
+"MBC Shahid"
+],
+"KW": [
+"MBC Shahid"
+],
+"LY": [
+"MBC Shahid"
+],
+"MA": [
+"MBC Shahid"
+],
+"OM": [
+"MBC Shahid"
+],
+"QA": [
+"MBC Shahid"
+],
+"SA": [
+"MBC Shahid"
+],
+"TN": [
+"MBC Shahid"
 ],
 "US": [
 "ESPN Select",
@@ -8916,6 +9243,9 @@
 "tr": "Belarus"
 },
 "broadcasts": {
+"AE": [
+"TOD TV"
+],
 "AR": [
 "Disney+ Premium"
 ],
@@ -8924,6 +9254,9 @@
 ],
 "BE": [
 "DAZN (BE)"
+],
+"BH": [
+"TOD TV"
 ],
 "BR": [
 "Disney+ Premium"
@@ -8943,8 +9276,14 @@
 "DE": [
 "DAZN Deutschland"
 ],
+"DZ": [
+"TOD TV"
+],
 "EC": [
 "Disney+ Premium"
+],
+"EG": [
+"TOD TV"
 ],
 "ES": [
 "DAZN"
@@ -8955,11 +9294,23 @@
 "GH": [
 "DStv Now"
 ],
+"IQ": [
+"TOD TV"
+],
+"JO": [
+"TOD TV"
+],
 "JP": [
 "DAZN"
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"TOD TV"
+],
+"LY": [
+"TOD TV"
 ],
 "MA": [
 "TOD",
@@ -8975,11 +9326,23 @@
 "NZ": [
 "beIN Sports Connect New Zealand"
 ],
+"OM": [
+"TOD TV"
+],
 "PE": [
 "Disney+ Premium"
 ],
 "PY": [
 "Disney+ Premium"
+],
+"QA": [
+"TOD TV"
+],
+"SA": [
+"TOD TV"
+],
+"TN": [
+"TOD TV"
 ],
 "TR": [
 "S Sport"
@@ -9039,6 +9402,10 @@
 "tr": "Belçika"
 },
 "broadcasts": {
+"AE": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
 "AR": [
 "ESPN 2",
 "Disney+ Premium"
@@ -9054,6 +9421,10 @@
 "VTM GO",
 "VTM 2",
 "VTM"
+],
+"BH": [
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "BR": [
 "SporTV"
@@ -9078,9 +9449,17 @@
 "DE": [
 "DAZN Deutschland"
 ],
+"DZ": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
 "EC": [
 "ESPN 2",
 "Disney+ Premium"
+],
+"EG": [
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "ES": [
 "DAZN",
@@ -9102,16 +9481,32 @@
 "MAXtv To Go",
 "Sportklub 1 Croatia"
 ],
+"IQ": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
 "IT": [
 "Sky Sport Uno",
 "Sky Sport Calcio",
 "NOW TV (IT)"
+],
+"JO": [
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "JP": [
 "DAZN"
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
+"LY": [
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "MA": [
 "TOD",
@@ -9137,6 +9532,10 @@
 "NZ": [
 "beIN Sports Connect New Zealand"
 ],
+"OM": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
 "PE": [
 "ESPN 2",
 "Disney+ Premium"
@@ -9147,6 +9546,18 @@
 "PY": [
 "ESPN 2",
 "Disney+ Premium"
+],
+"QA": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
+"SA": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
+"TN": [
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "TR": [
 "S Sport"
@@ -9213,6 +9624,9 @@
 "tr": "Panama"
 },
 "broadcasts": {
+"AR": [
+"CONCACAF YouTube"
+],
 "AT": [
 "CONCACAF YouTube"
 ],
@@ -16550,6 +16964,9 @@
 "tr": "Finlandiya"
 },
 "broadcasts": {
+"AE": [
+"TOD TV"
+],
 "AR": [
 "Disney+ Premium"
 ],
@@ -16558,6 +16975,9 @@
 ],
 "BE": [
 "DAZN (BE)"
+],
+"BH": [
+"TOD TV"
 ],
 "BR": [
 "Disney+ Premium"
@@ -16577,8 +16997,14 @@
 "DE": [
 "DAZN Deutschland"
 ],
+"DZ": [
+"TOD TV"
+],
 "EC": [
 "Disney+ Premium"
+],
+"EG": [
+"TOD TV"
 ],
 "ES": [
 "DAZN"
@@ -16595,11 +17021,23 @@
 "MAXtv To Go",
 "Sportklub 4 Croatia"
 ],
+"IQ": [
+"TOD TV"
+],
+"JO": [
+"TOD TV"
+],
 "JP": [
 "DAZN"
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"TOD TV"
+],
+"LY": [
+"TOD TV"
 ],
 "MA": [
 "TOD",
@@ -16619,6 +17057,9 @@
 "NZ": [
 "beIN Sports Connect New Zealand"
 ],
+"OM": [
+"TOD TV"
+],
 "PE": [
 "Disney+ Premium"
 ],
@@ -16627,6 +17068,15 @@
 ],
 "PY": [
 "Disney+ Premium"
+],
+"QA": [
+"TOD TV"
+],
+"SA": [
+"TOD TV"
+],
+"TN": [
+"TOD TV"
 ],
 "TR": [
 "S Sport"
@@ -16692,6 +17142,9 @@
 "tr": "Güney Kıbrıs"
 },
 "broadcasts": {
+"AE": [
+"beIN Sports MENA 4"
+],
 "AR": [
 "Disney+ Premium"
 ],
@@ -16703,6 +17156,9 @@
 ],
 "BE": [
 "DAZN (BE)"
+],
+"BH": [
+"beIN Sports MENA 4"
 ],
 "BR": [
 "ESPN 3",
@@ -16726,8 +17182,14 @@
 "DE": [
 "DAZN Deutschland"
 ],
+"DZ": [
+"beIN Sports MENA 4"
+],
 "EC": [
 "Disney+ Premium"
+],
+"EG": [
+"beIN Sports MENA 4"
 ],
 "ES": [
 "DAZN",
@@ -16744,11 +17206,23 @@
 "MAXtv To Go",
 "Sport Klub 3 HR"
 ],
+"IQ": [
+"beIN Sports MENA 4"
+],
+"JO": [
+"beIN Sports MENA 4"
+],
 "JP": [
 "DAZN"
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"beIN Sports MENA 4"
+],
+"LY": [
+"beIN Sports MENA 4"
 ],
 "MA": [
 "TOD",
@@ -16764,6 +17238,9 @@
 "NZ": [
 "beIN Sports Connect New Zealand"
 ],
+"OM": [
+"beIN Sports MENA 4"
+],
 "PE": [
 "Disney+ Premium"
 ],
@@ -16772,6 +17249,15 @@
 ],
 "PY": [
 "Disney+ Premium"
+],
+"QA": [
+"beIN Sports MENA 4"
+],
+"SA": [
+"beIN Sports MENA 4"
+],
+"TN": [
+"beIN Sports MENA 4"
 ],
 "TR": [
 "S Sport"
@@ -16833,6 +17319,9 @@
 "tr": "İspanya"
 },
 "broadcasts": {
+"AE": [
+"beIN Sports MENA 4"
+],
 "AR": [
 "ESPN 3",
 "Disney+ Premium"
@@ -16842,6 +17331,9 @@
 ],
 "BE": [
 "DAZN (BE)"
+],
+"BH": [
+"beIN Sports MENA 4"
 ],
 "BR": [
 "SporTV"
@@ -16866,9 +17358,15 @@
 "DE": [
 "DAZN Deutschland"
 ],
+"DZ": [
+"beIN Sports MENA 4"
+],
 "EC": [
 "ESPN 3",
 "Disney+ Premium"
+],
+"EG": [
+"beIN Sports MENA 4"
 ],
 "ES": [
 "RTVE Play",
@@ -16888,11 +17386,23 @@
 "Sport Klub 6 HR",
 "MAXtv To Go"
 ],
+"IQ": [
+"beIN Sports MENA 4"
+],
+"JO": [
+"beIN Sports MENA 4"
+],
 "JP": [
 "DAZN"
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"beIN Sports MENA 4"
+],
+"LY": [
+"beIN Sports MENA 4"
 ],
 "MA": [
 "TOD",
@@ -16915,6 +17425,9 @@
 "NZ": [
 "beIN Sports Connect New Zealand"
 ],
+"OM": [
+"beIN Sports MENA 4"
+],
 "PE": [
 "ESPN 3",
 "Disney+ Premium"
@@ -16925,6 +17438,15 @@
 "PY": [
 "ESPN 3",
 "Disney+ Premium"
+],
+"QA": [
+"beIN Sports MENA 4"
+],
+"SA": [
+"beIN Sports MENA 4"
+],
+"TN": [
+"beIN Sports MENA 4"
 ],
 "TR": [
 "S Sport"
@@ -16990,6 +17512,9 @@
 "tr": "Hırvatistan"
 },
 "broadcasts": {
+"AE": [
+"beIN Sports MENA 3"
+],
 "AR": [
 "ESPN 2",
 "Disney+ Premium"
@@ -17002,6 +17527,9 @@
 ],
 "BE": [
 "DAZN (BE)"
+],
+"BH": [
+"beIN Sports MENA 3"
 ],
 "BR": [
 "ESPN 4",
@@ -17028,9 +17556,15 @@
 "DE": [
 "DAZN Deutschland"
 ],
+"DZ": [
+"beIN Sports MENA 3"
+],
 "EC": [
 "ESPN 2",
 "Disney+ Premium"
+],
+"EG": [
+"beIN Sports MENA 3"
 ],
 "ES": [
 "DAZN",
@@ -17050,15 +17584,27 @@
 "Supersport Grandstand ROA",
 "SuperSport Premier League ROA"
 ],
+"IQ": [
+"beIN Sports MENA 3"
+],
 "IT": [
 "Sky Sport Uno",
 "NOW TV (IT)"
+],
+"JO": [
+"beIN Sports MENA 3"
 ],
 "JP": [
 "DAZN"
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"beIN Sports MENA 3"
+],
+"LY": [
+"beIN Sports MENA 3"
 ],
 "MA": [
 "TOD",
@@ -17082,6 +17628,9 @@
 "NZ": [
 "beIN Sports Connect New Zealand"
 ],
+"OM": [
+"beIN Sports MENA 3"
+],
 "PE": [
 "ESPN 2",
 "Disney+ Premium"
@@ -17092,6 +17641,15 @@
 "PY": [
 "ESPN 2",
 "Disney+ Premium"
+],
+"QA": [
+"beIN Sports MENA 3"
+],
+"SA": [
+"beIN Sports MENA 3"
+],
+"TN": [
+"beIN Sports MENA 3"
 ],
 "TR": [
 "S Sport"
@@ -17156,6 +17714,10 @@
 "tr": "Fransa"
 },
 "broadcasts": {
+"AE": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
 "AR": [
 "ESPN",
 "Disney+ Premium"
@@ -17169,6 +17731,10 @@
 ],
 "BE": [
 "DAZN (BE)"
+],
+"BH": [
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "BR": [
 "ESPN",
@@ -17198,9 +17764,17 @@
 "DE": [
 "DAZN Deutschland"
 ],
+"DZ": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
 "EC": [
 "ESPN",
 "Disney+ Premium"
+],
+"EG": [
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "ES": [
 "DAZN",
@@ -17220,11 +17794,27 @@
 "HR": [
 "MAXtv To Go"
 ],
+"IQ": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
+"JO": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
 "JP": [
 "DAZN"
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
+"LY": [
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "MA": [
 "beIN CONNECT",
@@ -17247,6 +17837,10 @@
 "NZ": [
 "beIN Sports Connect New Zealand"
 ],
+"OM": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
 "PE": [
 "ESPN",
 "Disney+ Premium"
@@ -17257,6 +17851,18 @@
 "PY": [
 "ESPN",
 "Disney+ Premium"
+],
+"QA": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
+"SA": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
+"TN": [
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "TR": [
 "S Sport"
@@ -17323,21 +17929,57 @@
 "tr": "Gambiya"
 },
 "broadcasts": {
+"AE": [
+"beIN Sports MENA 5"
+],
+"BH": [
+"beIN Sports MENA 5"
+],
 "CA": [
 "beIN Sport Canada Espanol"
 ],
 "DE": [
 "DAZN Deutschland"
 ],
+"DZ": [
+"beIN Sports MENA 5"
+],
+"EG": [
+"beIN Sports MENA 5"
+],
 "FR": [
 "beIN Sports 1 (FR)"
+],
+"IQ": [
+"beIN Sports MENA 5"
+],
+"JO": [
+"beIN Sports MENA 5"
+],
+"KW": [
+"beIN Sports MENA 5"
+],
+"LY": [
+"beIN Sports MENA 5"
 ],
 "MA": [
 "beIN Sports 5",
 "beIN Sports France"
 ],
+"OM": [
+"beIN Sports MENA 5"
+],
 "PT": [
 "Fanatiz"
+],
+"QA": [
+"beIN Sports MENA 5"
+],
+"SA": [
+"beIN Sports MENA 5"
+],
+"TN": [
+"beIN Sports MENA 5"
 ],
 "US": [
 "beIN Sports 5",
@@ -17392,6 +18034,9 @@
 "tr": "Letonya"
 },
 "broadcasts": {
+"AE": [
+"beIN Sports MENA 8"
+],
 "AR": [
 "Disney+ Premium"
 ],
@@ -17400,6 +18045,9 @@
 ],
 "BE": [
 "DAZN (BE)"
+],
+"BH": [
+"beIN Sports MENA 8"
 ],
 "BR": [
 "Disney+ Premium"
@@ -17419,8 +18067,14 @@
 "DE": [
 "DAZN Deutschland"
 ],
+"DZ": [
+"beIN Sports MENA 8"
+],
 "EC": [
 "Disney+ Premium"
+],
+"EG": [
+"beIN Sports MENA 8"
 ],
 "ES": [
 "DAZN"
@@ -17437,11 +18091,23 @@
 "HR": [
 "MAXtv To Go"
 ],
+"IQ": [
+"beIN Sports MENA 8"
+],
+"JO": [
+"beIN Sports MENA 8"
+],
 "JP": [
 "DAZN"
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"beIN Sports MENA 8"
+],
+"LY": [
+"beIN Sports MENA 8"
 ],
 "MA": [
 "beIN CONNECT"
@@ -17460,11 +18126,23 @@
 "NZ": [
 "beIN Sports Connect New Zealand"
 ],
+"OM": [
+"beIN Sports MENA 8"
+],
 "PE": [
 "Disney+ Premium"
 ],
 "PY": [
 "Disney+ Premium"
+],
+"QA": [
+"beIN Sports MENA 8"
+],
+"SA": [
+"beIN Sports MENA 8"
+],
+"TN": [
+"beIN Sports MENA 8"
 ],
 "TR": [
 "S Sport"
@@ -17528,6 +18206,9 @@
 "tr": "Belarus"
 },
 "broadcasts": {
+"AE": [
+"TOD TV"
+],
 "AR": [
 "Disney+ Premium"
 ],
@@ -17536,6 +18217,9 @@
 ],
 "BE": [
 "DAZN (BE)"
+],
+"BH": [
+"TOD TV"
 ],
 "BR": [
 "Disney+ Premium"
@@ -17555,8 +18239,14 @@
 "DE": [
 "DAZN Deutschland"
 ],
+"DZ": [
+"TOD TV"
+],
 "EC": [
 "Disney+ Premium"
+],
+"EG": [
+"TOD TV"
 ],
 "ES": [
 "DAZN"
@@ -17567,11 +18257,23 @@
 "GH": [
 "DStv Now"
 ],
+"IQ": [
+"TOD TV"
+],
+"JO": [
+"TOD TV"
+],
 "JP": [
 "DAZN"
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"TOD TV"
+],
+"LY": [
+"TOD TV"
 ],
 "MA": [
 "TOD",
@@ -17587,11 +18289,23 @@
 "NZ": [
 "beIN Sports Connect New Zealand"
 ],
+"OM": [
+"TOD TV"
+],
 "PE": [
 "Disney+ Premium"
 ],
 "PY": [
 "Disney+ Premium"
+],
+"QA": [
+"TOD TV"
+],
+"SA": [
+"TOD TV"
+],
+"TN": [
+"TOD TV"
 ],
 "TR": [
 "S Sport"
@@ -17651,14 +18365,46 @@
 "tr": "Sudan"
 },
 "broadcasts": {
+"AE": [
+"beIN Sports MENA 2",
+"beIN Sports MAX 5"
+],
+"BH": [
+"beIN Sports MENA 2",
+"beIN Sports MAX 5"
+],
 "CA": [
 "beIN Sport Canada"
 ],
 "DE": [
 "DAZN Deutschland"
 ],
+"DZ": [
+"beIN Sports MENA 2",
+"beIN Sports MAX 5"
+],
+"EG": [
+"beIN Sports MENA 2",
+"beIN Sports MAX 5"
+],
 "FR": [
 "beIN Sports MAX 5 (FR)"
+],
+"IQ": [
+"beIN Sports MENA 2",
+"beIN Sports MAX 5"
+],
+"JO": [
+"beIN Sports MENA 2",
+"beIN Sports MAX 5"
+],
+"KW": [
+"beIN Sports MENA 2",
+"beIN Sports MAX 5"
+],
+"LY": [
+"beIN Sports MENA 2",
+"beIN Sports MAX 5"
 ],
 "MA": [
 "beIN Sports 2",
@@ -17668,8 +18414,24 @@
 "NZ": [
 "beIN Sports Connect New Zealand"
 ],
+"OM": [
+"beIN Sports MENA 2",
+"beIN Sports MAX 5"
+],
 "PT": [
 "Fanatiz"
+],
+"QA": [
+"beIN Sports MENA 2",
+"beIN Sports MAX 5"
+],
+"SA": [
+"beIN Sports MENA 2",
+"beIN Sports MAX 5"
+],
+"TN": [
+"beIN Sports MENA 2",
+"beIN Sports MAX 5"
 ],
 "US": [
 "beIN Sports (US)",
@@ -17723,6 +18485,10 @@
 "tr": "Belçika"
 },
 "broadcasts": {
+"AE": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
 "AR": [
 "ESPN 2",
 "Disney+ Premium"
@@ -17738,6 +18504,10 @@
 "VTM GO",
 "VTM 2",
 "VTM"
+],
+"BH": [
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "BR": [
 "SporTV"
@@ -17762,9 +18532,17 @@
 "DE": [
 "DAZN Deutschland"
 ],
+"DZ": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
 "EC": [
 "ESPN 2",
 "Disney+ Premium"
+],
+"EG": [
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "ES": [
 "DAZN",
@@ -17786,16 +18564,32 @@
 "MAXtv To Go",
 "Sportklub 1 Croatia"
 ],
+"IQ": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
 "IT": [
 "Sky Sport Uno",
 "Sky Sport Calcio",
 "NOW TV (IT)"
+],
+"JO": [
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "JP": [
 "DAZN"
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
+"LY": [
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "MA": [
 "TOD",
@@ -17821,6 +18615,10 @@
 "NZ": [
 "beIN Sports Connect New Zealand"
 ],
+"OM": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
 "PE": [
 "ESPN 2",
 "Disney+ Premium"
@@ -17831,6 +18629,18 @@
 "PY": [
 "ESPN 2",
 "Disney+ Premium"
+],
+"QA": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
+"SA": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
+"TN": [
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "TR": [
 "S Sport"
