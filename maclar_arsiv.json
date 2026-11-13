@@ -9755,6 +9755,9 @@
 "PY": [
 "Disney+ Premium"
 ],
+"TR": [
+"CBC Sport"
+],
 "US": [
 "Fubo Sports",
 "ViX"
@@ -10806,8 +10809,7 @@
 "Disney+ Premium"
 ],
 "AT": [
-"DAZN",
-"NDR info"
+"DAZN"
 ],
 "AU": [
 "beIN Sports 2"
@@ -10864,7 +10866,6 @@
 "La 1 TVE"
 ],
 "FR": [
-"RTL Television (FR)",
 "L'Équipe live",
 "L'Équipe live foot"
 ],
@@ -11275,6 +11276,86 @@
 "tier": "regional"
 },
 "slug": "guatemala-canada-2026-11-14"
+},
+"es:football-20261114-internacional-de-bogota-santa-fe": {
+"lang": "es",
+"m": {
+"away": "Santa Fe",
+"awayNames": {
+"ar": "سانتا في",
+"de": "Santa Fe",
+"en": "Santa Fe",
+"es": "Santa Fe",
+"fr": "Santa Fe",
+"it": "Santa Fe",
+"pt": "Santa Fe",
+"tr": "Santa Fe"
+},
+"broadcasts": {
+"AR": [
+"RCN Nuestra Tele"
+],
+"BR": [
+"RCN Nuestra Tele"
+],
+"CL": [
+"RCN Nuestra Tele"
+],
+"CO": [
+"Win Sports",
+"Win Fútbol +",
+"Win Play"
+],
+"EC": [
+"RCN Nuestra Tele"
+],
+"ES": [
+"RCN Nuestra Tele"
+],
+"MX": [
+"RCN Nuestra Tele"
+],
+"PE": [
+"RCN Nuestra Tele"
+],
+"PT": [
+"Fanatiz"
+],
+"UY": [
+"RCN Nuestra Tele"
+]
+},
+"competition": {
+"ar": "الدوري الكولومبي",
+"de": "Liga BetPlay DIMAYOR",
+"en": "Liga BetPlay DIMAYOR",
+"es": "Liga BetPlay DIMAYOR",
+"fr": "Liga BetPlay DIMAYOR",
+"it": "Liga BetPlay DIMAYOR",
+"pt": "Liga BetPlay DIMAYOR",
+"tr": "Kolombiya Liga BetPlay"
+},
+"competitionId": "liga_dimayor",
+"home": "Internacional de Bogota",
+"homeNames": {
+"ar": "إنترناسيونال دي بوغوتا",
+"de": "Internacional de Bogotá",
+"en": "Internacional de Bogotá",
+"es": "Internacional de Bogotá",
+"fr": "Internacional de Bogotá",
+"it": "Internacional de Bogotá",
+"pt": "Internacional de Bogotá",
+"tr": "Internacional de Bogotá"
+},
+"id": "football-20261114-internacional-de-bogota-santa-fe",
+"kickoffUtc": "2026-11-14T01:30:00Z",
+"sources": [
+"fotmob"
+],
+"sport": "football",
+"tier": "regional"
+},
+"slug": "internacional-de-bogota-santa-fe-2026-11-14"
 },
 "fr:basketball-20261111-76ers-celtics": {
 "lang": "fr",
@@ -20648,6 +20729,9 @@
 "PY": [
 "Disney+ Premium"
 ],
+"TR": [
+"CBC Sport"
+],
 "US": [
 "Fubo Sports",
 "ViX"
@@ -20896,7 +20980,6 @@
 ],
 "US": [
 "beIN Sports 3",
-"beIN Sports Xtra (Canada)",
 "beIN Sports XTRA (US)",
 "beIN Sports CONNECT (US)"
 ]
@@ -21771,8 +21854,7 @@
 "Disney+ Premium"
 ],
 "AT": [
-"DAZN",
-"NDR info"
+"DAZN"
 ],
 "AU": [
 "beIN Sports 2"
@@ -21829,7 +21911,6 @@
 "La 1 TVE"
 ],
 "FR": [
-"RTL Television (FR)",
 "L'Équipe live",
 "L'Équipe live foot"
 ],
@@ -22338,7 +22419,6 @@
 "beIN Sports MENA 1"
 ],
 "US": [
-"beIN Sports Xtra (Canada)",
 "beIN Sports XTRA (US)",
 "beIN Sports CONNECT (US)",
 "Fawesome (US)"
