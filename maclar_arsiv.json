@@ -11379,14 +11379,50 @@
 "tr": "FC Andorra"
 },
 "broadcasts": {
+"AE": [
+"beIN Sports MENA 3"
+],
+"BH": [
+"beIN Sports MENA 3"
+],
+"DZ": [
+"beIN Sports MENA 3"
+],
+"EG": [
+"beIN Sports MENA 3"
+],
 "ES": [
 "DAZN",
 "LaLiga TV M2",
 "LALIGA TV Hypermotion"
 ],
+"IQ": [
+"beIN Sports MENA 3"
+],
+"JO": [
+"beIN Sports MENA 3"
+],
+"KW": [
+"beIN Sports MENA 3"
+],
+"LY": [
+"beIN Sports MENA 3"
+],
 "MA": [
 "beIN Sports 3",
 "beIN CONNECT"
+],
+"OM": [
+"beIN Sports MENA 3"
+],
+"QA": [
+"beIN Sports MENA 3"
+],
+"SA": [
+"beIN Sports MENA 3"
+],
+"TN": [
+"beIN Sports MENA 3"
 ],
 "US": [
 "ESPN Select",
@@ -13116,6 +13152,91 @@
 },
 "slug": "mallorca-cordoba-2026-11-14"
 },
+"es:football-20261114-millonarios-alianza": {
+"lang": "es",
+"m": {
+"away": "Alianza",
+"awayNames": {
+"ar": "أليانزا",
+"de": "Alianza FC",
+"en": "Alianza FC",
+"es": "Alianza FC",
+"fr": "Alianza FC",
+"it": "Alianza FC",
+"pt": "Alianza FC",
+"tr": "Alianza FC"
+},
+"broadcasts": {
+"AR": [
+"RCN Nuestra Tele"
+],
+"BR": [
+"RCN Nuestra Tele"
+],
+"CL": [
+"RCN Nuestra Tele"
+],
+"CO": [
+"Win Fútbol +",
+"Win Play"
+],
+"EC": [
+"RCN Nuestra Tele"
+],
+"ES": [
+"RCN Nuestra Tele"
+],
+"MX": [
+"RCN Nuestra Tele"
+],
+"PE": [
+"RCN Nuestra Tele"
+],
+"PT": [
+"Fanatiz"
+],
+"US": [
+"Fanatiz",
+"FOX Deportes",
+"Fox Sports online",
+"FOX One"
+],
+"UY": [
+"RCN Nuestra Tele"
+]
+},
+"competition": {
+"ar": "الدوري الكولومبي",
+"de": "Liga BetPlay DIMAYOR",
+"en": "Liga BetPlay DIMAYOR",
+"es": "Liga BetPlay DIMAYOR",
+"fr": "Liga BetPlay DIMAYOR",
+"it": "Liga BetPlay DIMAYOR",
+"pt": "Liga BetPlay DIMAYOR",
+"tr": "Kolombiya Liga BetPlay"
+},
+"competitionId": "liga_dimayor",
+"home": "Millonarios",
+"homeNames": {
+"ar": "Millonarios",
+"de": "Millonarios",
+"en": "Millonarios",
+"es": "Millonarios",
+"fr": "Millonarios",
+"it": "Millonarios",
+"pt": "Millonarios",
+"tr": "Millonarios"
+},
+"id": "football-20261114-millonarios-alianza",
+"kickoffUtc": "2026-11-14T20:30:00Z",
+"sources": [
+"fotmob"
+],
+"sport": "football",
+"tier": "regional"
+},
+"slug": "millonarios-alianza-fc-2026-11-14"
+},
 "es:football-20261114-mirassol-atletico-mg": {
 "lang": "es",
 "m": {
@@ -13986,8 +14107,20 @@
 "tr": "Castellón"
 },
 "broadcasts": {
+"AE": [
+"beIN Sports MENA 3"
+],
+"BH": [
+"beIN Sports MENA 3"
+],
 "CZ": [
 "Nova Sport 4"
+],
+"DZ": [
+"beIN Sports MENA 3"
+],
+"EG": [
+"beIN Sports MENA 3"
 ],
 "ES": [
 "DAZN",
@@ -13996,6 +14129,18 @@
 ],
 "GH": [
 "StarTimes Ghana"
+],
+"IQ": [
+"beIN Sports MENA 3"
+],
+"JO": [
+"beIN Sports MENA 3"
+],
+"KW": [
+"beIN Sports MENA 3"
+],
+"LY": [
+"beIN Sports MENA 3"
 ],
 "MA": [
 "beIN Sports 3",
@@ -14006,6 +14151,18 @@
 ],
 "NZ": [
 "beIN Sports Connect New Zealand"
+],
+"OM": [
+"beIN Sports MENA 3"
+],
+"QA": [
+"beIN Sports MENA 3"
+],
+"SA": [
+"beIN Sports MENA 3"
+],
+"TN": [
+"beIN Sports MENA 3"
 ],
 "TR": [
 "S Sport"
