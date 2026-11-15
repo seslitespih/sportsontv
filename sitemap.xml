@@ -528,22 +528,6 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://sportstvtoday.com/ar/about/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://sportstvtoday.com/about/"/>
   </url>
-  <url><loc>https://sportstvtoday.com/es/partido/armenia-chipre-2026-11-12/</loc>
-    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/armenia-chipre-2026-11-12/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/armenie-chypre-2026-11-12/"/>
-  </url>
-  <url><loc>https://sportstvtoday.com/es/partido/turquia-belgica-2026-11-12/</loc>
-    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/turquia-belgica-2026-11-12/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/turquie-belgique-2026-11-12/"/>
-  </url>
-  <url><loc>https://sportstvtoday.com/fr/match/armenie-chypre-2026-11-12/</loc>
-    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/armenia-chipre-2026-11-12/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/armenie-chypre-2026-11-12/"/>
-  </url>
-  <url><loc>https://sportstvtoday.com/fr/match/turquie-belgique-2026-11-12/</loc>
-    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/turquia-belgica-2026-11-12/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/turquie-belgique-2026-11-12/"/>
-  </url>
   <url><loc>https://sportstvtoday.com/es/partido/malta-eswatini-2026-11-12/</loc>
   </url>
   <url><loc>https://sportstvtoday.com/es/partido/cd-tarancon-levante-2026-11-12/</loc>
