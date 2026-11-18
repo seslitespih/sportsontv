@@ -528,42 +528,6 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://sportstvtoday.com/ar/about/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://sportstvtoday.com/about/"/>
   </url>
-  <url><loc>https://sportstvtoday.com/es/partido/cd-tenerife-ad-ceuta-fc-2026-11-15/</loc>
-  </url>
-  <url><loc>https://sportstvtoday.com/es/partido/chipre-montenegro-2026-11-15/</loc>
-    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/chipre-montenegro-2026-11-15/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/chypre-montenegro-2026-11-15/"/>
-  </url>
-  <url><loc>https://sportstvtoday.com/es/partido/letonia-armenia-2026-11-15/</loc>
-    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/letonia-armenia-2026-11-15/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/lettonie-armenie-2026-11-15/"/>
-  </url>
-  <url><loc>https://sportstvtoday.com/fr/match/chypre-montenegro-2026-11-15/</loc>
-    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/chipre-montenegro-2026-11-15/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/chypre-montenegro-2026-11-15/"/>
-  </url>
-  <url><loc>https://sportstvtoday.com/fr/match/lettonie-armenie-2026-11-15/</loc>
-    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/letonia-armenia-2026-11-15/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/lettonie-armenie-2026-11-15/"/>
-  </url>
-  <url><loc>https://sportstvtoday.com/es/partido/granada-ud-las-palmas-2026-11-15/</loc>
-  </url>
-  <url><loc>https://sportstvtoday.com/es/partido/bielorrusia-albania-2026-11-15/</loc>
-    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/bielorrusia-albania-2026-11-15/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/bielorussie-albanie-2026-11-15/"/>
-  </url>
-  <url><loc>https://sportstvtoday.com/es/partido/finlandia-san-marino-2026-11-15/</loc>
-    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/finlandia-san-marino-2026-11-15/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/finlande-saint-marin-2026-11-15/"/>
-  </url>
-  <url><loc>https://sportstvtoday.com/fr/match/bielorussie-albanie-2026-11-15/</loc>
-    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/bielorrusia-albania-2026-11-15/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/bielorussie-albanie-2026-11-15/"/>
-  </url>
-  <url><loc>https://sportstvtoday.com/fr/match/finlande-saint-marin-2026-11-15/</loc>
-    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/finlandia-san-marino-2026-11-15/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/finlande-saint-marin-2026-11-15/"/>
-  </url>
   <url><loc>https://sportstvtoday.com/es/partido/eibar-cadiz-2026-11-15/</loc>
   </url>
   <url><loc>https://sportstvtoday.com/es/partido/cd-eldense-ce-sabadell-2026-11-15/</loc>
@@ -968,6 +932,10 @@
   </url>
   <url><loc>https://sportstvtoday.com/es/partido/alianza-atletico-fbc-melgar-2026-11-18/</loc>
   </url>
+  <url><loc>https://sportstvtoday.com/es/partido/coritiba-santos-2026-11-18/</loc>
+  </url>
+  <url><loc>https://sportstvtoday.com/es/partido/remo-chapecoense-2026-11-19/</loc>
+  </url>
   <url><loc>https://sportstvtoday.com/es/partido/cruzeiro-palmeiras-2026-11-19/</loc>
   </url>
   <url><loc>https://sportstvtoday.com/es/partido/flamengo-athletico-paranaense-2026-11-19/</loc>
@@ -1019,6 +987,8 @@
   <url><loc>https://sportstvtoday.com/fr/match/toronto-raptors-washington-wizards-2026-11-19/</loc>
     <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/toronto-raptors-washington-wizards-2026-11-19/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/toronto-raptors-washington-wizards-2026-11-19/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/es/partido/gremio-bahia-2026-11-19/</loc>
   </url>
   <url><loc>https://sportstvtoday.com/es/partido/dallas-mavericks-golden-state-warriors-2026-11-19/</loc>
     <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/dallas-mavericks-golden-state-warriors-2026-11-19/"/>

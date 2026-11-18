@@ -8269,206 +8269,6 @@
 },
 "slug": "adc-juan-pablo-ii-deportivo-garcilaso-2026-11-15"
 },
-"es:football-20261115-belarus-albania": {
-"lang": "es",
-"m": {
-"away": "Albania",
-"awayNames": {
-"ar": "ألبانيا",
-"de": "Albanien",
-"en": "Albania",
-"es": "Albania",
-"fr": "Albanie",
-"it": "Albania",
-"pt": "Albânia",
-"tr": "Arnavutluk"
-},
-"broadcasts": {
-"AE": [
-"beIN Sports MENA 2"
-],
-"AR": [
-"ESPN 2",
-"Disney+ Premium"
-],
-"AT": [
-"DAZN"
-],
-"AU": [
-"beIN Sports 3"
-],
-"BE": [
-"DAZN (BE)"
-],
-"BH": [
-"beIN Sports MENA 2"
-],
-"BR": [
-"ESPN",
-"Disney+ Premium"
-],
-"CA": [
-"DAZN Canada"
-],
-"CH": [
-"DAZN"
-],
-"CL": [
-"ESPN 2",
-"Disney+ Premium"
-],
-"CO": [
-"ESPN 2",
-"Disney+ Premium"
-],
-"CZ": [
-"Sport 1"
-],
-"DE": [
-"DAZN Deutschland"
-],
-"DZ": [
-"beIN Sports MENA 2"
-],
-"EC": [
-"ESPN 2",
-"Disney+ Premium"
-],
-"EG": [
-"beIN Sports MENA 2"
-],
-"ES": [
-"DAZN",
-"DAZN App Gratis"
-],
-"FR": [
-"L'Équipe live"
-],
-"GH": [
-"SuperSport GOtv LaLiga",
-"SuperSport Laliga ROA",
-"DStv Now"
-],
-"HR": [
-"MAXtv To Go"
-],
-"IQ": [
-"beIN Sports MENA 2"
-],
-"IT": [
-"Sky Sport Max (IT)",
-"NOW TV (IT)"
-],
-"JO": [
-"beIN Sports MENA 2"
-],
-"JP": [
-"DAZN"
-],
-"KR": [
-"SPOTV NOW"
-],
-"KW": [
-"beIN Sports MENA 2"
-],
-"LY": [
-"beIN Sports MENA 2"
-],
-"MA": [
-"beIN CONNECT"
-],
-"MX": [
-"SKY Sports"
-],
-"NG": [
-"SuperSport GOtv LaLiga",
-"SuperSport Laliga Nigeria"
-],
-"NL": [
-"Ziggo Sport",
-"Ziggo Sport Kanaal 14"
-],
-"NO": [
-"Viaplay NO",
-"TV 2 Play (NO)"
-],
-"NZ": [
-"beIN Sports Connect New Zealand"
-],
-"OM": [
-"beIN Sports MENA 2"
-],
-"PE": [
-"ESPN 2",
-"Disney+ Premium"
-],
-"PT": [
-"Sport TV 3"
-],
-"PY": [
-"ESPN 2",
-"Disney+ Premium"
-],
-"QA": [
-"beIN Sports MENA 2"
-],
-"SA": [
-"beIN Sports MENA 2"
-],
-"TN": [
-"beIN Sports MENA 2"
-],
-"TR": [
-"S Sport Plus"
-],
-"US": [
-"FOX Soccer Plus",
-"ViX",
-"Fubo Sports",
-"Fox Sports online"
-],
-"UY": [
-"ESPN 2",
-"Disney+ Premium"
-],
-"ZA": [
-"SuperSport GOtv LaLiga",
-"SuperSport Laliga"
-]
-},
-"competition": {
-"ar": "دوري الأمم الأوروبية",
-"de": "UEFA Nations League",
-"en": "UEFA Nations League",
-"es": "Liga de Naciones de la UEFA",
-"fr": "Ligue des Nations UEFA",
-"it": "UEFA Nations League",
-"pt": "Liga das Nações da UEFA",
-"tr": "UEFA Uluslar Ligi"
-},
-"competitionId": "uefa_nations",
-"home": "Belarus",
-"homeNames": {
-"ar": "بيلاروسيا",
-"de": "Belarus",
-"en": "Belarus",
-"es": "Bielorrusia",
-"fr": "Biélorussie",
-"it": "Bielorussia",
-"pt": "Bielorrússia",
-"tr": "Belarus"
-},
-"id": "football-20261115-belarus-albania",
-"kickoffUtc": "2026-11-15T17:00:00Z",
-"sources": [
-"fotmob",
-"sporekrani.com"
-],
-"sport": "football",
-"tier": "global"
-},
-"slug": "bielorrusia-albania-2026-11-15"
-},
 "es:football-20261115-belgium-italy": {
 "lang": "es",
 "m": {
@@ -8953,203 +8753,6 @@
 },
 "slug": "croacia-chequia-2026-11-15"
 },
-"es:football-20261115-cyprus-montenegro": {
-"lang": "es",
-"m": {
-"away": "Montenegro",
-"awayNames": {
-"ar": "الجبل الأسود",
-"de": "Montenegro",
-"en": "Montenegro",
-"es": "Montenegro",
-"fr": "Monténégro",
-"it": "Montenegro",
-"pt": "Montenegro",
-"tr": "Karadağ"
-},
-"broadcasts": {
-"AE": [
-"beIN Sports MENA 2"
-],
-"AR": [
-"ESPN",
-"Disney+ Premium"
-],
-"AT": [
-"DAZN"
-],
-"AU": [
-"beIN Sports 3"
-],
-"BE": [
-"DAZN (BE)"
-],
-"BH": [
-"beIN Sports MENA 2"
-],
-"BR": [
-"ESPN",
-"Disney+ Premium"
-],
-"CA": [
-"DAZN Canada"
-],
-"CH": [
-"DAZN"
-],
-"CL": [
-"ESPN",
-"Disney+ Premium"
-],
-"CO": [
-"ESPN",
-"Disney+ Premium"
-],
-"CZ": [
-"Sport 1"
-],
-"DE": [
-"DAZN Deutschland"
-],
-"DZ": [
-"beIN Sports MENA 2"
-],
-"EC": [
-"ESPN",
-"Disney+ Premium"
-],
-"EG": [
-"beIN Sports MENA 2"
-],
-"ES": [
-"DAZN",
-"DAZN App Gratis"
-],
-"FR": [
-"L'Équipe live",
-"L'Équipe live foot"
-],
-"GH": [
-"DStv Now",
-"SuperSport MaXimo 1"
-],
-"HR": [
-"MAXtv To Go"
-],
-"IQ": [
-"beIN Sports MENA 2"
-],
-"IT": [
-"Sky Sport Max (IT)",
-"NOW TV (IT)"
-],
-"JO": [
-"beIN Sports MENA 2"
-],
-"JP": [
-"DAZN"
-],
-"KR": [
-"SPOTV NOW"
-],
-"KW": [
-"beIN Sports MENA 2"
-],
-"LY": [
-"beIN Sports MENA 2"
-],
-"MA": [
-"beIN CONNECT"
-],
-"MX": [
-"SKY Sports"
-],
-"NG": [
-"SuperSport MaXimo 1",
-"SuperSport Premier League Nigeria"
-],
-"NL": [
-"Ziggo Sport 2"
-],
-"NO": [
-"TV 2 Sport 1",
-"TV 2 Play (NO)",
-"Viaplay NO"
-],
-"NZ": [
-"beIN Sports Connect New Zealand"
-],
-"OM": [
-"beIN Sports MENA 2"
-],
-"PE": [
-"ESPN",
-"Disney+ Premium"
-],
-"PT": [
-"Sport TV 2"
-],
-"PY": [
-"ESPN",
-"Disney+ Premium"
-],
-"QA": [
-"beIN Sports MENA 2"
-],
-"SA": [
-"beIN Sports MENA 2"
-],
-"TN": [
-"beIN Sports MENA 2"
-],
-"US": [
-"FOX Sports 2",
-"FOX One",
-"ViX",
-"Fubo Sports"
-],
-"UY": [
-"ESPN",
-"Disney+ Premium"
-],
-"ZA": [
-"SuperSport MaXimo 1",
-"SuperSport Premier League"
-]
-},
-"competition": {
-"ar": "دوري الأمم الأوروبية",
-"de": "UEFA Nations League",
-"en": "UEFA Nations League",
-"es": "Liga de Naciones de la UEFA",
-"fr": "Ligue des Nations UEFA",
-"it": "UEFA Nations League",
-"pt": "Liga das Nações da UEFA",
-"tr": "UEFA Uluslar Ligi"
-},
-"competitionId": "uefa_nations",
-"home": "Cyprus",
-"homeNames": {
-"ar": "قبرص",
-"de": "Zypern",
-"en": "Cyprus",
-"es": "Chipre",
-"fr": "Chypre",
-"it": "Cipro",
-"pt": "Chipre",
-"tr": "Güney Kıbrıs"
-},
-"id": "football-20261115-cyprus-montenegro",
-"kickoffUtc": "2026-11-15T14:00:00Z",
-"sources": [
-"fotmob",
-"sporekrani.com"
-],
-"sport": "football",
-"tier": "global"
-},
-"slug": "chipre-montenegro-2026-11-15"
-},
 "es:football-20261115-danubio-liverpool-fc": {
 "lang": "es",
 "m": {
@@ -9477,190 +9080,6 @@
 },
 "slug": "cd-eldense-ce-sabadell-2026-11-15"
 },
-"es:football-20261115-finland-san-marino": {
-"lang": "es",
-"m": {
-"away": "San Marino",
-"awayNames": {
-"ar": "سان مارينو",
-"de": "San Marino",
-"en": "San Marino",
-"es": "San Marino",
-"fr": "Saint-Marin",
-"it": "San Marino",
-"pt": "San Marino",
-"tr": "San Marino"
-},
-"broadcasts": {
-"AE": [
-"beIN Sports MENA 3"
-],
-"AR": [
-"Disney+ Premium"
-],
-"AT": [
-"DAZN"
-],
-"AU": [
-"beIN Sports 2"
-],
-"BE": [
-"DAZN (BE)"
-],
-"BH": [
-"beIN Sports MENA 3"
-],
-"BR": [
-"SporTV"
-],
-"CA": [
-"DAZN Canada"
-],
-"CH": [
-"DAZN"
-],
-"CL": [
-"Disney+ Premium"
-],
-"CO": [
-"Disney+ Premium"
-],
-"CZ": [
-"Sport 2"
-],
-"DE": [
-"DAZN Deutschland"
-],
-"DZ": [
-"beIN Sports MENA 3"
-],
-"EC": [
-"Disney+ Premium"
-],
-"EG": [
-"beIN Sports MENA 3"
-],
-"ES": [
-"DAZN"
-],
-"FR": [
-"L'Équipe live"
-],
-"GH": [
-"SuperSport MaXimo 1",
-"DStv Now"
-],
-"HR": [
-"MAXtv To Go"
-],
-"IQ": [
-"beIN Sports MENA 3"
-],
-"IT": [
-"Sky Sport 257",
-"NOW TV (IT)"
-],
-"JO": [
-"beIN Sports MENA 3"
-],
-"JP": [
-"DAZN"
-],
-"KR": [
-"SPOTV NOW"
-],
-"KW": [
-"beIN Sports MENA 3"
-],
-"LY": [
-"beIN Sports MENA 3"
-],
-"MA": [
-"beIN CONNECT"
-],
-"MX": [
-"SKY Sports"
-],
-"NG": [
-"SuperSport MaXimo 1",
-"SuperSport Premier League Nigeria"
-],
-"NO": [
-"Viaplay NO",
-"TV 2 Play (NO)",
-"TV 2 Sport 1"
-],
-"NZ": [
-"beIN Sports Connect New Zealand"
-],
-"OM": [
-"beIN Sports MENA 3"
-],
-"PE": [
-"Disney+ Premium"
-],
-"PT": [
-"Sport TV 2"
-],
-"PY": [
-"Disney+ Premium"
-],
-"QA": [
-"beIN Sports MENA 3"
-],
-"SA": [
-"beIN Sports MENA 3"
-],
-"TN": [
-"beIN Sports MENA 3"
-],
-"TR": [
-"S Sport Plus"
-],
-"US": [
-"ViX"
-],
-"UY": [
-"Disney+ Premium"
-],
-"ZA": [
-"SuperSport MaXimo 1",
-"SuperSport Premier League"
-]
-},
-"competition": {
-"ar": "دوري الأمم الأوروبية",
-"de": "UEFA Nations League",
-"en": "UEFA Nations League",
-"es": "Liga de Naciones de la UEFA",
-"fr": "Ligue des Nations UEFA",
-"it": "UEFA Nations League",
-"pt": "Liga das Nações da UEFA",
-"tr": "UEFA Uluslar Ligi"
-},
-"competitionId": "uefa_nations",
-"home": "Finland",
-"homeNames": {
-"ar": "فنلندا",
-"de": "Finnland",
-"en": "Finland",
-"es": "Finlandia",
-"fr": "Finlande",
-"it": "Finlandia",
-"pt": "Finlândia",
-"tr": "Finlandiya"
-},
-"id": "football-20261115-finland-san-marino",
-"kickoffUtc": "2026-11-15T17:00:00Z",
-"sources": [
-"fotmob",
-"sporekrani.com"
-],
-"sport": "football",
-"tier": "global"
-},
-"slug": "finlandia-san-marino-2026-11-15"
-},
 "es:football-20261115-france-turkey": {
 "lang": "es",
 "m": {
@@ -9847,257 +9266,6 @@
 "tier": "global"
 },
 "slug": "francia-turquia-2026-11-15"
-},
-"es:football-20261115-granada-las-palmas": {
-"lang": "es",
-"m": {
-"away": "Las Palmas",
-"awayNames": {
-"ar": "UD Las Palmas",
-"de": "UD Las Palmas",
-"en": "UD Las Palmas",
-"es": "UD Las Palmas",
-"fr": "UD Las Palmas",
-"it": "UD Las Palmas",
-"pt": "UD Las Palmas",
-"tr": "UD Las Palmas"
-},
-"broadcasts": {
-"ES": [
-"DAZN",
-"TV Canaria",
-"LaLiga TV Bar",
-"LALIGA TV Hypermotion"
-],
-"MX": [
-"SKY Sports"
-],
-"TR": [
-"S Sport",
-"S Sport Plus"
-],
-"US": [
-"ESPN Unlimited",
-"ESPN Select"
-]
-},
-"competition": {
-"ar": "دوري الدرجة الثانية الإسباني",
-"de": "LaLiga Hypermotion",
-"en": "LaLiga Hypermotion",
-"es": "LaLiga Hypermotion",
-"fr": "LaLiga Hypermotion",
-"it": "LaLiga Hypermotion",
-"pt": "LaLiga Hypermotion",
-"tr": "LaLiga Hypermotion"
-},
-"competitionId": "laliga2",
-"home": "Granada",
-"homeNames": {
-"ar": "Granada",
-"de": "Granada",
-"en": "Granada",
-"es": "Granada",
-"fr": "Granada",
-"it": "Granada",
-"pt": "Granada",
-"tr": "Granada"
-},
-"id": "football-20261115-granada-las-palmas",
-"kickoffUtc": "2026-11-15T15:15:00Z",
-"sources": [
-"fotmob"
-],
-"sport": "football",
-"tier": "regional"
-},
-"slug": "granada-ud-las-palmas-2026-11-15"
-},
-"es:football-20261115-latvia-armenia": {
-"lang": "es",
-"m": {
-"away": "Armenia",
-"awayNames": {
-"ar": "أرمينيا",
-"de": "Armenien",
-"en": "Armenia",
-"es": "Armenia",
-"fr": "Arménie",
-"it": "Armenia",
-"pt": "Arménia",
-"tr": "Ermenistan"
-},
-"broadcasts": {
-"AE": [
-"beIN Sports MENA 3"
-],
-"AR": [
-"Disney+ Premium"
-],
-"AT": [
-"DAZN"
-],
-"AU": [
-"beIN Sports 2"
-],
-"BE": [
-"DAZN (BE)"
-],
-"BH": [
-"beIN Sports MENA 3"
-],
-"BR": [
-"Disney+ Premium"
-],
-"CA": [
-"DAZN Canada"
-],
-"CH": [
-"DAZN"
-],
-"CL": [
-"Disney+ Premium"
-],
-"CO": [
-"Disney+ Premium"
-],
-"CZ": [
-"Sport 2"
-],
-"DE": [
-"DAZN Deutschland"
-],
-"DZ": [
-"beIN Sports MENA 3"
-],
-"EC": [
-"Disney+ Premium"
-],
-"EG": [
-"beIN Sports MENA 3"
-],
-"ES": [
-"DAZN",
-"DAZN App Gratis"
-],
-"FR": [
-"L'Équipe live",
-"L'Équipe live foot"
-],
-"GH": [
-"SuperSport Laliga ROA",
-"SuperSport GOtv LaLiga",
-"DStv Now"
-],
-"HR": [
-"MAXtv To Go"
-],
-"IQ": [
-"beIN Sports MENA 3"
-],
-"IT": [
-"Sky Sport 257",
-"NOW TV (IT)"
-],
-"JO": [
-"beIN Sports MENA 3"
-],
-"JP": [
-"DAZN"
-],
-"KR": [
-"SPOTV NOW"
-],
-"KW": [
-"beIN Sports MENA 3"
-],
-"LY": [
-"beIN Sports MENA 3"
-],
-"MA": [
-"beIN CONNECT"
-],
-"MX": [
-"SKY Sports"
-],
-"NG": [
-"SuperSport GOtv LaLiga",
-"SuperSport Laliga Nigeria"
-],
-"NO": [
-"TV 2 Play (NO)",
-"Viaplay NO"
-],
-"NZ": [
-"beIN Sports Connect New Zealand"
-],
-"OM": [
-"beIN Sports MENA 3"
-],
-"PE": [
-"Disney+ Premium"
-],
-"PT": [
-"Sport TV 6"
-],
-"PY": [
-"Disney+ Premium"
-],
-"QA": [
-"beIN Sports MENA 3"
-],
-"SA": [
-"beIN Sports MENA 3"
-],
-"TN": [
-"beIN Sports MENA 3"
-],
-"US": [
-"Fubo Sports",
-"FOX Soccer Plus",
-"ViX",
-"Fox Sports online"
-],
-"UY": [
-"Disney+ Premium"
-],
-"ZA": [
-"SuperSport GOtv LaLiga",
-"SuperSport Laliga"
-]
-},
-"competition": {
-"ar": "دوري الأمم الأوروبية",
-"de": "UEFA Nations League",
-"en": "UEFA Nations League",
-"es": "Liga de Naciones de la UEFA",
-"fr": "Ligue des Nations UEFA",
-"it": "UEFA Nations League",
-"pt": "Liga das Nações da UEFA",
-"tr": "UEFA Uluslar Ligi"
-},
-"competitionId": "uefa_nations",
-"home": "Latvia",
-"homeNames": {
-"ar": "لاتفيا",
-"de": "Lettland",
-"en": "Latvia",
-"es": "Letonia",
-"fr": "Lettonie",
-"it": "Lettonia",
-"pt": "Letónia",
-"tr": "Letonya"
-},
-"id": "football-20261115-latvia-armenia",
-"kickoffUtc": "2026-11-15T14:00:00Z",
-"sources": [
-"fotmob",
-"sporekrani.com"
-],
-"sport": "football",
-"tier": "global"
-},
-"slug": "letonia-armenia-2026-11-15"
 },
 "es:football-20261115-panama-curaao": {
 "lang": "es",
@@ -10410,66 +9578,6 @@
 "tier": "global"
 },
 "slug": "espana-inglaterra-2026-11-15"
-},
-"es:football-20261115-tenerife-ad-ceuta-fc": {
-"lang": "es",
-"m": {
-"away": "AD Ceuta FC",
-"awayNames": {
-"ar": "AD Ceuta FC",
-"de": "AD Ceuta FC",
-"en": "AD Ceuta FC",
-"es": "AD Ceuta FC",
-"fr": "AD Ceuta FC",
-"it": "AD Ceuta FC",
-"pt": "AD Ceuta FC",
-"tr": "AD Ceuta FC"
-},
-"broadcasts": {
-"ES": [
-"DAZN",
-"LaLiga TV Bar",
-"LALIGA TV Hypermotion"
-],
-"MX": [
-"SKY Sports"
-],
-"US": [
-"ESPN Select",
-"ESPN Unlimited"
-]
-},
-"competition": {
-"ar": "دوري الدرجة الثانية الإسباني",
-"de": "LaLiga Hypermotion",
-"en": "LaLiga Hypermotion",
-"es": "LaLiga Hypermotion",
-"fr": "LaLiga Hypermotion",
-"it": "LaLiga Hypermotion",
-"pt": "LaLiga Hypermotion",
-"tr": "LaLiga Hypermotion"
-},
-"competitionId": "laliga2",
-"home": "Tenerife",
-"homeNames": {
-"ar": "تينيريفي",
-"de": "CD Teneriffa",
-"en": "CD Tenerife",
-"es": "CD Tenerife",
-"fr": "CD Tenerife",
-"it": "Tenerife",
-"pt": "CD Tenerife",
-"tr": "Tenerife"
-},
-"id": "football-20261115-tenerife-ad-ceuta-fc",
-"kickoffUtc": "2026-11-15T13:00:00Z",
-"sources": [
-"fotmob"
-],
-"sport": "football",
-"tier": "regional"
-},
-"slug": "cd-tenerife-ad-ceuta-fc-2026-11-15"
 },
 "es:football-20261116-albacete-celta-fortuna": {
 "lang": "es",
@@ -14062,6 +13170,109 @@
 },
 "slug": "alianza-atletico-fbc-melgar-2026-11-18"
 },
+"es:football-20261118-coritiba-santos": {
+"lang": "es",
+"m": {
+"away": "Santos",
+"awayNames": {
+"ar": "سانتوس",
+"de": "Santos",
+"en": "Santos",
+"es": "Santos",
+"fr": "Santos",
+"it": "Santos",
+"pt": "Santos",
+"tr": "Santos"
+},
+"broadcasts": {
+"AR": [
+"Fanatiz"
+],
+"AT": [
+"Fanatiz"
+],
+"AU": [
+"Fanatiz"
+],
+"BR": [
+"Premiere",
+"RecordTV",
+"CazéTV YouTube",
+"CazeTV"
+],
+"CH": [
+"Fanatiz"
+],
+"CL": [
+"Fanatiz YouTube"
+],
+"CO": [
+"Fanatiz"
+],
+"EC": [
+"ECDF App",
+"ECDF Web"
+],
+"ES": [
+"Fanatiz"
+],
+"JP": [
+"Fanatiz"
+],
+"MX": [
+"Fanatiz YouTube"
+],
+"PE": [
+"L1 Play"
+],
+"PT": [
+"Fanatiz"
+],
+"PY": [
+"Fanatiz"
+],
+"TR": [
+"Spor Smart 2"
+],
+"US": [
+"Fanatiz"
+],
+"UY": [
+"RecordTV"
+]
+},
+"competition": {
+"ar": "الدوري البرازيلي",
+"de": "Brasileirão Série A",
+"en": "Brasileirão Série A",
+"es": "Brasileirão Serie A",
+"fr": "Brasileirão Série A",
+"it": "Brasileirão Serie A",
+"pt": "Brasileirão Série A",
+"tr": "Brezilya Serie A"
+},
+"competitionId": "bra_seriea",
+"home": "Coritiba",
+"homeNames": {
+"ar": "كوريتيبا",
+"de": "Coritiba",
+"en": "Coritiba",
+"es": "Coritiba",
+"fr": "Coritiba",
+"it": "Coritiba",
+"pt": "Coritiba",
+"tr": "Coritiba"
+},
+"id": "football-20261118-coritiba-santos",
+"kickoffUtc": "2026-11-18T22:30:00Z",
+"sources": [
+"fotmob"
+],
+"sport": "football",
+"tier": "global"
+},
+"slug": "coritiba-santos-2026-11-18"
+},
 "es:football-20261118-cruzeiro-palmeiras": {
 "lang": "es",
 "m": {
@@ -14077,11 +13288,17 @@
 "tr": "Palmeiras"
 },
 "broadcasts": {
+"AR": [
+"Fanatiz"
+],
 "AT": [
 "DAZN",
 "Sportdigital Fussball",
 "OneFootball PPV",
 "Sportdigital+ App"
+],
+"AU": [
+"Fanatiz"
 ],
 "BR": [
 "Premiere"
@@ -14090,6 +13307,12 @@
 "DAZN",
 "Sportdigital Fussball",
 "OneFootball PPV"
+],
+"CL": [
+"Fanatiz"
+],
+"CO": [
+"Fanatiz"
 ],
 "DE": [
 "DAZN Deutschland",
@@ -14108,6 +13331,9 @@
 "Premier Sports 2 UK",
 "Premier Sports Player"
 ],
+"JP": [
+"Fanatiz"
+],
 "MX": [
 "Azteca Deportes Network",
 "Azteca Deportes App"
@@ -14118,10 +13344,16 @@
 "PT": [
 "Canal 11"
 ],
+"PY": [
+"Fanatiz"
+],
 "TR": [
 "Spor Smart 2"
 ],
 "US": [
+"Fanatiz"
+],
+"UY": [
 "Fanatiz"
 ]
 },
@@ -14362,6 +13594,105 @@
 },
 "slug": "mexico-jamaica-2026-11-18"
 },
+"es:football-20261118-remo-chapecoense": {
+"lang": "es",
+"m": {
+"away": "Chapecoense",
+"awayNames": {
+"ar": "تشابيكوينسي",
+"de": "Chapecoense",
+"en": "Chapecoense",
+"es": "Chapecoense",
+"fr": "Chapecoense",
+"it": "Chapecoense",
+"pt": "Chapecoense",
+"tr": "Chapecoense"
+},
+"broadcasts": {
+"AR": [
+"Fanatiz"
+],
+"AT": [
+"Fanatiz"
+],
+"AU": [
+"Fanatiz"
+],
+"BR": [
+"Premiere"
+],
+"CH": [
+"Fanatiz"
+],
+"CL": [
+"Fanatiz1"
+],
+"CO": [
+"Fanatiz"
+],
+"EC": [
+"Fanatiz"
+],
+"ES": [
+"Fanatiz"
+],
+"JP": [
+"Fanatiz"
+],
+"MX": [
+"Fanatiz"
+],
+"PE": [
+"L1 Play"
+],
+"PT": [
+"Fanatiz"
+],
+"PY": [
+"Fanatiz"
+],
+"TR": [
+"Spor Smart 2"
+],
+"US": [
+"Fanatiz"
+],
+"UY": [
+"Fanatiz"
+]
+},
+"competition": {
+"ar": "الدوري البرازيلي",
+"de": "Brasileirão Série A",
+"en": "Brasileirão Série A",
+"es": "Brasileirão Serie A",
+"fr": "Brasileirão Série A",
+"it": "Brasileirão Serie A",
+"pt": "Brasileirão Série A",
+"tr": "Brezilya Serie A"
+},
+"competitionId": "bra_seriea",
+"home": "Remo",
+"homeNames": {
+"ar": "ريمو",
+"de": "Remo",
+"en": "Remo",
+"es": "Remo",
+"fr": "Remo",
+"it": "Remo",
+"pt": "Remo",
+"tr": "Remo"
+},
+"id": "football-20261118-remo-chapecoense",
+"kickoffUtc": "2026-11-18T23:00:00Z",
+"sources": [
+"fotmob"
+],
+"sport": "football",
+"tier": "global"
+},
+"slug": "remo-chapecoense-2026-11-19"
+},
 "es:football-20261118-usa-haiti": {
 "lang": "es",
 "m": {
@@ -14463,6 +13794,105 @@
 "tier": "regional"
 },
 "slug": "ee-uu-haiti-2026-11-18"
+},
+"es:football-20261119-gremio-bahia": {
+"lang": "es",
+"m": {
+"away": "Bahia",
+"awayNames": {
+"ar": "باهيا",
+"de": "Bahia",
+"en": "Bahia",
+"es": "Bahia",
+"fr": "Bahia",
+"it": "Bahia",
+"pt": "Bahia",
+"tr": "Bahia"
+},
+"broadcasts": {
+"AR": [
+"Fanatiz"
+],
+"AT": [
+"Fanatiz"
+],
+"AU": [
+"Fanatiz"
+],
+"BR": [
+"Premiere"
+],
+"CH": [
+"Fanatiz"
+],
+"CL": [
+"Fanatiz"
+],
+"CO": [
+"Fanatiz"
+],
+"EC": [
+"Fanatiz"
+],
+"ES": [
+"Fanatiz"
+],
+"JP": [
+"Fanatiz"
+],
+"MX": [
+"Fanatiz"
+],
+"PE": [
+"L1 Play"
+],
+"PT": [
+"Fanatiz"
+],
+"PY": [
+"Fanatiz"
+],
+"TR": [
+"Spor Smart 2"
+],
+"US": [
+"Fanatiz"
+],
+"UY": [
+"Fanatiz"
+]
+},
+"competition": {
+"ar": "الدوري البرازيلي",
+"de": "Brasileirão Série A",
+"en": "Brasileirão Série A",
+"es": "Brasileirão Serie A",
+"fr": "Brasileirão Série A",
+"it": "Brasileirão Serie A",
+"pt": "Brasileirão Série A",
+"tr": "Brezilya Serie A"
+},
+"competitionId": "bra_seriea",
+"home": "Gremio",
+"homeNames": {
+"ar": "Grêmio",
+"de": "Grêmio",
+"en": "Grêmio",
+"es": "Grêmio",
+"fr": "Grêmio",
+"it": "Grêmio",
+"pt": "Grêmio",
+"tr": "Grêmio"
+},
+"id": "football-20261119-gremio-bahia",
+"kickoffUtc": "2026-11-19T00:30:00Z",
+"sources": [
+"fotmob"
+],
+"sport": "football",
+"tier": "global"
+},
+"slug": "gremio-bahia-2026-11-19"
 },
 "fr:basketball-20261115-76ers-pacers": {
 "lang": "fr",
@@ -22638,206 +22068,6 @@
 },
 "slug": "oklahoma-city-thunder-atlanta-hawks-2026-11-19"
 },
-"fr:football-20261115-belarus-albania": {
-"lang": "fr",
-"m": {
-"away": "Albania",
-"awayNames": {
-"ar": "ألبانيا",
-"de": "Albanien",
-"en": "Albania",
-"es": "Albania",
-"fr": "Albanie",
-"it": "Albania",
-"pt": "Albânia",
-"tr": "Arnavutluk"
-},
-"broadcasts": {
-"AE": [
-"beIN Sports MENA 2"
-],
-"AR": [
-"ESPN 2",
-"Disney+ Premium"
-],
-"AT": [
-"DAZN"
-],
-"AU": [
-"beIN Sports 3"
-],
-"BE": [
-"DAZN (BE)"
-],
-"BH": [
-"beIN Sports MENA 2"
-],
-"BR": [
-"ESPN",
-"Disney+ Premium"
-],
-"CA": [
-"DAZN Canada"
-],
-"CH": [
-"DAZN"
-],
-"CL": [
-"ESPN 2",
-"Disney+ Premium"
-],
-"CO": [
-"ESPN 2",
-"Disney+ Premium"
-],
-"CZ": [
-"Sport 1"
-],
-"DE": [
-"DAZN Deutschland"
-],
-"DZ": [
-"beIN Sports MENA 2"
-],
-"EC": [
-"ESPN 2",
-"Disney+ Premium"
-],
-"EG": [
-"beIN Sports MENA 2"
-],
-"ES": [
-"DAZN",
-"DAZN App Gratis"
-],
-"FR": [
-"L'Équipe live"
-],
-"GH": [
-"SuperSport GOtv LaLiga",
-"SuperSport Laliga ROA",
-"DStv Now"
-],
-"HR": [
-"MAXtv To Go"
-],
-"IQ": [
-"beIN Sports MENA 2"
-],
-"IT": [
-"Sky Sport Max (IT)",
-"NOW TV (IT)"
-],
-"JO": [
-"beIN Sports MENA 2"
-],
-"JP": [
-"DAZN"
-],
-"KR": [
-"SPOTV NOW"
-],
-"KW": [
-"beIN Sports MENA 2"
-],
-"LY": [
-"beIN Sports MENA 2"
-],
-"MA": [
-"beIN CONNECT"
-],
-"MX": [
-"SKY Sports"
-],
-"NG": [
-"SuperSport GOtv LaLiga",
-"SuperSport Laliga Nigeria"
-],
-"NL": [
-"Ziggo Sport",
-"Ziggo Sport Kanaal 14"
-],
-"NO": [
-"Viaplay NO",
-"TV 2 Play (NO)"
-],
-"NZ": [
-"beIN Sports Connect New Zealand"
-],
-"OM": [
-"beIN Sports MENA 2"
-],
-"PE": [
-"ESPN 2",
-"Disney+ Premium"
-],
-"PT": [
-"Sport TV 3"
-],
-"PY": [
-"ESPN 2",
-"Disney+ Premium"
-],
-"QA": [
-"beIN Sports MENA 2"
-],
-"SA": [
-"beIN Sports MENA 2"
-],
-"TN": [
-"beIN Sports MENA 2"
-],
-"TR": [
-"S Sport Plus"
-],
-"US": [
-"FOX Soccer Plus",
-"ViX",
-"Fubo Sports",
-"Fox Sports online"
-],
-"UY": [
-"ESPN 2",
-"Disney+ Premium"
-],
-"ZA": [
-"SuperSport GOtv LaLiga",
-"SuperSport Laliga"
-]
-},
-"competition": {
-"ar": "دوري الأمم الأوروبية",
-"de": "UEFA Nations League",
-"en": "UEFA Nations League",
-"es": "Liga de Naciones de la UEFA",
-"fr": "Ligue des Nations UEFA",
-"it": "UEFA Nations League",
-"pt": "Liga das Nações da UEFA",
-"tr": "UEFA Uluslar Ligi"
-},
-"competitionId": "uefa_nations",
-"home": "Belarus",
-"homeNames": {
-"ar": "بيلاروسيا",
-"de": "Belarus",
-"en": "Belarus",
-"es": "Bielorrusia",
-"fr": "Biélorussie",
-"it": "Bielorussia",
-"pt": "Bielorrússia",
-"tr": "Belarus"
-},
-"id": "football-20261115-belarus-albania",
-"kickoffUtc": "2026-11-15T17:00:00Z",
-"sources": [
-"fotmob",
-"sporekrani.com"
-],
-"sport": "football",
-"tier": "global"
-},
-"slug": "bielorussie-albanie-2026-11-15"
-},
 "fr:football-20261115-belgium-italy": {
 "lang": "fr",
 "m": {
@@ -23226,387 +22456,6 @@
 },
 "slug": "croatie-tchequie-2026-11-15"
 },
-"fr:football-20261115-cyprus-montenegro": {
-"lang": "fr",
-"m": {
-"away": "Montenegro",
-"awayNames": {
-"ar": "الجبل الأسود",
-"de": "Montenegro",
-"en": "Montenegro",
-"es": "Montenegro",
-"fr": "Monténégro",
-"it": "Montenegro",
-"pt": "Montenegro",
-"tr": "Karadağ"
-},
-"broadcasts": {
-"AE": [
-"beIN Sports MENA 2"
-],
-"AR": [
-"ESPN",
-"Disney+ Premium"
-],
-"AT": [
-"DAZN"
-],
-"AU": [
-"beIN Sports 3"
-],
-"BE": [
-"DAZN (BE)"
-],
-"BH": [
-"beIN Sports MENA 2"
-],
-"BR": [
-"ESPN",
-"Disney+ Premium"
-],
-"CA": [
-"DAZN Canada"
-],
-"CH": [
-"DAZN"
-],
-"CL": [
-"ESPN",
-"Disney+ Premium"
-],
-"CO": [
-"ESPN",
-"Disney+ Premium"
-],
-"CZ": [
-"Sport 1"
-],
-"DE": [
-"DAZN Deutschland"
-],
-"DZ": [
-"beIN Sports MENA 2"
-],
-"EC": [
-"ESPN",
-"Disney+ Premium"
-],
-"EG": [
-"beIN Sports MENA 2"
-],
-"ES": [
-"DAZN",
-"DAZN App Gratis"
-],
-"FR": [
-"L'Équipe live",
-"L'Équipe live foot"
-],
-"GH": [
-"DStv Now",
-"SuperSport MaXimo 1"
-],
-"HR": [
-"MAXtv To Go"
-],
-"IQ": [
-"beIN Sports MENA 2"
-],
-"IT": [
-"Sky Sport Max (IT)",
-"NOW TV (IT)"
-],
-"JO": [
-"beIN Sports MENA 2"
-],
-"JP": [
-"DAZN"
-],
-"KR": [
-"SPOTV NOW"
-],
-"KW": [
-"beIN Sports MENA 2"
-],
-"LY": [
-"beIN Sports MENA 2"
-],
-"MA": [
-"beIN CONNECT"
-],
-"MX": [
-"SKY Sports"
-],
-"NG": [
-"SuperSport MaXimo 1",
-"SuperSport Premier League Nigeria"
-],
-"NL": [
-"Ziggo Sport 2"
-],
-"NO": [
-"TV 2 Sport 1",
-"TV 2 Play (NO)",
-"Viaplay NO"
-],
-"NZ": [
-"beIN Sports Connect New Zealand"
-],
-"OM": [
-"beIN Sports MENA 2"
-],
-"PE": [
-"ESPN",
-"Disney+ Premium"
-],
-"PT": [
-"Sport TV 2"
-],
-"PY": [
-"ESPN",
-"Disney+ Premium"
-],
-"QA": [
-"beIN Sports MENA 2"
-],
-"SA": [
-"beIN Sports MENA 2"
-],
-"TN": [
-"beIN Sports MENA 2"
-],
-"US": [
-"FOX Sports 2",
-"FOX One",
-"ViX",
-"Fubo Sports"
-],
-"UY": [
-"ESPN",
-"Disney+ Premium"
-],
-"ZA": [
-"SuperSport MaXimo 1",
-"SuperSport Premier League"
-]
-},
-"competition": {
-"ar": "دوري الأمم الأوروبية",
-"de": "UEFA Nations League",
-"en": "UEFA Nations League",
-"es": "Liga de Naciones de la UEFA",
-"fr": "Ligue des Nations UEFA",
-"it": "UEFA Nations League",
-"pt": "Liga das Nações da UEFA",
-"tr": "UEFA Uluslar Ligi"
-},
-"competitionId": "uefa_nations",
-"home": "Cyprus",
-"homeNames": {
-"ar": "قبرص",
-"de": "Zypern",
-"en": "Cyprus",
-"es": "Chipre",
-"fr": "Chypre",
-"it": "Cipro",
-"pt": "Chipre",
-"tr": "Güney Kıbrıs"
-},
-"id": "football-20261115-cyprus-montenegro",
-"kickoffUtc": "2026-11-15T14:00:00Z",
-"sources": [
-"fotmob",
-"sporekrani.com"
-],
-"sport": "football",
-"tier": "global"
-},
-"slug": "chypre-montenegro-2026-11-15"
-},
-"fr:football-20261115-finland-san-marino": {
-"lang": "fr",
-"m": {
-"away": "San Marino",
-"awayNames": {
-"ar": "سان مارينو",
-"de": "San Marino",
-"en": "San Marino",
-"es": "San Marino",
-"fr": "Saint-Marin",
-"it": "San Marino",
-"pt": "San Marino",
-"tr": "San Marino"
-},
-"broadcasts": {
-"AE": [
-"beIN Sports MENA 3"
-],
-"AR": [
-"Disney+ Premium"
-],
-"AT": [
-"DAZN"
-],
-"AU": [
-"beIN Sports 2"
-],
-"BE": [
-"DAZN (BE)"
-],
-"BH": [
-"beIN Sports MENA 3"
-],
-"BR": [
-"SporTV"
-],
-"CA": [
-"DAZN Canada"
-],
-"CH": [
-"DAZN"
-],
-"CL": [
-"Disney+ Premium"
-],
-"CO": [
-"Disney+ Premium"
-],
-"CZ": [
-"Sport 2"
-],
-"DE": [
-"DAZN Deutschland"
-],
-"DZ": [
-"beIN Sports MENA 3"
-],
-"EC": [
-"Disney+ Premium"
-],
-"EG": [
-"beIN Sports MENA 3"
-],
-"ES": [
-"DAZN"
-],
-"FR": [
-"L'Équipe live"
-],
-"GH": [
-"SuperSport MaXimo 1",
-"DStv Now"
-],
-"HR": [
-"MAXtv To Go"
-],
-"IQ": [
-"beIN Sports MENA 3"
-],
-"IT": [
-"Sky Sport 257",
-"NOW TV (IT)"
-],
-"JO": [
-"beIN Sports MENA 3"
-],
-"JP": [
-"DAZN"
-],
-"KR": [
-"SPOTV NOW"
-],
-"KW": [
-"beIN Sports MENA 3"
-],
-"LY": [
-"beIN Sports MENA 3"
-],
-"MA": [
-"beIN CONNECT"
-],
-"MX": [
-"SKY Sports"
-],
-"NG": [
-"SuperSport MaXimo 1",
-"SuperSport Premier League Nigeria"
-],
-"NO": [
-"Viaplay NO",
-"TV 2 Play (NO)",
-"TV 2 Sport 1"
-],
-"NZ": [
-"beIN Sports Connect New Zealand"
-],
-"OM": [
-"beIN Sports MENA 3"
-],
-"PE": [
-"Disney+ Premium"
-],
-"PT": [
-"Sport TV 2"
-],
-"PY": [
-"Disney+ Premium"
-],
-"QA": [
-"beIN Sports MENA 3"
-],
-"SA": [
-"beIN Sports MENA 3"
-],
-"TN": [
-"beIN Sports MENA 3"
-],
-"TR": [
-"S Sport Plus"
-],
-"US": [
-"ViX"
-],
-"UY": [
-"Disney+ Premium"
-],
-"ZA": [
-"SuperSport MaXimo 1",
-"SuperSport Premier League"
-]
-},
-"competition": {
-"ar": "دوري الأمم الأوروبية",
-"de": "UEFA Nations League",
-"en": "UEFA Nations League",
-"es": "Liga de Naciones de la UEFA",
-"fr": "Ligue des Nations UEFA",
-"it": "UEFA Nations League",
-"pt": "Liga das Nações da UEFA",
-"tr": "UEFA Uluslar Ligi"
-},
-"competitionId": "uefa_nations",
-"home": "Finland",
-"homeNames": {
-"ar": "فنلندا",
-"de": "Finnland",
-"en": "Finland",
-"es": "Finlandia",
-"fr": "Finlande",
-"it": "Finlandia",
-"pt": "Finlândia",
-"tr": "Finlandiya"
-},
-"id": "football-20261115-finland-san-marino",
-"kickoffUtc": "2026-11-15T17:00:00Z",
-"sources": [
-"fotmob",
-"sporekrani.com"
-],
-"sport": "football",
-"tier": "global"
-},
-"slug": "finlande-saint-marin-2026-11-15"
-},
 "fr:football-20261115-france-turkey": {
 "lang": "fr",
 "m": {
@@ -23793,192 +22642,6 @@
 "tier": "global"
 },
 "slug": "france-turquie-2026-11-15"
-},
-"fr:football-20261115-latvia-armenia": {
-"lang": "fr",
-"m": {
-"away": "Armenia",
-"awayNames": {
-"ar": "أرمينيا",
-"de": "Armenien",
-"en": "Armenia",
-"es": "Armenia",
-"fr": "Arménie",
-"it": "Armenia",
-"pt": "Arménia",
-"tr": "Ermenistan"
-},
-"broadcasts": {
-"AE": [
-"beIN Sports MENA 3"
-],
-"AR": [
-"Disney+ Premium"
-],
-"AT": [
-"DAZN"
-],
-"AU": [
-"beIN Sports 2"
-],
-"BE": [
-"DAZN (BE)"
-],
-"BH": [
-"beIN Sports MENA 3"
-],
-"BR": [
-"Disney+ Premium"
-],
-"CA": [
-"DAZN Canada"
-],
-"CH": [
-"DAZN"
-],
-"CL": [
-"Disney+ Premium"
-],
-"CO": [
-"Disney+ Premium"
-],
-"CZ": [
-"Sport 2"
-],
-"DE": [
-"DAZN Deutschland"
-],
-"DZ": [
-"beIN Sports MENA 3"
-],
-"EC": [
-"Disney+ Premium"
-],
-"EG": [
-"beIN Sports MENA 3"
-],
-"ES": [
-"DAZN",
-"DAZN App Gratis"
-],
-"FR": [
-"L'Équipe live",
-"L'Équipe live foot"
-],
-"GH": [
-"SuperSport Laliga ROA",
-"SuperSport GOtv LaLiga",
-"DStv Now"
-],
-"HR": [
-"MAXtv To Go"
-],
-"IQ": [
-"beIN Sports MENA 3"
-],
-"IT": [
-"Sky Sport 257",
-"NOW TV (IT)"
-],
-"JO": [
-"beIN Sports MENA 3"
-],
-"JP": [
-"DAZN"
-],
-"KR": [
-"SPOTV NOW"
-],
-"KW": [
-"beIN Sports MENA 3"
-],
-"LY": [
-"beIN Sports MENA 3"
-],
-"MA": [
-"beIN CONNECT"
-],
-"MX": [
-"SKY Sports"
-],
-"NG": [
-"SuperSport GOtv LaLiga",
-"SuperSport Laliga Nigeria"
-],
-"NO": [
-"TV 2 Play (NO)",
-"Viaplay NO"
-],
-"NZ": [
-"beIN Sports Connect New Zealand"
-],
-"OM": [
-"beIN Sports MENA 3"
-],
-"PE": [
-"Disney+ Premium"
-],
-"PT": [
-"Sport TV 6"
-],
-"PY": [
-"Disney+ Premium"
-],
-"QA": [
-"beIN Sports MENA 3"
-],
-"SA": [
-"beIN Sports MENA 3"
-],
-"TN": [
-"beIN Sports MENA 3"
-],
-"US": [
-"Fubo Sports",
-"FOX Soccer Plus",
-"ViX",
-"Fox Sports online"
-],
-"UY": [
-"Disney+ Premium"
-],
-"ZA": [
-"SuperSport GOtv LaLiga",
-"SuperSport Laliga"
-]
-},
-"competition": {
-"ar": "دوري الأمم الأوروبية",
-"de": "UEFA Nations League",
-"en": "UEFA Nations League",
-"es": "Liga de Naciones de la UEFA",
-"fr": "Ligue des Nations UEFA",
-"it": "UEFA Nations League",
-"pt": "Liga das Nações da UEFA",
-"tr": "UEFA Uluslar Ligi"
-},
-"competitionId": "uefa_nations",
-"home": "Latvia",
-"homeNames": {
-"ar": "لاتفيا",
-"de": "Lettland",
-"en": "Latvia",
-"es": "Letonia",
-"fr": "Lettonie",
-"it": "Lettonia",
-"pt": "Letónia",
-"tr": "Letonya"
-},
-"id": "football-20261115-latvia-armenia",
-"kickoffUtc": "2026-11-15T14:00:00Z",
-"sources": [
-"fotmob",
-"sporekrani.com"
-],
-"sport": "football",
-"tier": "global"
-},
-"slug": "lettonie-armenie-2026-11-15"
 },
 "fr:football-20261115-spain-england": {
 "lang": "fr",
