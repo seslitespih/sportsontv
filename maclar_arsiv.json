@@ -9664,6 +9664,12 @@
 "tr": "Al Nassr FC"
 },
 "broadcasts": {
+"AE": [
+"Thmanyah"
+],
+"AR": [
+"Somos FOX YouTube"
+],
 "AT": [
 "DAZN",
 "Sportdigital Fussball",
@@ -9672,6 +9678,9 @@
 ],
 "AU": [
 "OneFootball PPV"
+],
+"BH": [
+"Thmanyah"
 ],
 "BR": [
 "Canal GOAT",
@@ -9685,11 +9694,26 @@
 "OneFootball PPV",
 "SI Solocalcio"
 ],
+"CL": [
+"Somos FOX YouTube"
+],
+"CO": [
+"Somos FOX YouTube"
+],
 "DE": [
 "DAZN Deutschland",
 "Sportdigital+",
 "OneFootball Deutschland",
 "Sportdigital FUSSBALL"
+],
+"DZ": [
+"Thmanyah"
+],
+"EC": [
+"Somos FOX YouTube"
+],
+"EG": [
+"Thmanyah"
 ],
 "ES": [
 "M+ Liga de Campeones",
@@ -9707,6 +9731,21 @@
 "HR": [
 "MAXtv To Go"
 ],
+"IQ": [
+"Thmanyah"
+],
+"JO": [
+"Thmanyah"
+],
+"KW": [
+"Thmanyah"
+],
+"LY": [
+"Thmanyah"
+],
+"MA": [
+"Thmanyah"
+],
 "MX": [
 "FOX One",
 "FOX+"
@@ -9714,12 +9753,27 @@
 "NG": [
 "ESPN Africa"
 ],
+"OM": [
+"Thmanyah"
+],
+"PE": [
+"Somos FOX YouTube"
+],
 "PT": [
 "Sport TV 1"
+],
+"PY": [
+"Somos FOX YouTube"
+],
+"QA": [
+"Thmanyah"
 ],
 "SA": [
 "Thmanyah",
 "STC TV"
+],
+"TN": [
+"Thmanyah"
 ],
 "TR": [
 "S Sport"
@@ -9729,6 +9783,9 @@
 "FOX Soccer Plus",
 "Fubo Sports",
 "Fox Sports online"
+],
+"UY": [
+"Somos FOX YouTube"
 ],
 "ZA": [
 "ESPN Africa"
@@ -9798,6 +9855,10 @@
 ],
 "BE": [
 "DAZN (BE)"
+],
+"BH": [
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "BR": [
 "CazéTV YouTube",
@@ -9885,6 +9946,10 @@
 ],
 "KR": [
 "Coupang Play"
+],
+"KW": [
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "LY": [
 "beIN Sports"
@@ -10369,6 +10434,18 @@
 "DAZN",
 "LaLiga TV M2",
 "LALIGA TV Hypermotion"
+],
+"GH": [
+"Sporty TV"
+],
+"MX": [
+"SKY Sports"
+],
+"NG": [
+"Sporty TV"
+],
+"ZA": [
+"Sporty TV"
 ]
 },
 "competition": {
@@ -11012,6 +11089,10 @@
 "BE": [
 "DAZN (BE)"
 ],
+"BH": [
+"beIN Sports MENA 3",
+"TOD TV"
+],
 "BR": [
 "CazéTV YouTube",
 "CazeTV"
@@ -11074,6 +11155,10 @@
 ],
 "KR": [
 "Coupang Play"
+],
+"KW": [
+"beIN Sports MENA 3",
+"TOD TV"
 ],
 "LY": [
 "beIN Sports"
@@ -18857,77 +18942,6 @@
 },
 "slug": "danemark-norvege-2026-11-17"
 },
-"fr:football-20261117-gambia-ivory-coast": {
-"lang": "fr",
-"m": {
-"away": "Ivory Coast",
-"awayNames": {
-"ar": "ساحل العاج",
-"de": "Elfenbeinküste",
-"en": "Ivory Coast",
-"es": "Costa de Marfil",
-"fr": "Côte d'Ivoire",
-"it": "Costa d'Avorio",
-"pt": "Costa do Marfim",
-"tr": "Fildişi Sahili"
-},
-"broadcasts": {
-"AU": [
-"beIN Sports 3"
-],
-"CA": [
-"beIN Sport Canada"
-],
-"DE": [
-"DAZN Deutschland"
-],
-"FR": [
-"beIN Sports MAX 4 (FR)"
-],
-"MA": [
-"beIN Sports 3"
-],
-"PT": [
-"Fanatiz"
-],
-"US": [
-"beIN Sports 7",
-"beIN Sports (US)",
-"beIN Sports CONNECT (US)"
-]
-},
-"competition": {
-"ar": "تصفيات كأس أمم أفريقيا",
-"de": "Afrika-Cup-Qualifikation",
-"en": "Africa Cup of Nations Qualifiers",
-"es": "Clasificación para la Copa Africana",
-"fr": "Éliminatoires CAN",
-"it": "Qualificazioni Coppa d'Africa",
-"pt": "Eliminatórias da Copa Africana",
-"tr": "Afrika Uluslar Kupası Elemeleri"
-},
-"competitionId": "afcon_qual",
-"home": "Gambia",
-"homeNames": {
-"ar": "غامبيا",
-"de": "Gambia",
-"en": "Gambia",
-"es": "Gambia",
-"fr": "Gambie",
-"it": "Gambia",
-"pt": "Gâmbia",
-"tr": "Gambiya"
-},
-"id": "football-20261117-gambia-ivory-coast",
-"kickoffUtc": "2026-11-17T16:00:00Z",
-"sources": [
-"fotmob"
-],
-"sport": "football",
-"tier": "regional"
-},
-"slug": "gambie-cote-d-ivoire-2026-11-17"
-},
 "fr:football-20261117-hungary-northern-ireland": {
 "lang": "fr",
 "m": {
@@ -19316,159 +19330,6 @@
 },
 "slug": "israel-autriche-2026-11-17"
 },
-"fr:football-20261117-libya-tunisia": {
-"lang": "fr",
-"m": {
-"away": "Tunisia",
-"awayNames": {
-"ar": "تونس",
-"de": "Tunesien",
-"en": "Tunisia",
-"es": "Túnez",
-"fr": "Tunisie",
-"it": "Tunisia",
-"pt": "Tunísia",
-"tr": "Tunus"
-},
-"broadcasts": {
-"DE": [
-"DAZN Deutschland"
-],
-"FR": [
-"beIN Sports 2 (FR)"
-],
-"MA": [
-"beIN Sports 2 France",
-"beIN Sports 1"
-],
-"NZ": [
-"beIN Sports Connect New Zealand"
-],
-"PT": [
-"Fanatiz"
-],
-"US": [
-"beIN Sports 4",
-"beIN Sports CONNECT (US)"
-]
-},
-"competition": {
-"ar": "تصفيات كأس أمم أفريقيا",
-"de": "Afrika-Cup-Qualifikation",
-"en": "Africa Cup of Nations Qualifiers",
-"es": "Clasificación para la Copa Africana",
-"fr": "Éliminatoires CAN",
-"it": "Qualificazioni Coppa d'Africa",
-"pt": "Eliminatórias da Copa Africana",
-"tr": "Afrika Uluslar Kupası Elemeleri"
-},
-"competitionId": "afcon_qual",
-"home": "Libya",
-"homeNames": {
-"ar": "ليبيا",
-"de": "Libyen",
-"en": "Libya",
-"es": "Libia",
-"fr": "Libye",
-"it": "Libia",
-"pt": "Líbia",
-"tr": "Libya"
-},
-"id": "football-20261117-libya-tunisia",
-"kickoffUtc": "2026-11-17T16:00:00Z",
-"sources": [
-"fotmob"
-],
-"sport": "football",
-"tier": "regional"
-},
-"slug": "libye-tunisie-2026-11-17"
-},
-"fr:football-20261117-malawi-egypt": {
-"lang": "fr",
-"m": {
-"away": "Egypt",
-"awayNames": {
-"ar": "مصر",
-"de": "Ägypten",
-"en": "Egypt",
-"es": "Egipto",
-"fr": "Égypte",
-"it": "Egitto",
-"pt": "Egito",
-"tr": "Mısır"
-},
-"broadcasts": {
-"AU": [
-"beIN Sports 3"
-],
-"CA": [
-"beIN Sport Canada Espanol"
-],
-"DE": [
-"DAZN Deutschland"
-],
-"FR": [
-"beIN Sports 1 (FR)"
-],
-"GH": [
-"SuperSport GOtv Football",
-"DStv Now"
-],
-"MA": [
-"beIN Sports 1",
-"beIN Sports France"
-],
-"NG": [
-"SuperSport GOtv Football"
-],
-"NZ": [
-"beIN Sports Connect New Zealand"
-],
-"PT": [
-"Fanatiz"
-],
-"US": [
-"beIN Sports 7",
-"beIN Sports en Español (US)",
-"beIN Sports CONNECT (US)"
-],
-"ZA": [
-"SuperSport GOtv Football"
-]
-},
-"competition": {
-"ar": "تصفيات كأس أمم أفريقيا",
-"de": "Afrika-Cup-Qualifikation",
-"en": "Africa Cup of Nations Qualifiers",
-"es": "Clasificación para la Copa Africana",
-"fr": "Éliminatoires CAN",
-"it": "Qualificazioni Coppa d'Africa",
-"pt": "Eliminatórias da Copa Africana",
-"tr": "Afrika Uluslar Kupası Elemeleri"
-},
-"competitionId": "afcon_qual",
-"home": "Malawi",
-"homeNames": {
-"ar": "مالاوي",
-"de": "Malawi",
-"en": "Malawi",
-"es": "Malaui",
-"fr": "Malawi",
-"it": "Malawi",
-"pt": "Malawi",
-"tr": "Malavi"
-},
-"id": "football-20261117-malawi-egypt",
-"kickoffUtc": "2026-11-17T13:00:00Z",
-"sources": [
-"fotmob"
-],
-"sport": "football",
-"tier": "regional"
-},
-"slug": "malawi-egypte-2026-11-17"
-},
 "fr:football-20261117-niger-morocco": {
 "lang": "fr",
 "m": {
@@ -19756,229 +19617,6 @@
 "tier": "regional"
 },
 "slug": "rwanda-mali-2026-11-17"
-},
-"fr:football-20261117-sierra-leone-dr-congo": {
-"lang": "fr",
-"m": {
-"away": "DR Congo",
-"awayNames": {
-"ar": "الكونغو الديمقراطية",
-"de": "DR Kongo",
-"en": "DR Congo",
-"es": "RD Congo",
-"fr": "RD Congo",
-"it": "RD Congo",
-"pt": "RD Congo",
-"tr": "Kongo DC"
-},
-"broadcasts": {
-"FR": [
-"beIN Sports MAX 5 (FR)"
-],
-"MA": [
-"beIN Sports XTRA"
-],
-"NZ": [
-"beIN Sports Connect New Zealand"
-],
-"PT": [
-"Fanatiz"
-]
-},
-"competition": {
-"ar": "تصفيات كأس أمم أفريقيا",
-"de": "Afrika-Cup-Qualifikation",
-"en": "Africa Cup of Nations Qualifiers",
-"es": "Clasificación para la Copa Africana",
-"fr": "Éliminatoires CAN",
-"it": "Qualificazioni Coppa d'Africa",
-"pt": "Eliminatórias da Copa Africana",
-"tr": "Afrika Uluslar Kupası Elemeleri"
-},
-"competitionId": "afcon_qual",
-"home": "Sierra Leone",
-"homeNames": {
-"ar": "سيراليون",
-"de": "Sierra Leone",
-"en": "Sierra Leone",
-"es": "Sierra Leona",
-"fr": "Sierra Leone",
-"it": "Sierra Leone",
-"pt": "Serra Leoa",
-"tr": "Sierra Leone"
-},
-"id": "football-20261117-sierra-leone-dr-congo",
-"kickoffUtc": "2026-11-17T16:00:00Z",
-"sources": [
-"fotmob"
-],
-"sport": "football",
-"tier": "regional"
-},
-"slug": "sierra-leone-rd-congo-2026-11-17"
-},
-"fr:football-20261117-tanzania-nigeria": {
-"lang": "fr",
-"m": {
-"away": "Nigeria",
-"awayNames": {
-"ar": "نيجيريا",
-"de": "Nigeria",
-"en": "Nigeria",
-"es": "Nigeria",
-"fr": "Nigéria",
-"it": "Nigeria",
-"pt": "Nigéria",
-"tr": "Nijerya"
-},
-"broadcasts": {
-"AU": [
-"beIN Sports 2"
-],
-"CA": [
-"beIN Sport Canada"
-],
-"DE": [
-"DAZN Deutschland"
-],
-"FR": [
-"beIN Sports MAX 4 (FR)"
-],
-"GH": [
-"DStv Now",
-"SuperSport Laliga ROA",
-"SuperSport GOtv LaLiga"
-],
-"MA": [
-"beIN Sports 2"
-],
-"NG": [
-"SuperSport GOtv LaLiga",
-"SuperSport Laliga Nigeria"
-],
-"NZ": [
-"beIN Sports Connect New Zealand"
-],
-"PT": [
-"Fanatiz"
-],
-"US": [
-"beIN Sports 8",
-"beIN Sports (US)",
-"beIN Sports CONNECT (US)"
-],
-"ZA": [
-"SuperSport GOtv LaLiga",
-"SuperSport Laliga"
-]
-},
-"competition": {
-"ar": "تصفيات كأس أمم أفريقيا",
-"de": "Afrika-Cup-Qualifikation",
-"en": "Africa Cup of Nations Qualifiers",
-"es": "Clasificación para la Copa Africana",
-"fr": "Éliminatoires CAN",
-"it": "Qualificazioni Coppa d'Africa",
-"pt": "Eliminatórias da Copa Africana",
-"tr": "Afrika Uluslar Kupası Elemeleri"
-},
-"competitionId": "afcon_qual",
-"home": "Tanzania",
-"homeNames": {
-"ar": "تنزانيا",
-"de": "Tansania",
-"en": "Tanzania",
-"es": "Tanzania",
-"fr": "Tanzanie",
-"it": "Tanzania",
-"pt": "Tanzânia",
-"tr": "Tanzanya"
-},
-"id": "football-20261117-tanzania-nigeria",
-"kickoffUtc": "2026-11-17T13:00:00Z",
-"sources": [
-"fotmob"
-],
-"sport": "football",
-"tier": "regional"
-},
-"slug": "tanzanie-nigeria-2026-11-17"
-},
-"fr:football-20261117-togo-algeria": {
-"lang": "fr",
-"m": {
-"away": "Algeria",
-"awayNames": {
-"ar": "الجزائر",
-"de": "Algerien",
-"en": "Algeria",
-"es": "Argelia",
-"fr": "Algérie",
-"it": "Algeria",
-"pt": "Argélia",
-"tr": "Cezayir"
-},
-"broadcasts": {
-"AU": [
-"beIN Sports 2"
-],
-"DE": [
-"DAZN Deutschland"
-],
-"DZ": [
-"ENTV"
-],
-"FR": [
-"beIN Sports 1 (FR)"
-],
-"MA": [
-"beIN Sports 2",
-"beIN Sports France"
-],
-"NZ": [
-"beIN Sports Connect New Zealand"
-],
-"PT": [
-"Fanatiz"
-],
-"US": [
-"beIN Sports 5",
-"beIN Sports XTRA (US)",
-"beIN Sports CONNECT (US)",
-"Fawesome (US)"
-]
-},
-"competition": {
-"ar": "تصفيات كأس أمم أفريقيا",
-"de": "Afrika-Cup-Qualifikation",
-"en": "Africa Cup of Nations Qualifiers",
-"es": "Clasificación para la Copa Africana",
-"fr": "Éliminatoires CAN",
-"it": "Qualificazioni Coppa d'Africa",
-"pt": "Eliminatórias da Copa Africana",
-"tr": "Afrika Uluslar Kupası Elemeleri"
-},
-"competitionId": "afcon_qual",
-"home": "Togo",
-"homeNames": {
-"ar": "توغو",
-"de": "Togo",
-"en": "Togo",
-"es": "Togo",
-"fr": "Togo",
-"it": "Togo",
-"pt": "Togo",
-"tr": "Togo"
-},
-"id": "football-20261117-togo-algeria",
-"kickoffUtc": "2026-11-17T16:00:00Z",
-"sources": [
-"fotmob"
-],
-"sport": "football",
-"tier": "regional"
-},
-"slug": "togo-algerie-2026-11-17"
 },
 "fr:football-20261117-ukraine-georgia": {
 "lang": "fr",
@@ -20299,6 +19937,12 @@
 "tr": "Al Nassr FC"
 },
 "broadcasts": {
+"AE": [
+"Thmanyah"
+],
+"AR": [
+"Somos FOX YouTube"
+],
 "AT": [
 "DAZN",
 "Sportdigital Fussball",
@@ -20307,6 +19951,9 @@
 ],
 "AU": [
 "OneFootball PPV"
+],
+"BH": [
+"Thmanyah"
 ],
 "BR": [
 "Canal GOAT",
@@ -20320,11 +19967,26 @@
 "OneFootball PPV",
 "SI Solocalcio"
 ],
+"CL": [
+"Somos FOX YouTube"
+],
+"CO": [
+"Somos FOX YouTube"
+],
 "DE": [
 "DAZN Deutschland",
 "Sportdigital+",
 "OneFootball Deutschland",
 "Sportdigital FUSSBALL"
+],
+"DZ": [
+"Thmanyah"
+],
+"EC": [
+"Somos FOX YouTube"
+],
+"EG": [
+"Thmanyah"
 ],
 "ES": [
 "M+ Liga de Campeones",
@@ -20342,6 +20004,21 @@
 "HR": [
 "MAXtv To Go"
 ],
+"IQ": [
+"Thmanyah"
+],
+"JO": [
+"Thmanyah"
+],
+"KW": [
+"Thmanyah"
+],
+"LY": [
+"Thmanyah"
+],
+"MA": [
+"Thmanyah"
+],
 "MX": [
 "FOX One",
 "FOX+"
@@ -20349,12 +20026,27 @@
 "NG": [
 "ESPN Africa"
 ],
+"OM": [
+"Thmanyah"
+],
+"PE": [
+"Somos FOX YouTube"
+],
 "PT": [
 "Sport TV 1"
+],
+"PY": [
+"Somos FOX YouTube"
+],
+"QA": [
+"Thmanyah"
 ],
 "SA": [
 "Thmanyah",
 "STC TV"
+],
+"TN": [
+"Thmanyah"
 ],
 "TR": [
 "S Sport"
@@ -20364,6 +20056,9 @@
 "FOX Soccer Plus",
 "Fubo Sports",
 "Fox Sports online"
+],
+"UY": [
+"Somos FOX YouTube"
 ],
 "ZA": [
 "ESPN Africa"
@@ -20416,8 +20111,47 @@
 "tr": "Clermont"
 },
 "broadcasts": {
+"AE": [
+"beIN Sports MAX 8"
+],
+"BH": [
+"beIN Sports MAX 8"
+],
+"DZ": [
+"beIN Sports MAX 8"
+],
+"EG": [
+"beIN Sports MAX 8"
+],
 "FR": [
 "beIN Sports MAX 8 (FR)"
+],
+"IQ": [
+"beIN Sports MAX 8"
+],
+"JO": [
+"beIN Sports MAX 8"
+],
+"KW": [
+"beIN Sports MAX 8"
+],
+"LY": [
+"beIN Sports MAX 8"
+],
+"MA": [
+"beIN Sports MAX 8"
+],
+"OM": [
+"beIN Sports MAX 8"
+],
+"QA": [
+"beIN Sports MAX 8"
+],
+"SA": [
+"beIN Sports MAX 8"
+],
+"TN": [
+"beIN Sports MAX 8"
 ]
 },
 "competition": {
@@ -20484,6 +20218,10 @@
 ],
 "BE": [
 "DAZN (BE)"
+],
+"BH": [
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "BR": [
 "CazéTV YouTube",
@@ -20571,6 +20309,10 @@
 ],
 "KR": [
 "Coupang Play"
+],
+"KW": [
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "LY": [
 "beIN Sports"
@@ -20864,8 +20606,47 @@
 "tr": "Rodez"
 },
 "broadcasts": {
+"AE": [
+"beIN Sports MAX 5"
+],
+"BH": [
+"beIN Sports MAX 5"
+],
+"DZ": [
+"beIN Sports MAX 5"
+],
+"EG": [
+"beIN Sports MAX 5"
+],
 "FR": [
 "beIN Sports MAX 5 (FR)"
+],
+"IQ": [
+"beIN Sports MAX 5"
+],
+"JO": [
+"beIN Sports MAX 5"
+],
+"KW": [
+"beIN Sports MAX 5"
+],
+"LY": [
+"beIN Sports MAX 5"
+],
+"MA": [
+"beIN Sports MAX 5"
+],
+"OM": [
+"beIN Sports MAX 5"
+],
+"QA": [
+"beIN Sports MAX 5"
+],
+"SA": [
+"beIN Sports MAX 5"
+],
+"TN": [
+"beIN Sports MAX 5"
 ]
 },
 "competition": {
@@ -20915,8 +20696,47 @@
 "tr": "Boulogne"
 },
 "broadcasts": {
+"AE": [
+"beIN Sports MAX 6"
+],
+"BH": [
+"beIN Sports MAX 6"
+],
+"DZ": [
+"beIN Sports MAX 6"
+],
+"EG": [
+"beIN Sports MAX 6"
+],
 "FR": [
 "beIN Sports MAX 6 (FR)"
+],
+"IQ": [
+"beIN Sports MAX 6"
+],
+"JO": [
+"beIN Sports MAX 6"
+],
+"KW": [
+"beIN Sports MAX 6"
+],
+"LY": [
+"beIN Sports MAX 6"
+],
+"MA": [
+"beIN Sports MAX 6"
+],
+"OM": [
+"beIN Sports MAX 6"
+],
+"QA": [
+"beIN Sports MAX 6"
+],
+"SA": [
+"beIN Sports MAX 6"
+],
+"TN": [
+"beIN Sports MAX 6"
 ]
 },
 "competition": {
@@ -20966,8 +20786,47 @@
 "tr": "Dijon"
 },
 "broadcasts": {
+"AE": [
+"beIN Sports MAX 4"
+],
+"BH": [
+"beIN Sports MAX 4"
+],
+"DZ": [
+"beIN Sports MAX 4"
+],
+"EG": [
+"beIN Sports MAX 4"
+],
 "FR": [
 "beIN Sports MAX 4 (FR)"
+],
+"IQ": [
+"beIN Sports MAX 4"
+],
+"JO": [
+"beIN Sports MAX 4"
+],
+"KW": [
+"beIN Sports MAX 4"
+],
+"LY": [
+"beIN Sports MAX 4"
+],
+"MA": [
+"beIN Sports MAX 4"
+],
+"OM": [
+"beIN Sports MAX 4"
+],
+"QA": [
+"beIN Sports MAX 4"
+],
+"SA": [
+"beIN Sports MAX 4"
+],
+"TN": [
+"beIN Sports MAX 4"
 ]
 },
 "competition": {
@@ -21148,13 +21007,73 @@
 "tr": "Pau"
 },
 "broadcasts": {
+"AE": [
+"beIN Sports MENA 4",
+"TOD TV",
+"beIN Sports MAX 7"
+],
+"BH": [
+"beIN Sports MENA 4",
+"TOD TV",
+"beIN Sports MAX 7"
+],
+"DZ": [
+"beIN Sports MENA 4",
+"TOD TV",
+"beIN Sports MAX 7"
+],
+"EG": [
+"beIN Sports MENA 4",
+"TOD TV",
+"beIN Sports MAX 7"
+],
 "FR": [
 "beIN Sports MAX 7 (FR)"
+],
+"IQ": [
+"beIN Sports MENA 4",
+"TOD TV",
+"beIN Sports MAX 7"
+],
+"JO": [
+"beIN Sports MENA 4",
+"TOD TV",
+"beIN Sports MAX 7"
+],
+"KW": [
+"beIN Sports MENA 4",
+"TOD TV",
+"beIN Sports MAX 7"
+],
+"LY": [
+"beIN Sports MENA 4",
+"TOD TV",
+"beIN Sports MAX 7"
 ],
 "MA": [
 "beIN Sports 4",
 "TOD",
 "beIN CONNECT"
+],
+"OM": [
+"beIN Sports MENA 4",
+"TOD TV",
+"beIN Sports MAX 7"
+],
+"QA": [
+"beIN Sports MENA 4",
+"TOD TV",
+"beIN Sports MAX 7"
+],
+"SA": [
+"beIN Sports MENA 4",
+"TOD TV",
+"beIN Sports MAX 7"
+],
+"TN": [
+"beIN Sports MENA 4",
+"TOD TV",
+"beIN Sports MAX 7"
 ]
 },
 "competition": {
@@ -21344,6 +21263,10 @@
 "BE": [
 "DAZN (BE)"
 ],
+"BH": [
+"beIN Sports MENA 3",
+"TOD TV"
+],
 "BR": [
 "CazéTV YouTube",
 "CazeTV"
@@ -21406,6 +21329,10 @@
 ],
 "KR": [
 "Coupang Play"
+],
+"KW": [
+"beIN Sports MENA 3",
+"TOD TV"
 ],
 "LY": [
 "beIN Sports"
