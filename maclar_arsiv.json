@@ -7672,211 +7672,6 @@
 },
 "slug": "minnesota-timberwolves-memphis-grizzlies-2026-11-22"
 },
-"es:football-20261118-alianza-atletico-fbc-melgar": {
-"lang": "es",
-"m": {
-"away": "FBC Melgar",
-"awayNames": {
-"ar": "FBC Melgar",
-"de": "FBC Melgar",
-"en": "FBC Melgar",
-"es": "FBC Melgar",
-"fr": "FBC Melgar",
-"it": "FBC Melgar",
-"pt": "FBC Melgar",
-"tr": "FBC Melgar"
-},
-"broadcasts": {
-"AR": [
-"Fanatiz"
-],
-"AT": [
-"Fanatiz"
-],
-"AU": [
-"Fanatiz"
-],
-"BR": [
-"Fanatiz"
-],
-"CH": [
-"Fanatiz"
-],
-"CL": [
-"Fanatiz",
-"Fanatiz1"
-],
-"CO": [
-"Fanatiz"
-],
-"EC": [
-"Fanatiz"
-],
-"ES": [
-"Fanatiz"
-],
-"JP": [
-"Fanatiz"
-],
-"MX": [
-"Fanatiz"
-],
-"PE": [
-"Fanatiz",
-"L1 Max",
-"L1 Play"
-],
-"PT": [
-"Fanatiz"
-],
-"PY": [
-"Fanatiz"
-],
-"UY": [
-"Fanatiz"
-]
-},
-"competition": {
-"ar": "الدوري البيروفي",
-"de": "Peruanische Liga 1",
-"en": "Peruvian Liga 1",
-"es": "Liga 1 de Perú",
-"fr": "Liga 1 péruvienne",
-"it": "Liga 1 peruviana",
-"pt": "Liga 1 do Peru",
-"tr": "Peru Liga 1"
-},
-"competitionId": "liga1_pe",
-"home": "Alianza Atletico",
-"homeNames": {
-"ar": "Alianza Atlético",
-"de": "Alianza Atlético",
-"en": "Alianza Atlético",
-"es": "Alianza Atlético",
-"fr": "Alianza Atlético",
-"it": "Alianza Atlético",
-"pt": "Alianza Atlético",
-"tr": "Alianza Atlético"
-},
-"id": "football-20261118-alianza-atletico-fbc-melgar",
-"kickoffUtc": "2026-11-18T20:00:00Z",
-"sources": [
-"fotmob"
-],
-"sport": "football",
-"tier": "regional"
-},
-"slug": "alianza-atletico-fbc-melgar-2026-11-18"
-},
-"es:football-20261118-coritiba-santos": {
-"lang": "es",
-"m": {
-"away": "Santos",
-"awayNames": {
-"ar": "سانتوس",
-"de": "Santos",
-"en": "Santos",
-"es": "Santos",
-"fr": "Santos",
-"it": "Santos",
-"pt": "Santos",
-"tr": "Santos"
-},
-"broadcasts": {
-"AR": [
-"Fanatiz"
-],
-"AT": [
-"Fanatiz"
-],
-"AU": [
-"Fanatiz"
-],
-"BR": [
-"Premiere",
-"RecordTV",
-"CazéTV YouTube",
-"CazeTV"
-],
-"CH": [
-"Fanatiz"
-],
-"CL": [
-"Fanatiz",
-"Fanatiz YouTube"
-],
-"CO": [
-"Fanatiz"
-],
-"EC": [
-"Fanatiz",
-"ECDF App",
-"ECDF Web"
-],
-"ES": [
-"Fanatiz"
-],
-"JP": [
-"Fanatiz"
-],
-"MX": [
-"Fanatiz",
-"Fanatiz YouTube"
-],
-"PE": [
-"Fanatiz",
-"L1 Play"
-],
-"PT": [
-"Fanatiz"
-],
-"PY": [
-"Fanatiz"
-],
-"TR": [
-"Spor Smart 2"
-],
-"US": [
-"Fanatiz"
-],
-"UY": [
-"Fanatiz",
-"RecordTV"
-]
-},
-"competition": {
-"ar": "الدوري البرازيلي",
-"de": "Brasileirão Série A",
-"en": "Brasileirão Série A",
-"es": "Brasileirão Serie A",
-"fr": "Brasileirão Série A",
-"it": "Brasileirão Serie A",
-"pt": "Brasileirão Série A",
-"tr": "Brezilya Serie A"
-},
-"competitionId": "bra_seriea",
-"home": "Coritiba",
-"homeNames": {
-"ar": "كوريتيبا",
-"de": "Coritiba",
-"en": "Coritiba",
-"es": "Coritiba",
-"fr": "Coritiba",
-"it": "Coritiba",
-"pt": "Coritiba",
-"tr": "Coritiba"
-},
-"id": "football-20261118-coritiba-santos",
-"kickoffUtc": "2026-11-18T22:30:00Z",
-"sources": [
-"fotmob",
-"kooora"
-],
-"sport": "football",
-"tier": "global"
-},
-"slug": "coritiba-santos-2026-11-18"
-},
 "es:football-20261118-cruzeiro-palmeiras": {
 "lang": "es",
 "m": {
@@ -14603,6 +14398,9 @@
 "CO": [
 "Disney+ Premium"
 ],
+"CZ": [
+"Sport 1"
+],
 "DE": [
 "DAZN Deutschland"
 ],
@@ -15386,6 +15184,9 @@
 "CO": [
 "ESPN",
 "Disney+ Premium"
+],
+"CZ": [
+"Sport 1"
 ],
 "DE": [
 "DAZN Deutschland"
@@ -31353,6 +31154,9 @@
 "CO": [
 "Disney+ Premium"
 ],
+"CZ": [
+"Sport 1"
+],
 "DE": [
 "DAZN Deutschland"
 ],
@@ -32129,6 +31933,9 @@
 "CO": [
 "ESPN",
 "Disney+ Premium"
+],
+"CZ": [
+"Sport 1"
 ],
 "DE": [
 "DAZN Deutschland"
