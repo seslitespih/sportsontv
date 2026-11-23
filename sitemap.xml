@@ -528,60 +528,6 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://sportstvtoday.com/ar/about/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://sportstvtoday.com/about/"/>
   </url>
-  <url><loc>https://sportstvtoday.com/es/partido/al-ahli-al-nassr-fc-2026-11-20/</loc>
-    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/al-ahli-al-nassr-fc-2026-11-20/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/al-ahli-al-nassr-fc-2026-11-20/"/>
-  </url>
-  <url><loc>https://sportstvtoday.com/fr/match/al-ahli-al-nassr-fc-2026-11-20/</loc>
-    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/al-ahli-al-nassr-fc-2026-11-20/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/al-ahli-al-nassr-fc-2026-11-20/"/>
-  </url>
-  <url><loc>https://sportstvtoday.com/fr/match/annecy-fc-clermont-foot-2026-11-20/</loc>
-  </url>
-  <url><loc>https://sportstvtoday.com/fr/match/guingamp-rodez-af-2026-11-20/</loc>
-  </url>
-  <url><loc>https://sportstvtoday.com/fr/match/metz-boulogne-2026-11-20/</loc>
-  </url>
-  <url><loc>https://sportstvtoday.com/fr/match/nancy-dijon-2026-11-20/</loc>
-  </url>
-  <url><loc>https://sportstvtoday.com/fr/match/red-star-fc-pau-2026-11-20/</loc>
-  </url>
-  <url><loc>https://sportstvtoday.com/es/partido/bayern-munich-1-fc-koln-2026-11-20/</loc>
-    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/bayern-munich-1-fc-koln-2026-11-20/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/bayern-munich-1-fc-koln-2026-11-20/"/>
-  </url>
-  <url><loc>https://sportstvtoday.com/es/partido/cerro-nacional-2026-11-20/</loc>
-  </url>
-  <url><loc>https://sportstvtoday.com/es/partido/fc-andorra-leganes-2026-11-20/</loc>
-  </url>
-  <url><loc>https://sportstvtoday.com/es/partido/hellas-verona-cesena-2026-11-20/</loc>
-  </url>
-  <url><loc>https://sportstvtoday.com/es/partido/liverpool-fc-montevideo-wanderers-2026-11-20/</loc>
-  </url>
-  <url><loc>https://sportstvtoday.com/es/partido/racing-central-espanol-2026-11-20/</loc>
-  </url>
-  <url><loc>https://sportstvtoday.com/fr/match/bayern-munich-1-fc-koln-2026-11-20/</loc>
-    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/bayern-munich-1-fc-koln-2026-11-20/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/bayern-munich-1-fc-koln-2026-11-20/"/>
-  </url>
-  <url><loc>https://sportstvtoday.com/es/partido/troyes-le-havre-2026-11-20/</loc>
-    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/troyes-le-havre-2026-11-20/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/troyes-le-havre-2026-11-20/"/>
-  </url>
-  <url><loc>https://sportstvtoday.com/fr/match/troyes-le-havre-2026-11-20/</loc>
-    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/troyes-le-havre-2026-11-20/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/troyes-le-havre-2026-11-20/"/>
-  </url>
-  <url><loc>https://sportstvtoday.com/es/partido/athletic-club-espanyol-2026-11-20/</loc>
-    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/athletic-club-espanyol-2026-11-20/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/athletic-club-espanyol-2026-11-20/"/>
-  </url>
-  <url><loc>https://sportstvtoday.com/fr/match/athletic-club-espanyol-2026-11-20/</loc>
-    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/athletic-club-espanyol-2026-11-20/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/athletic-club-espanyol-2026-11-20/"/>
-  </url>
-  <url><loc>https://sportstvtoday.com/es/partido/independiente-medellin-santa-fe-2026-11-20/</loc>
-  </url>
   <url><loc>https://sportstvtoday.com/es/partido/atletico-bucaramanga-america-de-cali-2026-11-21/</loc>
   </url>
   <url><loc>https://sportstvtoday.com/es/partido/atlanta-hawks-charlotte-hornets-2026-11-21/</loc>
@@ -1345,6 +1291,142 @@
   <url><loc>https://sportstvtoday.com/fr/match/houston-rockets-la-clippers-2026-11-24/</loc>
     <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/houston-rockets-la-clippers-2026-11-24/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/houston-rockets-la-clippers-2026-11-24/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/es/partido/los-angeles-lakers-utah-jazz-2026-11-24/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/los-angeles-lakers-utah-jazz-2026-11-24/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/los-angeles-lakers-utah-jazz-2026-11-24/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/fr/match/los-angeles-lakers-utah-jazz-2026-11-24/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/los-angeles-lakers-utah-jazz-2026-11-24/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/los-angeles-lakers-utah-jazz-2026-11-24/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/es/partido/sacramento-kings-san-antonio-spurs-2026-11-24/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/sacramento-kings-san-antonio-spurs-2026-11-24/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/sacramento-kings-san-antonio-spurs-2026-11-24/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/fr/match/sacramento-kings-san-antonio-spurs-2026-11-24/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/sacramento-kings-san-antonio-spurs-2026-11-24/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/sacramento-kings-san-antonio-spurs-2026-11-24/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/es/partido/newcastle-jets-kashiwa-reysol-2026-11-24/</loc>
+  </url>
+  <url><loc>https://sportstvtoday.com/es/partido/daejeon-hana-citizen-beijing-guoan-2026-11-24/</loc>
+  </url>
+  <url><loc>https://sportstvtoday.com/es/partido/kyoto-sanga-fc-pohang-steelers-2026-11-24/</loc>
+  </url>
+  <url><loc>https://sportstvtoday.com/es/partido/cong-an-ha-noi-vissel-kobe-2026-11-24/</loc>
+  </url>
+  <url><loc>https://sportstvtoday.com/es/partido/ratchaburi-fc-johor-darul-ta-zim-2026-11-24/</loc>
+  </url>
+  <url><loc>https://sportstvtoday.com/es/partido/shanghai-port-buriram-united-2026-11-24/</loc>
+  </url>
+  <url><loc>https://sportstvtoday.com/es/partido/shabab-al-ahli-dubai-fc-al-qadsiah-2026-11-24/</loc>
+  </url>
+  <url><loc>https://sportstvtoday.com/es/partido/bodo-glimt-lask-2026-11-24/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/bodo-glimt-lask-2026-11-24/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/bodo-glimt-lask-2026-11-24/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/fr/match/bodo-glimt-lask-2026-11-24/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/bodo-glimt-lask-2026-11-24/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/bodo-glimt-lask-2026-11-24/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/es/partido/galatasaray-aston-villa-2026-11-24/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/galatasaray-aston-villa-2026-11-24/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/galatasaray-aston-villa-2026-11-24/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/fr/match/galatasaray-aston-villa-2026-11-24/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/galatasaray-aston-villa-2026-11-24/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/galatasaray-aston-villa-2026-11-24/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/es/partido/juve-stabia-catanzaro-2026-11-24/</loc>
+  </url>
+  <url><loc>https://sportstvtoday.com/es/partido/al-nassr-fc-al-sadd-2026-11-24/</loc>
+  </url>
+  <url><loc>https://sportstvtoday.com/es/partido/benevento-empoli-2026-11-24/</loc>
+  </url>
+  <url><loc>https://sportstvtoday.com/es/partido/cesena-ascoli-2026-11-24/</loc>
+  </url>
+  <url><loc>https://sportstvtoday.com/es/partido/virtus-entella-hellas-verona-2026-11-24/</loc>
+  </url>
+  <url><loc>https://sportstvtoday.com/es/partido/palermo-sudtirol-2026-11-24/</loc>
+  </url>
+  <url><loc>https://sportstvtoday.com/es/partido/vicenza-carrarese-2026-11-24/</loc>
+  </url>
+  <url><loc>https://sportstvtoday.com/fr/match/wolverhampton-wanderers-derby-county-2026-11-24/</loc>
+  </url>
+  <url><loc>https://sportstvtoday.com/es/partido/real-madrid-psv-eindhoven-2026-11-24/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/real-madrid-psv-eindhoven-2026-11-24/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/real-madrid-psv-eindhoven-2026-11-24/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/fr/match/real-madrid-psv-eindhoven-2026-11-24/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/real-madrid-psv-eindhoven-2026-11-24/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/real-madrid-psv-eindhoven-2026-11-24/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/es/partido/manchester-city-napoles-2026-11-24/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/manchester-city-napoles-2026-11-24/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/manchester-city-naples-2026-11-24/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/fr/match/manchester-city-naples-2026-11-24/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/manchester-city-napoles-2026-11-24/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/manchester-city-naples-2026-11-24/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/es/partido/arsenal-borussia-dortmund-2026-11-24/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/arsenal-borussia-dortmund-2026-11-24/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/arsenal-borussia-dortmund-2026-11-24/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/fr/match/arsenal-borussia-dortmund-2026-11-24/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/arsenal-borussia-dortmund-2026-11-24/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/arsenal-borussia-dortmund-2026-11-24/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/es/partido/feyenoord-fc-porto-2026-11-24/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/feyenoord-fc-porto-2026-11-24/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/feyenoord-fc-porto-2026-11-24/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/fr/match/feyenoord-fc-porto-2026-11-24/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/feyenoord-fc-porto-2026-11-24/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/feyenoord-fc-porto-2026-11-24/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/es/partido/rb-leipzig-lens-2026-11-24/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/rb-leipzig-lens-2026-11-24/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/rb-leipzig-rc-lens-2026-11-24/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/fr/match/rb-leipzig-rc-lens-2026-11-24/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/rb-leipzig-lens-2026-11-24/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/rb-leipzig-rc-lens-2026-11-24/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/es/partido/slovan-bratislava-real-betis-2026-11-24/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/slovan-bratislava-real-betis-2026-11-24/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/slovan-bratislava-real-betis-2026-11-24/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/fr/match/slovan-bratislava-real-betis-2026-11-24/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/slovan-bratislava-real-betis-2026-11-24/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/slovan-bratislava-real-betis-2026-11-24/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/es/partido/como-aek-athens-2026-11-24/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/como-aek-athens-2026-11-24/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/como-aek-athens-2026-11-24/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/fr/match/como-aek-athens-2026-11-24/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/como-aek-athens-2026-11-24/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/como-aek-athens-2026-11-24/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/es/partido/chapecoense-palmeiras-2026-11-24/</loc>
+  </url>
+  <url><loc>https://sportstvtoday.com/es/partido/orlando-magic-detroit-pistons-2026-11-25/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/orlando-magic-detroit-pistons-2026-11-25/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/orlando-magic-detroit-pistons-2026-11-25/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/fr/match/orlando-magic-detroit-pistons-2026-11-25/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/orlando-magic-detroit-pistons-2026-11-25/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/orlando-magic-detroit-pistons-2026-11-25/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/es/partido/washington-wizards-boston-celtics-2026-11-25/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/washington-wizards-boston-celtics-2026-11-25/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/washington-wizards-boston-celtics-2026-11-25/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/fr/match/washington-wizards-boston-celtics-2026-11-25/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/washington-wizards-boston-celtics-2026-11-25/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/washington-wizards-boston-celtics-2026-11-25/"/>
   </url>
   <url><loc>https://sportstvtoday.com/es/laliga/</loc>
     <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/laliga/"/>
