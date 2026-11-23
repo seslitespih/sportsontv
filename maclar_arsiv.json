@@ -8602,72 +8602,6 @@
 },
 "slug": "hellas-verona-cesena-2026-11-20"
 },
-"es:football-20261120-independiente-del-valle-csd-macara": {
-"lang": "es",
-"m": {
-"away": "CSD Macara",
-"awayNames": {
-"ar": "CSD Macará",
-"de": "CSD Macará",
-"en": "CSD Macará",
-"es": "CSD Macará",
-"fr": "CSD Macará",
-"it": "CSD Macará",
-"pt": "CSD Macará",
-"tr": "CSD Macará"
-},
-"broadcasts": {
-"AR": [
-"Zapping Internacional"
-],
-"CO": [
-"Zapping Internacional"
-],
-"EC": [
-"Zapping Sports + Plus"
-],
-"ES": [
-"Zapping Internacional"
-],
-"PE": [
-"Zapping Internacional"
-],
-"UY": [
-"Zapping Internacional"
-]
-},
-"competition": {
-"ar": "الدوري الإكوادوري",
-"de": "LigaPro Serie A",
-"en": "LigaPro Serie A",
-"es": "LigaPro Serie A",
-"fr": "LigaPro Serie A",
-"it": "LigaPro Serie A",
-"pt": "LigaPro Série A",
-"tr": "Ekvador Ligi"
-},
-"competitionId": "liga_pro_ec",
-"home": "Independiente del Valle",
-"homeNames": {
-"ar": "إندبندينتي ديل فايي",
-"de": "Independiente del Valle",
-"en": "Independiente del Valle",
-"es": "Independiente del Valle",
-"fr": "Independiente del Valle",
-"it": "Independiente del Valle",
-"pt": "Independiente del Valle",
-"tr": "Independiente del Valle"
-},
-"id": "football-20261120-independiente-del-valle-csd-macara",
-"kickoffUtc": "2026-11-20T17:00:00Z",
-"sources": [
-"fotmob"
-],
-"sport": "football",
-"tier": "regional"
-},
-"slug": "independiente-del-valle-csd-macara-2026-11-20"
-},
 "es:football-20261120-independiente-medellin-santa-fe": {
 "lang": "es",
 "m": {
@@ -21365,11 +21299,19 @@
 "tr": "UD Almería"
 },
 "broadcasts": {
+"AE": [
+"beIN Sports MENA 5",
+"TOD TV"
+],
 "AT": [
 "DAZN"
 ],
 "BE": [
 "DAZN (BE)"
+],
+"BH": [
+"beIN Sports MENA 5",
+"TOD TV"
 ],
 "CH": [
 "DAZN"
@@ -21380,17 +21322,41 @@
 "DE": [
 "DAZN Deutschland"
 ],
+"DZ": [
+"beIN Sports MENA 5",
+"TOD TV"
+],
+"EG": [
+"beIN Sports MENA 5",
+"TOD TV"
+],
 "ES": [
 "DAZN",
 "LaLiga TV M2",
 "LaLiga TV M4",
 "LALIGA TV Hypermotion"
 ],
+"IQ": [
+"beIN Sports MENA 5",
+"TOD TV"
+],
 "IT": [
 "DAZN Italia"
 ],
+"JO": [
+"beIN Sports MENA 5",
+"TOD TV"
+],
 "JP": [
 "DAZN"
+],
+"KW": [
+"beIN Sports MENA 5",
+"TOD TV"
+],
+"LY": [
+"beIN Sports MENA 5",
+"TOD TV"
 ],
 "MA": [
 "beIN Sports 5",
@@ -21400,8 +21366,24 @@
 "MX": [
 "SKY Sports"
 ],
+"OM": [
+"beIN Sports MENA 5",
+"TOD TV"
+],
 "PT": [
 "DAZN 3"
+],
+"QA": [
+"beIN Sports MENA 5",
+"TOD TV"
+],
+"SA": [
+"beIN Sports MENA 5",
+"TOD TV"
+],
+"TN": [
+"beIN Sports MENA 5",
+"TOD TV"
 ],
 "TR": [
 "S Sport",
@@ -21459,19 +21441,68 @@
 "tr": "Esteghlal"
 },
 "broadcasts": {
+"AE": [
+"beIN Sports MENA 2",
+"TOD TV"
+],
+"BH": [
+"beIN Sports MENA 2",
+"TOD TV"
+],
 "BR": [
 "Disney+ Premium"
+],
+"DZ": [
+"beIN Sports MENA 2",
+"TOD TV"
+],
+"EG": [
+"beIN Sports MENA 2",
+"TOD TV"
 ],
 "ES": [
 "The AFC Hub YouTube"
 ],
+"IQ": [
+"beIN Sports MENA 2",
+"TOD TV"
+],
+"JO": [
+"beIN Sports MENA 2",
+"TOD TV"
+],
 "JP": [
 "DAZN"
+],
+"KW": [
+"beIN Sports MENA 2",
+"TOD TV"
+],
+"LY": [
+"beIN Sports MENA 2",
+"TOD TV"
 ],
 "MA": [
 "beIN Sports 2",
 "beIN CONNECT",
 "TOD"
+],
+"OM": [
+"beIN Sports MENA 2",
+"TOD TV"
+],
+"QA": [
+"beIN Sports MENA 2",
+"ALKASS Six",
+"TOD TV"
+],
+"SA": [
+"beIN Sports MENA 2",
+"TOD TV"
+],
+"TN": [
+"beIN Sports MENA 2",
+"TOD TV"
 ]
 },
 "competition": {
@@ -21521,14 +21552,46 @@
 "tr": "Pakhtakor Tashkent"
 },
 "broadcasts": {
+"AE": [
+"beIN Sports MENA 3",
+"TOD TV"
+],
+"BH": [
+"beIN Sports MENA 3",
+"TOD TV"
+],
 "BR": [
 "Disney+ Premium"
+],
+"DZ": [
+"beIN Sports MENA 3",
+"TOD TV"
+],
+"EG": [
+"beIN Sports MENA 3",
+"TOD TV"
 ],
 "ES": [
 "The AFC Hub YouTube"
 ],
+"IQ": [
+"beIN Sports MENA 3",
+"TOD TV"
+],
+"JO": [
+"beIN Sports MENA 3",
+"TOD TV"
+],
 "JP": [
 "DAZN"
+],
+"KW": [
+"beIN Sports MENA 3",
+"TOD TV"
+],
+"LY": [
+"beIN Sports MENA 3",
+"TOD TV"
 ],
 "MA": [
 "beIN Sports 3",
@@ -21538,6 +21601,23 @@
 "NL": [
 "ESPN 4 NL",
 "ESPN Watch NL"
+],
+"OM": [
+"beIN Sports MENA 3",
+"TOD TV"
+],
+"QA": [
+"beIN Sports MENA 3",
+"ALKASS Seven",
+"TOD TV"
+],
+"SA": [
+"beIN Sports MENA 3",
+"TOD TV"
+],
+"TN": [
+"beIN Sports MENA 3",
+"TOD TV"
 ]
 },
 "competition": {
@@ -21587,20 +21667,69 @@
 "tr": "Al-Gharafa"
 },
 "broadcasts": {
+"AE": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
+"BH": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
 "BR": [
 "Disney+ Premium"
+],
+"DZ": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
+"EG": [
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "ES": [
 "The AFC Hub YouTube"
 ],
+"IQ": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
+"JO": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
 "JP": [
 "DAZN"
+],
+"KW": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
+"LY": [
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "MA": [
 "beIN Sports 1",
 "beIN Sports English 2",
 "beIN CONNECT",
 "TOD"
+],
+"OM": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
+"QA": [
+"beIN Sports MENA 1",
+"ALKASS Five",
+"TOD TV"
+],
+"SA": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
+"TN": [
+"beIN Sports MENA 1",
+"TOD TV"
 ]
 },
 "competition": {
@@ -21650,20 +21779,72 @@
 "tr": "Al-Ahli"
 },
 "broadcasts": {
+"AE": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
+"BH": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
 "BR": [
 "Disney+ Premium"
+],
+"DZ": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
+"EG": [
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "ES": [
 "The AFC Hub YouTube"
 ],
+"IQ": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
+"JO": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
 "JP": [
 "DAZN"
+],
+"KW": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
+"LY": [
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "MA": [
 "beIN Sports 1",
 "beIN CONNECT",
 "TOD",
 "beIN Sports English 2"
+],
+"OM": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
+"PT": [
+"Canal 11"
+],
+"QA": [
+"beIN Sports MENA 1",
+"ALKASS Five",
+"TOD TV"
+],
+"SA": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
+"TN": [
+"beIN Sports MENA 1",
+"TOD TV"
 ]
 },
 "competition": {
@@ -21940,6 +22121,10 @@
 "Play Sports",
 "Play Sports 1"
 ],
+"BH": [
+"beIN Sports MENA 2",
+"TOD TV"
+],
 "BR": [
 "ESPN",
 "Disney+ Premium"
@@ -22025,6 +22210,10 @@
 ],
 "KR": [
 "Coupang Play"
+],
+"KW": [
+"beIN Sports MENA 2",
+"TOD TV"
 ],
 "LY": [
 "beIN Sports"
@@ -22481,6 +22670,10 @@
 "BE": [
 "DAZN (BE)"
 ],
+"BH": [
+"beIN Sports MENA 4",
+"TOD TV"
+],
 "BR": [
 "CazéTV YouTube",
 "CazeTV"
@@ -22564,6 +22757,10 @@
 ],
 "KR": [
 "Coupang Play"
+],
+"KW": [
+"beIN Sports MENA 4",
+"TOD TV"
 ],
 "LY": [
 "beIN Sports"
@@ -22891,9 +23088,17 @@
 "tr": "Al Hilal"
 },
 "broadcasts": {
+"AE": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
 "AR": [
 "ESPN 4",
 "Disney+ Premium"
+],
+"BH": [
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "BR": [
 "ESPN 4",
@@ -22907,15 +23112,39 @@
 "ESPN 4",
 "Disney+ Premium"
 ],
+"DZ": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
 "EC": [
 "ESPN 4",
 "Disney+ Premium"
 ],
+"EG": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
 "ES": [
 "The AFC Hub YouTube"
 ],
+"IQ": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
+"JO": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
 "JP": [
 "DAZN"
+],
+"KW": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
+"LY": [
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "MA": [
 "beIN Sports 1",
@@ -22931,13 +23160,33 @@
 "ESPN NL",
 "ESPN Watch NL"
 ],
+"OM": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
 "PE": [
 "ESPN 4",
 "Disney+ Premium"
 ],
+"PT": [
+"Canal 11"
+],
 "PY": [
 "ESPN 4",
 "Disney+ Premium"
+],
+"QA": [
+"beIN Sports MENA 1",
+"ALKASS Six",
+"TOD TV"
+],
+"SA": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
+"TN": [
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "UY": [
 "ESPN 4",
@@ -22991,18 +23240,67 @@
 "tr": "Al-Wasl"
 },
 "broadcasts": {
+"AE": [
+"beIN Sports MENA 3",
+"TOD TV"
+],
+"BH": [
+"beIN Sports MENA 3",
+"TOD TV"
+],
 "BR": [
 "Disney+ Premium"
+],
+"DZ": [
+"beIN Sports MENA 3",
+"TOD TV"
+],
+"EG": [
+"beIN Sports MENA 3",
+"TOD TV"
 ],
 "ES": [
 "The AFC Hub YouTube"
 ],
+"IQ": [
+"beIN Sports MENA 3",
+"TOD TV"
+],
+"JO": [
+"beIN Sports MENA 3",
+"TOD TV"
+],
 "JP": [
 "DAZN"
+],
+"KW": [
+"beIN Sports MENA 3",
+"TOD TV"
+],
+"LY": [
+"beIN Sports MENA 3",
+"TOD TV"
 ],
 "MA": [
 "beIN Sports 3",
 "beIN Sports English"
+],
+"OM": [
+"beIN Sports MENA 3",
+"TOD TV"
+],
+"QA": [
+"beIN Sports MENA 3",
+"ALKASS Seven",
+"TOD TV"
+],
+"SA": [
+"beIN Sports MENA 3",
+"TOD TV"
+],
+"TN": [
+"beIN Sports MENA 3",
+"TOD TV"
 ]
 },
 "competition": {
@@ -43712,6 +44010,10 @@
 "Play Sports",
 "Play Sports 1"
 ],
+"BH": [
+"beIN Sports MENA 2",
+"TOD TV"
+],
 "BR": [
 "ESPN",
 "Disney+ Premium"
@@ -43797,6 +44099,10 @@
 ],
 "KR": [
 "Coupang Play"
+],
+"KW": [
+"beIN Sports MENA 2",
+"TOD TV"
 ],
 "LY": [
 "beIN Sports"
@@ -43944,6 +44250,10 @@
 "BE": [
 "DAZN (BE)"
 ],
+"BH": [
+"beIN Sports MENA 4",
+"TOD TV"
+],
 "BR": [
 "CazéTV YouTube",
 "CazeTV"
@@ -44027,6 +44337,10 @@
 ],
 "KR": [
 "Coupang Play"
+],
+"KW": [
+"beIN Sports MENA 4",
+"TOD TV"
 ],
 "LY": [
 "beIN Sports"
