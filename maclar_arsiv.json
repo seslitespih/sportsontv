@@ -255,2305 +255,6 @@
 },
 "slug": "philadelphia-76ers-milwaukee-bucks-2026-11-21"
 },
-"es:basketball-20261121-bulls-wizards": {
-"lang": "es",
-"m": {
-"away": "Wizards",
-"awayNames": {
-"ar": "واشنطن ويزاردز",
-"de": "Washington Wizards",
-"en": "Washington Wizards",
-"es": "Washington Wizards",
-"fr": "Washington Wizards",
-"it": "Washington Wizards",
-"pt": "Washington Wizards",
-"tr": "Washington Wizards"
-},
-"broadcasts": {
-"AE": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"AR": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"AT": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"AU": [
-"ESPN",
-"Prime Video",
-"NBA League Pass"
-],
-"BE": [
-"DAZN",
-"Prime Video",
-"NBA League Pass"
-],
-"BR": [
-"ESPN",
-"Disney+",
-"Prime Video",
-"NBA League Pass"
-],
-"CA": [
-"TSN",
-"Sportsnet",
-"Prime Video",
-"NBA League Pass"
-],
-"CH": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"CL": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"CO": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"CZ": [
-"Nova Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"DE": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"DZ": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"EC": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"EG": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"ES": [
-"DAZN",
-"Prime Video",
-"NBA League Pass"
-],
-"FR": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"GB": [
-"Sky Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"GH": [
-"ESPN",
-"Sporty TV",
-"NBA League Pass"
-],
-"HR": [
-"Sport Klub",
-"Prime Video",
-"NBA League Pass"
-],
-"IT": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"JP": [
-"Lemino",
-"Prime Video",
-"WOWOW"
-],
-"KR": [
-"Coupang Play",
-"Prime Video",
-"NBA League Pass"
-],
-"MA": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"MX": [
-"ESPN",
-"Disney+",
-"Prime Video",
-"NBA League Pass"
-],
-"NG": [
-"ESPN",
-"Sporty TV",
-"NBA League Pass"
-],
-"NL": [
-"ESPN",
-"NBA League Pass"
-],
-"NO": [
-"HBO Max",
-"NBA League Pass"
-],
-"NZ": [
-"ESPN",
-"Prime Video",
-"NBA League Pass"
-],
-"PE": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"PT": [
-"Sport TV",
-"Prime Video",
-"NBA League Pass"
-],
-"PY": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"QA": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"SA": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"SN": [
-"Canal+ Sport",
-"NBA League Pass"
-],
-"TN": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"TR": [
-"S Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"US": [
-"MNMT",
-"NBA League Pass"
-],
-"UY": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"ZA": [
-"SuperSport",
-"ESPN",
-"Prime Video",
-"NBA League Pass"
-]
-},
-"competition": {
-"ar": "دوري NBA",
-"de": "NBA",
-"en": "NBA",
-"es": "NBA",
-"fr": "NBA",
-"it": "NBA",
-"pt": "NBA",
-"tr": "NBA"
-},
-"competitionId": "nba",
-"home": "Bulls",
-"homeNames": {
-"ar": "شيكاغو بولز",
-"de": "Chicago Bulls",
-"en": "Chicago Bulls",
-"es": "Chicago Bulls",
-"fr": "Chicago Bulls",
-"it": "Chicago Bulls",
-"pt": "Chicago Bulls",
-"tr": "Chicago Bulls"
-},
-"id": "basketball-20261121-bulls-wizards",
-"kickoffUtc": "2026-11-21T01:00:00Z",
-"sources": [
-"espn"
-],
-"sport": "basketball",
-"tier": "global"
-},
-"slug": "chicago-bulls-washington-wizards-2026-11-21"
-},
-"es:basketball-20261121-cavaliers-pacers": {
-"lang": "es",
-"m": {
-"away": "Pacers",
-"awayNames": {
-"ar": "إنديانا بيسرز",
-"de": "Indiana Pacers",
-"en": "Indiana Pacers",
-"es": "Indiana Pacers",
-"fr": "Indiana Pacers",
-"it": "Indiana Pacers",
-"pt": "Indiana Pacers",
-"tr": "Indiana Pacers"
-},
-"broadcasts": {
-"AE": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"AR": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"AT": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"AU": [
-"ESPN",
-"Prime Video",
-"NBA League Pass"
-],
-"BE": [
-"DAZN",
-"Prime Video",
-"NBA League Pass"
-],
-"BR": [
-"ESPN",
-"Disney+",
-"Prime Video",
-"NBA League Pass"
-],
-"CA": [
-"TSN",
-"Sportsnet",
-"Prime Video",
-"NBA League Pass"
-],
-"CH": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"CL": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"CO": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"CZ": [
-"Nova Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"DE": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"DZ": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"EC": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"EG": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"ES": [
-"DAZN",
-"Prime Video",
-"NBA League Pass"
-],
-"FR": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"GB": [
-"Sky Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"GH": [
-"ESPN",
-"Sporty TV",
-"NBA League Pass"
-],
-"HR": [
-"Sport Klub",
-"Prime Video",
-"NBA League Pass"
-],
-"IT": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"JP": [
-"Lemino",
-"Prime Video",
-"WOWOW"
-],
-"KR": [
-"Coupang Play",
-"Prime Video",
-"NBA League Pass"
-],
-"MA": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"MX": [
-"ESPN",
-"Disney+",
-"Prime Video",
-"NBA League Pass"
-],
-"NG": [
-"ESPN",
-"Sporty TV",
-"NBA League Pass"
-],
-"NL": [
-"ESPN",
-"NBA League Pass"
-],
-"NO": [
-"HBO Max",
-"NBA League Pass"
-],
-"NZ": [
-"ESPN",
-"Prime Video",
-"NBA League Pass"
-],
-"PE": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"PT": [
-"Sport TV",
-"Prime Video",
-"NBA League Pass"
-],
-"PY": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"QA": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"SA": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"SN": [
-"Canal+ Sport",
-"NBA League Pass"
-],
-"TN": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"TR": [
-"S Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"US": [
-"DAZN CLE",
-"NBA League Pass"
-],
-"UY": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"ZA": [
-"SuperSport",
-"ESPN",
-"Prime Video",
-"NBA League Pass"
-]
-},
-"competition": {
-"ar": "دوري NBA",
-"de": "NBA",
-"en": "NBA",
-"es": "NBA",
-"fr": "NBA",
-"it": "NBA",
-"pt": "NBA",
-"tr": "NBA"
-},
-"competitionId": "nba",
-"home": "Cavaliers",
-"homeNames": {
-"ar": "كليفلاند كافالييرز",
-"de": "Cleveland Cavaliers",
-"en": "Cleveland Cavaliers",
-"es": "Cleveland Cavaliers",
-"fr": "Cleveland Cavaliers",
-"it": "Cleveland Cavaliers",
-"pt": "Cleveland Cavaliers",
-"tr": "Cleveland Cavaliers"
-},
-"id": "basketball-20261121-cavaliers-pacers",
-"kickoffUtc": "2026-11-21T00:30:00Z",
-"sources": [
-"espn"
-],
-"sport": "basketball",
-"tier": "global"
-},
-"slug": "cleveland-cavaliers-indiana-pacers-2026-11-21"
-},
-"es:basketball-20261121-hawks-hornets": {
-"lang": "es",
-"m": {
-"away": "Hornets",
-"awayNames": {
-"ar": "شارلوت هورنتس",
-"de": "Charlotte Hornets",
-"en": "Charlotte Hornets",
-"es": "Charlotte Hornets",
-"fr": "Charlotte Hornets",
-"it": "Charlotte Hornets",
-"pt": "Charlotte Hornets",
-"tr": "Charlotte Hornets"
-},
-"broadcasts": {
-"AE": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"AR": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"AT": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"AU": [
-"ESPN",
-"Prime Video",
-"NBA League Pass"
-],
-"BE": [
-"DAZN",
-"Prime Video",
-"NBA League Pass"
-],
-"BR": [
-"ESPN",
-"Disney+",
-"Prime Video",
-"NBA League Pass"
-],
-"CA": [
-"TSN",
-"Sportsnet",
-"Prime Video",
-"NBA League Pass"
-],
-"CH": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"CL": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"CO": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"CZ": [
-"Nova Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"DE": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"DZ": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"EC": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"EG": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"ES": [
-"DAZN",
-"Prime Video",
-"NBA League Pass"
-],
-"FR": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"GB": [
-"Sky Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"GH": [
-"ESPN",
-"Sporty TV",
-"NBA League Pass"
-],
-"HR": [
-"Sport Klub",
-"Prime Video",
-"NBA League Pass"
-],
-"IT": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"JP": [
-"Lemino",
-"Prime Video",
-"WOWOW"
-],
-"KR": [
-"Coupang Play",
-"Prime Video",
-"NBA League Pass"
-],
-"MA": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"MX": [
-"ESPN",
-"Disney+",
-"Prime Video",
-"NBA League Pass"
-],
-"NG": [
-"ESPN",
-"Sporty TV",
-"NBA League Pass"
-],
-"NL": [
-"ESPN",
-"NBA League Pass"
-],
-"NO": [
-"HBO Max",
-"NBA League Pass"
-],
-"NZ": [
-"ESPN",
-"Prime Video",
-"NBA League Pass"
-],
-"PE": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"PT": [
-"Sport TV",
-"Prime Video",
-"NBA League Pass"
-],
-"PY": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"QA": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"SA": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"SN": [
-"Canal+ Sport",
-"NBA League Pass"
-],
-"TN": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"TR": [
-"S Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"US": [
-"NBA League Pass"
-],
-"UY": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"ZA": [
-"SuperSport",
-"ESPN",
-"Prime Video",
-"NBA League Pass"
-]
-},
-"competition": {
-"ar": "دوري NBA",
-"de": "NBA",
-"en": "NBA",
-"es": "NBA",
-"fr": "NBA",
-"it": "NBA",
-"pt": "NBA",
-"tr": "NBA"
-},
-"competitionId": "nba",
-"home": "Hawks",
-"homeNames": {
-"ar": "أتلانتا هوكس",
-"de": "Atlanta Hawks",
-"en": "Atlanta Hawks",
-"es": "Atlanta Hawks",
-"fr": "Atlanta Hawks",
-"it": "Atlanta Hawks",
-"pt": "Atlanta Hawks",
-"tr": "Atlanta Hawks"
-},
-"id": "basketball-20261121-hawks-hornets",
-"kickoffUtc": "2026-11-21T00:00:00Z",
-"sources": [
-"espn"
-],
-"sport": "basketball",
-"tier": "global"
-},
-"slug": "atlanta-hawks-charlotte-hornets-2026-11-21"
-},
-"es:basketball-20261121-jazz-suns": {
-"lang": "es",
-"m": {
-"away": "Suns",
-"awayNames": {
-"ar": "فينيكس صنز",
-"de": "Phoenix Suns",
-"en": "Phoenix Suns",
-"es": "Phoenix Suns",
-"fr": "Phoenix Suns",
-"it": "Phoenix Suns",
-"pt": "Phoenix Suns",
-"tr": "Phoenix Suns"
-},
-"broadcasts": {
-"AE": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"AR": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"AT": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"AU": [
-"ESPN",
-"Prime Video",
-"NBA League Pass"
-],
-"BE": [
-"DAZN",
-"Prime Video",
-"NBA League Pass"
-],
-"BR": [
-"ESPN",
-"Disney+",
-"Prime Video",
-"NBA League Pass"
-],
-"CA": [
-"TSN",
-"Sportsnet",
-"Prime Video",
-"NBA League Pass"
-],
-"CH": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"CL": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"CO": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"CZ": [
-"Nova Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"DE": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"DZ": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"EC": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"EG": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"ES": [
-"DAZN",
-"Prime Video",
-"NBA League Pass"
-],
-"FR": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"GB": [
-"Sky Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"GH": [
-"ESPN",
-"Sporty TV",
-"NBA League Pass"
-],
-"HR": [
-"Sport Klub",
-"Prime Video",
-"NBA League Pass"
-],
-"IT": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"JP": [
-"Lemino",
-"Prime Video",
-"WOWOW"
-],
-"KR": [
-"Coupang Play",
-"Prime Video",
-"NBA League Pass"
-],
-"MA": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"MX": [
-"ESPN",
-"Disney+",
-"Prime Video",
-"NBA League Pass"
-],
-"NG": [
-"ESPN",
-"Sporty TV",
-"NBA League Pass"
-],
-"NL": [
-"ESPN",
-"NBA League Pass"
-],
-"NO": [
-"HBO Max",
-"NBA League Pass"
-],
-"NZ": [
-"ESPN",
-"Prime Video",
-"NBA League Pass"
-],
-"PE": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"PT": [
-"Sport TV",
-"Prime Video",
-"NBA League Pass"
-],
-"PY": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"QA": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"SA": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"SN": [
-"Canal+ Sport",
-"NBA League Pass"
-],
-"TN": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"TR": [
-"S Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"US": [
-"Suns Live",
-"Arizona's Family 3TV",
-"KJZZ-TV",
-"Jazz+",
-"NBA League Pass"
-],
-"UY": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"ZA": [
-"SuperSport",
-"ESPN",
-"Prime Video",
-"NBA League Pass"
-]
-},
-"competition": {
-"ar": "دوري NBA",
-"de": "NBA",
-"en": "NBA",
-"es": "NBA",
-"fr": "NBA",
-"it": "NBA",
-"pt": "NBA",
-"tr": "NBA"
-},
-"competitionId": "nba",
-"home": "Jazz",
-"homeNames": {
-"ar": "يوتا جاز",
-"de": "Utah Jazz",
-"en": "Utah Jazz",
-"es": "Utah Jazz",
-"fr": "Utah Jazz",
-"it": "Utah Jazz",
-"pt": "Utah Jazz",
-"tr": "Utah Jazz"
-},
-"id": "basketball-20261121-jazz-suns",
-"kickoffUtc": "2026-11-21T02:30:00Z",
-"sources": [
-"espn"
-],
-"sport": "basketball",
-"tier": "global"
-},
-"slug": "utah-jazz-phoenix-suns-2026-11-21"
-},
-"es:basketball-20261121-lakers-kings": {
-"lang": "es",
-"m": {
-"away": "Kings",
-"awayNames": {
-"ar": "ساكرامنتو كينغز",
-"de": "Sacramento Kings",
-"en": "Sacramento Kings",
-"es": "Sacramento Kings",
-"fr": "Sacramento Kings",
-"it": "Sacramento Kings",
-"pt": "Sacramento Kings",
-"tr": "Sacramento Kings"
-},
-"broadcasts": {
-"AE": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"AR": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"AT": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"AU": [
-"ESPN",
-"Prime Video",
-"NBA League Pass"
-],
-"BE": [
-"DAZN",
-"Prime Video",
-"NBA League Pass"
-],
-"BR": [
-"ESPN",
-"Disney+",
-"Prime Video",
-"NBA League Pass"
-],
-"CA": [
-"TSN",
-"Sportsnet",
-"Prime Video",
-"NBA League Pass"
-],
-"CH": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"CL": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"CO": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"CZ": [
-"Nova Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"DE": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"DZ": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"EC": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"EG": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"ES": [
-"DAZN",
-"Prime Video",
-"NBA League Pass"
-],
-"FR": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"GB": [
-"Sky Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"GH": [
-"ESPN",
-"Sporty TV",
-"NBA League Pass"
-],
-"HR": [
-"Sport Klub",
-"Prime Video",
-"NBA League Pass"
-],
-"IT": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"JP": [
-"Lemino",
-"Prime Video",
-"WOWOW"
-],
-"KR": [
-"Coupang Play",
-"Prime Video",
-"NBA League Pass"
-],
-"MA": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"MX": [
-"ESPN",
-"Disney+",
-"Prime Video",
-"NBA League Pass"
-],
-"NG": [
-"ESPN",
-"Sporty TV",
-"NBA League Pass"
-],
-"NL": [
-"ESPN",
-"NBA League Pass"
-],
-"NO": [
-"HBO Max",
-"NBA League Pass"
-],
-"NZ": [
-"ESPN",
-"Prime Video",
-"NBA League Pass"
-],
-"PE": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"PT": [
-"Sport TV",
-"Prime Video",
-"NBA League Pass"
-],
-"PY": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"QA": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"SA": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"SN": [
-"Canal+ Sport",
-"NBA League Pass"
-],
-"TN": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"TR": [
-"S Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"US": [
-"Spectrum Sports Net",
-"Spectrum Sports Net +",
-"NBA League Pass"
-],
-"UY": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"ZA": [
-"SuperSport",
-"ESPN",
-"Prime Video",
-"NBA League Pass"
-]
-},
-"competition": {
-"ar": "دوري NBA",
-"de": "NBA",
-"en": "NBA",
-"es": "NBA",
-"fr": "NBA",
-"it": "NBA",
-"pt": "NBA",
-"tr": "NBA"
-},
-"competitionId": "nba",
-"home": "Lakers",
-"homeNames": {
-"ar": "لوس أنجلوس ليكرز",
-"de": "Los Angeles Lakers",
-"en": "Los Angeles Lakers",
-"es": "Los Angeles Lakers",
-"fr": "Los Angeles Lakers",
-"it": "Los Angeles Lakers",
-"pt": "Los Angeles Lakers",
-"tr": "Los Angeles Lakers"
-},
-"id": "basketball-20261121-lakers-kings",
-"kickoffUtc": "2026-11-21T03:00:00Z",
-"sources": [
-"espn"
-],
-"sport": "basketball",
-"tier": "global"
-},
-"slug": "los-angeles-lakers-sacramento-kings-2026-11-21"
-},
-"es:basketball-20261121-nets-magic": {
-"lang": "es",
-"m": {
-"away": "Magic",
-"awayNames": {
-"ar": "أورلاندو ماجيك",
-"de": "Orlando Magic",
-"en": "Orlando Magic",
-"es": "Orlando Magic",
-"fr": "Orlando Magic",
-"it": "Orlando Magic",
-"pt": "Orlando Magic",
-"tr": "Orlando Magic"
-},
-"broadcasts": {
-"AE": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"AR": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"AT": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"AU": [
-"ESPN",
-"Prime Video",
-"NBA League Pass"
-],
-"BE": [
-"DAZN",
-"Prime Video",
-"NBA League Pass"
-],
-"BR": [
-"ESPN",
-"Disney+",
-"Prime Video",
-"NBA League Pass"
-],
-"CA": [
-"TSN",
-"Sportsnet",
-"Prime Video",
-"NBA League Pass"
-],
-"CH": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"CL": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"CO": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"CZ": [
-"Nova Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"DE": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"DZ": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"EC": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"EG": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"ES": [
-"DAZN",
-"Prime Video",
-"NBA League Pass"
-],
-"FR": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"GB": [
-"Sky Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"GH": [
-"ESPN",
-"Sporty TV",
-"NBA League Pass"
-],
-"HR": [
-"Sport Klub",
-"Prime Video",
-"NBA League Pass"
-],
-"IT": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"JP": [
-"Lemino",
-"Prime Video",
-"WOWOW"
-],
-"KR": [
-"Coupang Play",
-"Prime Video",
-"NBA League Pass"
-],
-"MA": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"MX": [
-"ESPN",
-"Disney+",
-"Prime Video",
-"NBA League Pass"
-],
-"NG": [
-"ESPN",
-"Sporty TV",
-"NBA League Pass"
-],
-"NL": [
-"ESPN",
-"NBA League Pass"
-],
-"NO": [
-"HBO Max",
-"NBA League Pass"
-],
-"NZ": [
-"ESPN",
-"Prime Video",
-"NBA League Pass"
-],
-"PE": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"PT": [
-"Sport TV",
-"Prime Video",
-"NBA League Pass"
-],
-"PY": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"QA": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"SA": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"SN": [
-"Canal+ Sport",
-"NBA League Pass"
-],
-"TN": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"TR": [
-"S Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"US": [
-"DAZN (YES)",
-"NBA League Pass"
-],
-"UY": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"ZA": [
-"SuperSport",
-"ESPN",
-"Prime Video",
-"NBA League Pass"
-]
-},
-"competition": {
-"ar": "دوري NBA",
-"de": "NBA",
-"en": "NBA",
-"es": "NBA",
-"fr": "NBA",
-"it": "NBA",
-"pt": "NBA",
-"tr": "NBA"
-},
-"competitionId": "nba",
-"home": "Nets",
-"homeNames": {
-"ar": "بروكلين نتس",
-"de": "Brooklyn Nets",
-"en": "Brooklyn Nets",
-"es": "Brooklyn Nets",
-"fr": "Brooklyn Nets",
-"it": "Brooklyn Nets",
-"pt": "Brooklyn Nets",
-"tr": "Brooklyn Nets"
-},
-"id": "basketball-20261121-nets-magic",
-"kickoffUtc": "2026-11-21T00:30:00Z",
-"sources": [
-"espn"
-],
-"sport": "basketball",
-"tier": "global"
-},
-"slug": "brooklyn-nets-orlando-magic-2026-11-21"
-},
-"es:basketball-20261121-nuggets-rockets": {
-"lang": "es",
-"m": {
-"away": "Rockets",
-"awayNames": {
-"ar": "هيوستن روكتس",
-"de": "Houston Rockets",
-"en": "Houston Rockets",
-"es": "Houston Rockets",
-"fr": "Houston Rockets",
-"it": "Houston Rockets",
-"pt": "Houston Rockets",
-"tr": "Houston Rockets"
-},
-"broadcasts": {
-"AE": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"AR": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"AT": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"AU": [
-"ESPN",
-"Prime Video",
-"NBA League Pass"
-],
-"BE": [
-"DAZN",
-"Prime Video",
-"NBA League Pass"
-],
-"BR": [
-"ESPN",
-"Disney+",
-"Prime Video",
-"NBA League Pass"
-],
-"CA": [
-"TSN",
-"Sportsnet",
-"Prime Video",
-"NBA League Pass"
-],
-"CH": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"CL": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"CO": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"CZ": [
-"Nova Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"DE": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"DZ": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"EC": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"EG": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"ES": [
-"DAZN",
-"Prime Video",
-"NBA League Pass"
-],
-"FR": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"GB": [
-"Sky Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"GH": [
-"ESPN",
-"Sporty TV",
-"NBA League Pass"
-],
-"HR": [
-"Sport Klub",
-"Prime Video",
-"NBA League Pass"
-],
-"IT": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"JP": [
-"Lemino",
-"Prime Video",
-"WOWOW"
-],
-"KR": [
-"Coupang Play",
-"Prime Video",
-"NBA League Pass"
-],
-"MA": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"MX": [
-"ESPN",
-"Disney+",
-"Prime Video",
-"NBA League Pass"
-],
-"NG": [
-"ESPN",
-"Sporty TV",
-"NBA League Pass"
-],
-"NL": [
-"ESPN",
-"NBA League Pass"
-],
-"NO": [
-"HBO Max",
-"NBA League Pass"
-],
-"NZ": [
-"ESPN",
-"Prime Video",
-"NBA League Pass"
-],
-"PE": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"PT": [
-"Sport TV",
-"Prime Video",
-"NBA League Pass"
-],
-"PY": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"QA": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"SA": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"SN": [
-"Canal+ Sport",
-"NBA League Pass"
-],
-"TN": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"TR": [
-"S Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"US": [
-"Prime Video"
-],
-"UY": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"ZA": [
-"SuperSport",
-"ESPN",
-"Prime Video",
-"NBA League Pass"
-]
-},
-"competition": {
-"ar": "دوري NBA",
-"de": "NBA",
-"en": "NBA",
-"es": "NBA",
-"fr": "NBA",
-"it": "NBA",
-"pt": "NBA",
-"tr": "NBA"
-},
-"competitionId": "nba",
-"home": "Nuggets",
-"homeNames": {
-"ar": "دنفر ناجتس",
-"de": "Denver Nuggets",
-"en": "Denver Nuggets",
-"es": "Denver Nuggets",
-"fr": "Denver Nuggets",
-"it": "Denver Nuggets",
-"pt": "Denver Nuggets",
-"tr": "Denver Nuggets"
-},
-"id": "basketball-20261121-nuggets-rockets",
-"kickoffUtc": "2026-11-21T03:00:00Z",
-"sources": [
-"espn"
-],
-"sport": "basketball",
-"tier": "global"
-},
-"slug": "denver-nuggets-houston-rockets-2026-11-21"
-},
-"es:basketball-20261121-pistons-raptors": {
-"lang": "es",
-"m": {
-"away": "Raptors",
-"awayNames": {
-"ar": "تورونتو رابتورز",
-"de": "Toronto Raptors",
-"en": "Toronto Raptors",
-"es": "Toronto Raptors",
-"fr": "Toronto Raptors",
-"it": "Toronto Raptors",
-"pt": "Toronto Raptors",
-"tr": "Toronto Raptors"
-},
-"broadcasts": {
-"AE": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"AR": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"AT": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"AU": [
-"ESPN",
-"Prime Video",
-"NBA League Pass"
-],
-"BE": [
-"DAZN",
-"Prime Video",
-"NBA League Pass"
-],
-"BR": [
-"ESPN",
-"Disney+",
-"Prime Video",
-"NBA League Pass"
-],
-"CA": [
-"TSN",
-"Sportsnet",
-"Prime Video",
-"NBA League Pass"
-],
-"CH": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"CL": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"CO": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"CZ": [
-"Nova Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"DE": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"DZ": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"EC": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"EG": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"ES": [
-"DAZN",
-"Prime Video",
-"NBA League Pass"
-],
-"FR": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"GB": [
-"Sky Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"GH": [
-"ESPN",
-"Sporty TV",
-"NBA League Pass"
-],
-"HR": [
-"Sport Klub",
-"Prime Video",
-"NBA League Pass"
-],
-"IT": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"JP": [
-"Lemino",
-"Prime Video",
-"WOWOW"
-],
-"KR": [
-"Coupang Play",
-"Prime Video",
-"NBA League Pass"
-],
-"MA": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"MX": [
-"ESPN",
-"Disney+",
-"Prime Video",
-"NBA League Pass"
-],
-"NG": [
-"ESPN",
-"Sporty TV",
-"NBA League Pass"
-],
-"NL": [
-"ESPN",
-"NBA League Pass"
-],
-"NO": [
-"HBO Max",
-"NBA League Pass"
-],
-"NZ": [
-"ESPN",
-"Prime Video",
-"NBA League Pass"
-],
-"PE": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"PT": [
-"Sport TV",
-"Prime Video",
-"NBA League Pass"
-],
-"PY": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"QA": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"SA": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"SN": [
-"Canal+ Sport",
-"NBA League Pass"
-],
-"TN": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"TR": [
-"S Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"US": [
-"Prime Video"
-],
-"UY": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"ZA": [
-"SuperSport",
-"ESPN",
-"Prime Video",
-"NBA League Pass"
-]
-},
-"competition": {
-"ar": "دوري NBA",
-"de": "NBA",
-"en": "NBA",
-"es": "NBA",
-"fr": "NBA",
-"it": "NBA",
-"pt": "NBA",
-"tr": "NBA"
-},
-"competitionId": "nba",
-"home": "Pistons",
-"homeNames": {
-"ar": "ديترويت بيستونز",
-"de": "Detroit Pistons",
-"en": "Detroit Pistons",
-"es": "Detroit Pistons",
-"fr": "Detroit Pistons",
-"it": "Detroit Pistons",
-"pt": "Detroit Pistons",
-"tr": "Detroit Pistons"
-},
-"id": "basketball-20261121-pistons-raptors",
-"kickoffUtc": "2026-11-21T00:30:00Z",
-"sources": [
-"espn"
-],
-"sport": "basketball",
-"tier": "global"
-},
-"slug": "detroit-pistons-toronto-raptors-2026-11-21"
-},
-"es:basketball-20261121-thunder-pelicans": {
-"lang": "es",
-"m": {
-"away": "Pelicans",
-"awayNames": {
-"ar": "نيو أورلينز بيليكانز",
-"de": "New Orleans Pelicans",
-"en": "New Orleans Pelicans",
-"es": "New Orleans Pelicans",
-"fr": "New Orleans Pelicans",
-"it": "New Orleans Pelicans",
-"pt": "New Orleans Pelicans",
-"tr": "New Orleans Pelicans"
-},
-"broadcasts": {
-"AE": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"AR": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"AT": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"AU": [
-"ESPN",
-"Prime Video",
-"NBA League Pass"
-],
-"BE": [
-"DAZN",
-"Prime Video",
-"NBA League Pass"
-],
-"BR": [
-"ESPN",
-"Disney+",
-"Prime Video",
-"NBA League Pass"
-],
-"CA": [
-"TSN",
-"Sportsnet",
-"Prime Video",
-"NBA League Pass"
-],
-"CH": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"CL": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"CO": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"CZ": [
-"Nova Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"DE": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"DZ": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"EC": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"EG": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"ES": [
-"DAZN",
-"Prime Video",
-"NBA League Pass"
-],
-"FR": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"GB": [
-"Sky Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"GH": [
-"ESPN",
-"Sporty TV",
-"NBA League Pass"
-],
-"HR": [
-"Sport Klub",
-"Prime Video",
-"NBA League Pass"
-],
-"IT": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"JP": [
-"Lemino",
-"Prime Video",
-"WOWOW"
-],
-"KR": [
-"Coupang Play",
-"Prime Video",
-"NBA League Pass"
-],
-"MA": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"MX": [
-"ESPN",
-"Disney+",
-"Prime Video",
-"NBA League Pass"
-],
-"NG": [
-"ESPN",
-"Sporty TV",
-"NBA League Pass"
-],
-"NL": [
-"ESPN",
-"NBA League Pass"
-],
-"NO": [
-"HBO Max",
-"NBA League Pass"
-],
-"NZ": [
-"ESPN",
-"Prime Video",
-"NBA League Pass"
-],
-"PE": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"PT": [
-"Sport TV",
-"Prime Video",
-"NBA League Pass"
-],
-"PY": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"QA": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"SA": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"SN": [
-"Canal+ Sport",
-"NBA League Pass"
-],
-"TN": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"TR": [
-"S Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"US": [
-"KSBI",
-"Thunder App",
-"GCSEN",
-"Pelicans.com",
-"NBA League Pass"
-],
-"UY": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"ZA": [
-"SuperSport",
-"ESPN",
-"Prime Video",
-"NBA League Pass"
-]
-},
-"competition": {
-"ar": "دوري NBA",
-"de": "NBA",
-"en": "NBA",
-"es": "NBA",
-"fr": "NBA",
-"it": "NBA",
-"pt": "NBA",
-"tr": "NBA"
-},
-"competitionId": "nba",
-"home": "Thunder",
-"homeNames": {
-"ar": "أوكلاهوما سيتي ثاندر",
-"de": "Oklahoma City Thunder",
-"en": "Oklahoma City Thunder",
-"es": "Oklahoma City Thunder",
-"fr": "Oklahoma City Thunder",
-"it": "Oklahoma City Thunder",
-"pt": "Oklahoma City Thunder",
-"tr": "Oklahoma City Thunder"
-},
-"id": "basketball-20261121-thunder-pelicans",
-"kickoffUtc": "2026-11-21T01:00:00Z",
-"sources": [
-"espn"
-],
-"sport": "basketball",
-"tier": "global"
-},
-"slug": "oklahoma-city-thunder-new-orleans-pelicans-2026-11-21"
-},
 "es:basketball-20261122-hawks-pistons": {
 "lang": "es",
 "m": {
@@ -8687,91 +6388,6 @@
 },
 "slug": "washington-wizards-boston-celtics-2026-11-25"
 },
-"es:football-20261120-bucaramanga-america-de-cali": {
-"lang": "es",
-"m": {
-"away": "America de Cali",
-"awayNames": {
-"ar": "أميركا دي كالي",
-"de": "América de Cali",
-"en": "América de Cali",
-"es": "América de Cali",
-"fr": "América de Cali",
-"it": "América de Cali",
-"pt": "América de Cali",
-"tr": "América de Cali"
-},
-"broadcasts": {
-"AR": [
-"RCN Nuestra Tele"
-],
-"BR": [
-"RCN Nuestra Tele"
-],
-"CL": [
-"RCN Nuestra Tele"
-],
-"CO": [
-"Win Fútbol +",
-"Win Play"
-],
-"EC": [
-"RCN Nuestra Tele"
-],
-"ES": [
-"RCN Nuestra Tele"
-],
-"MX": [
-"RCN Nuestra Tele"
-],
-"PE": [
-"RCN Nuestra Tele"
-],
-"PT": [
-"Fanatiz"
-],
-"US": [
-"FOX Deportes",
-"Fox Sports online",
-"FOX One"
-],
-"UY": [
-"RCN Nuestra Tele"
-]
-},
-"competition": {
-"ar": "الدوري الكولومبي",
-"de": "Liga BetPlay DIMAYOR",
-"en": "Liga BetPlay DIMAYOR",
-"es": "Liga BetPlay DIMAYOR",
-"fr": "Liga BetPlay DIMAYOR",
-"it": "Liga BetPlay DIMAYOR",
-"pt": "Liga BetPlay DIMAYOR",
-"tr": "Kolombiya Liga BetPlay"
-},
-"competitionId": "liga_dimayor",
-"home": "Bucaramanga",
-"homeNames": {
-"ar": "بوكارامانجا",
-"de": "Atlético Bucaramanga",
-"en": "Atlético Bucaramanga",
-"es": "Atlético Bucaramanga",
-"fr": "Atlético Bucaramanga",
-"it": "Atlético Bucaramanga",
-"pt": "Atlético Bucaramanga",
-"tr": "Atlético Bucaramanga"
-},
-"id": "football-20261120-bucaramanga-america-de-cali",
-"kickoffUtc": "2026-11-20T23:35:00Z",
-"sources": [
-"fotmob",
-"kooora"
-],
-"sport": "football",
-"tier": "regional"
-},
-"slug": "atletico-bucaramanga-america-de-cali-2026-11-21"
-},
 "es:football-20261121-alianza-lima-fc-cajamarca": {
 "lang": "es",
 "m": {
@@ -11157,86 +8773,6 @@
 "tier": "global"
 },
 "slug": "deportivo-alaves-deportivo-a-coruna-2026-11-21"
-},
-"es:football-20261121-deportivo-cali-millonarios": {
-"lang": "es",
-"m": {
-"away": "Millonarios",
-"awayNames": {
-"ar": "ميلوناريوس",
-"de": "Millonarios",
-"en": "Millonarios",
-"es": "Millonarios",
-"fr": "Millonarios",
-"it": "Millonarios",
-"pt": "Millonarios",
-"tr": "Millonarios"
-},
-"broadcasts": {
-"AR": [
-"RCN Nuestra Tele"
-],
-"BR": [
-"RCN Nuestra Tele"
-],
-"CL": [
-"RCN Nuestra Tele"
-],
-"CO": [
-"Win Fútbol +",
-"Win Play"
-],
-"EC": [
-"RCN Nuestra Tele"
-],
-"ES": [
-"RCN Nuestra Tele"
-],
-"MX": [
-"RCN Nuestra Tele"
-],
-"PE": [
-"RCN Nuestra Tele"
-],
-"PT": [
-"Fanatiz"
-],
-"UY": [
-"RCN Nuestra Tele"
-]
-},
-"competition": {
-"ar": "الدوري الكولومبي",
-"de": "Liga BetPlay DIMAYOR",
-"en": "Liga BetPlay DIMAYOR",
-"es": "Liga BetPlay DIMAYOR",
-"fr": "Liga BetPlay DIMAYOR",
-"it": "Liga BetPlay DIMAYOR",
-"pt": "Liga BetPlay DIMAYOR",
-"tr": "Kolombiya Liga BetPlay"
-},
-"competitionId": "liga_dimayor",
-"home": "Deportivo Cali",
-"homeNames": {
-"ar": "ديبورتيفو كالي",
-"de": "Deportivo Cali",
-"en": "Deportivo Cali",
-"es": "Deportivo Cali",
-"fr": "Deportivo Cali",
-"it": "Deportivo Cali",
-"pt": "Deportivo Cali",
-"tr": "Deportivo Cali"
-},
-"id": "football-20261121-deportivo-cali-millonarios",
-"kickoffUtc": "2026-11-21T01:40:00Z",
-"sources": [
-"fotmob",
-"kooora"
-],
-"sport": "football",
-"tier": "regional"
-},
-"slug": "deportivo-cali-millonarios-2026-11-21"
 },
 "es:football-20261121-elversberg-freiburg": {
 "lang": "es",
@@ -23037,11 +20573,17 @@
 "tr": "Al-Sadd"
 },
 "broadcasts": {
+"AE": [
+"beIN Sports MENA 2"
+],
 "AT": [
 "OneFootball PPV",
 "Sportdigital+ App",
 "Sportdigital1+",
 "Sportdigital.de"
+],
+"BH": [
+"beIN Sports MENA 2"
 ],
 "BR": [
 "ESPN 4",
@@ -23057,11 +20599,29 @@
 "Sportdigital1+",
 "Sportdigital+"
 ],
+"DZ": [
+"beIN Sports MENA 2"
+],
+"EG": [
+"beIN Sports MENA 2"
+],
 "ES": [
 "The AFC Hub YouTube"
 ],
+"IQ": [
+"beIN Sports MENA 2"
+],
+"JO": [
+"beIN Sports MENA 2"
+],
 "JP": [
 "DAZN"
+],
+"KW": [
+"beIN Sports MENA 2"
+],
+"LY": [
+"beIN Sports MENA 2"
 ],
 "MA": [
 "beIN Sports 2"
@@ -23074,9 +20634,22 @@
 "ESPN NL",
 "ESPN Watch NL"
 ],
+"OM": [
+"beIN Sports MENA 2"
+],
 "PT": [
 "Canal 11",
 "CMTV"
+],
+"QA": [
+"beIN Sports MENA 2",
+"ALKASS Six"
+],
+"SA": [
+"beIN Sports MENA 2"
+],
+"TN": [
+"beIN Sports MENA 2"
 ]
 },
 "competition": {
@@ -23910,6 +21483,10 @@
 "Play Sports 7",
 "Pickx+ Sports 5"
 ],
+"BH": [
+"beIN Sports MENA 5",
+"TOD TV"
+],
 "BR": [
 "HBO Max"
 ],
@@ -23986,6 +21563,10 @@
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"beIN Sports MENA 5",
+"TOD TV"
 ],
 "LY": [
 "beIN Sports"
@@ -24256,6 +21837,10 @@
 "Play Sports 5",
 "Pickx+ Sports 6"
 ],
+"BH": [
+"beIN Sports MENA 6",
+"TOD TV"
+],
 "BR": [
 "HBO Max"
 ],
@@ -24329,6 +21914,10 @@
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"beIN Sports MENA 6",
+"TOD TV"
 ],
 "LY": [
 "beIN Sports"
@@ -24470,6 +22059,10 @@
 "Pickx+ Sports 2",
 "Play Sports"
 ],
+"BH": [
+"beIN Sports MENA 3",
+"TOD TV"
+],
 "BR": [
 "TNT",
 "HBO Max"
@@ -24551,6 +22144,10 @@
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"beIN Sports MENA 3",
+"TOD TV"
 ],
 "LY": [
 "beIN Sports"
@@ -24859,6 +22456,10 @@
 "VTM GO",
 "VTM 2"
 ],
+"BH": [
+"beIN Sports MENA 3",
+"TOD TV"
+],
 "BR": [
 "Space",
 "HBO Max"
@@ -24940,6 +22541,10 @@
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"beIN Sports MENA 3",
+"TOD TV"
 ],
 "LY": [
 "beIN Sports"
@@ -25059,11 +22664,23 @@
 "tr": "Kashiwa Reysol"
 },
 "broadcasts": {
+"AE": [
+"beIN Sports MENA 2"
+],
 "AU": [
 "Paramount+"
 ],
+"BH": [
+"beIN Sports MENA 2"
+],
 "BR": [
 "Disney+ Premium"
+],
+"DZ": [
+"beIN Sports MENA 2"
+],
+"EG": [
+"beIN Sports MENA 2"
 ],
 "ES": [
 "The AFC Hub YouTube"
@@ -25071,12 +22688,36 @@
 "HR": [
 "Sportklub 2 Croatia"
 ],
+"IQ": [
+"beIN Sports MENA 2"
+],
+"JO": [
+"beIN Sports MENA 2"
+],
 "JP": [
 "DAZN"
+],
+"KW": [
+"beIN Sports MENA 2"
+],
+"LY": [
+"beIN Sports MENA 2"
 ],
 "MA": [
 "beIN Sports 2",
 "beIN Sports English"
+],
+"OM": [
+"beIN Sports MENA 2"
+],
+"QA": [
+"beIN Sports MENA 2"
+],
+"SA": [
+"beIN Sports MENA 2"
+],
+"TN": [
+"beIN Sports MENA 2"
 ]
 },
 "competition": {
@@ -25303,6 +22944,9 @@
 "BE": [
 "Pickx+ Sports 7"
 ],
+"BH": [
+"beIN Sports MENA 8"
+],
 "BR": [
 "HBO Max"
 ],
@@ -25378,6 +23022,9 @@
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"beIN Sports MENA 8"
 ],
 "LY": [
 "beIN Sports"
@@ -25516,6 +23163,10 @@
 "Play Sports",
 "Play Sports 4"
 ],
+"BH": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
 "BR": [
 "TNT",
 "SBT",
@@ -25600,6 +23251,10 @@
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "LY": [
 "beIN Sports"
@@ -25829,6 +23484,9 @@
 "tr": "Al Qadsiah"
 },
 "broadcasts": {
+"AE": [
+"beIN Sports MENA 2"
+],
 "AR": [
 "Disney+ Premium"
 ],
@@ -25836,6 +23494,9 @@
 "Sportdigital+ App",
 "Sportdigital1+",
 "Sportdigital.de"
+],
+"BH": [
+"beIN Sports MENA 2"
 ],
 "BR": [
 "Disney+ Premium"
@@ -25856,14 +23517,32 @@
 "Sportdigital+",
 "Sportdigital1+"
 ],
+"DZ": [
+"beIN Sports MENA 2"
+],
 "EC": [
 "Disney+ Premium"
+],
+"EG": [
+"beIN Sports MENA 2"
 ],
 "ES": [
 "The AFC Hub YouTube"
 ],
+"IQ": [
+"beIN Sports MENA 2"
+],
+"JO": [
+"beIN Sports MENA 2"
+],
 "JP": [
 "DAZN"
+],
+"KW": [
+"beIN Sports MENA 2"
+],
+"LY": [
+"beIN Sports MENA 2"
 ],
 "MA": [
 "beIN Sports 2"
@@ -25876,11 +23555,24 @@
 "ESPN 2 NL",
 "ESPN Watch NL"
 ],
+"OM": [
+"beIN Sports MENA 2"
+],
 "PE": [
 "Disney+ Premium"
 ],
 "PY": [
 "Disney+ Premium"
+],
+"QA": [
+"beIN Sports MENA 2",
+"ALKASS Six"
+],
+"SA": [
+"beIN Sports MENA 2"
+],
+"TN": [
+"beIN Sports MENA 2"
 ],
 "UY": [
 "Disney+ Premium"
@@ -26017,6 +23709,9 @@
 "Play Sports 6",
 "Pickx+ Sports 8"
 ],
+"BH": [
+"beIN Sports MENA 9"
+],
 "BR": [
 "HBO Max"
 ],
@@ -26088,6 +23783,9 @@
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"beIN Sports MENA 9"
 ],
 "LY": [
 "beIN Sports"
@@ -26636,2305 +24334,6 @@
 "tier": "global"
 },
 "slug": "philadelphia-76ers-milwaukee-bucks-2026-11-21"
-},
-"fr:basketball-20261121-bulls-wizards": {
-"lang": "fr",
-"m": {
-"away": "Wizards",
-"awayNames": {
-"ar": "واشنطن ويزاردز",
-"de": "Washington Wizards",
-"en": "Washington Wizards",
-"es": "Washington Wizards",
-"fr": "Washington Wizards",
-"it": "Washington Wizards",
-"pt": "Washington Wizards",
-"tr": "Washington Wizards"
-},
-"broadcasts": {
-"AE": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"AR": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"AT": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"AU": [
-"ESPN",
-"Prime Video",
-"NBA League Pass"
-],
-"BE": [
-"DAZN",
-"Prime Video",
-"NBA League Pass"
-],
-"BR": [
-"ESPN",
-"Disney+",
-"Prime Video",
-"NBA League Pass"
-],
-"CA": [
-"TSN",
-"Sportsnet",
-"Prime Video",
-"NBA League Pass"
-],
-"CH": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"CL": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"CO": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"CZ": [
-"Nova Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"DE": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"DZ": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"EC": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"EG": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"ES": [
-"DAZN",
-"Prime Video",
-"NBA League Pass"
-],
-"FR": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"GB": [
-"Sky Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"GH": [
-"ESPN",
-"Sporty TV",
-"NBA League Pass"
-],
-"HR": [
-"Sport Klub",
-"Prime Video",
-"NBA League Pass"
-],
-"IT": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"JP": [
-"Lemino",
-"Prime Video",
-"WOWOW"
-],
-"KR": [
-"Coupang Play",
-"Prime Video",
-"NBA League Pass"
-],
-"MA": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"MX": [
-"ESPN",
-"Disney+",
-"Prime Video",
-"NBA League Pass"
-],
-"NG": [
-"ESPN",
-"Sporty TV",
-"NBA League Pass"
-],
-"NL": [
-"ESPN",
-"NBA League Pass"
-],
-"NO": [
-"HBO Max",
-"NBA League Pass"
-],
-"NZ": [
-"ESPN",
-"Prime Video",
-"NBA League Pass"
-],
-"PE": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"PT": [
-"Sport TV",
-"Prime Video",
-"NBA League Pass"
-],
-"PY": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"QA": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"SA": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"SN": [
-"Canal+ Sport",
-"NBA League Pass"
-],
-"TN": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"TR": [
-"S Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"US": [
-"MNMT",
-"NBA League Pass"
-],
-"UY": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"ZA": [
-"SuperSport",
-"ESPN",
-"Prime Video",
-"NBA League Pass"
-]
-},
-"competition": {
-"ar": "دوري NBA",
-"de": "NBA",
-"en": "NBA",
-"es": "NBA",
-"fr": "NBA",
-"it": "NBA",
-"pt": "NBA",
-"tr": "NBA"
-},
-"competitionId": "nba",
-"home": "Bulls",
-"homeNames": {
-"ar": "شيكاغو بولز",
-"de": "Chicago Bulls",
-"en": "Chicago Bulls",
-"es": "Chicago Bulls",
-"fr": "Chicago Bulls",
-"it": "Chicago Bulls",
-"pt": "Chicago Bulls",
-"tr": "Chicago Bulls"
-},
-"id": "basketball-20261121-bulls-wizards",
-"kickoffUtc": "2026-11-21T01:00:00Z",
-"sources": [
-"espn"
-],
-"sport": "basketball",
-"tier": "global"
-},
-"slug": "chicago-bulls-washington-wizards-2026-11-21"
-},
-"fr:basketball-20261121-cavaliers-pacers": {
-"lang": "fr",
-"m": {
-"away": "Pacers",
-"awayNames": {
-"ar": "إنديانا بيسرز",
-"de": "Indiana Pacers",
-"en": "Indiana Pacers",
-"es": "Indiana Pacers",
-"fr": "Indiana Pacers",
-"it": "Indiana Pacers",
-"pt": "Indiana Pacers",
-"tr": "Indiana Pacers"
-},
-"broadcasts": {
-"AE": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"AR": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"AT": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"AU": [
-"ESPN",
-"Prime Video",
-"NBA League Pass"
-],
-"BE": [
-"DAZN",
-"Prime Video",
-"NBA League Pass"
-],
-"BR": [
-"ESPN",
-"Disney+",
-"Prime Video",
-"NBA League Pass"
-],
-"CA": [
-"TSN",
-"Sportsnet",
-"Prime Video",
-"NBA League Pass"
-],
-"CH": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"CL": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"CO": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"CZ": [
-"Nova Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"DE": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"DZ": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"EC": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"EG": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"ES": [
-"DAZN",
-"Prime Video",
-"NBA League Pass"
-],
-"FR": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"GB": [
-"Sky Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"GH": [
-"ESPN",
-"Sporty TV",
-"NBA League Pass"
-],
-"HR": [
-"Sport Klub",
-"Prime Video",
-"NBA League Pass"
-],
-"IT": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"JP": [
-"Lemino",
-"Prime Video",
-"WOWOW"
-],
-"KR": [
-"Coupang Play",
-"Prime Video",
-"NBA League Pass"
-],
-"MA": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"MX": [
-"ESPN",
-"Disney+",
-"Prime Video",
-"NBA League Pass"
-],
-"NG": [
-"ESPN",
-"Sporty TV",
-"NBA League Pass"
-],
-"NL": [
-"ESPN",
-"NBA League Pass"
-],
-"NO": [
-"HBO Max",
-"NBA League Pass"
-],
-"NZ": [
-"ESPN",
-"Prime Video",
-"NBA League Pass"
-],
-"PE": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"PT": [
-"Sport TV",
-"Prime Video",
-"NBA League Pass"
-],
-"PY": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"QA": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"SA": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"SN": [
-"Canal+ Sport",
-"NBA League Pass"
-],
-"TN": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"TR": [
-"S Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"US": [
-"DAZN CLE",
-"NBA League Pass"
-],
-"UY": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"ZA": [
-"SuperSport",
-"ESPN",
-"Prime Video",
-"NBA League Pass"
-]
-},
-"competition": {
-"ar": "دوري NBA",
-"de": "NBA",
-"en": "NBA",
-"es": "NBA",
-"fr": "NBA",
-"it": "NBA",
-"pt": "NBA",
-"tr": "NBA"
-},
-"competitionId": "nba",
-"home": "Cavaliers",
-"homeNames": {
-"ar": "كليفلاند كافالييرز",
-"de": "Cleveland Cavaliers",
-"en": "Cleveland Cavaliers",
-"es": "Cleveland Cavaliers",
-"fr": "Cleveland Cavaliers",
-"it": "Cleveland Cavaliers",
-"pt": "Cleveland Cavaliers",
-"tr": "Cleveland Cavaliers"
-},
-"id": "basketball-20261121-cavaliers-pacers",
-"kickoffUtc": "2026-11-21T00:30:00Z",
-"sources": [
-"espn"
-],
-"sport": "basketball",
-"tier": "global"
-},
-"slug": "cleveland-cavaliers-indiana-pacers-2026-11-21"
-},
-"fr:basketball-20261121-hawks-hornets": {
-"lang": "fr",
-"m": {
-"away": "Hornets",
-"awayNames": {
-"ar": "شارلوت هورنتس",
-"de": "Charlotte Hornets",
-"en": "Charlotte Hornets",
-"es": "Charlotte Hornets",
-"fr": "Charlotte Hornets",
-"it": "Charlotte Hornets",
-"pt": "Charlotte Hornets",
-"tr": "Charlotte Hornets"
-},
-"broadcasts": {
-"AE": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"AR": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"AT": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"AU": [
-"ESPN",
-"Prime Video",
-"NBA League Pass"
-],
-"BE": [
-"DAZN",
-"Prime Video",
-"NBA League Pass"
-],
-"BR": [
-"ESPN",
-"Disney+",
-"Prime Video",
-"NBA League Pass"
-],
-"CA": [
-"TSN",
-"Sportsnet",
-"Prime Video",
-"NBA League Pass"
-],
-"CH": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"CL": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"CO": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"CZ": [
-"Nova Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"DE": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"DZ": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"EC": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"EG": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"ES": [
-"DAZN",
-"Prime Video",
-"NBA League Pass"
-],
-"FR": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"GB": [
-"Sky Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"GH": [
-"ESPN",
-"Sporty TV",
-"NBA League Pass"
-],
-"HR": [
-"Sport Klub",
-"Prime Video",
-"NBA League Pass"
-],
-"IT": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"JP": [
-"Lemino",
-"Prime Video",
-"WOWOW"
-],
-"KR": [
-"Coupang Play",
-"Prime Video",
-"NBA League Pass"
-],
-"MA": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"MX": [
-"ESPN",
-"Disney+",
-"Prime Video",
-"NBA League Pass"
-],
-"NG": [
-"ESPN",
-"Sporty TV",
-"NBA League Pass"
-],
-"NL": [
-"ESPN",
-"NBA League Pass"
-],
-"NO": [
-"HBO Max",
-"NBA League Pass"
-],
-"NZ": [
-"ESPN",
-"Prime Video",
-"NBA League Pass"
-],
-"PE": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"PT": [
-"Sport TV",
-"Prime Video",
-"NBA League Pass"
-],
-"PY": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"QA": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"SA": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"SN": [
-"Canal+ Sport",
-"NBA League Pass"
-],
-"TN": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"TR": [
-"S Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"US": [
-"NBA League Pass"
-],
-"UY": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"ZA": [
-"SuperSport",
-"ESPN",
-"Prime Video",
-"NBA League Pass"
-]
-},
-"competition": {
-"ar": "دوري NBA",
-"de": "NBA",
-"en": "NBA",
-"es": "NBA",
-"fr": "NBA",
-"it": "NBA",
-"pt": "NBA",
-"tr": "NBA"
-},
-"competitionId": "nba",
-"home": "Hawks",
-"homeNames": {
-"ar": "أتلانتا هوكس",
-"de": "Atlanta Hawks",
-"en": "Atlanta Hawks",
-"es": "Atlanta Hawks",
-"fr": "Atlanta Hawks",
-"it": "Atlanta Hawks",
-"pt": "Atlanta Hawks",
-"tr": "Atlanta Hawks"
-},
-"id": "basketball-20261121-hawks-hornets",
-"kickoffUtc": "2026-11-21T00:00:00Z",
-"sources": [
-"espn"
-],
-"sport": "basketball",
-"tier": "global"
-},
-"slug": "atlanta-hawks-charlotte-hornets-2026-11-21"
-},
-"fr:basketball-20261121-jazz-suns": {
-"lang": "fr",
-"m": {
-"away": "Suns",
-"awayNames": {
-"ar": "فينيكس صنز",
-"de": "Phoenix Suns",
-"en": "Phoenix Suns",
-"es": "Phoenix Suns",
-"fr": "Phoenix Suns",
-"it": "Phoenix Suns",
-"pt": "Phoenix Suns",
-"tr": "Phoenix Suns"
-},
-"broadcasts": {
-"AE": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"AR": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"AT": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"AU": [
-"ESPN",
-"Prime Video",
-"NBA League Pass"
-],
-"BE": [
-"DAZN",
-"Prime Video",
-"NBA League Pass"
-],
-"BR": [
-"ESPN",
-"Disney+",
-"Prime Video",
-"NBA League Pass"
-],
-"CA": [
-"TSN",
-"Sportsnet",
-"Prime Video",
-"NBA League Pass"
-],
-"CH": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"CL": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"CO": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"CZ": [
-"Nova Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"DE": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"DZ": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"EC": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"EG": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"ES": [
-"DAZN",
-"Prime Video",
-"NBA League Pass"
-],
-"FR": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"GB": [
-"Sky Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"GH": [
-"ESPN",
-"Sporty TV",
-"NBA League Pass"
-],
-"HR": [
-"Sport Klub",
-"Prime Video",
-"NBA League Pass"
-],
-"IT": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"JP": [
-"Lemino",
-"Prime Video",
-"WOWOW"
-],
-"KR": [
-"Coupang Play",
-"Prime Video",
-"NBA League Pass"
-],
-"MA": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"MX": [
-"ESPN",
-"Disney+",
-"Prime Video",
-"NBA League Pass"
-],
-"NG": [
-"ESPN",
-"Sporty TV",
-"NBA League Pass"
-],
-"NL": [
-"ESPN",
-"NBA League Pass"
-],
-"NO": [
-"HBO Max",
-"NBA League Pass"
-],
-"NZ": [
-"ESPN",
-"Prime Video",
-"NBA League Pass"
-],
-"PE": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"PT": [
-"Sport TV",
-"Prime Video",
-"NBA League Pass"
-],
-"PY": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"QA": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"SA": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"SN": [
-"Canal+ Sport",
-"NBA League Pass"
-],
-"TN": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"TR": [
-"S Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"US": [
-"Suns Live",
-"Arizona's Family 3TV",
-"KJZZ-TV",
-"Jazz+",
-"NBA League Pass"
-],
-"UY": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"ZA": [
-"SuperSport",
-"ESPN",
-"Prime Video",
-"NBA League Pass"
-]
-},
-"competition": {
-"ar": "دوري NBA",
-"de": "NBA",
-"en": "NBA",
-"es": "NBA",
-"fr": "NBA",
-"it": "NBA",
-"pt": "NBA",
-"tr": "NBA"
-},
-"competitionId": "nba",
-"home": "Jazz",
-"homeNames": {
-"ar": "يوتا جاز",
-"de": "Utah Jazz",
-"en": "Utah Jazz",
-"es": "Utah Jazz",
-"fr": "Utah Jazz",
-"it": "Utah Jazz",
-"pt": "Utah Jazz",
-"tr": "Utah Jazz"
-},
-"id": "basketball-20261121-jazz-suns",
-"kickoffUtc": "2026-11-21T02:30:00Z",
-"sources": [
-"espn"
-],
-"sport": "basketball",
-"tier": "global"
-},
-"slug": "utah-jazz-phoenix-suns-2026-11-21"
-},
-"fr:basketball-20261121-lakers-kings": {
-"lang": "fr",
-"m": {
-"away": "Kings",
-"awayNames": {
-"ar": "ساكرامنتو كينغز",
-"de": "Sacramento Kings",
-"en": "Sacramento Kings",
-"es": "Sacramento Kings",
-"fr": "Sacramento Kings",
-"it": "Sacramento Kings",
-"pt": "Sacramento Kings",
-"tr": "Sacramento Kings"
-},
-"broadcasts": {
-"AE": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"AR": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"AT": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"AU": [
-"ESPN",
-"Prime Video",
-"NBA League Pass"
-],
-"BE": [
-"DAZN",
-"Prime Video",
-"NBA League Pass"
-],
-"BR": [
-"ESPN",
-"Disney+",
-"Prime Video",
-"NBA League Pass"
-],
-"CA": [
-"TSN",
-"Sportsnet",
-"Prime Video",
-"NBA League Pass"
-],
-"CH": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"CL": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"CO": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"CZ": [
-"Nova Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"DE": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"DZ": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"EC": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"EG": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"ES": [
-"DAZN",
-"Prime Video",
-"NBA League Pass"
-],
-"FR": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"GB": [
-"Sky Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"GH": [
-"ESPN",
-"Sporty TV",
-"NBA League Pass"
-],
-"HR": [
-"Sport Klub",
-"Prime Video",
-"NBA League Pass"
-],
-"IT": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"JP": [
-"Lemino",
-"Prime Video",
-"WOWOW"
-],
-"KR": [
-"Coupang Play",
-"Prime Video",
-"NBA League Pass"
-],
-"MA": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"MX": [
-"ESPN",
-"Disney+",
-"Prime Video",
-"NBA League Pass"
-],
-"NG": [
-"ESPN",
-"Sporty TV",
-"NBA League Pass"
-],
-"NL": [
-"ESPN",
-"NBA League Pass"
-],
-"NO": [
-"HBO Max",
-"NBA League Pass"
-],
-"NZ": [
-"ESPN",
-"Prime Video",
-"NBA League Pass"
-],
-"PE": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"PT": [
-"Sport TV",
-"Prime Video",
-"NBA League Pass"
-],
-"PY": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"QA": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"SA": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"SN": [
-"Canal+ Sport",
-"NBA League Pass"
-],
-"TN": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"TR": [
-"S Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"US": [
-"Spectrum Sports Net",
-"Spectrum Sports Net +",
-"NBA League Pass"
-],
-"UY": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"ZA": [
-"SuperSport",
-"ESPN",
-"Prime Video",
-"NBA League Pass"
-]
-},
-"competition": {
-"ar": "دوري NBA",
-"de": "NBA",
-"en": "NBA",
-"es": "NBA",
-"fr": "NBA",
-"it": "NBA",
-"pt": "NBA",
-"tr": "NBA"
-},
-"competitionId": "nba",
-"home": "Lakers",
-"homeNames": {
-"ar": "لوس أنجلوس ليكرز",
-"de": "Los Angeles Lakers",
-"en": "Los Angeles Lakers",
-"es": "Los Angeles Lakers",
-"fr": "Los Angeles Lakers",
-"it": "Los Angeles Lakers",
-"pt": "Los Angeles Lakers",
-"tr": "Los Angeles Lakers"
-},
-"id": "basketball-20261121-lakers-kings",
-"kickoffUtc": "2026-11-21T03:00:00Z",
-"sources": [
-"espn"
-],
-"sport": "basketball",
-"tier": "global"
-},
-"slug": "los-angeles-lakers-sacramento-kings-2026-11-21"
-},
-"fr:basketball-20261121-nets-magic": {
-"lang": "fr",
-"m": {
-"away": "Magic",
-"awayNames": {
-"ar": "أورلاندو ماجيك",
-"de": "Orlando Magic",
-"en": "Orlando Magic",
-"es": "Orlando Magic",
-"fr": "Orlando Magic",
-"it": "Orlando Magic",
-"pt": "Orlando Magic",
-"tr": "Orlando Magic"
-},
-"broadcasts": {
-"AE": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"AR": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"AT": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"AU": [
-"ESPN",
-"Prime Video",
-"NBA League Pass"
-],
-"BE": [
-"DAZN",
-"Prime Video",
-"NBA League Pass"
-],
-"BR": [
-"ESPN",
-"Disney+",
-"Prime Video",
-"NBA League Pass"
-],
-"CA": [
-"TSN",
-"Sportsnet",
-"Prime Video",
-"NBA League Pass"
-],
-"CH": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"CL": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"CO": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"CZ": [
-"Nova Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"DE": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"DZ": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"EC": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"EG": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"ES": [
-"DAZN",
-"Prime Video",
-"NBA League Pass"
-],
-"FR": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"GB": [
-"Sky Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"GH": [
-"ESPN",
-"Sporty TV",
-"NBA League Pass"
-],
-"HR": [
-"Sport Klub",
-"Prime Video",
-"NBA League Pass"
-],
-"IT": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"JP": [
-"Lemino",
-"Prime Video",
-"WOWOW"
-],
-"KR": [
-"Coupang Play",
-"Prime Video",
-"NBA League Pass"
-],
-"MA": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"MX": [
-"ESPN",
-"Disney+",
-"Prime Video",
-"NBA League Pass"
-],
-"NG": [
-"ESPN",
-"Sporty TV",
-"NBA League Pass"
-],
-"NL": [
-"ESPN",
-"NBA League Pass"
-],
-"NO": [
-"HBO Max",
-"NBA League Pass"
-],
-"NZ": [
-"ESPN",
-"Prime Video",
-"NBA League Pass"
-],
-"PE": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"PT": [
-"Sport TV",
-"Prime Video",
-"NBA League Pass"
-],
-"PY": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"QA": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"SA": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"SN": [
-"Canal+ Sport",
-"NBA League Pass"
-],
-"TN": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"TR": [
-"S Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"US": [
-"DAZN (YES)",
-"NBA League Pass"
-],
-"UY": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"ZA": [
-"SuperSport",
-"ESPN",
-"Prime Video",
-"NBA League Pass"
-]
-},
-"competition": {
-"ar": "دوري NBA",
-"de": "NBA",
-"en": "NBA",
-"es": "NBA",
-"fr": "NBA",
-"it": "NBA",
-"pt": "NBA",
-"tr": "NBA"
-},
-"competitionId": "nba",
-"home": "Nets",
-"homeNames": {
-"ar": "بروكلين نتس",
-"de": "Brooklyn Nets",
-"en": "Brooklyn Nets",
-"es": "Brooklyn Nets",
-"fr": "Brooklyn Nets",
-"it": "Brooklyn Nets",
-"pt": "Brooklyn Nets",
-"tr": "Brooklyn Nets"
-},
-"id": "basketball-20261121-nets-magic",
-"kickoffUtc": "2026-11-21T00:30:00Z",
-"sources": [
-"espn"
-],
-"sport": "basketball",
-"tier": "global"
-},
-"slug": "brooklyn-nets-orlando-magic-2026-11-21"
-},
-"fr:basketball-20261121-nuggets-rockets": {
-"lang": "fr",
-"m": {
-"away": "Rockets",
-"awayNames": {
-"ar": "هيوستن روكتس",
-"de": "Houston Rockets",
-"en": "Houston Rockets",
-"es": "Houston Rockets",
-"fr": "Houston Rockets",
-"it": "Houston Rockets",
-"pt": "Houston Rockets",
-"tr": "Houston Rockets"
-},
-"broadcasts": {
-"AE": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"AR": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"AT": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"AU": [
-"ESPN",
-"Prime Video",
-"NBA League Pass"
-],
-"BE": [
-"DAZN",
-"Prime Video",
-"NBA League Pass"
-],
-"BR": [
-"ESPN",
-"Disney+",
-"Prime Video",
-"NBA League Pass"
-],
-"CA": [
-"TSN",
-"Sportsnet",
-"Prime Video",
-"NBA League Pass"
-],
-"CH": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"CL": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"CO": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"CZ": [
-"Nova Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"DE": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"DZ": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"EC": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"EG": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"ES": [
-"DAZN",
-"Prime Video",
-"NBA League Pass"
-],
-"FR": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"GB": [
-"Sky Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"GH": [
-"ESPN",
-"Sporty TV",
-"NBA League Pass"
-],
-"HR": [
-"Sport Klub",
-"Prime Video",
-"NBA League Pass"
-],
-"IT": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"JP": [
-"Lemino",
-"Prime Video",
-"WOWOW"
-],
-"KR": [
-"Coupang Play",
-"Prime Video",
-"NBA League Pass"
-],
-"MA": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"MX": [
-"ESPN",
-"Disney+",
-"Prime Video",
-"NBA League Pass"
-],
-"NG": [
-"ESPN",
-"Sporty TV",
-"NBA League Pass"
-],
-"NL": [
-"ESPN",
-"NBA League Pass"
-],
-"NO": [
-"HBO Max",
-"NBA League Pass"
-],
-"NZ": [
-"ESPN",
-"Prime Video",
-"NBA League Pass"
-],
-"PE": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"PT": [
-"Sport TV",
-"Prime Video",
-"NBA League Pass"
-],
-"PY": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"QA": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"SA": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"SN": [
-"Canal+ Sport",
-"NBA League Pass"
-],
-"TN": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"TR": [
-"S Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"US": [
-"Prime Video"
-],
-"UY": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"ZA": [
-"SuperSport",
-"ESPN",
-"Prime Video",
-"NBA League Pass"
-]
-},
-"competition": {
-"ar": "دوري NBA",
-"de": "NBA",
-"en": "NBA",
-"es": "NBA",
-"fr": "NBA",
-"it": "NBA",
-"pt": "NBA",
-"tr": "NBA"
-},
-"competitionId": "nba",
-"home": "Nuggets",
-"homeNames": {
-"ar": "دنفر ناجتس",
-"de": "Denver Nuggets",
-"en": "Denver Nuggets",
-"es": "Denver Nuggets",
-"fr": "Denver Nuggets",
-"it": "Denver Nuggets",
-"pt": "Denver Nuggets",
-"tr": "Denver Nuggets"
-},
-"id": "basketball-20261121-nuggets-rockets",
-"kickoffUtc": "2026-11-21T03:00:00Z",
-"sources": [
-"espn"
-],
-"sport": "basketball",
-"tier": "global"
-},
-"slug": "denver-nuggets-houston-rockets-2026-11-21"
-},
-"fr:basketball-20261121-pistons-raptors": {
-"lang": "fr",
-"m": {
-"away": "Raptors",
-"awayNames": {
-"ar": "تورونتو رابتورز",
-"de": "Toronto Raptors",
-"en": "Toronto Raptors",
-"es": "Toronto Raptors",
-"fr": "Toronto Raptors",
-"it": "Toronto Raptors",
-"pt": "Toronto Raptors",
-"tr": "Toronto Raptors"
-},
-"broadcasts": {
-"AE": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"AR": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"AT": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"AU": [
-"ESPN",
-"Prime Video",
-"NBA League Pass"
-],
-"BE": [
-"DAZN",
-"Prime Video",
-"NBA League Pass"
-],
-"BR": [
-"ESPN",
-"Disney+",
-"Prime Video",
-"NBA League Pass"
-],
-"CA": [
-"TSN",
-"Sportsnet",
-"Prime Video",
-"NBA League Pass"
-],
-"CH": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"CL": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"CO": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"CZ": [
-"Nova Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"DE": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"DZ": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"EC": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"EG": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"ES": [
-"DAZN",
-"Prime Video",
-"NBA League Pass"
-],
-"FR": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"GB": [
-"Sky Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"GH": [
-"ESPN",
-"Sporty TV",
-"NBA League Pass"
-],
-"HR": [
-"Sport Klub",
-"Prime Video",
-"NBA League Pass"
-],
-"IT": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"JP": [
-"Lemino",
-"Prime Video",
-"WOWOW"
-],
-"KR": [
-"Coupang Play",
-"Prime Video",
-"NBA League Pass"
-],
-"MA": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"MX": [
-"ESPN",
-"Disney+",
-"Prime Video",
-"NBA League Pass"
-],
-"NG": [
-"ESPN",
-"Sporty TV",
-"NBA League Pass"
-],
-"NL": [
-"ESPN",
-"NBA League Pass"
-],
-"NO": [
-"HBO Max",
-"NBA League Pass"
-],
-"NZ": [
-"ESPN",
-"Prime Video",
-"NBA League Pass"
-],
-"PE": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"PT": [
-"Sport TV",
-"Prime Video",
-"NBA League Pass"
-],
-"PY": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"QA": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"SA": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"SN": [
-"Canal+ Sport",
-"NBA League Pass"
-],
-"TN": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"TR": [
-"S Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"US": [
-"Prime Video"
-],
-"UY": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"ZA": [
-"SuperSport",
-"ESPN",
-"Prime Video",
-"NBA League Pass"
-]
-},
-"competition": {
-"ar": "دوري NBA",
-"de": "NBA",
-"en": "NBA",
-"es": "NBA",
-"fr": "NBA",
-"it": "NBA",
-"pt": "NBA",
-"tr": "NBA"
-},
-"competitionId": "nba",
-"home": "Pistons",
-"homeNames": {
-"ar": "ديترويت بيستونز",
-"de": "Detroit Pistons",
-"en": "Detroit Pistons",
-"es": "Detroit Pistons",
-"fr": "Detroit Pistons",
-"it": "Detroit Pistons",
-"pt": "Detroit Pistons",
-"tr": "Detroit Pistons"
-},
-"id": "basketball-20261121-pistons-raptors",
-"kickoffUtc": "2026-11-21T00:30:00Z",
-"sources": [
-"espn"
-],
-"sport": "basketball",
-"tier": "global"
-},
-"slug": "detroit-pistons-toronto-raptors-2026-11-21"
-},
-"fr:basketball-20261121-thunder-pelicans": {
-"lang": "fr",
-"m": {
-"away": "Pelicans",
-"awayNames": {
-"ar": "نيو أورلينز بيليكانز",
-"de": "New Orleans Pelicans",
-"en": "New Orleans Pelicans",
-"es": "New Orleans Pelicans",
-"fr": "New Orleans Pelicans",
-"it": "New Orleans Pelicans",
-"pt": "New Orleans Pelicans",
-"tr": "New Orleans Pelicans"
-},
-"broadcasts": {
-"AE": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"AR": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"AT": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"AU": [
-"ESPN",
-"Prime Video",
-"NBA League Pass"
-],
-"BE": [
-"DAZN",
-"Prime Video",
-"NBA League Pass"
-],
-"BR": [
-"ESPN",
-"Disney+",
-"Prime Video",
-"NBA League Pass"
-],
-"CA": [
-"TSN",
-"Sportsnet",
-"Prime Video",
-"NBA League Pass"
-],
-"CH": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"CL": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"CO": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"CZ": [
-"Nova Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"DE": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"DZ": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"EC": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"EG": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"ES": [
-"DAZN",
-"Prime Video",
-"NBA League Pass"
-],
-"FR": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"GB": [
-"Sky Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"GH": [
-"ESPN",
-"Sporty TV",
-"NBA League Pass"
-],
-"HR": [
-"Sport Klub",
-"Prime Video",
-"NBA League Pass"
-],
-"IT": [
-"Sky Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"JP": [
-"Lemino",
-"Prime Video",
-"WOWOW"
-],
-"KR": [
-"Coupang Play",
-"Prime Video",
-"NBA League Pass"
-],
-"MA": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"MX": [
-"ESPN",
-"Disney+",
-"Prime Video",
-"NBA League Pass"
-],
-"NG": [
-"ESPN",
-"Sporty TV",
-"NBA League Pass"
-],
-"NL": [
-"ESPN",
-"NBA League Pass"
-],
-"NO": [
-"HBO Max",
-"NBA League Pass"
-],
-"NZ": [
-"ESPN",
-"Prime Video",
-"NBA League Pass"
-],
-"PE": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"PT": [
-"Sport TV",
-"Prime Video",
-"NBA League Pass"
-],
-"PY": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"QA": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"SA": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"SN": [
-"Canal+ Sport",
-"NBA League Pass"
-],
-"TN": [
-"beIN Sports",
-"Prime Video",
-"NBA League Pass"
-],
-"TR": [
-"S Sport",
-"Prime Video",
-"NBA League Pass"
-],
-"US": [
-"KSBI",
-"Thunder App",
-"GCSEN",
-"Pelicans.com",
-"NBA League Pass"
-],
-"UY": [
-"ESPN",
-"Prime Video",
-"HBO Max",
-"NBA League Pass"
-],
-"ZA": [
-"SuperSport",
-"ESPN",
-"Prime Video",
-"NBA League Pass"
-]
-},
-"competition": {
-"ar": "دوري NBA",
-"de": "NBA",
-"en": "NBA",
-"es": "NBA",
-"fr": "NBA",
-"it": "NBA",
-"pt": "NBA",
-"tr": "NBA"
-},
-"competitionId": "nba",
-"home": "Thunder",
-"homeNames": {
-"ar": "أوكلاهوما سيتي ثاندر",
-"de": "Oklahoma City Thunder",
-"en": "Oklahoma City Thunder",
-"es": "Oklahoma City Thunder",
-"fr": "Oklahoma City Thunder",
-"it": "Oklahoma City Thunder",
-"pt": "Oklahoma City Thunder",
-"tr": "Oklahoma City Thunder"
-},
-"id": "basketball-20261121-thunder-pelicans",
-"kickoffUtc": "2026-11-21T01:00:00Z",
-"sources": [
-"espn"
-],
-"sport": "basketball",
-"tier": "global"
-},
-"slug": "oklahoma-city-thunder-new-orleans-pelicans-2026-11-21"
 },
 "fr:basketball-20261122-hawks-pistons": {
 "lang": "fr",
@@ -48069,6 +43468,10 @@
 "Play Sports 7",
 "Pickx+ Sports 5"
 ],
+"BH": [
+"beIN Sports MENA 5",
+"TOD TV"
+],
 "BR": [
 "HBO Max"
 ],
@@ -48145,6 +43548,10 @@
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"beIN Sports MENA 5",
+"TOD TV"
 ],
 "LY": [
 "beIN Sports"
@@ -48284,6 +43691,10 @@
 "Play Sports 5",
 "Pickx+ Sports 6"
 ],
+"BH": [
+"beIN Sports MENA 6",
+"TOD TV"
+],
 "BR": [
 "HBO Max"
 ],
@@ -48357,6 +43768,10 @@
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"beIN Sports MENA 6",
+"TOD TV"
 ],
 "LY": [
 "beIN Sports"
@@ -48498,6 +43913,10 @@
 "Pickx+ Sports 2",
 "Play Sports"
 ],
+"BH": [
+"beIN Sports MENA 3",
+"TOD TV"
+],
 "BR": [
 "TNT",
 "HBO Max"
@@ -48579,6 +43998,10 @@
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"beIN Sports MENA 3",
+"TOD TV"
 ],
 "LY": [
 "beIN Sports"
@@ -48727,6 +44150,10 @@
 "VTM GO",
 "VTM 2"
 ],
+"BH": [
+"beIN Sports MENA 3",
+"TOD TV"
+],
 "BR": [
 "Space",
 "HBO Max"
@@ -48808,6 +44235,10 @@
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"beIN Sports MENA 3",
+"TOD TV"
 ],
 "LY": [
 "beIN Sports"
@@ -48945,6 +44376,9 @@
 "BE": [
 "Pickx+ Sports 7"
 ],
+"BH": [
+"beIN Sports MENA 8"
+],
 "BR": [
 "HBO Max"
 ],
@@ -49020,6 +44454,9 @@
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"beIN Sports MENA 8"
 ],
 "LY": [
 "beIN Sports"
@@ -49158,6 +44595,10 @@
 "Play Sports",
 "Play Sports 4"
 ],
+"BH": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
 "BR": [
 "TNT",
 "SBT",
@@ -49242,6 +44683,10 @@
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "LY": [
 "beIN Sports"
@@ -49376,6 +44821,9 @@
 "Play Sports 6",
 "Pickx+ Sports 8"
 ],
+"BH": [
+"beIN Sports MENA 9"
+],
 "BR": [
 "HBO Max"
 ],
@@ -49447,6 +44895,9 @@
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"beIN Sports MENA 9"
 ],
 "LY": [
 "beIN Sports"
@@ -49700,11 +45151,17 @@
 "tr": "Derby County"
 },
 "broadcasts": {
+"AE": [
+"beIN Sports MAX 5"
+],
 "AR": [
 "Disney+ Premium"
 ],
 "AU": [
 "beIN Sports 3"
+],
+"BH": [
+"beIN Sports MAX 5"
 ],
 "BR": [
 "ESPN",
@@ -49719,8 +45176,14 @@
 "CO": [
 "Disney+ Premium"
 ],
+"DZ": [
+"beIN Sports MAX 5"
+],
 "EC": [
 "Disney+ Premium"
+],
+"EG": [
+"beIN Sports MAX 5"
 ],
 "FR": [
 "beIN Sports MAX 5 (FR)"
@@ -49735,8 +45198,20 @@
 "ESPN Africa",
 "DStv Now"
 ],
+"IQ": [
+"beIN Sports MAX 5"
+],
+"JO": [
+"beIN Sports MAX 5"
+],
 "JP": [
 "DAZN"
+],
+"KW": [
+"beIN Sports MAX 5"
+],
+"LY": [
+"beIN Sports MAX 5"
 ],
 "MA": [
 "beIN Sports XTRA"
@@ -49756,6 +45231,9 @@
 "V sport 1 NO",
 "Viaplay NO"
 ],
+"OM": [
+"beIN Sports MAX 5"
+],
 "PE": [
 "Disney+ Premium"
 ],
@@ -49764,6 +45242,15 @@
 ],
 "PY": [
 "Disney+ Premium"
+],
+"QA": [
+"beIN Sports MAX 5"
+],
+"SA": [
+"beIN Sports MAX 5"
+],
+"TN": [
+"beIN Sports MAX 5"
 ],
 "TR": [
 "S Sport",
