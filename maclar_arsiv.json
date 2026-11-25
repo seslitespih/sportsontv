@@ -6893,299 +6893,6 @@
 },
 "slug": "oklahoma-city-thunder-minnesota-timberwolves-2026-11-26"
 },
-"es:football-20261122-ac-milan-frosinone": {
-"lang": "es",
-"m": {
-"away": "Frosinone",
-"awayNames": {
-"ar": "فروزينوني",
-"de": "Frosinone",
-"en": "Frosinone",
-"es": "Frosinone",
-"fr": "Frosinone",
-"it": "Frosinone",
-"pt": "Frosinone",
-"tr": "Frosinone"
-},
-"broadcasts": {
-"AE": [
-"beIN Sports"
-],
-"AR": [
-"Disney+ Premium"
-],
-"AT": [
-"DAZN"
-],
-"AU": [
-"beIN Sports 2",
-"beIN CONNECT"
-],
-"BE": [
-"DAZN 1 (BE)",
-"DAZN (BE)"
-],
-"BR": [
-"Disney+ Premium"
-],
-"CA": [
-"DAZN Canada",
-"TLN"
-],
-"CH": [
-"DAZN",
-"SI Solocalcio"
-],
-"CI": [
-"Canal+"
-],
-"CL": [
-"Disney+ Premium"
-],
-"CO": [
-"Disney+ Premium"
-],
-"DE": [
-"DAZN Deutschland"
-],
-"DZ": [
-"beIN Sports"
-],
-"EC": [
-"Disney+ Premium"
-],
-"EG": [
-"beIN Sports"
-],
-"ES": [
-"DAZN"
-],
-"FR": [
-"DAZN 1 (FR)",
-"DAZN.com (FR)"
-],
-"GB": [
-"DAZN UK"
-],
-"GH": [
-"SuperSport Football"
-],
-"GT": [
-"ESPN",
-"Disney+"
-],
-"HR": [
-"MAX To Go",
-"Arena Sport 3"
-],
-"IQ": [
-"beIN Sports"
-],
-"IT": [
-"Sky Sport 4K (IT)",
-"DAZN Italia",
-"NOW TV (IT)"
-],
-"JO": [
-"beIN Sports"
-],
-"JP": [
-"DAZN"
-],
-"KR": [
-"SPOTV NOW"
-],
-"LY": [
-"beIN Sports"
-],
-"MA": [
-"STARZPLAY"
-],
-"ML": [
-"Canal+"
-],
-"MX": [
-"Disney+ Premium"
-],
-"NG": [
-"SuperSport Football"
-],
-"NL": [
-"Ziggo Sport",
-"Ziggo Sport Kanaal 14"
-],
-"NO": [
-"VG TV"
-],
-"OM": [
-"beIN Sports"
-],
-"PE": [
-"Disney+ Premium"
-],
-"PT": [
-"Sport TV 2"
-],
-"PY": [
-"Disney+ Premium"
-],
-"QA": [
-"beIN Sports"
-],
-"SA": [
-"beIN Sports"
-],
-"SN": [
-"Canal+"
-],
-"TN": [
-"beIN Sports"
-],
-"TR": [
-"S Sport",
-"S Sport 2",
-"S Sport Plus"
-],
-"US": [
-"Paramount+ (US)",
-"Universo",
-"Peacock (Español)"
-],
-"UY": [
-"Disney+ Premium"
-],
-"ZA": [
-"SuperSport Football"
-]
-},
-"competition": {
-"ar": "الدوري الإيطالي",
-"de": "Serie A",
-"en": "Serie A",
-"es": "Serie A",
-"fr": "Serie A",
-"it": "Serie A",
-"pt": "Serie A",
-"tr": "İtalya Serie A"
-},
-"competitionId": "seriea",
-"home": "AC Milan",
-"homeNames": {
-"ar": "ميلان",
-"de": "AC Mailand",
-"en": "AC Milan",
-"es": "AC Milan",
-"fr": "AC Milan",
-"it": "AC Milan",
-"pt": "AC Milan",
-"tr": "AC Milan"
-},
-"id": "football-20261122-ac-milan-frosinone",
-"kickoffUtc": "2026-11-22T17:00:00Z",
-"sources": [
-"fotmob"
-],
-"sport": "football",
-"tier": "global"
-},
-"slug": "ac-milan-frosinone-2026-11-22"
-},
-"es:football-20261122-arezzo-padova": {
-"lang": "es",
-"m": {
-"away": "Padova",
-"awayNames": {
-"ar": "بادوفا",
-"de": "Padova",
-"en": "Padova",
-"es": "Padova",
-"fr": "Padoue",
-"it": "Padova",
-"pt": "Padova",
-"tr": "Padova"
-},
-"broadcasts": {
-"AR": [
-"OneFootball PPV"
-],
-"AT": [
-"OneFootball PPV"
-],
-"AU": [
-"OneFootball PPV"
-],
-"BR": [
-"OneFootball PPV"
-],
-"CH": [
-"OneFootball PPV"
-],
-"CL": [
-"OneFootball PPV"
-],
-"CO": [
-"OneFootball PPV"
-],
-"DE": [
-"OneFootball Deutschland"
-],
-"EC": [
-"OneFootball PPV"
-],
-"ES": [
-"OneFootball PPV"
-],
-"JP": [
-"OneFootball PPV"
-],
-"MX": [
-"OneFootball PPV"
-],
-"PE": [
-"OneFootball PPV"
-],
-"PT": [
-"OneFootball PPV"
-],
-"PY": [
-"OneFootball PPV"
-],
-"UY": [
-"OneFootball PPV"
-]
-},
-"competition": {
-"ar": "الدوري الإيطالي الدرجة الثانية",
-"de": "Serie B (Italien)",
-"en": "Serie B",
-"es": "Serie B (Italia)",
-"fr": "Serie B (Italie)",
-"it": "Serie B",
-"pt": "Serie B (Itália)",
-"tr": "İtalya Serie B"
-},
-"competitionId": "seriebit",
-"home": "Arezzo",
-"homeNames": {
-"ar": "Arezzo",
-"de": "Arezzo",
-"en": "Arezzo",
-"es": "Arezzo",
-"fr": "Arezzo",
-"it": "Arezzo",
-"pt": "Arezzo",
-"tr": "Arezzo"
-},
-"id": "football-20261122-arezzo-padova",
-"kickoffUtc": "2026-11-22T16:15:00Z",
-"sources": [
-"fotmob"
-],
-"sport": "football",
-"tier": "regional"
-},
-"slug": "arezzo-padova-2026-11-22"
-},
 "es:football-20261122-atalanta-inter": {
 "lang": "es",
 "m": {
@@ -7499,530 +7206,6 @@
 },
 "slug": "athletico-paranaense-remo-2026-11-22"
 },
-"es:football-20261122-augsburg-mainz": {
-"lang": "es",
-"m": {
-"away": "Mainz",
-"awayNames": {
-"ar": "ماينز",
-"de": "1. FSV Mainz 05",
-"en": "Mainz 05",
-"es": "Maguncia",
-"fr": "Mayence",
-"it": "Magonza",
-"pt": "Mainz",
-"tr": "Mainz"
-},
-"broadcasts": {
-"AE": [
-"MBC Shahid",
-"beIN Sports MAX 4"
-],
-"AR": [
-"Disney+ Premium"
-],
-"AT": [
-"DAZN"
-],
-"AU": [
-"beIN CONNECT"
-],
-"BH": [
-"MBC Shahid",
-"beIN Sports MAX 4"
-],
-"BR": [
-"Canal GOAT",
-"OneFootball",
-"OneFootball PPV"
-],
-"CA": [
-"DAZN Canada",
-"OneSoccer"
-],
-"CH": [
-"DAZN",
-"beIN Sports CH"
-],
-"CL": [
-"ESPN Premium",
-"Disney+ Premium"
-],
-"CO": [
-"ESPN 5",
-"Disney+ Premium"
-],
-"DE": [
-"DAZN Deutschland"
-],
-"DZ": [
-"MBC Shahid",
-"beIN Sports MAX 4"
-],
-"EC": [
-"ESPN 5",
-"Disney+ Premium"
-],
-"EG": [
-"MBC Shahid",
-"beIN Sports MAX 4"
-],
-"ES": [
-"DAZN"
-],
-"FR": [
-"beIN Sports MAX 4 (FR)"
-],
-"GB": [
-"Prime Video PPV (UK)"
-],
-"IQ": [
-"MBC Shahid",
-"beIN Sports MAX 4"
-],
-"JO": [
-"MBC Shahid",
-"beIN Sports MAX 4"
-],
-"JP": [
-"DAZN",
-"ABEMA無料"
-],
-"KR": [
-"Coupang Play"
-],
-"KW": [
-"MBC Shahid",
-"beIN Sports MAX 4"
-],
-"LY": [
-"MBC Shahid",
-"beIN Sports MAX 4"
-],
-"MA": [
-"beIN CONNECT",
-"TOD",
-"Shahid"
-],
-"MX": [
-"FOX One"
-],
-"NL": [
-"Viaplay NL"
-],
-"NO": [
-"Viaplay NO",
-"V sport 1 NO",
-"TV 2 Play (NO)"
-],
-"NZ": [
-"beIN Sports Connect New Zealand"
-],
-"OM": [
-"MBC Shahid",
-"beIN Sports MAX 4"
-],
-"PE": [
-"ESPN 5",
-"Disney+ Premium"
-],
-"PY": [
-"ESPN 5",
-"Disney+ Premium"
-],
-"QA": [
-"MBC Shahid",
-"beIN Sports MAX 4"
-],
-"SA": [
-"MBC Shahid",
-"beIN Sports MAX 4"
-],
-"TN": [
-"MBC Shahid",
-"beIN Sports MAX 4"
-],
-"TR": [
-"S Sport",
-"S Sport Plus"
-],
-"US": [
-"Fandango",
-"Universo",
-"Peacock (Español)"
-],
-"UY": [
-"ESPN 5",
-"Disney+ Premium"
-]
-},
-"competition": {
-"ar": "الدوري الألماني",
-"de": "Bundesliga",
-"en": "Bundesliga",
-"es": "Bundesliga",
-"fr": "Bundesliga",
-"it": "Bundesliga",
-"pt": "Bundesliga",
-"tr": "Almanya Bundesliga"
-},
-"competitionId": "bundesliga",
-"home": "Augsburg",
-"homeNames": {
-"ar": "أوغسبورغ",
-"de": "FC Augsburg",
-"en": "Augsburg",
-"es": "Augsburgo",
-"fr": "Augsbourg",
-"it": "Augusta",
-"pt": "Augsburg",
-"tr": "Augsburg"
-},
-"id": "football-20261122-augsburg-mainz",
-"kickoffUtc": "2026-11-22T14:30:00Z",
-"sources": [
-"fotmob"
-],
-"sport": "football",
-"tier": "global"
-},
-"slug": "augsburgo-maguncia-2026-11-22"
-},
-"es:football-20261122-avellino-mantova": {
-"lang": "es",
-"m": {
-"away": "Mantova",
-"awayNames": {
-"ar": "مانتوفا",
-"de": "Mantova",
-"en": "Mantova",
-"es": "Mantova",
-"fr": "Mantoue",
-"it": "Mantova",
-"pt": "Mantova",
-"tr": "Mantova"
-},
-"broadcasts": {
-"AR": [
-"OneFootball PPV"
-],
-"AT": [
-"OneFootball PPV"
-],
-"AU": [
-"OneFootball PPV"
-],
-"BR": [
-"OneFootball PPV"
-],
-"CH": [
-"OneFootball PPV"
-],
-"CL": [
-"OneFootball PPV"
-],
-"CO": [
-"OneFootball PPV"
-],
-"DE": [
-"OneFootball Deutschland"
-],
-"EC": [
-"OneFootball PPV"
-],
-"ES": [
-"OneFootball PPV"
-],
-"JP": [
-"OneFootball PPV"
-],
-"MX": [
-"OneFootball PPV"
-],
-"PE": [
-"OneFootball PPV"
-],
-"PT": [
-"OneFootball PPV"
-],
-"PY": [
-"OneFootball PPV"
-],
-"UY": [
-"OneFootball PPV"
-]
-},
-"competition": {
-"ar": "الدوري الإيطالي الدرجة الثانية",
-"de": "Serie B (Italien)",
-"en": "Serie B",
-"es": "Serie B (Italia)",
-"fr": "Serie B (Italie)",
-"it": "Serie B",
-"pt": "Serie B (Itália)",
-"tr": "İtalya Serie B"
-},
-"competitionId": "seriebit",
-"home": "Avellino",
-"homeNames": {
-"ar": "أفيلينو",
-"de": "Avellino",
-"en": "Avellino",
-"es": "Avellino",
-"fr": "Avellino",
-"it": "Avellino",
-"pt": "Avellino",
-"tr": "Avellino"
-},
-"id": "football-20261122-avellino-mantova",
-"kickoffUtc": "2026-11-22T14:00:00Z",
-"sources": [
-"fotmob"
-],
-"sport": "football",
-"tier": "regional"
-},
-"slug": "avellino-mantova-2026-11-22"
-},
-"es:football-20261122-barcelona-villarreal": {
-"lang": "es",
-"m": {
-"away": "Villarreal",
-"awayNames": {
-"ar": "فياريال",
-"de": "FC Villarreal",
-"en": "Villarreal CF",
-"es": "Villarreal CF",
-"fr": "Villarreal CF",
-"it": "Villarreal",
-"pt": "Villarreal CF",
-"tr": "Villarreal"
-},
-"broadcasts": {
-"AE": [
-"beIN Sports"
-],
-"AR": [
-"DSports",
-"DGO",
-"Amazon Prime Video",
-"Paramount+"
-],
-"AT": [
-"DAZN"
-],
-"AU": [
-"beIN Sports 1",
-"beIN CONNECT"
-],
-"BE": [
-"DAZN 1 (BE)",
-"DAZN (BE)"
-],
-"BH": [
-"beIN Sports MENA 1",
-"TOD TV"
-],
-"BR": [
-"CazéTV YouTube",
-"CazeTV"
-],
-"CA": [
-"TSN4",
-"TSN+"
-],
-"CH": [
-"DAZN"
-],
-"CI": [
-"Canal+"
-],
-"CL": [
-"DAZN",
-"DSports",
-"DGO",
-"Paramount+"
-],
-"CO": [
-"DAZN",
-"DSports",
-"Win Play",
-"DGO"
-],
-"CZ": [
-"Nova Sport 4"
-],
-"DE": [
-"DAZN Deutschland"
-],
-"DZ": [
-"beIN Sports"
-],
-"EC": [
-"DAZN",
-"DSports",
-"DGO",
-"Paramount+"
-],
-"EG": [
-"beIN Sports"
-],
-"ES": [
-"DAZN",
-"DAZN LaLiga",
-"LaLiga TV Bar"
-],
-"FR": [
-"DAZN 1 (FR)",
-"DAZN.com (FR)",
-"Disney+ (FR)"
-],
-"GB": [
-"Premier Sports 1 UK",
-"Premier Sports Player",
-"LaLigaTV"
-],
-"GH": [
-"SuperSport GOtv LaLiga",
-"SuperSport Laliga ROA",
-"DStv Now",
-"StarTimes Ghana"
-],
-"HR": [
-"Sportklub 1 Croatia",
-"SportKlub",
-"Arena Sport"
-],
-"IQ": [
-"beIN Sports"
-],
-"IT": [
-"DAZN Italia"
-],
-"JO": [
-"beIN Sports"
-],
-"JP": [
-"DAZN",
-"U-NEXT"
-],
-"KR": [
-"Coupang Play"
-],
-"KW": [
-"beIN Sports MENA 1",
-"TOD TV"
-],
-"LY": [
-"beIN Sports"
-],
-"MA": [
-"beIN Sports 1",
-"beIN CONNECT",
-"TOD",
-"beIN Sports English"
-],
-"ML": [
-"Canal+"
-],
-"MX": [
-"SKY Sports"
-],
-"NG": [
-"SuperSport GOtv LaLiga",
-"SuperSport Laliga Nigeria",
-"StarTimes App"
-],
-"NL": [
-"Ziggo Sport 2"
-],
-"NO": [
-"TV 2 Sport Premium",
-"TV 2 Play (NO)",
-"Viaplay NO"
-],
-"NZ": [
-"beIN Sports Connect New Zealand"
-],
-"OM": [
-"beIN Sports"
-],
-"PE": [
-"DAZN",
-"DSports",
-"DGO",
-"Paramount+"
-],
-"PT": [
-"DAZN 1"
-],
-"QA": [
-"beIN Sports"
-],
-"SA": [
-"beIN Sports"
-],
-"SN": [
-"Canal+"
-],
-"TN": [
-"beIN Sports"
-],
-"TR": [
-"S Sport",
-"S Sport Plus"
-],
-"US": [
-"ESPN Select",
-"ESPN Unlimited",
-"ESPN Deportes",
-"Fubo Sports"
-],
-"UY": [
-"DAZN",
-"DSports",
-"DGO",
-"Paramount+"
-],
-"ZA": [
-"StarTimes App",
-"OneFootball",
-"SuperSport GOtv LaLiga",
-"SuperSport Laliga"
-]
-},
-"competition": {
-"ar": "الدوري الإسباني",
-"de": "LaLiga",
-"en": "LaLiga",
-"es": "LaLiga",
-"fr": "LaLiga",
-"it": "LaLiga",
-"pt": "LaLiga",
-"tr": "İspanya LaLiga"
-},
-"competitionId": "laliga",
-"home": "Barcelona",
-"homeNames": {
-"ar": "برشلونة",
-"de": "FC Barcelona",
-"en": "Barcelona",
-"es": "FC Barcelona",
-"fr": "FC Barcelone",
-"it": "Barcellona",
-"pt": "Barcelona",
-"tr": "Barcelona"
-},
-"id": "football-20261122-barcelona-villarreal",
-"kickoffUtc": "2026-11-22T13:00:00Z",
-"sources": [
-"fotmob"
-],
-"sport": "football",
-"tier": "global"
-},
-"slug": "fc-barcelona-villarreal-cf-2026-11-22"
-},
 "es:football-20261122-burgos-cf-albacete": {
 "lang": "es",
 "m": {
@@ -8262,236 +7445,6 @@
 "tier": "regional"
 },
 "slug": "chivas-cruz-azul-2026-11-23"
-},
-"es:football-20261122-cordoba-real-oviedo": {
-"lang": "es",
-"m": {
-"away": "Real Oviedo",
-"awayNames": {
-"ar": "ريال أوفييدو",
-"de": "Real Oviedo",
-"en": "Real Oviedo",
-"es": "Real Oviedo",
-"fr": "Real Oviedo",
-"it": "Real Oviedo",
-"pt": "Real Oviedo",
-"tr": "Real Oviedo"
-},
-"broadcasts": {
-"ES": [
-"DAZN",
-"LaLiga TV M2",
-"LALIGA TV Hypermotion"
-],
-"MX": [
-"SKY Sports"
-]
-},
-"competition": {
-"ar": "دوري الدرجة الثانية الإسباني",
-"de": "LaLiga Hypermotion",
-"en": "LaLiga Hypermotion",
-"es": "LaLiga Hypermotion",
-"fr": "LaLiga Hypermotion",
-"it": "LaLiga Hypermotion",
-"pt": "LaLiga Hypermotion",
-"tr": "LaLiga Hypermotion"
-},
-"competitionId": "laliga2",
-"home": "Cordoba",
-"homeNames": {
-"ar": "قرطبة",
-"de": "Córdoba",
-"en": "Córdoba",
-"es": "Córdoba",
-"fr": "Córdoba",
-"it": "Córdoba",
-"pt": "Córdoba",
-"tr": "Córdoba"
-},
-"id": "football-20261122-cordoba-real-oviedo",
-"kickoffUtc": "2026-11-22T13:00:00Z",
-"sources": [
-"fotmob"
-],
-"sport": "football",
-"tier": "regional"
-},
-"slug": "cordoba-real-oviedo-2026-11-22"
-},
-"es:football-20261122-energie-cottbus-hertha-bsc": {
-"lang": "es",
-"m": {
-"away": "Hertha BSC",
-"awayNames": {
-"ar": "Hertha BSC",
-"de": "Hertha BSC",
-"en": "Hertha BSC",
-"es": "Hertha BSC",
-"fr": "Hertha BSC",
-"it": "Hertha BSC",
-"pt": "Hertha BSC",
-"tr": "Hertha BSC"
-},
-"broadcasts": {
-"AE": [
-"MBC Shahid",
-"beIN Sports MAX 5"
-],
-"AR": [
-"FOX Sports",
-"Disney+ Premium"
-],
-"AT": [
-"Sky Sport Bundesliga 1",
-"Sky Sport Bundesliga 4",
-"Sky Sport Bundesliga",
-"Sky Sport Top Event"
-],
-"BH": [
-"MBC Shahid",
-"beIN Sports MAX 5"
-],
-"BR": [
-"OneFootball",
-"OneFootball PPV"
-],
-"CA": [
-"DAZN Canada"
-],
-"CH": [
-"Sky Sport Bundesliga 2",
-"Sky Sport Bundesliga 4",
-"OneFootball PPV"
-],
-"CL": [
-"Disney+ Premium"
-],
-"CO": [
-"Disney+ Premium"
-],
-"CZ": [
-"Nova Sport 3"
-],
-"DE": [
-"Sky Bundesliga 2",
-"WOW",
-"OneFootball Deutschland"
-],
-"DZ": [
-"MBC Shahid",
-"beIN Sports MAX 5"
-],
-"EC": [
-"Disney+ Premium"
-],
-"EG": [
-"MBC Shahid",
-"beIN Sports MAX 5"
-],
-"ES": [
-"DAZN"
-],
-"FR": [
-"beIN Sports MAX 5 (FR)"
-],
-"GB": [
-"Bundesliga App"
-],
-"IQ": [
-"MBC Shahid",
-"beIN Sports MAX 5"
-],
-"JO": [
-"MBC Shahid",
-"beIN Sports MAX 5"
-],
-"KW": [
-"MBC Shahid",
-"beIN Sports MAX 5"
-],
-"LY": [
-"MBC Shahid",
-"beIN Sports MAX 5"
-],
-"MA": [
-"MBC Shahid",
-"beIN Sports MAX 5"
-],
-"MX": [
-"Bundesliga YouTube"
-],
-"NL": [
-"Viaplay NL"
-],
-"NO": [
-"Viaplay NO",
-"TV 2 Play (NO)"
-],
-"NZ": [
-"beIN Sports Connect New Zealand"
-],
-"OM": [
-"MBC Shahid",
-"beIN Sports MAX 5"
-],
-"PE": [
-"Disney+ Premium"
-],
-"PY": [
-"Disney+ Premium"
-],
-"QA": [
-"MBC Shahid",
-"beIN Sports MAX 5"
-],
-"SA": [
-"MBC Shahid",
-"beIN Sports MAX 5"
-],
-"TN": [
-"MBC Shahid",
-"beIN Sports MAX 5"
-],
-"TR": [
-"S Sport",
-"S Sport Plus"
-],
-"UY": [
-"Disney+ Premium"
-]
-},
-"competition": {
-"ar": "الدوري الألماني الدرجة الثانية",
-"de": "2. Bundesliga",
-"en": "2. Bundesliga",
-"es": "2. Bundesliga",
-"fr": "2. Bundesliga",
-"it": "2. Bundesliga",
-"pt": "2. Bundesliga",
-"tr": "Almanya 2. Bundesliga"
-},
-"competitionId": "bundesliga2",
-"home": "Energie Cottbus",
-"homeNames": {
-"ar": "إنيرجي كوتبوس",
-"de": "Energie Cottbus",
-"en": "Energie Cottbus",
-"es": "Energie Cottbus",
-"fr": "Energie Cottbus",
-"it": "Energie Cottbus",
-"pt": "Energie Cottbus",
-"tr": "Energie Cottbus"
-},
-"id": "football-20261122-energie-cottbus-hertha-bsc",
-"kickoffUtc": "2026-11-22T12:30:00Z",
-"sources": [
-"fotmob"
-],
-"sport": "football",
-"tier": "regional"
-},
-"slug": "energie-cottbus-hertha-bsc-2026-11-22"
 },
 "es:football-20261122-fluminense-mirassol": {
 "lang": "es",
@@ -8897,247 +7850,6 @@
 },
 "slug": "girona-eibar-2026-11-22"
 },
-"es:football-20261122-hull-city-brighton": {
-"lang": "es",
-"m": {
-"away": "Brighton",
-"awayNames": {
-"ar": "برايتون",
-"de": "Brighton",
-"en": "Brighton & Hove Albion",
-"es": "Brighton",
-"fr": "Brighton",
-"it": "Brighton",
-"pt": "Brighton",
-"tr": "Brighton"
-},
-"broadcasts": {
-"AE": [
-"beIN Sports"
-],
-"AR": [
-"ESPN 2",
-"Disney+ Premium"
-],
-"AT": [
-"Sky Sport UHD",
-"Sky Sport Austria 5",
-"Sky Sports Premier League",
-"Sky Sport Top Event"
-],
-"AU": [
-"Stan Sport"
-],
-"BE": [
-"Play Sports 1",
-"Play Sports"
-],
-"BH": [
-"beIN Sports MENA 5",
-"TOD TV"
-],
-"BR": [
-"ESPN",
-"Disney+ Premium"
-],
-"CA": [
-"DAZN Canada",
-"Fubo Sports CA"
-],
-"CH": [
-"CANAL+ Foot",
-"CANAL+ Premier League"
-],
-"CI": [
-"Canal+"
-],
-"CL": [
-"ESPN",
-"Disney+ Premium"
-],
-"CO": [
-"ESPN",
-"Disney+ Premium"
-],
-"CZ": [
-"CANAL+ Sport"
-],
-"DE": [
-"Sky Ultra HD",
-"Sky Sport Premier League",
-"WOW"
-],
-"DZ": [
-"beIN Sports"
-],
-"EC": [
-"ESPN",
-"Disney+ Premium"
-],
-"EG": [
-"beIN Sports"
-],
-"ES": [
-"DAZN",
-"DAZN 1",
-"DAZN 1 Bar"
-],
-"FR": [
-"Canal+ Foot",
-"myCANAL"
-],
-"GB": [
-"Sky Sports+ app",
-"Sky Sports Premier League",
-"Sky Sports Main Event",
-"Sky Sports UHD 1"
-],
-"GH": [
-"Canal+ Afrique",
-"SuperSport Premier League ROA",
-"DStv Now",
-"SuperSport"
-],
-"GT": [
-"FOX Sports",
-"TNT Sports"
-],
-"HR": [
-"Arena Sport 1",
-"MAX To Go",
-"Arena Sport"
-],
-"IQ": [
-"beIN Sports"
-],
-"IT": [
-"Sky Sport Arena (IT)",
-"Sky Sport 4K (IT)",
-"NOW TV (IT)"
-],
-"JO": [
-"beIN Sports"
-],
-"JP": [
-"U-NEXT"
-],
-"KR": [
-"Coupang Play"
-],
-"KW": [
-"beIN Sports MENA 5",
-"TOD TV"
-],
-"LY": [
-"beIN Sports"
-],
-"MA": [
-"beIN Sports 5",
-"beIN CONNECT",
-"TOD"
-],
-"ML": [
-"Canal+"
-],
-"MX": [
-"FOX",
-"FOX One"
-],
-"NG": [
-"Canal+ Afrique",
-"DStv Now",
-"SuperSport Premier League Nigeria"
-],
-"NL": [
-"Viaplay NL",
-"ViaplayTV NL"
-],
-"NO": [
-"V sport Premier League 1 NO",
-"Viaplay NO"
-],
-"NZ": [
-"Sky Sports Premier League"
-],
-"OM": [
-"beIN Sports"
-],
-"PE": [
-"ESPN",
-"Disney+ Premium"
-],
-"PT": [
-"DAZN 2",
-"DAZN"
-],
-"PY": [
-"ESPN",
-"Disney+ Premium"
-],
-"QA": [
-"beIN Sports"
-],
-"SA": [
-"beIN Sports"
-],
-"SN": [
-"Canal+"
-],
-"TN": [
-"beIN Sports"
-],
-"TR": [
-"beIN Sports 3",
-"Digiturk Play",
-"beIN CONNECT",
-"TOD"
-],
-"US": [
-"Telemundo",
-"USA Network"
-],
-"UY": [
-"ESPN",
-"Disney+ Premium"
-],
-"ZA": [
-"DStv Now",
-"SuperSport Premier League Nigeria",
-"SuperSport Premier League"
-]
-},
-"competition": {
-"ar": "الدوري الإنجليزي الممتاز",
-"de": "Premier League",
-"en": "Premier League",
-"es": "Premier League",
-"fr": "Premier League",
-"it": "Premier League",
-"pt": "Premier League",
-"tr": "İngiltere Premier Lig"
-},
-"competitionId": "premier",
-"home": "Hull City",
-"homeNames": {
-"ar": "هال سيتي",
-"de": "Hull City",
-"en": "Hull City",
-"es": "Hull City",
-"fr": "Hull City",
-"it": "Hull City",
-"pt": "Hull City",
-"tr": "Hull City"
-},
-"id": "football-20261122-hull-city-brighton",
-"kickoffUtc": "2026-11-22T14:00:00Z",
-"sources": [
-"fotmob"
-],
-"sport": "football",
-"tier": "global"
-},
-"slug": "hull-city-brighton-2026-11-22"
-},
 "es:football-20261122-ldu-de-quito-aucas": {
 "lang": "es",
 "m": {
@@ -9203,502 +7915,6 @@
 "tier": "regional"
 },
 "slug": "ldu-de-quito-aucas-2026-11-22"
-},
-"es:football-20261122-liverpool-man-utd": {
-"lang": "es",
-"m": {
-"away": "Man Utd",
-"awayNames": {
-"ar": "مانشستر يونايتد",
-"de": "Manchester United",
-"en": "Manchester United",
-"es": "Manchester United",
-"fr": "Manchester United",
-"it": "Manchester United",
-"pt": "Manchester United",
-"tr": "Manchester United"
-},
-"broadcasts": {
-"AE": [
-"beIN Sports"
-],
-"AR": [
-"ESPN",
-"Disney+ Premium"
-],
-"AT": [
-"Sky Sport UHD",
-"Sky Sport Austria 5",
-"Sky Sports Premier League",
-"Sky Sport Top Event"
-],
-"AU": [
-"Stan Sport"
-],
-"BE": [
-"Play Sports 1",
-"Play Sports"
-],
-"BH": [
-"beIN Sports MENA 1",
-"TOD TV"
-],
-"BR": [
-"ESPN",
-"Disney+ Premium"
-],
-"CA": [
-"DAZN Canada",
-"Fubo Sports CA"
-],
-"CH": [
-"CANAL+ Foot",
-"CANAL+ Premier League"
-],
-"CI": [
-"Canal+"
-],
-"CL": [
-"ESPN",
-"Disney+ Premium"
-],
-"CO": [
-"ESPN",
-"Disney+ Premium"
-],
-"CZ": [
-"CANAL+ Sport"
-],
-"DE": [
-"Sky Top Event",
-"Sky Ultra HD",
-"Sky Sport Premier League",
-"WOW"
-],
-"DZ": [
-"beIN Sports"
-],
-"EC": [
-"ESPN",
-"Disney+ Premium"
-],
-"EG": [
-"beIN Sports"
-],
-"ES": [
-"DAZN",
-"DAZN 1",
-"DAZN 1 Bar",
-"M+ Liga de Campeones"
-],
-"FR": [
-"Canal+",
-"Canal+ Foot",
-"myCANAL"
-],
-"GB": [
-"Sky Sports+ app",
-"Sky Sports Main Event",
-"Sky Sports Premier League",
-"Sky Sports UHD 1"
-],
-"GH": [
-"Canal+ Afrique",
-"SuperSport Premier League ROA",
-"SuperSport MaXimo 1",
-"Supersport Grandstand ROA"
-],
-"GT": [
-"FOX Sports",
-"TNT Sports"
-],
-"HR": [
-"Arena Sport 1",
-"MAX To Go",
-"Arena Sport"
-],
-"IQ": [
-"beIN Sports"
-],
-"IT": [
-"Sky Sport Arena (IT)",
-"NOW TV (IT)"
-],
-"JO": [
-"beIN Sports"
-],
-"JP": [
-"U-NEXT"
-],
-"KR": [
-"Coupang Play"
-],
-"KW": [
-"beIN Sports MENA 1",
-"TOD TV"
-],
-"LY": [
-"beIN Sports"
-],
-"MA": [
-"beIN Sports 1",
-"beIN CONNECT",
-"TOD",
-"beIN Sports English"
-],
-"ML": [
-"Canal+"
-],
-"MX": [
-"FOX One"
-],
-"NG": [
-"Canal+ Afrique",
-"SuperSport MaXimo 1",
-"Supersport Grandstand ROA",
-"DStv Now"
-],
-"NL": [
-"Viaplay NL"
-],
-"NO": [
-"Viaplay NO",
-"V sport Premier League NO"
-],
-"NZ": [
-"Sky Sports Premier League"
-],
-"OM": [
-"beIN Sports"
-],
-"PE": [
-"ESPN",
-"Disney+ Premium"
-],
-"PT": [
-"DAZN 1",
-"DAZN"
-],
-"PY": [
-"ESPN",
-"Disney+ Premium"
-],
-"QA": [
-"beIN Sports"
-],
-"SA": [
-"beIN Sports"
-],
-"SN": [
-"Canal+"
-],
-"TN": [
-"beIN Sports"
-],
-"TR": [
-"beIN Sports 3",
-"Digiturk Play",
-"beIN CONNECT",
-"TOD"
-],
-"US": [
-"USA Network",
-"Telemundo",
-"USA Network 4K"
-],
-"UY": [
-"ESPN",
-"Disney+ Premium"
-],
-"ZA": [
-"SuperSport MaXimo 1",
-"DStv Now",
-"SuperSport Premier League Nigeria",
-"Supersport Grandstand"
-]
-},
-"competition": {
-"ar": "الدوري الإنجليزي الممتاز",
-"de": "Premier League",
-"en": "Premier League",
-"es": "Premier League",
-"fr": "Premier League",
-"it": "Premier League",
-"pt": "Premier League",
-"tr": "İngiltere Premier Lig"
-},
-"competitionId": "premier",
-"home": "Liverpool",
-"homeNames": {
-"ar": "ليفربول",
-"de": "Liverpool",
-"en": "Liverpool",
-"es": "Liverpool",
-"fr": "Liverpool",
-"it": "Liverpool",
-"pt": "Liverpool",
-"tr": "Liverpool"
-},
-"id": "football-20261122-liverpool-man-utd",
-"kickoffUtc": "2026-11-22T16:30:00Z",
-"sources": [
-"fotmob"
-],
-"sport": "football",
-"tier": "global"
-},
-"slug": "liverpool-manchester-united-2026-11-22"
-},
-"es:football-20261122-lorient-rennes": {
-"lang": "es",
-"m": {
-"away": "Rennes",
-"awayNames": {
-"ar": "رين",
-"de": "Stade Rennes",
-"en": "Stade Rennais",
-"es": "Rennes",
-"fr": "Rennes",
-"it": "Rennes",
-"pt": "Rennes",
-"tr": "Rennes"
-},
-"broadcasts": {
-"AE": [
-"beIN Sports"
-],
-"AR": [
-"Disney+ Premium"
-],
-"AT": [
-"DAZN"
-],
-"BE": [
-"DAZN (BE)"
-],
-"BH": [
-"beIN Sports MENA 4",
-"TOD TV"
-],
-"BR": [
-"CazéTV YouTube",
-"CazeTV"
-],
-"CA": [
-"beIN Sport Canada",
-"beIN Sport Canada Espanol"
-],
-"CH": [
-"DAZN"
-],
-"CI": [
-"Canal+"
-],
-"CL": [
-"Disney+ Premium"
-],
-"CO": [
-"Disney+ Premium"
-],
-"DE": [
-"DAZN Deutschland"
-],
-"DZ": [
-"beIN Sports"
-],
-"EC": [
-"Disney+ Premium"
-],
-"EG": [
-"beIN Sports"
-],
-"ES": [
-"DAZN"
-],
-"FR": [
-"DAZN.com (FR)",
-"Ligue 1+"
-],
-"GB": [
-"Ligue 1+ (UK/ROI)"
-],
-"HR": [
-"Arena Sport 4",
-"MAX To Go"
-],
-"IQ": [
-"beIN Sports"
-],
-"JO": [
-"beIN Sports"
-],
-"JP": [
-"DAZN"
-],
-"KR": [
-"Coupang Play"
-],
-"KW": [
-"beIN Sports MENA 4",
-"TOD TV"
-],
-"LY": [
-"beIN Sports"
-],
-"MA": [
-"beIN Sports 4",
-"beIN CONNECT",
-"TOD"
-],
-"ML": [
-"Canal+"
-],
-"MX": [
-"FOX One"
-],
-"NL": [
-"Viaplay NL"
-],
-"NO": [
-"Viaplay NO",
-"TV 2 Play (NO)"
-],
-"OM": [
-"beIN Sports"
-],
-"PE": [
-"Disney+ Premium"
-],
-"PT": [
-"Sport TV 3",
-"Fanatiz"
-],
-"PY": [
-"Disney+ Premium"
-],
-"QA": [
-"beIN Sports"
-],
-"SA": [
-"beIN Sports"
-],
-"SN": [
-"Canal+"
-],
-"TN": [
-"beIN Sports"
-],
-"TR": [
-"beIN Sports 4",
-"beIN CONNECT"
-],
-"US": [
-"beIN Sports 5",
-"beIN Sports (US)",
-"beIN Sports en Español (US)",
-"beIN Sports CONNECT (US)"
-],
-"UY": [
-"Disney+ Premium"
-]
-},
-"competition": {
-"ar": "الدوري الفرنسي",
-"de": "Ligue 1",
-"en": "Ligue 1",
-"es": "Ligue 1",
-"fr": "Ligue 1",
-"it": "Ligue 1",
-"pt": "Ligue 1",
-"tr": "Fransa Ligue 1"
-},
-"competitionId": "ligue1",
-"home": "Lorient",
-"homeNames": {
-"ar": "لوريان",
-"de": "FC Lorient",
-"en": "Lorient",
-"es": "Lorient",
-"fr": "FC Lorient",
-"it": "Lorient",
-"pt": "Lorient",
-"tr": "Lorient"
-},
-"id": "football-20261122-lorient-rennes",
-"kickoffUtc": "2026-11-22T16:15:00Z",
-"sources": [
-"fotmob"
-],
-"sport": "football",
-"tier": "global"
-},
-"slug": "lorient-rennes-2026-11-22"
-},
-"es:football-20261122-manta-delfin": {
-"lang": "es",
-"m": {
-"away": "Delfin",
-"awayNames": {
-"ar": "Delfín",
-"de": "Delfín",
-"en": "Delfín",
-"es": "Delfín",
-"fr": "Delfín",
-"it": "Delfín",
-"pt": "Delfín",
-"tr": "Delfín"
-},
-"broadcasts": {
-"AR": [
-"Zapping Internacional"
-],
-"CO": [
-"Zapping Internacional"
-],
-"EC": [
-"Zapping Sports + Plus"
-],
-"ES": [
-"Zapping Internacional"
-],
-"PE": [
-"Zapping Internacional"
-],
-"UY": [
-"Zapping Internacional"
-]
-},
-"competition": {
-"ar": "الدوري الإكوادوري",
-"de": "LigaPro Serie A",
-"en": "LigaPro Serie A",
-"es": "LigaPro Serie A",
-"fr": "LigaPro Serie A",
-"it": "LigaPro Serie A",
-"pt": "LigaPro Série A",
-"tr": "Ekvador Ligi"
-},
-"competitionId": "liga_pro_ec",
-"home": "Manta",
-"homeNames": {
-"ar": "مانتا",
-"de": "Manta FC",
-"en": "Manta FC",
-"es": "Manta FC",
-"fr": "Manta FC",
-"it": "Manta FC",
-"pt": "Manta FC",
-"tr": "Manta FC"
-},
-"id": "football-20261122-manta-delfin",
-"kickoffUtc": "2026-11-22T16:30:00Z",
-"sources": [
-"fotmob"
-],
-"sport": "football",
-"tier": "regional"
-},
-"slug": "manta-fc-delfin-2026-11-22"
 },
 "es:football-20261122-marseille-le-mans": {
 "lang": "es",
@@ -10203,428 +8419,6 @@
 },
 "slug": "osasuna-malaga-2026-11-22"
 },
-"es:football-20261122-paris-fc-angers": {
-"lang": "es",
-"m": {
-"away": "Angers",
-"awayNames": {
-"ar": "أنجيه",
-"de": "SCO Angers",
-"en": "Angers",
-"es": "Angers",
-"fr": "Angers SCO",
-"it": "Angers",
-"pt": "Angers",
-"tr": "Angers"
-},
-"broadcasts": {
-"AE": [
-"beIN Sports"
-],
-"AR": [
-"Disney+ Premium"
-],
-"AT": [
-"DAZN"
-],
-"BE": [
-"DAZN (BE)"
-],
-"BH": [
-"beIN Sports MENA 4",
-"TOD TV"
-],
-"BR": [
-"CazéTV YouTube",
-"CazeTV",
-"Xsports"
-],
-"CA": [
-"beIN Sport Canada Espanol",
-"beIN Sport Canada"
-],
-"CH": [
-"DAZN"
-],
-"CI": [
-"Canal+"
-],
-"CL": [
-"Disney+ Premium"
-],
-"CO": [
-"Disney+ Premium"
-],
-"DE": [
-"DAZN Deutschland"
-],
-"DZ": [
-"beIN Sports"
-],
-"EC": [
-"Disney+ Premium"
-],
-"EG": [
-"beIN Sports"
-],
-"ES": [
-"DAZN"
-],
-"FR": [
-"DAZN.com (FR)",
-"Ligue 1+"
-],
-"GB": [
-"Ligue 1+ (UK/ROI)"
-],
-"GH": [
-"SuperSport MaXimo 1",
-"DStv Now",
-"SuperSport 1 Africa"
-],
-"HR": [
-"MAX To Go",
-"Arena Sport 3"
-],
-"IQ": [
-"beIN Sports"
-],
-"JO": [
-"beIN Sports"
-],
-"JP": [
-"DAZN"
-],
-"KR": [
-"Coupang Play"
-],
-"KW": [
-"beIN Sports MENA 4",
-"TOD TV"
-],
-"LY": [
-"beIN Sports"
-],
-"MA": [
-"beIN Sports 4",
-"beIN CONNECT",
-"TOD"
-],
-"ML": [
-"Canal+"
-],
-"MX": [
-"FOX One"
-],
-"NG": [
-"SuperSport MaXimo 1",
-"SuperSport Kickoff"
-],
-"NL": [
-"Viaplay NL"
-],
-"NO": [
-"TV 2 Play (NO)",
-"Viaplay NO"
-],
-"OM": [
-"beIN Sports"
-],
-"PE": [
-"Disney+ Premium"
-],
-"PT": [
-"Sport TV 2",
-"Fanatiz"
-],
-"PY": [
-"Disney+ Premium"
-],
-"QA": [
-"beIN Sports"
-],
-"SA": [
-"beIN Sports"
-],
-"SN": [
-"Canal+"
-],
-"TN": [
-"beIN Sports"
-],
-"TR": [
-"beIN Sports 4",
-"beIN CONNECT",
-"TOD"
-],
-"US": [
-"beIN Sports 6",
-"beIN Sports (US)",
-"beIN Sports en Español (US)",
-"beIN Sports CONNECT (US)"
-],
-"UY": [
-"Disney+ Premium"
-],
-"ZA": [
-"SuperSport MaXimo 1",
-"SuperSport 1 Africa"
-]
-},
-"competition": {
-"ar": "الدوري الفرنسي",
-"de": "Ligue 1",
-"en": "Ligue 1",
-"es": "Ligue 1",
-"fr": "Ligue 1",
-"it": "Ligue 1",
-"pt": "Ligue 1",
-"tr": "Fransa Ligue 1"
-},
-"competitionId": "ligue1",
-"home": "Paris FC",
-"homeNames": {
-"ar": "باريس إف سي",
-"de": "Paris FC",
-"en": "Paris FC",
-"es": "Paris FC",
-"fr": "Paris FC",
-"it": "Paris FC",
-"pt": "Paris FC",
-"tr": "Paris FC"
-},
-"id": "football-20261122-paris-fc-angers",
-"kickoffUtc": "2026-11-22T14:00:00Z",
-"sources": [
-"fotmob"
-],
-"sport": "football",
-"tier": "global"
-},
-"slug": "paris-fc-angers-2026-11-22"
-},
-"es:football-20261122-racing-santander-real-sociedad": {
-"lang": "es",
-"m": {
-"away": "Real Sociedad",
-"awayNames": {
-"ar": "ريال سوسيداد",
-"de": "Real Sociedad",
-"en": "Real Sociedad",
-"es": "Real Sociedad",
-"fr": "Real Sociedad",
-"it": "Real Sociedad",
-"pt": "Real Sociedad",
-"tr": "Real Sociedad"
-},
-"broadcasts": {
-"AE": [
-"beIN Sports"
-],
-"AR": [
-"ESPN 3",
-"Disney+ Premium"
-],
-"AT": [
-"DAZN"
-],
-"AU": [
-"beIN Sports 3",
-"beIN CONNECT"
-],
-"BE": [
-"DAZN (BE)"
-],
-"BH": [
-"beIN Sports MENA 2",
-"TOD TV"
-],
-"BR": [
-"CazéTV YouTube",
-"CazeTV"
-],
-"CA": [
-"TSN+"
-],
-"CH": [
-"DAZN"
-],
-"CI": [
-"Canal+"
-],
-"CL": [
-"ESPN 2",
-"Disney+ Premium"
-],
-"CO": [
-"ESPN 2",
-"Disney+ Premium"
-],
-"CZ": [
-"Nova Sport 4"
-],
-"DE": [
-"DAZN Deutschland"
-],
-"DZ": [
-"beIN Sports"
-],
-"EC": [
-"ESPN 2",
-"Disney+ Premium"
-],
-"EG": [
-"beIN Sports"
-],
-"ES": [
-"LaLiga TV Bar",
-"M+ LALIGA",
-"M+ LALIGA HDR"
-],
-"FR": [
-"DAZN 1 (FR)",
-"DAZN.com (FR)",
-"Disney+ (FR)"
-],
-"GB": [
-"Premier Sports 1 UK",
-"Premier Sports Player",
-"LaLigaTV"
-],
-"GH": [
-"StarTimes Ghana",
-"Sporty TV",
-"SuperSport GOtv LaLiga",
-"SuperSport Laliga ROA"
-],
-"HR": [
-"SportKlub",
-"Arena Sport"
-],
-"IQ": [
-"beIN Sports"
-],
-"IT": [
-"DAZN Italia"
-],
-"JO": [
-"beIN Sports"
-],
-"JP": [
-"DAZN",
-"U-NEXT"
-],
-"KR": [
-"Coupang Play"
-],
-"KW": [
-"beIN Sports MENA 2",
-"TOD TV"
-],
-"LY": [
-"beIN Sports"
-],
-"MA": [
-"beIN CONNECT",
-"TOD"
-],
-"ML": [
-"Canal+"
-],
-"MX": [
-"Canal 5",
-"SKY Sports",
-"ViX Premium"
-],
-"NG": [
-"SuperSport GOtv LaLiga",
-"Sporty TV",
-"StarTimes App"
-],
-"NO": [
-"TV 2 Sport Premium",
-"TV 2 Play (NO)",
-"Viaplay NO"
-],
-"OM": [
-"beIN Sports"
-],
-"PE": [
-"ESPN 2",
-"Disney+ Premium"
-],
-"PT": [
-"DAZN 3"
-],
-"PY": [
-"ESPN 2",
-"Disney+ Premium"
-],
-"QA": [
-"beIN Sports"
-],
-"SA": [
-"beIN Sports"
-],
-"SN": [
-"Canal+"
-],
-"TN": [
-"beIN Sports"
-],
-"TR": [
-"S Sport",
-"S Sport Plus"
-],
-"US": [
-"ESPN Select",
-"ESPN Unlimited",
-"ESPN Deportes",
-"Fubo Sports"
-],
-"UY": [
-"ESPN 2",
-"Disney+ Premium"
-],
-"ZA": [
-"StarTimes App",
-"Sporty TV",
-"OneFootball",
-"SuperSport GOtv LaLiga"
-]
-},
-"competition": {
-"ar": "الدوري الإسباني",
-"de": "LaLiga",
-"en": "LaLiga",
-"es": "LaLiga",
-"fr": "LaLiga",
-"it": "LaLiga",
-"pt": "LaLiga",
-"tr": "İspanya LaLiga"
-},
-"competitionId": "laliga",
-"home": "Racing Santander",
-"homeNames": {
-"ar": "راسينغ سانتاندير",
-"de": "Racing Santander",
-"en": "Racing Santander",
-"es": "Racing de Santander",
-"fr": "Racing de Santander",
-"it": "Racing Santander",
-"pt": "Racing Santander",
-"tr": "Racing Santander"
-},
-"id": "football-20261122-racing-santander-real-sociedad",
-"kickoffUtc": "2026-11-22T15:15:00Z",
-"sources": [
-"fotmob"
-],
-"sport": "football",
-"tier": "global"
-},
-"slug": "racing-de-santander-real-sociedad-2026-11-22"
-},
 "es:football-20261122-rb-bragantino-vasco-da-gama": {
 "lang": "es",
 "m": {
@@ -10861,195 +8655,6 @@
 },
 "slug": "river-plate-lanus-2026-11-22"
 },
-"es:football-20261122-sassuolo-genoa": {
-"lang": "es",
-"m": {
-"away": "Genoa",
-"awayNames": {
-"ar": "جنوى",
-"de": "Genoa",
-"en": "Genoa",
-"es": "Genoa",
-"fr": "Genoa",
-"it": "Genoa",
-"pt": "Genoa",
-"tr": "Genoa"
-},
-"broadcasts": {
-"AE": [
-"beIN Sports"
-],
-"AR": [
-"ESPN 4",
-"Disney+ Premium"
-],
-"AT": [
-"DAZN"
-],
-"AU": [
-"beIN CONNECT"
-],
-"BE": [
-"DAZN (BE)"
-],
-"BR": [
-"ESPN Brasil",
-"Disney+ Premium"
-],
-"CA": [
-"DAZN Canada"
-],
-"CH": [
-"DAZN",
-"SI Solocalcio"
-],
-"CI": [
-"Canal+"
-],
-"CL": [
-"ESPN 4",
-"Disney+ Premium"
-],
-"CO": [
-"ESPN 4",
-"Disney+ Premium"
-],
-"DE": [
-"DAZN Deutschland"
-],
-"DZ": [
-"beIN Sports"
-],
-"EC": [
-"ESPN 4",
-"Disney+ Premium"
-],
-"EG": [
-"beIN Sports"
-],
-"ES": [
-"DAZN"
-],
-"FR": [
-"DAZN 1 (FR)",
-"DAZN.com (FR)"
-],
-"GB": [
-"DAZN UK"
-],
-"GT": [
-"ESPN",
-"Disney+"
-],
-"HR": [
-"MAX To Go",
-"Arena Sport 4"
-],
-"IQ": [
-"beIN Sports"
-],
-"IT": [
-"DAZN Italia"
-],
-"JO": [
-"beIN Sports"
-],
-"JP": [
-"DAZN"
-],
-"KR": [
-"SPOTV NOW"
-],
-"LY": [
-"beIN Sports"
-],
-"MA": [
-"STARZPLAY"
-],
-"ML": [
-"Canal+"
-],
-"MX": [
-"ESPN",
-"Disney+ Premium"
-],
-"NO": [
-"VG TV"
-],
-"NZ": [
-"beIN Sports Connect New Zealand"
-],
-"OM": [
-"beIN Sports"
-],
-"PE": [
-"ESPN 4",
-"Disney+ Premium"
-],
-"PT": [
-"Sport TV 3"
-],
-"PY": [
-"ESPN 4",
-"Disney+ Premium"
-],
-"QA": [
-"beIN Sports"
-],
-"SA": [
-"beIN Sports"
-],
-"SN": [
-"Canal+"
-],
-"TN": [
-"beIN Sports"
-],
-"TR": [
-"S Sport",
-"S Sport Plus"
-],
-"US": [
-"Paramount+ (US)",
-"Peacock (Español)"
-],
-"UY": [
-"ESPN 4",
-"Disney+ Premium"
-]
-},
-"competition": {
-"ar": "الدوري الإيطالي",
-"de": "Serie A",
-"en": "Serie A",
-"es": "Serie A",
-"fr": "Serie A",
-"it": "Serie A",
-"pt": "Serie A",
-"tr": "İtalya Serie A"
-},
-"competitionId": "seriea",
-"home": "Sassuolo",
-"homeNames": {
-"ar": "ساسولو",
-"de": "Sassuolo",
-"en": "Sassuolo",
-"es": "Sassuolo",
-"fr": "Sassuolo",
-"it": "Sassuolo",
-"pt": "Sassuolo",
-"tr": "Sassuolo"
-},
-"id": "football-20261122-sassuolo-genoa",
-"kickoffUtc": "2026-11-22T14:00:00Z",
-"sources": [
-"fotmob"
-],
-"sport": "football",
-"tier": "global"
-},
-"slug": "sassuolo-genoa-2026-11-22"
-},
 "es:football-20261122-sport-huancayo-universitario-de-deportes": {
 "lang": "es",
 "m": {
@@ -11240,267 +8845,6 @@
 "tier": "regional"
 },
 "slug": "sporting-cristal-cienciano-2026-11-22"
-},
-"es:football-20261122-sporting-gijon-las-palmas": {
-"lang": "es",
-"m": {
-"away": "Las Palmas",
-"awayNames": {
-"ar": "UD Las Palmas",
-"de": "UD Las Palmas",
-"en": "UD Las Palmas",
-"es": "UD Las Palmas",
-"fr": "UD Las Palmas",
-"it": "UD Las Palmas",
-"pt": "UD Las Palmas",
-"tr": "UD Las Palmas"
-},
-"broadcasts": {
-"ES": [
-"DAZN",
-"LaLiga TV M2",
-"LALIGA TV Hypermotion",
-"Orange Fútbol 2"
-],
-"GH": [
-"StarTimes Ghana"
-],
-"MX": [
-"SKY Sports"
-],
-"NG": [
-"StarTimes App"
-],
-"TR": [
-"S Sport"
-],
-"US": [
-"ESPN Select",
-"ESPN Unlimited"
-],
-"ZA": [
-"StarTimes App"
-]
-},
-"competition": {
-"ar": "دوري الدرجة الثانية الإسباني",
-"de": "LaLiga Hypermotion",
-"en": "LaLiga Hypermotion",
-"es": "LaLiga Hypermotion",
-"fr": "LaLiga Hypermotion",
-"it": "LaLiga Hypermotion",
-"pt": "LaLiga Hypermotion",
-"tr": "LaLiga Hypermotion"
-},
-"competitionId": "laliga2",
-"home": "Sporting Gijon",
-"homeNames": {
-"ar": "Sporting Gijón",
-"de": "Sporting Gijón",
-"en": "Sporting Gijón",
-"es": "Sporting Gijón",
-"fr": "Sporting Gijón",
-"it": "Sporting Gijón",
-"pt": "Sporting Gijón",
-"tr": "Sporting Gijón"
-},
-"id": "football-20261122-sporting-gijon-las-palmas",
-"kickoffUtc": "2026-11-22T15:15:00Z",
-"sources": [
-"fotmob"
-],
-"sport": "football",
-"tier": "regional"
-},
-"slug": "sporting-gijon-ud-las-palmas-2026-11-22"
-},
-"es:football-20261122-werder-bremen-hamburger-sv": {
-"lang": "es",
-"m": {
-"away": "Hamburger SV",
-"awayNames": {
-"ar": "Hamburger SV",
-"de": "Hamburger SV",
-"en": "Hamburger SV",
-"es": "Hamburger SV",
-"fr": "Hamburger SV",
-"it": "Hamburger SV",
-"pt": "Hamburger SV",
-"tr": "Hamburger SV"
-},
-"broadcasts": {
-"AE": [
-"MBC Shahid",
-"beIN Sports MAX 6"
-],
-"AR": [
-"Disney+ Premium"
-],
-"AT": [
-"DAZN"
-],
-"AU": [
-"beIN CONNECT"
-],
-"BE": [
-"Play Sports 2",
-"Play Sports"
-],
-"BH": [
-"MBC Shahid",
-"beIN Sports MAX 6"
-],
-"BR": [
-"Canal GOAT",
-"OneFootball",
-"OneFootball PPV",
-"SportyNet"
-],
-"CA": [
-"DAZN Canada",
-"OneSoccer"
-],
-"CH": [
-"DAZN",
-"beIN Sports CH"
-],
-"CL": [
-"Disney+ Premium"
-],
-"CO": [
-"Disney+ Premium"
-],
-"CZ": [
-"Nova Sport 3"
-],
-"DE": [
-"DAZN Deutschland"
-],
-"DZ": [
-"MBC Shahid",
-"beIN Sports MAX 6"
-],
-"EC": [
-"Disney+ Premium"
-],
-"EG": [
-"MBC Shahid",
-"beIN Sports MAX 6"
-],
-"ES": [
-"DAZN",
-"LaLiga TV M5"
-],
-"FR": [
-"beIN Sports MAX 6 (FR)"
-],
-"GB": [
-"Prime Video PPV (UK)"
-],
-"IQ": [
-"MBC Shahid",
-"beIN Sports MAX 6"
-],
-"JO": [
-"MBC Shahid",
-"beIN Sports MAX 6"
-],
-"JP": [
-"DAZN"
-],
-"KR": [
-"Coupang Play"
-],
-"KW": [
-"MBC Shahid",
-"beIN Sports MAX 6"
-],
-"LY": [
-"MBC Shahid",
-"beIN Sports MAX 6"
-],
-"MA": [
-"beIN CONNECT",
-"TOD",
-"Shahid"
-],
-"MX": [
-"FOX One"
-],
-"NL": [
-"ViaplayTV NL",
-"Viaplay NL"
-],
-"NO": [
-"V sport 1 NO",
-"Viaplay NO",
-"TV 2 Play (NO)"
-],
-"OM": [
-"MBC Shahid",
-"beIN Sports MAX 6"
-],
-"PE": [
-"Disney+ Premium"
-],
-"PY": [
-"Disney+ Premium"
-],
-"QA": [
-"MBC Shahid",
-"beIN Sports MAX 6"
-],
-"SA": [
-"MBC Shahid",
-"beIN Sports MAX 6"
-],
-"TN": [
-"MBC Shahid",
-"beIN Sports MAX 6"
-],
-"TR": [
-"S Sport",
-"S Sport Plus"
-],
-"US": [
-"Peacock (Español)",
-"Fandango"
-],
-"UY": [
-"Disney+ Premium"
-]
-},
-"competition": {
-"ar": "الدوري الألماني",
-"de": "Bundesliga",
-"en": "Bundesliga",
-"es": "Bundesliga",
-"fr": "Bundesliga",
-"it": "Bundesliga",
-"pt": "Bundesliga",
-"tr": "Almanya Bundesliga"
-},
-"competitionId": "bundesliga",
-"home": "Werder Bremen",
-"homeNames": {
-"ar": "فيردر بريمن",
-"de": "Werder Bremen",
-"en": "Werder Bremen",
-"es": "Werder Bremen",
-"fr": "Werder Brême",
-"it": "Werder Brema",
-"pt": "Werder Bremen",
-"tr": "Werder Bremen"
-},
-"id": "football-20261122-werder-bremen-hamburger-sv",
-"kickoffUtc": "2026-11-22T16:30:00Z",
-"sources": [
-"fotmob"
-],
-"sport": "football",
-"tier": "global"
-},
-"slug": "werder-bremen-hamburger-sv-2026-11-22"
 },
 "es:football-20261123-ad-ceuta-fc-almeria": {
 "lang": "es",
@@ -17092,6 +14436,18 @@
 "tr": "Al-Rayyan"
 },
 "broadcasts": {
+"AE": [
+"beIN Sports MENA 3"
+],
+"BH": [
+"beIN Sports MENA 3"
+],
+"DZ": [
+"beIN Sports MENA 3"
+],
+"EG": [
+"beIN Sports MENA 3"
+],
 "ES": [
 "The AFC Hub YouTube"
 ],
@@ -17099,8 +14455,36 @@
 "MAXtv To Go",
 "Sport Klub 3 HR"
 ],
+"IQ": [
+"beIN Sports MENA 3"
+],
+"JO": [
+"beIN Sports MENA 3"
+],
+"KW": [
+"beIN Sports MENA 3"
+],
+"LY": [
+"beIN Sports MENA 3"
+],
 "MA": [
 "beIN Sports 2"
+],
+"OM": [
+"beIN Sports MENA 3"
+],
+"QA": [
+"beIN Sports MENA 3",
+"ALKASS Five"
+],
+"SA": [
+"beIN Sports MENA 3"
+],
+"TN": [
+"beIN Sports MENA 3"
+],
+"TR": [
+"Spor Smart 2"
 ]
 },
 "competition": {
@@ -17150,6 +14534,18 @@
 "tr": "Al-Nahda"
 },
 "broadcasts": {
+"AE": [
+"beIN Sports MENA 9"
+],
+"BH": [
+"beIN Sports MENA 9"
+],
+"DZ": [
+"beIN Sports MENA 9"
+],
+"EG": [
+"beIN Sports MENA 9"
+],
 "ES": [
 "The AFC Hub YouTube"
 ],
@@ -17157,8 +14553,36 @@
 "Sport Klub 6 HR",
 "MAXtv To Go"
 ],
+"IQ": [
+"beIN Sports MENA 9"
+],
+"JO": [
+"beIN Sports MENA 9"
+],
+"KW": [
+"beIN Sports MENA 9"
+],
+"LY": [
+"beIN Sports MENA 9"
+],
 "MA": [
 "beIN Sports 9"
+],
+"OM": [
+"beIN Sports MENA 9"
+],
+"QA": [
+"beIN Sports MENA 9",
+"ALKASS Seven"
+],
+"SA": [
+"beIN Sports MENA 9"
+],
+"TN": [
+"beIN Sports MENA 9"
+],
+"TR": [
+"Spor Smart 2"
 ]
 },
 "competition": {
@@ -17336,6 +14760,10 @@
 "Play Sports 7",
 "Pickx+ Sports 8"
 ],
+"BH": [
+"beIN Sports MENA 6",
+"TOD TV"
+],
 "BR": [
 "HBO Max"
 ],
@@ -17408,6 +14836,10 @@
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"beIN Sports MENA 6",
+"TOD TV"
 ],
 "LY": [
 "beIN Sports"
@@ -17546,6 +14978,9 @@
 "VTM GO",
 "VTM 2"
 ],
+"BH": [
+"beIN Sports MENA 3"
+],
 "BR": [
 "HBO Max"
 ],
@@ -17622,6 +15057,9 @@
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"beIN Sports MENA 3"
 ],
 "LY": [
 "beIN Sports"
@@ -17928,6 +15366,10 @@
 "BE": [
 "Pickx+ Sports 6"
 ],
+"BH": [
+"beIN Sports MENA 4",
+"TOD TV"
+],
 "BR": [
 "HBO Max"
 ],
@@ -18004,6 +15446,10 @@
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"beIN Sports MENA 4",
+"TOD TV"
 ],
 "LY": [
 "beIN Sports"
@@ -18222,6 +15668,10 @@
 "Pickx+ Sports 4",
 "Play Sports 4"
 ],
+"BH": [
+"beIN Sports MENA 5",
+"TOD TV"
+],
 "BR": [
 "TNT Sports YouTube",
 "Space",
@@ -18302,6 +15752,10 @@
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"beIN Sports MENA 5",
+"TOD TV"
 ],
 "LY": [
 "beIN Sports"
@@ -18729,6 +16183,10 @@
 "Play Sports",
 "Play Sports 3"
 ],
+"BH": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
 "BR": [
 "TNT",
 "HBO Max"
@@ -18807,6 +16265,10 @@
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "LY": [
 "beIN Sports"
@@ -18951,6 +16413,10 @@
 "Pickx+ Sports 2",
 "Play Sports 3"
 ],
+"BH": [
+"beIN Sports MENA 2",
+"TOD TV"
+],
 "BR": [
 "TNT",
 "HBO Max"
@@ -19032,6 +16498,10 @@
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"beIN Sports MENA 2",
+"TOD TV"
 ],
 "LY": [
 "beIN Sports"
@@ -19142,6 +16612,83 @@
 },
 "slug": "sabah-fk-fc-barcelona-2026-11-25"
 },
+"es:football-20261125-santa-fe-once-caldas": {
+"lang": "es",
+"m": {
+"away": "Once Caldas",
+"awayNames": {
+"ar": "أونسي كالداس",
+"de": "Once Caldas",
+"en": "Once Caldas",
+"es": "Once Caldas",
+"fr": "Once Caldas",
+"it": "Once Caldas",
+"pt": "Once Caldas",
+"tr": "Once Caldas"
+},
+"broadcasts": {
+"AR": [
+"RCN Nuestra Tele"
+],
+"BR": [
+"RCN Nuestra Tele"
+],
+"CL": [
+"RCN Nuestra Tele"
+],
+"CO": [
+"Win Sports",
+"Win Fútbol +",
+"Win Play"
+],
+"ES": [
+"RCN Nuestra Tele"
+],
+"MX": [
+"RCN Nuestra Tele"
+],
+"PE": [
+"RCN Nuestra Tele"
+],
+"PT": [
+"Fanatiz"
+],
+"UY": [
+"RCN Nuestra Tele"
+]
+},
+"competition": {
+"ar": "الدوري الكولومبي",
+"de": "Liga BetPlay DIMAYOR",
+"en": "Liga BetPlay DIMAYOR",
+"es": "Liga BetPlay DIMAYOR",
+"fr": "Liga BetPlay DIMAYOR",
+"it": "Liga BetPlay DIMAYOR",
+"pt": "Liga BetPlay DIMAYOR",
+"tr": "Kolombiya Liga BetPlay"
+},
+"competitionId": "liga_dimayor",
+"home": "Santa Fe",
+"homeNames": {
+"ar": "سانتا في",
+"de": "Santa Fe",
+"en": "Santa Fe",
+"es": "Santa Fe",
+"fr": "Santa Fe",
+"it": "Santa Fe",
+"pt": "Santa Fe",
+"tr": "Santa Fe"
+},
+"id": "football-20261125-santa-fe-once-caldas",
+"kickoffUtc": "2026-11-25T23:20:00Z",
+"sources": [
+"fotmob"
+],
+"sport": "football",
+"tier": "regional"
+},
+"slug": "santa-fe-once-caldas-2026-11-26"
+},
 "es:football-20261125-shakhtar-donetsk-fenerbahce": {
 "lang": "es",
 "m": {
@@ -19176,6 +16723,9 @@
 "BE": [
 "Pickx+ Sports 7",
 "Play Sports 6"
+],
+"BH": [
+"beIN Sports MENA 8"
 ],
 "BR": [
 "HBO Max"
@@ -19247,6 +16797,9 @@
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"beIN Sports MENA 8"
 ],
 "LY": [
 "beIN Sports"
@@ -19384,6 +16937,10 @@
 "Play Sports 4",
 "Play Sports"
 ],
+"BH": [
+"beIN Sports MENA 4",
+"TOD TV"
+],
 "BR": [
 "Space",
 "HBO Max"
@@ -19459,6 +17016,10 @@
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"beIN Sports MENA 4",
+"TOD TV"
 ],
 "LY": [
 "beIN Sports"
@@ -19600,6 +17161,10 @@
 "Play Sports 5",
 "Play Sports"
 ],
+"BH": [
+"beIN Sports MENA 2",
+"TOD TV"
+],
 "BR": [
 "HBO Max"
 ],
@@ -19674,6 +17239,10 @@
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"beIN Sports MENA 2",
+"TOD TV"
 ],
 "LY": [
 "beIN Sports"
@@ -19774,6 +17343,82 @@
 "tier": "global"
 },
 "slug": "sporting-de-portugal-manchester-united-2026-11-25"
+},
+"es:football-20261126-atletico-nacional-independiente-medellin": {
+"lang": "es",
+"m": {
+"away": "Independiente Medellin",
+"awayNames": {
+"ar": "Independiente Medellín",
+"de": "Independiente Medellín",
+"en": "Independiente Medellín",
+"es": "Independiente Medellín",
+"fr": "Independiente Medellín",
+"it": "Independiente Medellín",
+"pt": "Independiente Medellín",
+"tr": "Independiente Medellín"
+},
+"broadcasts": {
+"AR": [
+"RCN Nuestra Tele"
+],
+"BR": [
+"RCN Nuestra Tele"
+],
+"CL": [
+"RCN Nuestra Tele"
+],
+"CO": [
+"Win Fútbol +",
+"Win Play"
+],
+"ES": [
+"RCN Nuestra Tele"
+],
+"MX": [
+"RCN Nuestra Tele"
+],
+"PE": [
+"RCN Nuestra Tele"
+],
+"PT": [
+"Fanatiz"
+],
+"UY": [
+"RCN Nuestra Tele"
+]
+},
+"competition": {
+"ar": "الدوري الكولومبي",
+"de": "Liga BetPlay DIMAYOR",
+"en": "Liga BetPlay DIMAYOR",
+"es": "Liga BetPlay DIMAYOR",
+"fr": "Liga BetPlay DIMAYOR",
+"it": "Liga BetPlay DIMAYOR",
+"pt": "Liga BetPlay DIMAYOR",
+"tr": "Kolombiya Liga BetPlay"
+},
+"competitionId": "liga_dimayor",
+"home": "Atletico Nacional",
+"homeNames": {
+"ar": "Atlético Nacional",
+"de": "Atlético Nacional",
+"en": "Atlético Nacional",
+"es": "Atlético Nacional",
+"fr": "Atlético Nacional",
+"it": "Atlético Nacional",
+"pt": "Atlético Nacional",
+"tr": "Atlético Nacional"
+},
+"id": "football-20261126-atletico-nacional-independiente-medellin",
+"kickoffUtc": "2026-11-26T01:30:00Z",
+"sources": [
+"fotmob"
+],
+"sport": "football",
+"tier": "regional"
+},
+"slug": "atletico-nacional-independiente-medellin-2026-11-26"
 },
 "es:football-20261126-barcelona-sc-independiente-del-valle": {
 "lang": "es",
@@ -26861,203 +24506,6 @@
 },
 "slug": "oklahoma-city-thunder-minnesota-timberwolves-2026-11-26"
 },
-"fr:football-20261122-ac-milan-frosinone": {
-"lang": "fr",
-"m": {
-"away": "Frosinone",
-"awayNames": {
-"ar": "فروزينوني",
-"de": "Frosinone",
-"en": "Frosinone",
-"es": "Frosinone",
-"fr": "Frosinone",
-"it": "Frosinone",
-"pt": "Frosinone",
-"tr": "Frosinone"
-},
-"broadcasts": {
-"AE": [
-"beIN Sports"
-],
-"AR": [
-"Disney+ Premium"
-],
-"AT": [
-"DAZN"
-],
-"AU": [
-"beIN Sports 2",
-"beIN CONNECT"
-],
-"BE": [
-"DAZN 1 (BE)",
-"DAZN (BE)"
-],
-"BR": [
-"Disney+ Premium"
-],
-"CA": [
-"DAZN Canada",
-"TLN"
-],
-"CH": [
-"DAZN",
-"SI Solocalcio"
-],
-"CI": [
-"Canal+"
-],
-"CL": [
-"Disney+ Premium"
-],
-"CO": [
-"Disney+ Premium"
-],
-"DE": [
-"DAZN Deutschland"
-],
-"DZ": [
-"beIN Sports"
-],
-"EC": [
-"Disney+ Premium"
-],
-"EG": [
-"beIN Sports"
-],
-"ES": [
-"DAZN"
-],
-"FR": [
-"DAZN 1 (FR)",
-"DAZN.com (FR)"
-],
-"GB": [
-"DAZN UK"
-],
-"GH": [
-"SuperSport Football"
-],
-"GT": [
-"ESPN",
-"Disney+"
-],
-"HR": [
-"MAX To Go",
-"Arena Sport 3"
-],
-"IQ": [
-"beIN Sports"
-],
-"IT": [
-"Sky Sport 4K (IT)",
-"DAZN Italia",
-"NOW TV (IT)"
-],
-"JO": [
-"beIN Sports"
-],
-"JP": [
-"DAZN"
-],
-"KR": [
-"SPOTV NOW"
-],
-"LY": [
-"beIN Sports"
-],
-"MA": [
-"STARZPLAY"
-],
-"ML": [
-"Canal+"
-],
-"MX": [
-"Disney+ Premium"
-],
-"NG": [
-"SuperSport Football"
-],
-"NL": [
-"Ziggo Sport",
-"Ziggo Sport Kanaal 14"
-],
-"NO": [
-"VG TV"
-],
-"OM": [
-"beIN Sports"
-],
-"PE": [
-"Disney+ Premium"
-],
-"PT": [
-"Sport TV 2"
-],
-"PY": [
-"Disney+ Premium"
-],
-"QA": [
-"beIN Sports"
-],
-"SA": [
-"beIN Sports"
-],
-"SN": [
-"Canal+"
-],
-"TN": [
-"beIN Sports"
-],
-"TR": [
-"S Sport",
-"S Sport 2",
-"S Sport Plus"
-],
-"US": [
-"Paramount+ (US)",
-"Universo",
-"Peacock (Español)"
-],
-"UY": [
-"Disney+ Premium"
-],
-"ZA": [
-"SuperSport Football"
-]
-},
-"competition": {
-"ar": "الدوري الإيطالي",
-"de": "Serie A",
-"en": "Serie A",
-"es": "Serie A",
-"fr": "Serie A",
-"it": "Serie A",
-"pt": "Serie A",
-"tr": "İtalya Serie A"
-},
-"competitionId": "seriea",
-"home": "AC Milan",
-"homeNames": {
-"ar": "ميلان",
-"de": "AC Mailand",
-"en": "AC Milan",
-"es": "AC Milan",
-"fr": "AC Milan",
-"it": "AC Milan",
-"pt": "AC Milan",
-"tr": "AC Milan"
-},
-"id": "football-20261122-ac-milan-frosinone",
-"kickoffUtc": "2026-11-22T17:00:00Z",
-"sources": [
-"fotmob"
-],
-"sport": "football",
-"tier": "global"
-},
-"slug": "ac-milan-frosinone-2026-11-22"
-},
 "fr:football-20261122-atalanta-inter": {
 "lang": "fr",
 "m": {
@@ -27266,622 +24714,6 @@
 },
 "slug": "atalanta-inter-milan-2026-11-22"
 },
-"fr:football-20261122-augsburg-mainz": {
-"lang": "fr",
-"m": {
-"away": "Mainz",
-"awayNames": {
-"ar": "ماينز",
-"de": "1. FSV Mainz 05",
-"en": "Mainz 05",
-"es": "Maguncia",
-"fr": "Mayence",
-"it": "Magonza",
-"pt": "Mainz",
-"tr": "Mainz"
-},
-"broadcasts": {
-"AE": [
-"MBC Shahid",
-"beIN Sports MAX 4"
-],
-"AR": [
-"Disney+ Premium"
-],
-"AT": [
-"DAZN"
-],
-"AU": [
-"beIN CONNECT"
-],
-"BH": [
-"MBC Shahid",
-"beIN Sports MAX 4"
-],
-"BR": [
-"Canal GOAT",
-"OneFootball",
-"OneFootball PPV"
-],
-"CA": [
-"DAZN Canada",
-"OneSoccer"
-],
-"CH": [
-"DAZN",
-"beIN Sports CH"
-],
-"CL": [
-"ESPN Premium",
-"Disney+ Premium"
-],
-"CO": [
-"ESPN 5",
-"Disney+ Premium"
-],
-"DE": [
-"DAZN Deutschland"
-],
-"DZ": [
-"MBC Shahid",
-"beIN Sports MAX 4"
-],
-"EC": [
-"ESPN 5",
-"Disney+ Premium"
-],
-"EG": [
-"MBC Shahid",
-"beIN Sports MAX 4"
-],
-"ES": [
-"DAZN"
-],
-"FR": [
-"beIN Sports MAX 4 (FR)"
-],
-"GB": [
-"Prime Video PPV (UK)"
-],
-"IQ": [
-"MBC Shahid",
-"beIN Sports MAX 4"
-],
-"JO": [
-"MBC Shahid",
-"beIN Sports MAX 4"
-],
-"JP": [
-"DAZN",
-"ABEMA無料"
-],
-"KR": [
-"Coupang Play"
-],
-"KW": [
-"MBC Shahid",
-"beIN Sports MAX 4"
-],
-"LY": [
-"MBC Shahid",
-"beIN Sports MAX 4"
-],
-"MA": [
-"beIN CONNECT",
-"TOD",
-"Shahid"
-],
-"MX": [
-"FOX One"
-],
-"NL": [
-"Viaplay NL"
-],
-"NO": [
-"Viaplay NO",
-"V sport 1 NO",
-"TV 2 Play (NO)"
-],
-"NZ": [
-"beIN Sports Connect New Zealand"
-],
-"OM": [
-"MBC Shahid",
-"beIN Sports MAX 4"
-],
-"PE": [
-"ESPN 5",
-"Disney+ Premium"
-],
-"PY": [
-"ESPN 5",
-"Disney+ Premium"
-],
-"QA": [
-"MBC Shahid",
-"beIN Sports MAX 4"
-],
-"SA": [
-"MBC Shahid",
-"beIN Sports MAX 4"
-],
-"TN": [
-"MBC Shahid",
-"beIN Sports MAX 4"
-],
-"TR": [
-"S Sport",
-"S Sport Plus"
-],
-"US": [
-"Fandango",
-"Universo",
-"Peacock (Español)"
-],
-"UY": [
-"ESPN 5",
-"Disney+ Premium"
-]
-},
-"competition": {
-"ar": "الدوري الألماني",
-"de": "Bundesliga",
-"en": "Bundesliga",
-"es": "Bundesliga",
-"fr": "Bundesliga",
-"it": "Bundesliga",
-"pt": "Bundesliga",
-"tr": "Almanya Bundesliga"
-},
-"competitionId": "bundesliga",
-"home": "Augsburg",
-"homeNames": {
-"ar": "أوغسبورغ",
-"de": "FC Augsburg",
-"en": "Augsburg",
-"es": "Augsburgo",
-"fr": "Augsbourg",
-"it": "Augusta",
-"pt": "Augsburg",
-"tr": "Augsburg"
-},
-"id": "football-20261122-augsburg-mainz",
-"kickoffUtc": "2026-11-22T14:30:00Z",
-"sources": [
-"fotmob"
-],
-"sport": "football",
-"tier": "global"
-},
-"slug": "augsbourg-mayence-2026-11-22"
-},
-"fr:football-20261122-barcelona-villarreal": {
-"lang": "fr",
-"m": {
-"away": "Villarreal",
-"awayNames": {
-"ar": "فياريال",
-"de": "FC Villarreal",
-"en": "Villarreal CF",
-"es": "Villarreal CF",
-"fr": "Villarreal CF",
-"it": "Villarreal",
-"pt": "Villarreal CF",
-"tr": "Villarreal"
-},
-"broadcasts": {
-"AE": [
-"beIN Sports"
-],
-"AR": [
-"DSports",
-"DGO",
-"Amazon Prime Video",
-"Paramount+"
-],
-"AT": [
-"DAZN"
-],
-"AU": [
-"beIN Sports 1",
-"beIN CONNECT"
-],
-"BE": [
-"DAZN 1 (BE)",
-"DAZN (BE)"
-],
-"BH": [
-"beIN Sports MENA 1",
-"TOD TV"
-],
-"BR": [
-"CazéTV YouTube",
-"CazeTV"
-],
-"CA": [
-"TSN4",
-"TSN+"
-],
-"CH": [
-"DAZN"
-],
-"CI": [
-"Canal+"
-],
-"CL": [
-"DAZN",
-"DSports",
-"DGO",
-"Paramount+"
-],
-"CO": [
-"DAZN",
-"DSports",
-"Win Play",
-"DGO"
-],
-"CZ": [
-"Nova Sport 4"
-],
-"DE": [
-"DAZN Deutschland"
-],
-"DZ": [
-"beIN Sports"
-],
-"EC": [
-"DAZN",
-"DSports",
-"DGO",
-"Paramount+"
-],
-"EG": [
-"beIN Sports"
-],
-"ES": [
-"DAZN",
-"DAZN LaLiga",
-"LaLiga TV Bar"
-],
-"FR": [
-"DAZN 1 (FR)",
-"DAZN.com (FR)",
-"Disney+ (FR)"
-],
-"GB": [
-"Premier Sports 1 UK",
-"Premier Sports Player",
-"LaLigaTV"
-],
-"GH": [
-"SuperSport GOtv LaLiga",
-"SuperSport Laliga ROA",
-"DStv Now",
-"StarTimes Ghana"
-],
-"HR": [
-"Sportklub 1 Croatia",
-"SportKlub",
-"Arena Sport"
-],
-"IQ": [
-"beIN Sports"
-],
-"IT": [
-"DAZN Italia"
-],
-"JO": [
-"beIN Sports"
-],
-"JP": [
-"DAZN",
-"U-NEXT"
-],
-"KR": [
-"Coupang Play"
-],
-"KW": [
-"beIN Sports MENA 1",
-"TOD TV"
-],
-"LY": [
-"beIN Sports"
-],
-"MA": [
-"beIN Sports 1",
-"beIN CONNECT",
-"TOD",
-"beIN Sports English"
-],
-"ML": [
-"Canal+"
-],
-"MX": [
-"SKY Sports"
-],
-"NG": [
-"SuperSport GOtv LaLiga",
-"SuperSport Laliga Nigeria",
-"StarTimes App"
-],
-"NL": [
-"Ziggo Sport 2"
-],
-"NO": [
-"TV 2 Sport Premium",
-"TV 2 Play (NO)",
-"Viaplay NO"
-],
-"NZ": [
-"beIN Sports Connect New Zealand"
-],
-"OM": [
-"beIN Sports"
-],
-"PE": [
-"DAZN",
-"DSports",
-"DGO",
-"Paramount+"
-],
-"PT": [
-"DAZN 1"
-],
-"QA": [
-"beIN Sports"
-],
-"SA": [
-"beIN Sports"
-],
-"SN": [
-"Canal+"
-],
-"TN": [
-"beIN Sports"
-],
-"TR": [
-"S Sport",
-"S Sport Plus"
-],
-"US": [
-"ESPN Select",
-"ESPN Unlimited",
-"ESPN Deportes",
-"Fubo Sports"
-],
-"UY": [
-"DAZN",
-"DSports",
-"DGO",
-"Paramount+"
-],
-"ZA": [
-"StarTimes App",
-"OneFootball",
-"SuperSport GOtv LaLiga",
-"SuperSport Laliga"
-]
-},
-"competition": {
-"ar": "الدوري الإسباني",
-"de": "LaLiga",
-"en": "LaLiga",
-"es": "LaLiga",
-"fr": "LaLiga",
-"it": "LaLiga",
-"pt": "LaLiga",
-"tr": "İspanya LaLiga"
-},
-"competitionId": "laliga",
-"home": "Barcelona",
-"homeNames": {
-"ar": "برشلونة",
-"de": "FC Barcelona",
-"en": "Barcelona",
-"es": "FC Barcelona",
-"fr": "FC Barcelone",
-"it": "Barcellona",
-"pt": "Barcelona",
-"tr": "Barcelona"
-},
-"id": "football-20261122-barcelona-villarreal",
-"kickoffUtc": "2026-11-22T13:00:00Z",
-"sources": [
-"fotmob"
-],
-"sport": "football",
-"tier": "global"
-},
-"slug": "fc-barcelone-villarreal-cf-2026-11-22"
-},
-"fr:football-20261122-bologna-udinese": {
-"lang": "fr",
-"m": {
-"away": "Udinese",
-"awayNames": {
-"ar": "Udinese",
-"de": "Udinese",
-"en": "Udinese",
-"es": "Udinese",
-"fr": "Udinese",
-"it": "Udinese",
-"pt": "Udinese",
-"tr": "Udinese"
-},
-"broadcasts": {
-"AE": [
-"beIN Sports"
-],
-"AR": [
-"ESPN",
-"Disney+"
-],
-"BE": [
-"DAZN (BE)"
-],
-"BR": [
-"ESPN",
-"Disney+"
-],
-"CA": [
-"DAZN Canada"
-],
-"CI": [
-"Canal+"
-],
-"CL": [
-"ESPN",
-"Disney+"
-],
-"CO": [
-"ESPN",
-"Disney+"
-],
-"CZ": [
-"Sport 1"
-],
-"DE": [
-"DAZN Deutschland"
-],
-"DZ": [
-"beIN Sports"
-],
-"EC": [
-"ESPN",
-"Disney+"
-],
-"EG": [
-"beIN Sports"
-],
-"FR": [
-"DAZN.com (FR)",
-"DAZN 1 (FR)"
-],
-"GB": [
-"DAZN UK"
-],
-"GH": [
-"SuperSport Football"
-],
-"GT": [
-"ESPN",
-"Disney+"
-],
-"HR": [
-"Arena sport 2",
-"MAX To Go"
-],
-"IQ": [
-"beIN Sports"
-],
-"IT": [
-"DAZN Italia"
-],
-"JO": [
-"beIN Sports"
-],
-"KR": [
-"SPOTV NOW"
-],
-"LY": [
-"beIN Sports"
-],
-"MA": [
-"STARZPLAY"
-],
-"ML": [
-"Canal+"
-],
-"MX": [
-"ESPN",
-"Disney+"
-],
-"NG": [
-"SuperSport Football"
-],
-"NL": [
-"Ziggo Sport 4"
-],
-"NO": [
-"VG TV"
-],
-"NZ": [
-"beIN Sports Connect New Zealand"
-],
-"OM": [
-"beIN Sports"
-],
-"PE": [
-"ESPN",
-"Disney+"
-],
-"PY": [
-"ESPN",
-"Disney+"
-],
-"QA": [
-"beIN Sports"
-],
-"SA": [
-"beIN Sports"
-],
-"SN": [
-"Canal+"
-],
-"TN": [
-"beIN Sports"
-],
-"TR": [
-"S Sport 2",
-"S Sport",
-"S Sport Plus"
-],
-"US": [
-"Paramount+ (US)",
-"CBS Sports Network",
-"Fubo Sports",
-"Peacock (Español)"
-],
-"UY": [
-"ESPN",
-"Disney+"
-],
-"ZA": [
-"SuperSport Football"
-]
-},
-"competition": {
-"ar": "الدوري الإيطالي",
-"de": "Serie A",
-"en": "Serie A",
-"es": "Serie A",
-"fr": "Serie A",
-"it": "Serie A",
-"pt": "Serie A",
-"tr": "İtalya Serie A"
-},
-"competitionId": "seriea",
-"home": "Bologna",
-"homeNames": {
-"ar": "بولونيا",
-"de": "Bologna",
-"en": "Bologna",
-"es": "Bologna",
-"fr": "Bologne",
-"it": "Bologna",
-"pt": "Bologna",
-"tr": "Bologna"
-},
-"id": "football-20261122-bologna-udinese",
-"kickoffUtc": "2026-11-22T14:00:00Z",
-"sources": [
-"fotmob"
-],
-"sport": "football",
-"tier": "global"
-},
-"slug": "bologne-udinese-2026-11-22"
-},
 "fr:football-20261122-chicago-fire-fc-charlotte-fc": {
 "lang": "fr",
 "m": {
@@ -27995,180 +24827,6 @@
 "tier": "regional"
 },
 "slug": "chicago-fire-fc-charlotte-fc-2026-11-23"
-},
-"fr:football-20261122-energie-cottbus-hertha-bsc": {
-"lang": "fr",
-"m": {
-"away": "Hertha BSC",
-"awayNames": {
-"ar": "Hertha BSC",
-"de": "Hertha BSC",
-"en": "Hertha BSC",
-"es": "Hertha BSC",
-"fr": "Hertha BSC",
-"it": "Hertha BSC",
-"pt": "Hertha BSC",
-"tr": "Hertha BSC"
-},
-"broadcasts": {
-"AE": [
-"MBC Shahid",
-"beIN Sports MAX 5"
-],
-"AR": [
-"FOX Sports",
-"Disney+ Premium"
-],
-"AT": [
-"Sky Sport Bundesliga 1",
-"Sky Sport Bundesliga 4",
-"Sky Sport Bundesliga",
-"Sky Sport Top Event"
-],
-"BH": [
-"MBC Shahid",
-"beIN Sports MAX 5"
-],
-"BR": [
-"OneFootball",
-"OneFootball PPV"
-],
-"CA": [
-"DAZN Canada"
-],
-"CH": [
-"Sky Sport Bundesliga 2",
-"Sky Sport Bundesliga 4",
-"OneFootball PPV"
-],
-"CL": [
-"Disney+ Premium"
-],
-"CO": [
-"Disney+ Premium"
-],
-"CZ": [
-"Nova Sport 3"
-],
-"DE": [
-"Sky Bundesliga 2",
-"WOW",
-"OneFootball Deutschland"
-],
-"DZ": [
-"MBC Shahid",
-"beIN Sports MAX 5"
-],
-"EC": [
-"Disney+ Premium"
-],
-"EG": [
-"MBC Shahid",
-"beIN Sports MAX 5"
-],
-"ES": [
-"DAZN"
-],
-"FR": [
-"beIN Sports MAX 5 (FR)"
-],
-"GB": [
-"Bundesliga App"
-],
-"IQ": [
-"MBC Shahid",
-"beIN Sports MAX 5"
-],
-"JO": [
-"MBC Shahid",
-"beIN Sports MAX 5"
-],
-"KW": [
-"MBC Shahid",
-"beIN Sports MAX 5"
-],
-"LY": [
-"MBC Shahid",
-"beIN Sports MAX 5"
-],
-"MA": [
-"MBC Shahid",
-"beIN Sports MAX 5"
-],
-"MX": [
-"Bundesliga YouTube"
-],
-"NL": [
-"Viaplay NL"
-],
-"NO": [
-"Viaplay NO",
-"TV 2 Play (NO)"
-],
-"NZ": [
-"beIN Sports Connect New Zealand"
-],
-"OM": [
-"MBC Shahid",
-"beIN Sports MAX 5"
-],
-"PE": [
-"Disney+ Premium"
-],
-"PY": [
-"Disney+ Premium"
-],
-"QA": [
-"MBC Shahid",
-"beIN Sports MAX 5"
-],
-"SA": [
-"MBC Shahid",
-"beIN Sports MAX 5"
-],
-"TN": [
-"MBC Shahid",
-"beIN Sports MAX 5"
-],
-"TR": [
-"S Sport",
-"S Sport Plus"
-],
-"UY": [
-"Disney+ Premium"
-]
-},
-"competition": {
-"ar": "الدوري الألماني الدرجة الثانية",
-"de": "2. Bundesliga",
-"en": "2. Bundesliga",
-"es": "2. Bundesliga",
-"fr": "2. Bundesliga",
-"it": "2. Bundesliga",
-"pt": "2. Bundesliga",
-"tr": "Almanya 2. Bundesliga"
-},
-"competitionId": "bundesliga2",
-"home": "Energie Cottbus",
-"homeNames": {
-"ar": "إنيرجي كوتبوس",
-"de": "Energie Cottbus",
-"en": "Energie Cottbus",
-"es": "Energie Cottbus",
-"fr": "Energie Cottbus",
-"it": "Energie Cottbus",
-"pt": "Energie Cottbus",
-"tr": "Energie Cottbus"
-},
-"id": "football-20261122-energie-cottbus-hertha-bsc",
-"kickoffUtc": "2026-11-22T12:30:00Z",
-"sources": [
-"fotmob"
-],
-"sport": "football",
-"tier": "regional"
-},
-"slug": "energie-cottbus-hertha-bsc-2026-11-22"
 },
 "fr:football-20261122-getafe-atletico": {
 "lang": "fr",
@@ -28393,889 +25051,6 @@
 "tier": "global"
 },
 "slug": "getafe-atletico-madrid-2026-11-22"
-},
-"fr:football-20261122-hull-city-brighton": {
-"lang": "fr",
-"m": {
-"away": "Brighton",
-"awayNames": {
-"ar": "برايتون",
-"de": "Brighton",
-"en": "Brighton & Hove Albion",
-"es": "Brighton",
-"fr": "Brighton",
-"it": "Brighton",
-"pt": "Brighton",
-"tr": "Brighton"
-},
-"broadcasts": {
-"AE": [
-"beIN Sports"
-],
-"AR": [
-"ESPN 2",
-"Disney+ Premium"
-],
-"AT": [
-"Sky Sport UHD",
-"Sky Sport Austria 5",
-"Sky Sports Premier League",
-"Sky Sport Top Event"
-],
-"AU": [
-"Stan Sport"
-],
-"BE": [
-"Play Sports 1",
-"Play Sports"
-],
-"BH": [
-"beIN Sports MENA 5",
-"TOD TV"
-],
-"BR": [
-"ESPN",
-"Disney+ Premium"
-],
-"CA": [
-"DAZN Canada",
-"Fubo Sports CA"
-],
-"CH": [
-"CANAL+ Foot",
-"CANAL+ Premier League"
-],
-"CI": [
-"Canal+"
-],
-"CL": [
-"ESPN",
-"Disney+ Premium"
-],
-"CO": [
-"ESPN",
-"Disney+ Premium"
-],
-"CZ": [
-"CANAL+ Sport"
-],
-"DE": [
-"Sky Ultra HD",
-"Sky Sport Premier League",
-"WOW"
-],
-"DZ": [
-"beIN Sports"
-],
-"EC": [
-"ESPN",
-"Disney+ Premium"
-],
-"EG": [
-"beIN Sports"
-],
-"ES": [
-"DAZN",
-"DAZN 1",
-"DAZN 1 Bar"
-],
-"FR": [
-"Canal+ Foot",
-"myCANAL"
-],
-"GB": [
-"Sky Sports+ app",
-"Sky Sports Premier League",
-"Sky Sports Main Event",
-"Sky Sports UHD 1"
-],
-"GH": [
-"Canal+ Afrique",
-"SuperSport Premier League ROA",
-"DStv Now",
-"SuperSport"
-],
-"GT": [
-"FOX Sports",
-"TNT Sports"
-],
-"HR": [
-"Arena Sport 1",
-"MAX To Go",
-"Arena Sport"
-],
-"IQ": [
-"beIN Sports"
-],
-"IT": [
-"Sky Sport Arena (IT)",
-"Sky Sport 4K (IT)",
-"NOW TV (IT)"
-],
-"JO": [
-"beIN Sports"
-],
-"JP": [
-"U-NEXT"
-],
-"KR": [
-"Coupang Play"
-],
-"KW": [
-"beIN Sports MENA 5",
-"TOD TV"
-],
-"LY": [
-"beIN Sports"
-],
-"MA": [
-"beIN Sports 5",
-"beIN CONNECT",
-"TOD"
-],
-"ML": [
-"Canal+"
-],
-"MX": [
-"FOX",
-"FOX One"
-],
-"NG": [
-"Canal+ Afrique",
-"DStv Now",
-"SuperSport Premier League Nigeria"
-],
-"NL": [
-"Viaplay NL",
-"ViaplayTV NL"
-],
-"NO": [
-"V sport Premier League 1 NO",
-"Viaplay NO"
-],
-"NZ": [
-"Sky Sports Premier League"
-],
-"OM": [
-"beIN Sports"
-],
-"PE": [
-"ESPN",
-"Disney+ Premium"
-],
-"PT": [
-"DAZN 2",
-"DAZN"
-],
-"PY": [
-"ESPN",
-"Disney+ Premium"
-],
-"QA": [
-"beIN Sports"
-],
-"SA": [
-"beIN Sports"
-],
-"SN": [
-"Canal+"
-],
-"TN": [
-"beIN Sports"
-],
-"TR": [
-"beIN Sports 3",
-"Digiturk Play",
-"beIN CONNECT",
-"TOD"
-],
-"US": [
-"Telemundo",
-"USA Network"
-],
-"UY": [
-"ESPN",
-"Disney+ Premium"
-],
-"ZA": [
-"DStv Now",
-"SuperSport Premier League Nigeria",
-"SuperSport Premier League"
-]
-},
-"competition": {
-"ar": "الدوري الإنجليزي الممتاز",
-"de": "Premier League",
-"en": "Premier League",
-"es": "Premier League",
-"fr": "Premier League",
-"it": "Premier League",
-"pt": "Premier League",
-"tr": "İngiltere Premier Lig"
-},
-"competitionId": "premier",
-"home": "Hull City",
-"homeNames": {
-"ar": "هال سيتي",
-"de": "Hull City",
-"en": "Hull City",
-"es": "Hull City",
-"fr": "Hull City",
-"it": "Hull City",
-"pt": "Hull City",
-"tr": "Hull City"
-},
-"id": "football-20261122-hull-city-brighton",
-"kickoffUtc": "2026-11-22T14:00:00Z",
-"sources": [
-"fotmob"
-],
-"sport": "football",
-"tier": "global"
-},
-"slug": "hull-city-brighton-2026-11-22"
-},
-"fr:football-20261122-kasimpasa-alanyaspor": {
-"lang": "fr",
-"m": {
-"away": "Alanyaspor",
-"awayNames": {
-"ar": "ألانياسبور",
-"de": "Alanyaspor",
-"en": "Alanyaspor",
-"es": "Alanyaspor",
-"fr": "Alanyaspor",
-"it": "Alanyaspor",
-"pt": "Alanyaspor",
-"tr": "Alanyaspor"
-},
-"broadcasts": {
-"DE": [
-"Digiturk Euro"
-],
-"FR": [
-"beIN Sports",
-"beIN Sports Connect"
-],
-"TR": [
-"beIN Sports 2"
-]
-},
-"competition": {
-"ar": "الدوري التركي الممتاز",
-"de": "Süper Lig",
-"en": "Süper Lig",
-"es": "Superliga de Turquía",
-"fr": "Süper Lig",
-"it": "Süper Lig",
-"pt": "Liga Turca",
-"tr": "Trendyol Süper Lig"
-},
-"competitionId": "superlig",
-"home": "Kasimpasa",
-"homeNames": {
-"ar": "قاسم باشا",
-"de": "Kasımpaşa",
-"en": "Kasımpaşa",
-"es": "Kasımpaşa",
-"fr": "Kasımpaşa",
-"it": "Kasımpaşa",
-"pt": "Kasımpaşa",
-"tr": "Kasımpaşa"
-},
-"id": "football-20261122-kasimpasa-alanyaspor",
-"kickoffUtc": "2026-11-22T13:00:00Z",
-"sources": [
-"fotmob"
-],
-"sport": "football",
-"tier": "global"
-},
-"slug": "kasimpasa-alanyaspor-2026-11-22"
-},
-"fr:football-20261122-konyaspor-besiktas": {
-"lang": "fr",
-"m": {
-"away": "Besiktas",
-"awayNames": {
-"ar": "Beşiktaş",
-"de": "Beşiktaş",
-"en": "Beşiktaş",
-"es": "Beşiktaş",
-"fr": "Beşiktaş",
-"it": "Beşiktaş",
-"pt": "Beşiktaş",
-"tr": "Beşiktaş"
-},
-"broadcasts": {
-"AE": [
-"beIN Sports MENA 2",
-"TOD TV"
-],
-"AR": [
-"FOX Sports 2",
-"Disney+ Premium"
-],
-"BH": [
-"beIN Sports MENA 2",
-"TOD TV"
-],
-"BR": [
-"Disney+ Premium"
-],
-"CL": [
-"ESPN 7",
-"Disney+ Premium"
-],
-"CO": [
-"ESPN 7",
-"Disney+ Premium"
-],
-"DE": [
-"Digiturk Euro"
-],
-"DZ": [
-"beIN Sports MENA 2",
-"TOD TV"
-],
-"EC": [
-"ESPN 7",
-"Disney+ Premium"
-],
-"EG": [
-"beIN Sports MENA 2",
-"TOD TV"
-],
-"FR": [
-"beIN Sports 2 (FR)"
-],
-"IQ": [
-"beIN Sports MENA 2",
-"TOD TV"
-],
-"JO": [
-"beIN Sports MENA 2",
-"TOD TV"
-],
-"KW": [
-"beIN Sports MENA 2",
-"TOD TV"
-],
-"LY": [
-"beIN Sports MENA 2",
-"TOD TV"
-],
-"MA": [
-"beIN Sports 2 France",
-"TOD",
-"beIN CONNECT"
-],
-"MX": [
-"Disney+ Premium"
-],
-"NZ": [
-"beIN Sports Connect New Zealand"
-],
-"OM": [
-"beIN Sports MENA 2",
-"TOD TV"
-],
-"PE": [
-"ESPN 7",
-"Disney+ Premium"
-],
-"PT": [
-"Fanatiz"
-],
-"PY": [
-"ESPN 7",
-"Disney+ Premium"
-],
-"QA": [
-"beIN Sports MENA 2",
-"TOD TV"
-],
-"SA": [
-"beIN Sports MENA 2",
-"TOD TV"
-],
-"TN": [
-"beIN Sports MENA 2",
-"TOD TV"
-],
-"TR": [
-"beIN Sports 1"
-],
-"US": [
-"beIN Sports 3",
-"beIN Sports CONNECT (US)"
-],
-"UY": [
-"ESPN 7",
-"Disney+ Premium"
-]
-},
-"competition": {
-"ar": "الدوري التركي الممتاز",
-"de": "Süper Lig",
-"en": "Süper Lig",
-"es": "Superliga de Turquía",
-"fr": "Süper Lig",
-"it": "Süper Lig",
-"pt": "Liga Turca",
-"tr": "Trendyol Süper Lig"
-},
-"competitionId": "superlig",
-"home": "Konyaspor",
-"homeNames": {
-"ar": "قونيا سبور",
-"de": "Konyaspor",
-"en": "Konyaspor",
-"es": "Konyaspor",
-"fr": "Konyaspor",
-"it": "Konyaspor",
-"pt": "Konyaspor",
-"tr": "Konyaspor"
-},
-"id": "football-20261122-konyaspor-besiktas",
-"kickoffUtc": "2026-11-22T13:00:00Z",
-"sources": [
-"fotmob"
-],
-"sport": "football",
-"tier": "global"
-},
-"slug": "konyaspor-besiktas-2026-11-22"
-},
-"fr:football-20261122-liverpool-man-utd": {
-"lang": "fr",
-"m": {
-"away": "Man Utd",
-"awayNames": {
-"ar": "مانشستر يونايتد",
-"de": "Manchester United",
-"en": "Manchester United",
-"es": "Manchester United",
-"fr": "Manchester United",
-"it": "Manchester United",
-"pt": "Manchester United",
-"tr": "Manchester United"
-},
-"broadcasts": {
-"AE": [
-"beIN Sports"
-],
-"AR": [
-"ESPN",
-"Disney+ Premium"
-],
-"AT": [
-"Sky Sport UHD",
-"Sky Sport Austria 5",
-"Sky Sports Premier League",
-"Sky Sport Top Event"
-],
-"AU": [
-"Stan Sport"
-],
-"BE": [
-"Play Sports 1",
-"Play Sports"
-],
-"BH": [
-"beIN Sports MENA 1",
-"TOD TV"
-],
-"BR": [
-"ESPN",
-"Disney+ Premium"
-],
-"CA": [
-"DAZN Canada",
-"Fubo Sports CA"
-],
-"CH": [
-"CANAL+ Foot",
-"CANAL+ Premier League"
-],
-"CI": [
-"Canal+"
-],
-"CL": [
-"ESPN",
-"Disney+ Premium"
-],
-"CO": [
-"ESPN",
-"Disney+ Premium"
-],
-"CZ": [
-"CANAL+ Sport"
-],
-"DE": [
-"Sky Top Event",
-"Sky Ultra HD",
-"Sky Sport Premier League",
-"WOW"
-],
-"DZ": [
-"beIN Sports"
-],
-"EC": [
-"ESPN",
-"Disney+ Premium"
-],
-"EG": [
-"beIN Sports"
-],
-"ES": [
-"DAZN",
-"DAZN 1",
-"DAZN 1 Bar",
-"M+ Liga de Campeones"
-],
-"FR": [
-"Canal+",
-"Canal+ Foot",
-"myCANAL"
-],
-"GB": [
-"Sky Sports+ app",
-"Sky Sports Main Event",
-"Sky Sports Premier League",
-"Sky Sports UHD 1"
-],
-"GH": [
-"Canal+ Afrique",
-"SuperSport Premier League ROA",
-"SuperSport MaXimo 1",
-"Supersport Grandstand ROA"
-],
-"GT": [
-"FOX Sports",
-"TNT Sports"
-],
-"HR": [
-"Arena Sport 1",
-"MAX To Go",
-"Arena Sport"
-],
-"IQ": [
-"beIN Sports"
-],
-"IT": [
-"Sky Sport Arena (IT)",
-"NOW TV (IT)"
-],
-"JO": [
-"beIN Sports"
-],
-"JP": [
-"U-NEXT"
-],
-"KR": [
-"Coupang Play"
-],
-"KW": [
-"beIN Sports MENA 1",
-"TOD TV"
-],
-"LY": [
-"beIN Sports"
-],
-"MA": [
-"beIN Sports 1",
-"beIN CONNECT",
-"TOD",
-"beIN Sports English"
-],
-"ML": [
-"Canal+"
-],
-"MX": [
-"FOX One"
-],
-"NG": [
-"Canal+ Afrique",
-"SuperSport MaXimo 1",
-"Supersport Grandstand ROA",
-"DStv Now"
-],
-"NL": [
-"Viaplay NL"
-],
-"NO": [
-"Viaplay NO",
-"V sport Premier League NO"
-],
-"NZ": [
-"Sky Sports Premier League"
-],
-"OM": [
-"beIN Sports"
-],
-"PE": [
-"ESPN",
-"Disney+ Premium"
-],
-"PT": [
-"DAZN 1",
-"DAZN"
-],
-"PY": [
-"ESPN",
-"Disney+ Premium"
-],
-"QA": [
-"beIN Sports"
-],
-"SA": [
-"beIN Sports"
-],
-"SN": [
-"Canal+"
-],
-"TN": [
-"beIN Sports"
-],
-"TR": [
-"beIN Sports 3",
-"Digiturk Play",
-"beIN CONNECT",
-"TOD"
-],
-"US": [
-"USA Network",
-"Telemundo",
-"USA Network 4K"
-],
-"UY": [
-"ESPN",
-"Disney+ Premium"
-],
-"ZA": [
-"SuperSport MaXimo 1",
-"DStv Now",
-"SuperSport Premier League Nigeria",
-"Supersport Grandstand"
-]
-},
-"competition": {
-"ar": "الدوري الإنجليزي الممتاز",
-"de": "Premier League",
-"en": "Premier League",
-"es": "Premier League",
-"fr": "Premier League",
-"it": "Premier League",
-"pt": "Premier League",
-"tr": "İngiltere Premier Lig"
-},
-"competitionId": "premier",
-"home": "Liverpool",
-"homeNames": {
-"ar": "ليفربول",
-"de": "Liverpool",
-"en": "Liverpool",
-"es": "Liverpool",
-"fr": "Liverpool",
-"it": "Liverpool",
-"pt": "Liverpool",
-"tr": "Liverpool"
-},
-"id": "football-20261122-liverpool-man-utd",
-"kickoffUtc": "2026-11-22T16:30:00Z",
-"sources": [
-"fotmob"
-],
-"sport": "football",
-"tier": "global"
-},
-"slug": "liverpool-manchester-united-2026-11-22"
-},
-"fr:football-20261122-lorient-rennes": {
-"lang": "fr",
-"m": {
-"away": "Rennes",
-"awayNames": {
-"ar": "رين",
-"de": "Stade Rennes",
-"en": "Stade Rennais",
-"es": "Rennes",
-"fr": "Rennes",
-"it": "Rennes",
-"pt": "Rennes",
-"tr": "Rennes"
-},
-"broadcasts": {
-"AE": [
-"beIN Sports"
-],
-"AR": [
-"Disney+ Premium"
-],
-"AT": [
-"DAZN"
-],
-"BE": [
-"DAZN (BE)"
-],
-"BH": [
-"beIN Sports MENA 4",
-"TOD TV"
-],
-"BR": [
-"CazéTV YouTube",
-"CazeTV"
-],
-"CA": [
-"beIN Sport Canada",
-"beIN Sport Canada Espanol"
-],
-"CH": [
-"DAZN"
-],
-"CI": [
-"Canal+"
-],
-"CL": [
-"Disney+ Premium"
-],
-"CO": [
-"Disney+ Premium"
-],
-"DE": [
-"DAZN Deutschland"
-],
-"DZ": [
-"beIN Sports"
-],
-"EC": [
-"Disney+ Premium"
-],
-"EG": [
-"beIN Sports"
-],
-"ES": [
-"DAZN"
-],
-"FR": [
-"DAZN.com (FR)",
-"Ligue 1+"
-],
-"GB": [
-"Ligue 1+ (UK/ROI)"
-],
-"HR": [
-"Arena Sport 4",
-"MAX To Go"
-],
-"IQ": [
-"beIN Sports"
-],
-"JO": [
-"beIN Sports"
-],
-"JP": [
-"DAZN"
-],
-"KR": [
-"Coupang Play"
-],
-"KW": [
-"beIN Sports MENA 4",
-"TOD TV"
-],
-"LY": [
-"beIN Sports"
-],
-"MA": [
-"beIN Sports 4",
-"beIN CONNECT",
-"TOD"
-],
-"ML": [
-"Canal+"
-],
-"MX": [
-"FOX One"
-],
-"NL": [
-"Viaplay NL"
-],
-"NO": [
-"Viaplay NO",
-"TV 2 Play (NO)"
-],
-"OM": [
-"beIN Sports"
-],
-"PE": [
-"Disney+ Premium"
-],
-"PT": [
-"Sport TV 3",
-"Fanatiz"
-],
-"PY": [
-"Disney+ Premium"
-],
-"QA": [
-"beIN Sports"
-],
-"SA": [
-"beIN Sports"
-],
-"SN": [
-"Canal+"
-],
-"TN": [
-"beIN Sports"
-],
-"TR": [
-"beIN Sports 4",
-"beIN CONNECT"
-],
-"US": [
-"beIN Sports 5",
-"beIN Sports (US)",
-"beIN Sports en Español (US)",
-"beIN Sports CONNECT (US)"
-],
-"UY": [
-"Disney+ Premium"
-]
-},
-"competition": {
-"ar": "الدوري الفرنسي",
-"de": "Ligue 1",
-"en": "Ligue 1",
-"es": "Ligue 1",
-"fr": "Ligue 1",
-"it": "Ligue 1",
-"pt": "Ligue 1",
-"tr": "Fransa Ligue 1"
-},
-"competitionId": "ligue1",
-"home": "Lorient",
-"homeNames": {
-"ar": "لوريان",
-"de": "FC Lorient",
-"en": "Lorient",
-"es": "Lorient",
-"fr": "FC Lorient",
-"it": "Lorient",
-"pt": "Lorient",
-"tr": "Lorient"
-},
-"id": "football-20261122-lorient-rennes",
-"kickoffUtc": "2026-11-22T16:15:00Z",
-"sources": [
-"fotmob"
-],
-"sport": "football",
-"tier": "global"
-},
-"slug": "fc-lorient-rennes-2026-11-22"
 },
 "fr:football-20261122-marseille-le-mans": {
 "lang": "fr",
@@ -29846,979 +25621,6 @@
 "tier": "global"
 },
 "slug": "osasuna-malaga-2026-11-22"
-},
-"fr:football-20261122-paris-fc-angers": {
-"lang": "fr",
-"m": {
-"away": "Angers",
-"awayNames": {
-"ar": "أنجيه",
-"de": "SCO Angers",
-"en": "Angers",
-"es": "Angers",
-"fr": "Angers SCO",
-"it": "Angers",
-"pt": "Angers",
-"tr": "Angers"
-},
-"broadcasts": {
-"AE": [
-"beIN Sports"
-],
-"AR": [
-"Disney+ Premium"
-],
-"AT": [
-"DAZN"
-],
-"BE": [
-"DAZN (BE)"
-],
-"BH": [
-"beIN Sports MENA 4",
-"TOD TV"
-],
-"BR": [
-"CazéTV YouTube",
-"CazeTV",
-"Xsports"
-],
-"CA": [
-"beIN Sport Canada Espanol",
-"beIN Sport Canada"
-],
-"CH": [
-"DAZN"
-],
-"CI": [
-"Canal+"
-],
-"CL": [
-"Disney+ Premium"
-],
-"CO": [
-"Disney+ Premium"
-],
-"DE": [
-"DAZN Deutschland"
-],
-"DZ": [
-"beIN Sports"
-],
-"EC": [
-"Disney+ Premium"
-],
-"EG": [
-"beIN Sports"
-],
-"ES": [
-"DAZN"
-],
-"FR": [
-"DAZN.com (FR)",
-"Ligue 1+"
-],
-"GB": [
-"Ligue 1+ (UK/ROI)"
-],
-"GH": [
-"SuperSport MaXimo 1",
-"DStv Now",
-"SuperSport 1 Africa"
-],
-"HR": [
-"MAX To Go",
-"Arena Sport 3"
-],
-"IQ": [
-"beIN Sports"
-],
-"JO": [
-"beIN Sports"
-],
-"JP": [
-"DAZN"
-],
-"KR": [
-"Coupang Play"
-],
-"KW": [
-"beIN Sports MENA 4",
-"TOD TV"
-],
-"LY": [
-"beIN Sports"
-],
-"MA": [
-"beIN Sports 4",
-"beIN CONNECT",
-"TOD"
-],
-"ML": [
-"Canal+"
-],
-"MX": [
-"FOX One"
-],
-"NG": [
-"SuperSport MaXimo 1",
-"SuperSport Kickoff"
-],
-"NL": [
-"Viaplay NL"
-],
-"NO": [
-"TV 2 Play (NO)",
-"Viaplay NO"
-],
-"OM": [
-"beIN Sports"
-],
-"PE": [
-"Disney+ Premium"
-],
-"PT": [
-"Sport TV 2",
-"Fanatiz"
-],
-"PY": [
-"Disney+ Premium"
-],
-"QA": [
-"beIN Sports"
-],
-"SA": [
-"beIN Sports"
-],
-"SN": [
-"Canal+"
-],
-"TN": [
-"beIN Sports"
-],
-"TR": [
-"beIN Sports 4",
-"beIN CONNECT",
-"TOD"
-],
-"US": [
-"beIN Sports 6",
-"beIN Sports (US)",
-"beIN Sports en Español (US)",
-"beIN Sports CONNECT (US)"
-],
-"UY": [
-"Disney+ Premium"
-],
-"ZA": [
-"SuperSport MaXimo 1",
-"SuperSport 1 Africa"
-]
-},
-"competition": {
-"ar": "الدوري الفرنسي",
-"de": "Ligue 1",
-"en": "Ligue 1",
-"es": "Ligue 1",
-"fr": "Ligue 1",
-"it": "Ligue 1",
-"pt": "Ligue 1",
-"tr": "Fransa Ligue 1"
-},
-"competitionId": "ligue1",
-"home": "Paris FC",
-"homeNames": {
-"ar": "باريس إف سي",
-"de": "Paris FC",
-"en": "Paris FC",
-"es": "Paris FC",
-"fr": "Paris FC",
-"it": "Paris FC",
-"pt": "Paris FC",
-"tr": "Paris FC"
-},
-"id": "football-20261122-paris-fc-angers",
-"kickoffUtc": "2026-11-22T14:00:00Z",
-"sources": [
-"fotmob"
-],
-"sport": "football",
-"tier": "global"
-},
-"slug": "paris-fc-angers-sco-2026-11-22"
-},
-"fr:football-20261122-racing-santander-real-sociedad": {
-"lang": "fr",
-"m": {
-"away": "Real Sociedad",
-"awayNames": {
-"ar": "ريال سوسيداد",
-"de": "Real Sociedad",
-"en": "Real Sociedad",
-"es": "Real Sociedad",
-"fr": "Real Sociedad",
-"it": "Real Sociedad",
-"pt": "Real Sociedad",
-"tr": "Real Sociedad"
-},
-"broadcasts": {
-"AE": [
-"beIN Sports"
-],
-"AR": [
-"ESPN 3",
-"Disney+ Premium"
-],
-"AT": [
-"DAZN"
-],
-"AU": [
-"beIN Sports 3",
-"beIN CONNECT"
-],
-"BE": [
-"DAZN (BE)"
-],
-"BH": [
-"beIN Sports MENA 2",
-"TOD TV"
-],
-"BR": [
-"CazéTV YouTube",
-"CazeTV"
-],
-"CA": [
-"TSN+"
-],
-"CH": [
-"DAZN"
-],
-"CI": [
-"Canal+"
-],
-"CL": [
-"ESPN 2",
-"Disney+ Premium"
-],
-"CO": [
-"ESPN 2",
-"Disney+ Premium"
-],
-"CZ": [
-"Nova Sport 4"
-],
-"DE": [
-"DAZN Deutschland"
-],
-"DZ": [
-"beIN Sports"
-],
-"EC": [
-"ESPN 2",
-"Disney+ Premium"
-],
-"EG": [
-"beIN Sports"
-],
-"ES": [
-"LaLiga TV Bar",
-"M+ LALIGA",
-"M+ LALIGA HDR"
-],
-"FR": [
-"DAZN 1 (FR)",
-"DAZN.com (FR)",
-"Disney+ (FR)"
-],
-"GB": [
-"Premier Sports 1 UK",
-"Premier Sports Player",
-"LaLigaTV"
-],
-"GH": [
-"StarTimes Ghana",
-"Sporty TV",
-"SuperSport GOtv LaLiga",
-"SuperSport Laliga ROA"
-],
-"HR": [
-"SportKlub",
-"Arena Sport"
-],
-"IQ": [
-"beIN Sports"
-],
-"IT": [
-"DAZN Italia"
-],
-"JO": [
-"beIN Sports"
-],
-"JP": [
-"DAZN",
-"U-NEXT"
-],
-"KR": [
-"Coupang Play"
-],
-"KW": [
-"beIN Sports MENA 2",
-"TOD TV"
-],
-"LY": [
-"beIN Sports"
-],
-"MA": [
-"beIN CONNECT",
-"TOD"
-],
-"ML": [
-"Canal+"
-],
-"MX": [
-"Canal 5",
-"SKY Sports",
-"ViX Premium"
-],
-"NG": [
-"SuperSport GOtv LaLiga",
-"Sporty TV",
-"StarTimes App"
-],
-"NO": [
-"TV 2 Sport Premium",
-"TV 2 Play (NO)",
-"Viaplay NO"
-],
-"OM": [
-"beIN Sports"
-],
-"PE": [
-"ESPN 2",
-"Disney+ Premium"
-],
-"PT": [
-"DAZN 3"
-],
-"PY": [
-"ESPN 2",
-"Disney+ Premium"
-],
-"QA": [
-"beIN Sports"
-],
-"SA": [
-"beIN Sports"
-],
-"SN": [
-"Canal+"
-],
-"TN": [
-"beIN Sports"
-],
-"TR": [
-"S Sport",
-"S Sport Plus"
-],
-"US": [
-"ESPN Select",
-"ESPN Unlimited",
-"ESPN Deportes",
-"Fubo Sports"
-],
-"UY": [
-"ESPN 2",
-"Disney+ Premium"
-],
-"ZA": [
-"StarTimes App",
-"Sporty TV",
-"OneFootball",
-"SuperSport GOtv LaLiga"
-]
-},
-"competition": {
-"ar": "الدوري الإسباني",
-"de": "LaLiga",
-"en": "LaLiga",
-"es": "LaLiga",
-"fr": "LaLiga",
-"it": "LaLiga",
-"pt": "LaLiga",
-"tr": "İspanya LaLiga"
-},
-"competitionId": "laliga",
-"home": "Racing Santander",
-"homeNames": {
-"ar": "راسينغ سانتاندير",
-"de": "Racing Santander",
-"en": "Racing Santander",
-"es": "Racing de Santander",
-"fr": "Racing de Santander",
-"it": "Racing Santander",
-"pt": "Racing Santander",
-"tr": "Racing Santander"
-},
-"id": "football-20261122-racing-santander-real-sociedad",
-"kickoffUtc": "2026-11-22T15:15:00Z",
-"sources": [
-"fotmob"
-],
-"sport": "football",
-"tier": "global"
-},
-"slug": "racing-de-santander-real-sociedad-2026-11-22"
-},
-"fr:football-20261122-sassuolo-genoa": {
-"lang": "fr",
-"m": {
-"away": "Genoa",
-"awayNames": {
-"ar": "جنوى",
-"de": "Genoa",
-"en": "Genoa",
-"es": "Genoa",
-"fr": "Genoa",
-"it": "Genoa",
-"pt": "Genoa",
-"tr": "Genoa"
-},
-"broadcasts": {
-"AE": [
-"beIN Sports"
-],
-"AR": [
-"ESPN 4",
-"Disney+ Premium"
-],
-"AT": [
-"DAZN"
-],
-"AU": [
-"beIN CONNECT"
-],
-"BE": [
-"DAZN (BE)"
-],
-"BR": [
-"ESPN Brasil",
-"Disney+ Premium"
-],
-"CA": [
-"DAZN Canada"
-],
-"CH": [
-"DAZN",
-"SI Solocalcio"
-],
-"CI": [
-"Canal+"
-],
-"CL": [
-"ESPN 4",
-"Disney+ Premium"
-],
-"CO": [
-"ESPN 4",
-"Disney+ Premium"
-],
-"DE": [
-"DAZN Deutschland"
-],
-"DZ": [
-"beIN Sports"
-],
-"EC": [
-"ESPN 4",
-"Disney+ Premium"
-],
-"EG": [
-"beIN Sports"
-],
-"ES": [
-"DAZN"
-],
-"FR": [
-"DAZN 1 (FR)",
-"DAZN.com (FR)"
-],
-"GB": [
-"DAZN UK"
-],
-"GT": [
-"ESPN",
-"Disney+"
-],
-"HR": [
-"MAX To Go",
-"Arena Sport 4"
-],
-"IQ": [
-"beIN Sports"
-],
-"IT": [
-"DAZN Italia"
-],
-"JO": [
-"beIN Sports"
-],
-"JP": [
-"DAZN"
-],
-"KR": [
-"SPOTV NOW"
-],
-"LY": [
-"beIN Sports"
-],
-"MA": [
-"STARZPLAY"
-],
-"ML": [
-"Canal+"
-],
-"MX": [
-"ESPN",
-"Disney+ Premium"
-],
-"NO": [
-"VG TV"
-],
-"NZ": [
-"beIN Sports Connect New Zealand"
-],
-"OM": [
-"beIN Sports"
-],
-"PE": [
-"ESPN 4",
-"Disney+ Premium"
-],
-"PT": [
-"Sport TV 3"
-],
-"PY": [
-"ESPN 4",
-"Disney+ Premium"
-],
-"QA": [
-"beIN Sports"
-],
-"SA": [
-"beIN Sports"
-],
-"SN": [
-"Canal+"
-],
-"TN": [
-"beIN Sports"
-],
-"TR": [
-"S Sport",
-"S Sport Plus"
-],
-"US": [
-"Paramount+ (US)",
-"Peacock (Español)"
-],
-"UY": [
-"ESPN 4",
-"Disney+ Premium"
-]
-},
-"competition": {
-"ar": "الدوري الإيطالي",
-"de": "Serie A",
-"en": "Serie A",
-"es": "Serie A",
-"fr": "Serie A",
-"it": "Serie A",
-"pt": "Serie A",
-"tr": "İtalya Serie A"
-},
-"competitionId": "seriea",
-"home": "Sassuolo",
-"homeNames": {
-"ar": "ساسولو",
-"de": "Sassuolo",
-"en": "Sassuolo",
-"es": "Sassuolo",
-"fr": "Sassuolo",
-"it": "Sassuolo",
-"pt": "Sassuolo",
-"tr": "Sassuolo"
-},
-"id": "football-20261122-sassuolo-genoa",
-"kickoffUtc": "2026-11-22T14:00:00Z",
-"sources": [
-"fotmob"
-],
-"sport": "football",
-"tier": "global"
-},
-"slug": "sassuolo-genoa-2026-11-22"
-},
-"fr:football-20261122-trabzonspor-eyupspor": {
-"lang": "fr",
-"m": {
-"away": "Eyupspor",
-"awayNames": {
-"ar": "Eyüpspor",
-"de": "Eyüpspor",
-"en": "Eyüpspor",
-"es": "Eyüpspor",
-"fr": "Eyüpspor",
-"it": "Eyüpspor",
-"pt": "Eyüpspor",
-"tr": "Eyüpspor"
-},
-"broadcasts": {
-"AE": [
-"beIN Sports MENA 3",
-"TOD TV",
-"beIN Sports MAX 5"
-],
-"AR": [
-"FOX Sports 3",
-"Disney+ Premium"
-],
-"BH": [
-"beIN Sports MENA 3",
-"TOD TV",
-"beIN Sports MAX 5"
-],
-"BR": [
-"ESPN 4",
-"Disney+ Premium"
-],
-"CL": [
-"ESPN 7",
-"Disney+ Premium"
-],
-"CO": [
-"ESPN 7",
-"Disney+ Premium"
-],
-"DE": [
-"Digiturk Euro"
-],
-"DZ": [
-"beIN Sports MENA 3",
-"TOD TV",
-"beIN Sports MAX 5"
-],
-"EC": [
-"ESPN 7",
-"Disney+ Premium"
-],
-"EG": [
-"beIN Sports MENA 3",
-"TOD TV",
-"beIN Sports MAX 5"
-],
-"FR": [
-"beIN Sports MAX 5 (FR)"
-],
-"GH": [
-"ESPN 2 Africa"
-],
-"IQ": [
-"beIN Sports MENA 3",
-"TOD TV",
-"beIN Sports MAX 5"
-],
-"JO": [
-"beIN Sports MENA 3",
-"TOD TV",
-"beIN Sports MAX 5"
-],
-"KW": [
-"beIN Sports MENA 3",
-"TOD TV",
-"beIN Sports MAX 5"
-],
-"LY": [
-"beIN Sports MENA 3",
-"TOD TV",
-"beIN Sports MAX 5"
-],
-"MA": [
-"TOD",
-"beIN CONNECT"
-],
-"MX": [
-"ESPN 3",
-"Disney+ Premium"
-],
-"NG": [
-"ESPN 2 Africa"
-],
-"OM": [
-"beIN Sports MENA 3",
-"TOD TV",
-"beIN Sports MAX 5"
-],
-"PE": [
-"ESPN 7",
-"Disney+ Premium"
-],
-"PT": [
-"Sport TV 6",
-"Fanatiz"
-],
-"PY": [
-"ESPN 7",
-"Disney+ Premium"
-],
-"QA": [
-"beIN Sports MENA 3",
-"TOD TV",
-"beIN Sports MAX 5"
-],
-"SA": [
-"beIN Sports MENA 3",
-"TOD TV",
-"beIN Sports MAX 5"
-],
-"TN": [
-"beIN Sports MENA 3",
-"TOD TV",
-"beIN Sports MAX 5"
-],
-"TR": [
-"beIN Sports 1"
-],
-"US": [
-"beIN Sports 3",
-"beIN Sports CONNECT (US)"
-],
-"UY": [
-"ESPN 7",
-"Disney+ Premium"
-],
-"ZA": [
-"ESPN 2 Africa"
-]
-},
-"competition": {
-"ar": "الدوري التركي الممتاز",
-"de": "Süper Lig",
-"en": "Süper Lig",
-"es": "Superliga de Turquía",
-"fr": "Süper Lig",
-"it": "Süper Lig",
-"pt": "Liga Turca",
-"tr": "Trendyol Süper Lig"
-},
-"competitionId": "superlig",
-"home": "Trabzonspor",
-"homeNames": {
-"ar": "طرابزون",
-"de": "Trabzonspor",
-"en": "Trabzonspor",
-"es": "Trabzonspor",
-"fr": "Trabzonspor",
-"it": "Trabzonspor",
-"pt": "Trabzonspor",
-"tr": "Trabzonspor"
-},
-"id": "football-20261122-trabzonspor-eyupspor",
-"kickoffUtc": "2026-11-22T16:00:00Z",
-"sources": [
-"fotmob"
-],
-"sport": "football",
-"tier": "global"
-},
-"slug": "trabzonspor-eyupspor-2026-11-22"
-},
-"fr:football-20261122-werder-bremen-hamburger-sv": {
-"lang": "fr",
-"m": {
-"away": "Hamburger SV",
-"awayNames": {
-"ar": "Hamburger SV",
-"de": "Hamburger SV",
-"en": "Hamburger SV",
-"es": "Hamburger SV",
-"fr": "Hamburger SV",
-"it": "Hamburger SV",
-"pt": "Hamburger SV",
-"tr": "Hamburger SV"
-},
-"broadcasts": {
-"AE": [
-"MBC Shahid",
-"beIN Sports MAX 6"
-],
-"AR": [
-"Disney+ Premium"
-],
-"AT": [
-"DAZN"
-],
-"AU": [
-"beIN CONNECT"
-],
-"BE": [
-"Play Sports 2",
-"Play Sports"
-],
-"BH": [
-"MBC Shahid",
-"beIN Sports MAX 6"
-],
-"BR": [
-"Canal GOAT",
-"OneFootball",
-"OneFootball PPV",
-"SportyNet"
-],
-"CA": [
-"DAZN Canada",
-"OneSoccer"
-],
-"CH": [
-"DAZN",
-"beIN Sports CH"
-],
-"CL": [
-"Disney+ Premium"
-],
-"CO": [
-"Disney+ Premium"
-],
-"CZ": [
-"Nova Sport 3"
-],
-"DE": [
-"DAZN Deutschland"
-],
-"DZ": [
-"MBC Shahid",
-"beIN Sports MAX 6"
-],
-"EC": [
-"Disney+ Premium"
-],
-"EG": [
-"MBC Shahid",
-"beIN Sports MAX 6"
-],
-"ES": [
-"DAZN",
-"LaLiga TV M5"
-],
-"FR": [
-"beIN Sports MAX 6 (FR)"
-],
-"GB": [
-"Prime Video PPV (UK)"
-],
-"IQ": [
-"MBC Shahid",
-"beIN Sports MAX 6"
-],
-"JO": [
-"MBC Shahid",
-"beIN Sports MAX 6"
-],
-"JP": [
-"DAZN"
-],
-"KR": [
-"Coupang Play"
-],
-"KW": [
-"MBC Shahid",
-"beIN Sports MAX 6"
-],
-"LY": [
-"MBC Shahid",
-"beIN Sports MAX 6"
-],
-"MA": [
-"beIN CONNECT",
-"TOD",
-"Shahid"
-],
-"MX": [
-"FOX One"
-],
-"NL": [
-"ViaplayTV NL",
-"Viaplay NL"
-],
-"NO": [
-"V sport 1 NO",
-"Viaplay NO",
-"TV 2 Play (NO)"
-],
-"OM": [
-"MBC Shahid",
-"beIN Sports MAX 6"
-],
-"PE": [
-"Disney+ Premium"
-],
-"PY": [
-"Disney+ Premium"
-],
-"QA": [
-"MBC Shahid",
-"beIN Sports MAX 6"
-],
-"SA": [
-"MBC Shahid",
-"beIN Sports MAX 6"
-],
-"TN": [
-"MBC Shahid",
-"beIN Sports MAX 6"
-],
-"TR": [
-"S Sport",
-"S Sport Plus"
-],
-"US": [
-"Peacock (Español)",
-"Fandango"
-],
-"UY": [
-"Disney+ Premium"
-]
-},
-"competition": {
-"ar": "الدوري الألماني",
-"de": "Bundesliga",
-"en": "Bundesliga",
-"es": "Bundesliga",
-"fr": "Bundesliga",
-"it": "Bundesliga",
-"pt": "Bundesliga",
-"tr": "Almanya Bundesliga"
-},
-"competitionId": "bundesliga",
-"home": "Werder Bremen",
-"homeNames": {
-"ar": "فيردر بريمن",
-"de": "Werder Bremen",
-"en": "Werder Bremen",
-"es": "Werder Bremen",
-"fr": "Werder Brême",
-"it": "Werder Brema",
-"pt": "Werder Bremen",
-"tr": "Werder Bremen"
-},
-"id": "football-20261122-werder-bremen-hamburger-sv",
-"kickoffUtc": "2026-11-22T16:30:00Z",
-"sources": [
-"fotmob"
-],
-"sport": "football",
-"tier": "global"
-},
-"slug": "werder-breme-hamburger-sv-2026-11-22"
 },
 "fr:football-20261123-basaksehir-corum-fk": {
 "lang": "fr",
@@ -34135,6 +28937,10 @@
 "Play Sports 7",
 "Pickx+ Sports 8"
 ],
+"BH": [
+"beIN Sports MENA 6",
+"TOD TV"
+],
 "BR": [
 "HBO Max"
 ],
@@ -34207,6 +29013,10 @@
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"beIN Sports MENA 6",
+"TOD TV"
 ],
 "LY": [
 "beIN Sports"
@@ -34345,6 +29155,9 @@
 "VTM GO",
 "VTM 2"
 ],
+"BH": [
+"beIN Sports MENA 3"
+],
 "BR": [
 "HBO Max"
 ],
@@ -34421,6 +29234,9 @@
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"beIN Sports MENA 3"
 ],
 "LY": [
 "beIN Sports"
@@ -34557,6 +29373,10 @@
 "BE": [
 "Pickx+ Sports 6"
 ],
+"BH": [
+"beIN Sports MENA 4",
+"TOD TV"
+],
 "BR": [
 "HBO Max"
 ],
@@ -34633,6 +29453,10 @@
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"beIN Sports MENA 4",
+"TOD TV"
 ],
 "LY": [
 "beIN Sports"
@@ -34771,6 +29595,10 @@
 "Pickx+ Sports 4",
 "Play Sports 4"
 ],
+"BH": [
+"beIN Sports MENA 5",
+"TOD TV"
+],
 "BR": [
 "TNT Sports YouTube",
 "Space",
@@ -34851,6 +29679,10 @@
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"beIN Sports MENA 5",
+"TOD TV"
 ],
 "LY": [
 "beIN Sports"
@@ -34988,6 +29820,10 @@
 "Play Sports",
 "Play Sports 3"
 ],
+"BH": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
 "BR": [
 "TNT",
 "HBO Max"
@@ -35066,6 +29902,10 @@
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "LY": [
 "beIN Sports"
@@ -35210,6 +30050,10 @@
 "Pickx+ Sports 2",
 "Play Sports 3"
 ],
+"BH": [
+"beIN Sports MENA 2",
+"TOD TV"
+],
 "BR": [
 "TNT",
 "HBO Max"
@@ -35291,6 +30135,10 @@
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"beIN Sports MENA 2",
+"TOD TV"
 ],
 "LY": [
 "beIN Sports"
@@ -35570,6 +30418,9 @@
 "Pickx+ Sports 7",
 "Play Sports 6"
 ],
+"BH": [
+"beIN Sports MENA 8"
+],
 "BR": [
 "HBO Max"
 ],
@@ -35640,6 +30491,9 @@
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"beIN Sports MENA 8"
 ],
 "LY": [
 "beIN Sports"
@@ -35777,6 +30631,10 @@
 "Play Sports 4",
 "Play Sports"
 ],
+"BH": [
+"beIN Sports MENA 4",
+"TOD TV"
+],
 "BR": [
 "Space",
 "HBO Max"
@@ -35852,6 +30710,10 @@
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"beIN Sports MENA 4",
+"TOD TV"
 ],
 "LY": [
 "beIN Sports"
@@ -35993,6 +30855,10 @@
 "Play Sports 5",
 "Play Sports"
 ],
+"BH": [
+"beIN Sports MENA 2",
+"TOD TV"
+],
 "BR": [
 "HBO Max"
 ],
@@ -36067,6 +30933,10 @@
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"beIN Sports MENA 2",
+"TOD TV"
 ],
 "LY": [
 "beIN Sports"
@@ -36183,11 +31053,17 @@
 "tr": "Millwall"
 },
 "broadcasts": {
+"AE": [
+"beIN Sports MAX 4"
+],
 "AR": [
 "Disney+ Premium"
 ],
 "AU": [
 "beIN Sports 3"
+],
+"BH": [
+"beIN Sports MAX 4"
 ],
 "BR": [
 "ESPN 4",
@@ -36201,6 +31077,12 @@
 ],
 "CO": [
 "Disney+ Premium"
+],
+"DZ": [
+"beIN Sports MAX 4"
+],
+"EG": [
+"beIN Sports MAX 4"
 ],
 "FR": [
 "beIN Sports MAX 4 (FR)"
@@ -36218,8 +31100,20 @@
 "MAX To Go",
 "Arena Sport 8"
 ],
+"IQ": [
+"beIN Sports MAX 4"
+],
+"JO": [
+"beIN Sports MAX 4"
+],
 "JP": [
 "DAZN"
+],
+"KW": [
+"beIN Sports MAX 4"
+],
+"LY": [
+"beIN Sports MAX 4"
 ],
 "MA": [
 "beIN Sports XTRA"
@@ -36239,6 +31133,9 @@
 "V sport 2 NO",
 "Viaplay NO"
 ],
+"OM": [
+"beIN Sports MAX 4"
+],
 "PE": [
 "Disney+ Premium"
 ],
@@ -36247,6 +31144,15 @@
 ],
 "PY": [
 "Disney+ Premium"
+],
+"QA": [
+"beIN Sports MAX 4"
+],
+"SA": [
+"beIN Sports MAX 4"
+],
+"TN": [
+"beIN Sports MAX 4"
 ],
 "TR": [
 "S Sport",
