@@ -219,6 +219,7 @@ def sayfa(ctx, lang, v, alternatifler, simdi):
   <meta property="og:url" content="{canon}">
   <meta name="theme-color" content="#0b8f5a" media="(prefers-color-scheme: light)">
   <meta name="theme-color" content="#0b0f17" media="(prefers-color-scheme: dark)">
+  <meta name="apple-itunes-app" content="app-id=6779112504, app-argument=https://sportstvtoday.com/">
   <link rel="icon" href="{favicon}">
   <link rel="stylesheet" href="/assets/styles.css?v={asset_ver}">
   <script type="application/ld+json">{ld}</script>
@@ -271,7 +272,7 @@ def sayfa(ctx, lang, v, alternatifler, simdi):
         h1=_esc(d["h1"].format(**alan)), giris=_esc(giris), kart=kart, takvim=takvim,
         linkler="\n      ".join(linkler), diger=diger_html,
         cta=_esc(d["cta"].format(**alan)), sub=d["sub"],
-        apple=ctx["APPLE"], google=ctx["play_link"](lang, "mac"),
+        apple=ctx["APPLE"]+"?ct=web_"+lang+"_mac", google=ctx["play_link"](lang, "mac"),
         apple_svg=ctx["APPLE_SVG"], google_svg=ctx["GOOGLE_SVG"],
         langlinks=langlinks, footlinks=ctx["foot_links"](lang))
 

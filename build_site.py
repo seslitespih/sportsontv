@@ -590,6 +590,7 @@ def page(lang, sport=None, comp=None):
   <meta name="twitter:card" content="summary_large_image">
   <meta name="theme-color" content="#0b8f5a" media="(prefers-color-scheme: light)">
   <meta name="theme-color" content="#0b0f17" media="(prefers-color-scheme: dark)">
+  <meta name="apple-itunes-app" content="app-id=6779112504, app-argument=https://sportstvtoday.com/">
   <link rel="icon" href="{favicon}">
   <link rel="preconnect" href="https://raw.githubusercontent.com" crossorigin>
   <link rel="stylesheet" href="/assets/styles.css">
@@ -658,7 +659,7 @@ def page(lang, sport=None, comp=None):
         lang=lang, dir=d["dir"], title=d["title"], desc=d["desc"], canon=canon,
         hreflangs=alt_links, brand=BRAND, oglocale=OG_LOCALE[lang],
         base=BASE, selfurl=path_for(lang), langopts=langopts,
-        h1=d["h1"], sub=d["sub"], apple=APPLE, google=play_link(lang, key), store=d["store"], cta=CTA[lang],
+        h1=d["h1"], sub=d["sub"], apple=APPLE+"?ct=web_"+lang+"_"+str(key), google=play_link(lang, key), store=d["store"], cta=CTA[lang],
         today=d["today"], feats=feats, proseT=d["proseT"], prose=d["prose"],
         faq_section=faq_section, langlinks=langlinks, foot=d["foot"],
         footlinks=foot_links(lang),
@@ -818,6 +819,7 @@ def about_page(lang):
   <meta property="og:url" content="{canon}">
   <meta name="theme-color" content="#0b8f5a" media="(prefers-color-scheme: light)">
   <meta name="theme-color" content="#0b0f17" media="(prefers-color-scheme: dark)">
+  <meta name="apple-itunes-app" content="app-id=6779112504, app-argument=https://sportstvtoday.com/">
   <link rel="icon" href="{favicon}">
   <link rel="stylesheet" href="/assets/styles.css">
   <script type="application/ld+json">{ld}</script>
@@ -860,7 +862,7 @@ def about_page(lang):
         brand=BRAND, oglocale=OG_LOCALE[lang], favicon=FAVICON,
         ld=json.dumps(ld, ensure_ascii=False), about_js=ABOUT_JS, analytics=analytics_tag(),
         home=path_for(lang), logo_svg=LOGO_SVG, opts=opts, theme_svg=THEME_SVG,
-        h1=a["h1"], secs=secs, cta=CTA[lang], apple=APPLE, google=GOOGLE,
+        h1=a["h1"], secs=secs, cta=CTA[lang], apple=APPLE+"?ct=web_"+lang+"_about", google=GOOGLE,
         apple_svg=APPLE_SVG, google_svg=GOOGLE_SVG, langlinks=langlinks, footlinks=foot_links(lang))
 
 # ── maç sayfaları (es/fr) — diğer sayfalardan ÖNCE, çünkü onlar bu listeye bağlantı verir ──
