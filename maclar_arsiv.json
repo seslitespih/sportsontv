@@ -7409,158 +7409,6 @@
 },
 "slug": "monza-fiorentina-2026-11-23"
 },
-"es:football-20261123-neftchi-fargona-al-hilal": {
-"lang": "es",
-"m": {
-"away": "Al Hilal",
-"awayNames": {
-"ar": "الهلال",
-"de": "Al-Hilal",
-"en": "Al Hilal",
-"es": "Al Hilal",
-"fr": "Al-Hilal",
-"it": "Al Hilal",
-"pt": "Al-Hilal",
-"tr": "Al Hilal"
-},
-"broadcasts": {
-"AE": [
-"beIN Sports MENA 1",
-"TOD TV"
-],
-"AR": [
-"ESPN 4",
-"Disney+ Premium"
-],
-"BH": [
-"beIN Sports MENA 1",
-"TOD TV"
-],
-"BR": [
-"ESPN 4",
-"Disney+ Premium"
-],
-"CL": [
-"ESPN 4",
-"Disney+ Premium"
-],
-"CO": [
-"ESPN 4",
-"Disney+ Premium"
-],
-"DZ": [
-"beIN Sports MENA 1",
-"TOD TV"
-],
-"EC": [
-"ESPN 4",
-"Disney+ Premium"
-],
-"EG": [
-"beIN Sports MENA 1",
-"TOD TV"
-],
-"ES": [
-"The AFC Hub YouTube"
-],
-"IQ": [
-"beIN Sports MENA 1",
-"TOD TV"
-],
-"JO": [
-"beIN Sports MENA 1",
-"TOD TV"
-],
-"JP": [
-"DAZN"
-],
-"KW": [
-"beIN Sports MENA 1",
-"TOD TV"
-],
-"LY": [
-"beIN Sports MENA 1",
-"TOD TV"
-],
-"MA": [
-"beIN Sports 1",
-"beIN CONNECT",
-"TOD",
-"beIN Sports English"
-],
-"MX": [
-"ESPN",
-"Disney+ Premium"
-],
-"NL": [
-"ESPN NL",
-"ESPN Watch NL"
-],
-"OM": [
-"beIN Sports MENA 1",
-"TOD TV"
-],
-"PE": [
-"ESPN 4",
-"Disney+ Premium"
-],
-"PT": [
-"Canal 11"
-],
-"PY": [
-"ESPN 4",
-"Disney+ Premium"
-],
-"QA": [
-"beIN Sports MENA 1",
-"ALKASS Six",
-"TOD TV"
-],
-"SA": [
-"beIN Sports MENA 1",
-"TOD TV"
-],
-"TN": [
-"beIN Sports MENA 1",
-"TOD TV"
-],
-"UY": [
-"ESPN 4",
-"Disney+ Premium"
-]
-},
-"competition": {
-"ar": "دوري أبطال آسيا للنخبة",
-"de": "AFC Champions League Elite",
-"en": "AFC Champions League Elite",
-"es": "Liga de Campeones de la AFC Elite",
-"fr": "Ligue des champions de l'AFC Elite",
-"it": "AFC Champions League Elite",
-"pt": "Liga dos Campeões da AFC Elite",
-"tr": "AFC Şampiyonlar Ligi Elit"
-},
-"competitionId": "afc_cl",
-"home": "Neftchi Fargona",
-"homeNames": {
-"ar": "Neftchi Fargona",
-"de": "Neftchi Fargona",
-"en": "Neftchi Fargona",
-"es": "Neftchi Fargona",
-"fr": "Neftchi Fargona",
-"it": "Neftchi Fargona",
-"pt": "Neftchi Fargona",
-"tr": "Neftchi Fargona"
-},
-"id": "football-20261123-neftchi-fargona-al-hilal",
-"kickoffUtc": "2026-11-23T13:45:00Z",
-"sources": [
-"fotmob"
-],
-"sport": "football",
-"tier": "global"
-},
-"slug": "neftchi-fargona-al-hilal-2026-11-23"
-},
 "es:football-20261123-tractor-al-wasl": {
 "lang": "es",
 "m": {
@@ -15202,6 +15050,9 @@
 "tr": "Atalanta"
 },
 "broadcasts": {
+"AE": [
+"beIN Sports MENA 8"
+],
 "AR": [
 "Disney+ Premium"
 ],
@@ -15213,6 +15064,9 @@
 ],
 "BE": [
 "Play Sports"
+],
+"BH": [
+"beIN Sports MENA 8"
 ],
 "BR": [
 "CazeTV"
@@ -15234,8 +15088,14 @@
 "RTL+",
 "RTL"
 ],
+"DZ": [
+"beIN Sports MENA 8"
+],
 "EC": [
 "Kanál k potvrzení"
+],
+"EG": [
+"beIN Sports MENA 8"
 ],
 "ES": [
 "Movistar+ Dispositivos",
@@ -15255,16 +15115,28 @@
 "MAX To Go",
 "Arena Sport"
 ],
+"IQ": [
+"beIN Sports MENA 8"
+],
 "IT": [
 "Sky Sport 254",
 "Sky Sport Max (IT)",
 "NOW TV (IT)"
+],
+"JO": [
+"beIN Sports MENA 8"
 ],
 "JP": [
 "確認予定"
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"beIN Sports MENA 8"
+],
+"LY": [
+"beIN Sports MENA 8"
 ],
 "MA": [
 "beIN CONNECT"
@@ -15276,11 +15148,23 @@
 "Viaplay NO",
 "TV 2 Play (NO)"
 ],
+"OM": [
+"beIN Sports MENA 8"
+],
 "PE": [
 "Disney+ Premium"
 ],
 "PY": [
 "Disney+ Premium"
+],
+"QA": [
+"beIN Sports MENA 8"
+],
+"SA": [
+"beIN Sports MENA 8"
+],
+"TN": [
+"beIN Sports MENA 8"
 ],
 "TR": [
 "tabii"
@@ -16212,6 +16096,10 @@
 "tr": "Trabzonspor"
 },
 "broadcasts": {
+"AE": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
 "AR": [
 "Disney+ Premium"
 ],
@@ -16223,6 +16111,10 @@
 ],
 "BE": [
 "Play Sports"
+],
+"BH": [
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "BR": [
 "CazeTV"
@@ -16239,8 +16131,16 @@
 "DE": [
 "RTL+"
 ],
+"DZ": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
 "EC": [
 "Kanál k potvrzení"
+],
+"EG": [
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "ES": [
 "Movistar+ Dispositivos",
@@ -16256,14 +16156,30 @@
 "HR": [
 "Arena Sport"
 ],
+"IQ": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
 "IT": [
 "Sky Sport"
+],
+"JO": [
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "JP": [
 "確認予定"
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
+"LY": [
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "MA": [
 "beIN Sports 1",
@@ -16277,11 +16193,27 @@
 "Viaplay NO",
 "TV 2 Play (NO)"
 ],
+"OM": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
 "PE": [
 "Disney+ Premium"
 ],
 "PY": [
 "Disney+ Premium"
+],
+"QA": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
+"SA": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
+"TN": [
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "TR": [
 "TRT 1",
@@ -16958,6 +16890,9 @@
 "tr": "FC Twente"
 },
 "broadcasts": {
+"AE": [
+"beIN Sports MENA 7"
+],
 "AR": [
 "Disney+ Premium"
 ],
@@ -16974,6 +16909,9 @@
 "RTL TVI",
 "RTL Play",
 "Play Sports"
+],
+"BH": [
+"beIN Sports MENA 7"
 ],
 "BR": [
 "CazeTV"
@@ -16999,8 +16937,14 @@
 "WOW",
 "RTL+"
 ],
+"DZ": [
+"beIN Sports MENA 7"
+],
 "EC": [
 "Kanál k potvrzení"
+],
+"EG": [
+"beIN Sports MENA 7"
 ],
 "ES": [
 "Movistar+ Dispositivos",
@@ -17019,8 +16963,14 @@
 "Arena Sport 7",
 "Arena Sport"
 ],
+"IQ": [
+"beIN Sports MENA 7"
+],
 "IT": [
 "Sky Sport"
+],
+"JO": [
+"beIN Sports MENA 7"
 ],
 "JP": [
 "WOWOWオンデマンド",
@@ -17028,6 +16978,12 @@
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"beIN Sports MENA 7"
+],
+"LY": [
+"beIN Sports MENA 7"
 ],
 "MA": [
 "beIN CONNECT"
@@ -17045,11 +17001,23 @@
 "NZ": [
 "DAZN New Zealand"
 ],
+"OM": [
+"beIN Sports MENA 7"
+],
 "PE": [
 "Disney+ Premium"
 ],
 "PY": [
 "Disney+ Premium"
+],
+"QA": [
+"beIN Sports MENA 7"
+],
+"SA": [
+"beIN Sports MENA 7"
+],
+"TN": [
+"beIN Sports MENA 7"
 ],
 "TR": [
 "tabii"
@@ -19763,6 +19731,9 @@
 "BE": [
 "Play Sports"
 ],
+"BH": [
+"TOD TV"
+],
 "BR": [
 "CazeTV"
 ],
@@ -19825,6 +19796,9 @@
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"TOD TV"
 ],
 "LY": [
 "beIN Sports"
@@ -20417,6 +20391,9 @@
 "BE": [
 "Play Sports"
 ],
+"BH": [
+"beIN Sports MENA 9"
+],
 "BR": [
 "CazeTV"
 ],
@@ -20482,6 +20459,9 @@
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"beIN Sports MENA 9"
 ],
 "LY": [
 "beIN Sports"
@@ -32825,6 +32805,9 @@
 "tr": "Atalanta"
 },
 "broadcasts": {
+"AE": [
+"beIN Sports MENA 8"
+],
 "AR": [
 "Disney+ Premium"
 ],
@@ -32836,6 +32819,9 @@
 ],
 "BE": [
 "Play Sports"
+],
+"BH": [
+"beIN Sports MENA 8"
 ],
 "BR": [
 "CazeTV"
@@ -32857,8 +32843,14 @@
 "RTL+",
 "RTL"
 ],
+"DZ": [
+"beIN Sports MENA 8"
+],
 "EC": [
 "Kanál k potvrzení"
+],
+"EG": [
+"beIN Sports MENA 8"
 ],
 "ES": [
 "Movistar+ Dispositivos",
@@ -32878,16 +32870,28 @@
 "MAX To Go",
 "Arena Sport"
 ],
+"IQ": [
+"beIN Sports MENA 8"
+],
 "IT": [
 "Sky Sport 254",
 "Sky Sport Max (IT)",
 "NOW TV (IT)"
+],
+"JO": [
+"beIN Sports MENA 8"
 ],
 "JP": [
 "確認予定"
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"beIN Sports MENA 8"
+],
+"LY": [
+"beIN Sports MENA 8"
 ],
 "MA": [
 "beIN CONNECT"
@@ -32899,11 +32903,23 @@
 "Viaplay NO",
 "TV 2 Play (NO)"
 ],
+"OM": [
+"beIN Sports MENA 8"
+],
 "PE": [
 "Disney+ Premium"
 ],
 "PY": [
 "Disney+ Premium"
+],
+"QA": [
+"beIN Sports MENA 8"
+],
+"SA": [
+"beIN Sports MENA 8"
+],
+"TN": [
+"beIN Sports MENA 8"
 ],
 "TR": [
 "tabii"
@@ -33835,6 +33851,10 @@
 "tr": "Trabzonspor"
 },
 "broadcasts": {
+"AE": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
 "AR": [
 "Disney+ Premium"
 ],
@@ -33846,6 +33866,10 @@
 ],
 "BE": [
 "Play Sports"
+],
+"BH": [
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "BR": [
 "CazeTV"
@@ -33862,8 +33886,16 @@
 "DE": [
 "RTL+"
 ],
+"DZ": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
 "EC": [
 "Kanál k potvrzení"
+],
+"EG": [
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "ES": [
 "Movistar+ Dispositivos",
@@ -33879,14 +33911,30 @@
 "HR": [
 "Arena Sport"
 ],
+"IQ": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
 "IT": [
 "Sky Sport"
+],
+"JO": [
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "JP": [
 "確認予定"
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
+"LY": [
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "MA": [
 "beIN Sports 1",
@@ -33900,11 +33948,27 @@
 "Viaplay NO",
 "TV 2 Play (NO)"
 ],
+"OM": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
 "PE": [
 "Disney+ Premium"
 ],
 "PY": [
 "Disney+ Premium"
+],
+"QA": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
+"SA": [
+"beIN Sports MENA 1",
+"TOD TV"
+],
+"TN": [
+"beIN Sports MENA 1",
+"TOD TV"
 ],
 "TR": [
 "TRT 1",
@@ -34581,6 +34645,9 @@
 "tr": "FC Twente"
 },
 "broadcasts": {
+"AE": [
+"beIN Sports MENA 7"
+],
 "AR": [
 "Disney+ Premium"
 ],
@@ -34597,6 +34664,9 @@
 "RTL TVI",
 "RTL Play",
 "Play Sports"
+],
+"BH": [
+"beIN Sports MENA 7"
 ],
 "BR": [
 "CazeTV"
@@ -34622,8 +34692,14 @@
 "WOW",
 "RTL+"
 ],
+"DZ": [
+"beIN Sports MENA 7"
+],
 "EC": [
 "Kanál k potvrzení"
+],
+"EG": [
+"beIN Sports MENA 7"
 ],
 "ES": [
 "Movistar+ Dispositivos",
@@ -34642,8 +34718,14 @@
 "Arena Sport 7",
 "Arena Sport"
 ],
+"IQ": [
+"beIN Sports MENA 7"
+],
 "IT": [
 "Sky Sport"
+],
+"JO": [
+"beIN Sports MENA 7"
 ],
 "JP": [
 "WOWOWオンデマンド",
@@ -34651,6 +34733,12 @@
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"beIN Sports MENA 7"
+],
+"LY": [
+"beIN Sports MENA 7"
 ],
 "MA": [
 "beIN CONNECT"
@@ -34668,11 +34756,23 @@
 "NZ": [
 "DAZN New Zealand"
 ],
+"OM": [
+"beIN Sports MENA 7"
+],
 "PE": [
 "Disney+ Premium"
 ],
 "PY": [
 "Disney+ Premium"
+],
+"QA": [
+"beIN Sports MENA 7"
+],
+"SA": [
+"beIN Sports MENA 7"
+],
+"TN": [
+"beIN Sports MENA 7"
 ],
 "TR": [
 "tabii"
@@ -37386,6 +37486,9 @@
 "BE": [
 "Play Sports"
 ],
+"BH": [
+"TOD TV"
+],
 "BR": [
 "CazeTV"
 ],
@@ -37448,6 +37551,9 @@
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"TOD TV"
 ],
 "LY": [
 "beIN Sports"
@@ -37937,6 +38043,9 @@
 "BE": [
 "Play Sports"
 ],
+"BH": [
+"beIN Sports MENA 9"
+],
 "BR": [
 "CazeTV"
 ],
@@ -38002,6 +38111,9 @@
 ],
 "KR": [
 "SPOTV NOW"
+],
+"KW": [
+"beIN Sports MENA 9"
 ],
 "LY": [
 "beIN Sports"
