@@ -528,14 +528,6 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://sportstvtoday.com/ar/about/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://sportstvtoday.com/about/"/>
   </url>
-  <url><loc>https://sportstvtoday.com/es/partido/cong-an-ha-noi-vissel-kobe-2026-11-24/</loc>
-  </url>
-  <url><loc>https://sportstvtoday.com/es/partido/ratchaburi-fc-johor-darul-ta-zim-2026-11-24/</loc>
-  </url>
-  <url><loc>https://sportstvtoday.com/es/partido/shanghai-port-buriram-united-2026-11-24/</loc>
-  </url>
-  <url><loc>https://sportstvtoday.com/es/partido/shabab-al-ahli-dubai-fc-al-qadsiah-2026-11-24/</loc>
-  </url>
   <url><loc>https://sportstvtoday.com/es/partido/bodo-glimt-lask-2026-11-24/</loc>
     <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/bodo-glimt-lask-2026-11-24/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/bodo-glimt-lask-2026-11-24/"/>
@@ -1163,10 +1155,16 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/fc-heidenheim-1-fc-nurnberg-2026-11-27/"/>
   </url>
   <url><loc>https://sportstvtoday.com/fr/match/al-ittihad-neom-sc-2026-11-27/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/al-ittihad-neom-sc-2026-11-27/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/al-ittihad-neom-sc-2026-11-27/"/>
   </url>
   <url><loc>https://sportstvtoday.com/fr/match/fc-heidenheim-1-fc-nurnberg-2026-11-27/</loc>
     <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/fc-heidenheim-1-fc-nurnberg-2026-11-27/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/fc-heidenheim-1-fc-nurnberg-2026-11-27/"/>
+  </url>
+  <url><loc>https://sportstvtoday.com/es/partido/al-ittihad-neom-sc-2026-11-27/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sportstvtoday.com/es/partido/al-ittihad-neom-sc-2026-11-27/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sportstvtoday.com/fr/match/al-ittihad-neom-sc-2026-11-27/"/>
   </url>
   <url><loc>https://sportstvtoday.com/es/partido/delfin-orense-sc-2026-11-27/</loc>
   </url>

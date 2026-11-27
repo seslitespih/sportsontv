@@ -6980,73 +6980,6 @@
 },
 "slug": "como-aek-athens-2026-11-24"
 },
-"es:football-20261124-cong-an-ha-noi-vissel-kobe": {
-"lang": "es",
-"m": {
-"away": "Vissel Kobe",
-"awayNames": {
-"ar": "Vissel Kobe",
-"de": "Vissel Kobe",
-"en": "Vissel Kobe",
-"es": "Vissel Kobe",
-"fr": "Vissel Kobe",
-"it": "Vissel Kobe",
-"pt": "Vissel Kobe",
-"tr": "Vissel Kobe"
-},
-"broadcasts": {
-"BR": [
-"Disney+ Premium"
-],
-"ES": [
-"The AFC Hub YouTube"
-],
-"HR": [
-"Sportklub 1 Croatia"
-],
-"JP": [
-"DAZN"
-],
-"MA": [
-"beIN Sports 3",
-"beIN Sports English 2"
-],
-"PT": [
-"Canal 11"
-]
-},
-"competition": {
-"ar": "دوري أبطال آسيا للنخبة",
-"de": "AFC Champions League Elite",
-"en": "AFC Champions League Elite",
-"es": "Liga de Campeones de la AFC Elite",
-"fr": "Ligue des champions de l'AFC Elite",
-"it": "AFC Champions League Elite",
-"pt": "Liga dos Campeões da AFC Elite",
-"tr": "AFC Şampiyonlar Ligi Elit"
-},
-"competitionId": "afc_cl",
-"home": "Cong An Ha Noi",
-"homeNames": {
-"ar": "Công An Hà Nội",
-"de": "Công An Hà Nội",
-"en": "Công An Hà Nội",
-"es": "Công An Hà Nội",
-"fr": "Công An Hà Nội",
-"it": "Công An Hà Nội",
-"pt": "Công An Hà Nội",
-"tr": "Công An Hà Nội"
-},
-"id": "football-20261124-cong-an-ha-noi-vissel-kobe",
-"kickoffUtc": "2026-11-24T12:15:00Z",
-"sources": [
-"fotmob"
-],
-"sport": "football",
-"tier": "global"
-},
-"slug": "cong-an-ha-noi-vissel-kobe-2026-11-24"
-},
 "es:football-20261124-feyenoord-porto": {
 "lang": "es",
 "m": {
@@ -7927,69 +7860,6 @@
 },
 "slug": "palermo-sudtirol-2026-11-24"
 },
-"es:football-20261124-ratchaburi-fc-johor-darul-ta-zim": {
-"lang": "es",
-"m": {
-"away": "Johor Darul Ta'zim",
-"awayNames": {
-"ar": "Johor Darul Ta'zim",
-"de": "Johor Darul Ta'zim",
-"en": "Johor Darul Ta'zim",
-"es": "Johor Darul Ta'zim",
-"fr": "Johor Darul Ta'zim",
-"it": "Johor Darul Ta'zim",
-"pt": "Johor Darul Ta'zim",
-"tr": "Johor Darul Ta'zim"
-},
-"broadcasts": {
-"BR": [
-"Disney+ Premium"
-],
-"ES": [
-"The AFC Hub YouTube"
-],
-"HR": [
-"Sport Klub 3 HR"
-],
-"JP": [
-"DAZN"
-],
-"MA": [
-"beIN Sports 4"
-]
-},
-"competition": {
-"ar": "دوري أبطال آسيا للنخبة",
-"de": "AFC Champions League Elite",
-"en": "AFC Champions League Elite",
-"es": "Liga de Campeones de la AFC Elite",
-"fr": "Ligue des champions de l'AFC Elite",
-"it": "AFC Champions League Elite",
-"pt": "Liga dos Campeões da AFC Elite",
-"tr": "AFC Şampiyonlar Ligi Elit"
-},
-"competitionId": "afc_cl",
-"home": "Ratchaburi FC",
-"homeNames": {
-"ar": "Ratchaburi FC",
-"de": "Ratchaburi FC",
-"en": "Ratchaburi FC",
-"es": "Ratchaburi FC",
-"fr": "Ratchaburi FC",
-"it": "Ratchaburi FC",
-"pt": "Ratchaburi FC",
-"tr": "Ratchaburi FC"
-},
-"id": "football-20261124-ratchaburi-fc-johor-darul-ta-zim",
-"kickoffUtc": "2026-11-24T12:15:00Z",
-"sources": [
-"fotmob"
-],
-"sport": "football",
-"tier": "global"
-},
-"slug": "ratchaburi-fc-johor-darul-ta-zim-2026-11-24"
-},
 "es:football-20261124-rb-leipzig-lens": {
 "lang": "es",
 "m": {
@@ -8432,211 +8302,6 @@
 "tier": "global"
 },
 "slug": "real-madrid-psv-eindhoven-2026-11-24"
-},
-"es:football-20261124-shabab-al-ahli-dubai-fc-al-qadsiah": {
-"lang": "es",
-"m": {
-"away": "Al Qadsiah",
-"awayNames": {
-"ar": "القادسية",
-"de": "Al Qadsiah",
-"en": "Al Qadsiah",
-"es": "Al Qadsiah",
-"fr": "Al Qadsiah",
-"it": "Al Qadsiah",
-"pt": "Al Qadsiah",
-"tr": "Al Qadsiah"
-},
-"broadcasts": {
-"AE": [
-"beIN Sports MENA 2"
-],
-"AR": [
-"Disney+ Premium"
-],
-"AT": [
-"Sportdigital+ App",
-"Sportdigital1+",
-"Sportdigital.de"
-],
-"BH": [
-"beIN Sports MENA 2"
-],
-"BR": [
-"Disney+ Premium"
-],
-"CH": [
-"Blue Sport 10 Live",
-"Blue Sport 1 Live",
-"Sportdigital1+",
-"Blue Sport 1 Direct"
-],
-"CL": [
-"Disney+ Premium"
-],
-"CO": [
-"Disney+ Premium"
-],
-"DE": [
-"Sportdigital+",
-"Sportdigital1+"
-],
-"DZ": [
-"beIN Sports MENA 2"
-],
-"EC": [
-"Disney+ Premium"
-],
-"EG": [
-"beIN Sports MENA 2"
-],
-"ES": [
-"The AFC Hub YouTube"
-],
-"IQ": [
-"beIN Sports MENA 2"
-],
-"JO": [
-"beIN Sports MENA 2"
-],
-"JP": [
-"DAZN"
-],
-"KW": [
-"beIN Sports MENA 2"
-],
-"LY": [
-"beIN Sports MENA 2"
-],
-"MA": [
-"beIN Sports 2"
-],
-"MX": [
-"ESPN",
-"Disney+ Premium"
-],
-"NL": [
-"ESPN 2 NL",
-"ESPN Watch NL"
-],
-"OM": [
-"beIN Sports MENA 2"
-],
-"PE": [
-"Disney+ Premium"
-],
-"PY": [
-"Disney+ Premium"
-],
-"QA": [
-"beIN Sports MENA 2",
-"ALKASS Six"
-],
-"SA": [
-"beIN Sports MENA 2"
-],
-"TN": [
-"beIN Sports MENA 2"
-],
-"UY": [
-"Disney+ Premium"
-]
-},
-"competition": {
-"ar": "دوري أبطال آسيا للنخبة",
-"de": "AFC Champions League Elite",
-"en": "AFC Champions League Elite",
-"es": "Liga de Campeones de la AFC Elite",
-"fr": "Ligue des champions de l'AFC Elite",
-"it": "AFC Champions League Elite",
-"pt": "Liga dos Campeões da AFC Elite",
-"tr": "AFC Şampiyonlar Ligi Elit"
-},
-"competitionId": "afc_cl",
-"home": "Shabab Al-Ahli Dubai FC",
-"homeNames": {
-"ar": "Shabab Al-Ahli Dubai FC",
-"de": "Shabab Al-Ahli Dubai FC",
-"en": "Shabab Al-Ahli Dubai FC",
-"es": "Shabab Al-Ahli Dubai FC",
-"fr": "Shabab Al-Ahli Dubai FC",
-"it": "Shabab Al-Ahli Dubai FC",
-"pt": "Shabab Al-Ahli Dubai FC",
-"tr": "Shabab Al-Ahli Dubai FC"
-},
-"id": "football-20261124-shabab-al-ahli-dubai-fc-al-qadsiah",
-"kickoffUtc": "2026-11-24T16:00:00Z",
-"sources": [
-"fotmob"
-],
-"sport": "football",
-"tier": "global"
-},
-"slug": "shabab-al-ahli-dubai-fc-al-qadsiah-2026-11-24"
-},
-"es:football-20261124-shanghai-port-buriram-united": {
-"lang": "es",
-"m": {
-"away": "Buriram United",
-"awayNames": {
-"ar": "Buriram United",
-"de": "Buriram United",
-"en": "Buriram United",
-"es": "Buriram United",
-"fr": "Buriram United",
-"it": "Buriram United",
-"pt": "Buriram United",
-"tr": "Buriram United"
-},
-"broadcasts": {
-"BR": [
-"Disney+ Premium"
-],
-"ES": [
-"The AFC Hub YouTube"
-],
-"HR": [
-"Sportklub 2 Croatia"
-],
-"JP": [
-"DAZN"
-],
-"MA": [
-"beIN Sports 2",
-"beIN Sports English"
-]
-},
-"competition": {
-"ar": "دوري أبطال آسيا للنخبة",
-"de": "AFC Champions League Elite",
-"en": "AFC Champions League Elite",
-"es": "Liga de Campeones de la AFC Elite",
-"fr": "Ligue des champions de l'AFC Elite",
-"it": "AFC Champions League Elite",
-"pt": "Liga dos Campeões da AFC Elite",
-"tr": "AFC Şampiyonlar Ligi Elit"
-},
-"competitionId": "afc_cl",
-"home": "Shanghai Port",
-"homeNames": {
-"ar": "Shanghai Port",
-"de": "Shanghai Port",
-"en": "Shanghai Port",
-"es": "Shanghai Port",
-"fr": "Shanghai Port",
-"it": "Shanghai Port",
-"pt": "Shanghai Port",
-"tr": "Shanghai Port"
-},
-"id": "football-20261124-shanghai-port-buriram-united",
-"kickoffUtc": "2026-11-24T12:15:00Z",
-"sources": [
-"fotmob"
-],
-"sport": "football",
-"tier": "global"
-},
-"slug": "shanghai-port-buriram-united-2026-11-24"
 },
 "es:football-20261124-slovan-bratislava-betis": {
 "lang": "es",
@@ -18935,6 +18600,170 @@
 },
 "slug": "viktoria-plzen-benfica-2026-11-26"
 },
+"es:football-20261127-al-ittihad-neom": {
+"lang": "es",
+"m": {
+"away": "Neom",
+"awayNames": {
+"ar": "نيوم",
+"de": "Neom SC",
+"en": "Neom SC",
+"es": "Neom SC",
+"fr": "Neom SC",
+"it": "Neom SC",
+"pt": "Neom SC",
+"tr": "Neom"
+},
+"broadcasts": {
+"AE": [
+"Thmanyah"
+],
+"AR": [
+"OneFootball",
+"Somos FOX YouTube"
+],
+"AT": [
+"Sportdigital Fussball 2",
+"Sportdigital+ App",
+"Sportdigital.de"
+],
+"AU": [
+"OneFootball PPV"
+],
+"BH": [
+"Thmanyah"
+],
+"BR": [
+"Canal GOAT",
+"BandSports",
+"OneFootball",
+"Xsports"
+],
+"CH": [
+"Sportdigital Fussball 2",
+"SI Solocalcio"
+],
+"CL": [
+"OneFootball",
+"Somos FOX YouTube"
+],
+"CO": [
+"OneFootball",
+"Somos FOX YouTube"
+],
+"DE": [
+"Sportdigital FUSSBALL2",
+"Sportdigital+"
+],
+"DZ": [
+"Thmanyah"
+],
+"EC": [
+"OneFootball"
+],
+"EG": [
+"Thmanyah"
+],
+"ES": [
+"OneFootball"
+],
+"FR": [
+"DAZN"
+],
+"HR": [
+"MAXtv To Go"
+],
+"IQ": [
+"Thmanyah"
+],
+"JO": [
+"Thmanyah"
+],
+"JP": [
+"OneFootball"
+],
+"KW": [
+"Thmanyah"
+],
+"LY": [
+"Thmanyah"
+],
+"MA": [
+"Thmanyah"
+],
+"MX": [
+"FOX One",
+"FOX+"
+],
+"OM": [
+"Thmanyah"
+],
+"PE": [
+"OneFootball",
+"Somos FOX YouTube"
+],
+"PT": [
+"Sport TV 1"
+],
+"PY": [
+"OneFootball",
+"Somos FOX YouTube"
+],
+"QA": [
+"Thmanyah"
+],
+"SA": [
+"Thmanyah"
+],
+"TN": [
+"Thmanyah"
+],
+"TR": [
+"S Sport"
+],
+"US": [
+"FOX Deportes",
+"Fox Sports online",
+"FOX One"
+],
+"UY": [
+"OneFootball",
+"Somos FOX YouTube"
+]
+},
+"competition": {
+"ar": "دوري روشن السعودي",
+"de": "Saudi Pro League",
+"en": "Saudi Pro League",
+"es": "Liga Profesional Saudí",
+"fr": "Saudi Pro League",
+"it": "Saudi Pro League",
+"pt": "Liga Saudita",
+"tr": "Suudi Pro Lig"
+},
+"competitionId": "saudi_pl",
+"home": "Al Ittihad",
+"homeNames": {
+"ar": "الاتحاد",
+"de": "Al-Ittihad",
+"en": "Al Ittihad",
+"es": "Al Ittihad",
+"fr": "Al-Ittihad",
+"it": "Al Ittihad",
+"pt": "Al-Ittihad",
+"tr": "Al Ittihad"
+},
+"id": "football-20261127-al-ittihad-neom",
+"kickoffUtc": "2026-11-27T17:30:00Z",
+"sources": [
+"fotmob",
+"kooora"
+],
+"sport": "football",
+"tier": "global"
+},
+"slug": "al-ittihad-neom-sc-2026-11-27"
+},
 "es:football-20261127-al-kholood-al-khaleej": {
 "lang": "es",
 "m": {
@@ -19100,6 +18929,9 @@
 "AE": [
 "Thmanyah"
 ],
+"AR": [
+"Somos FOX YouTube"
+],
 "AT": [
 "DAZN"
 ],
@@ -19116,6 +18948,12 @@
 ],
 "CH": [
 "DAZN"
+],
+"CL": [
+"Somos FOX YouTube"
+],
+"CO": [
+"Somos FOX YouTube"
 ],
 "DE": [
 "DAZN"
@@ -19156,6 +18994,12 @@
 "OM": [
 "Thmanyah"
 ],
+"PE": [
+"Somos FOX YouTube"
+],
+"PY": [
+"Somos FOX YouTube"
+],
 "QA": [
 "Thmanyah"
 ],
@@ -19173,6 +19017,9 @@
 "FOX Deportes",
 "Fox Sports online",
 "FOX One"
+],
+"UY": [
+"Somos FOX YouTube"
 ]
 },
 "competition": {
@@ -19229,6 +19076,9 @@
 ],
 "AR": [
 "Disney+ Premium"
+],
+"AT": [
+"DAZN"
 ],
 "BE": [
 "DAZN (BE)"
@@ -19880,6 +19730,9 @@
 "NG": [
 "Sporty TV"
 ],
+"NZ": [
+"beIN Sports Connect New Zealand"
+],
 "TR": [
 "S Sport"
 ],
@@ -20061,6 +19914,9 @@
 "TV 2 Sport 1",
 "Viaplay NO",
 "TV 2 Play (NO)"
+],
+"NZ": [
+"beIN Sports Connect New Zealand"
 ],
 "OM": [
 "beIN Sports MENA 3",
@@ -20517,6 +20373,9 @@
 "NO": [
 "VG TV"
 ],
+"NZ": [
+"beIN Sports Connect New Zealand"
+],
 "OM": [
 "beIN Sports"
 ],
@@ -20724,6 +20583,9 @@
 "Viaplay NO",
 "V sport 1 NO",
 "TV 2 Play (NO)"
+],
+"NZ": [
+"beIN Sports Connect New Zealand"
 ],
 "OM": [
 "MBC Shahid",
@@ -37815,6 +37677,10 @@
 "AE": [
 "Thmanyah"
 ],
+"AR": [
+"OneFootball",
+"Somos FOX YouTube"
+],
 "AT": [
 "Sportdigital Fussball 2",
 "Sportdigital+ App",
@@ -37836,6 +37702,14 @@
 "Sportdigital Fussball 2",
 "SI Solocalcio"
 ],
+"CL": [
+"OneFootball",
+"Somos FOX YouTube"
+],
+"CO": [
+"OneFootball",
+"Somos FOX YouTube"
+],
 "DE": [
 "Sportdigital FUSSBALL2",
 "Sportdigital+"
@@ -37843,17 +37717,29 @@
 "DZ": [
 "Thmanyah"
 ],
+"EC": [
+"OneFootball"
+],
 "EG": [
 "Thmanyah"
 ],
+"ES": [
+"OneFootball"
+],
 "FR": [
 "DAZN"
+],
+"HR": [
+"MAXtv To Go"
 ],
 "IQ": [
 "Thmanyah"
 ],
 "JO": [
 "Thmanyah"
+],
+"JP": [
+"OneFootball"
 ],
 "KW": [
 "Thmanyah"
@@ -37871,8 +37757,16 @@
 "OM": [
 "Thmanyah"
 ],
+"PE": [
+"OneFootball",
+"Somos FOX YouTube"
+],
 "PT": [
 "Sport TV 1"
+],
+"PY": [
+"OneFootball",
+"Somos FOX YouTube"
 ],
 "QA": [
 "Thmanyah"
@@ -37890,6 +37784,10 @@
 "FOX Deportes",
 "Fox Sports online",
 "FOX One"
+],
+"UY": [
+"OneFootball",
+"Somos FOX YouTube"
 ]
 },
 "competition": {
@@ -38090,6 +37988,9 @@
 "AE": [
 "Thmanyah"
 ],
+"AR": [
+"Somos FOX YouTube"
+],
 "AT": [
 "DAZN"
 ],
@@ -38106,6 +38007,12 @@
 ],
 "CH": [
 "DAZN"
+],
+"CL": [
+"Somos FOX YouTube"
+],
+"CO": [
+"Somos FOX YouTube"
 ],
 "DE": [
 "DAZN"
@@ -38146,6 +38053,12 @@
 "OM": [
 "Thmanyah"
 ],
+"PE": [
+"Somos FOX YouTube"
+],
+"PY": [
+"Somos FOX YouTube"
+],
 "QA": [
 "Thmanyah"
 ],
@@ -38163,6 +38076,9 @@
 "FOX Deportes",
 "Fox Sports online",
 "FOX One"
+],
+"UY": [
+"Somos FOX YouTube"
 ]
 },
 "competition": {
@@ -38273,6 +38189,9 @@
 "NG": [
 "ESPN Africa"
 ],
+"NZ": [
+"beIN Sports Connect New Zealand"
+],
 "OM": [
 "beIN Sports MENA 2",
 "TOD TV",
@@ -38361,6 +38280,9 @@
 ],
 "AR": [
 "Disney+ Premium"
+],
+"AT": [
+"DAZN"
 ],
 "BE": [
 "DAZN (BE)"
@@ -38803,6 +38725,9 @@
 "TV 2 Sport 1",
 "Viaplay NO",
 "TV 2 Play (NO)"
+],
+"NZ": [
+"beIN Sports Connect New Zealand"
 ],
 "OM": [
 "beIN Sports MENA 3",
@@ -39307,6 +39232,9 @@
 "V sport 2 NO",
 "Viaplay NO"
 ],
+"NZ": [
+"beIN Sports Connect New Zealand"
+],
 "OM": [
 "beIN Sports MENA 4",
 "TOD TV"
@@ -39508,6 +39436,9 @@
 ],
 "NO": [
 "VG TV"
+],
+"NZ": [
+"beIN Sports Connect New Zealand"
 ],
 "OM": [
 "beIN Sports"
@@ -39716,6 +39647,9 @@
 "Viaplay NO",
 "V sport 1 NO",
 "TV 2 Play (NO)"
+],
+"NZ": [
+"beIN Sports Connect New Zealand"
 ],
 "OM": [
 "MBC Shahid",
